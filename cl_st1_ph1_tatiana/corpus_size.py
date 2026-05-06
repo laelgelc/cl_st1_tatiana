@@ -1,121 +1,104 @@
 #!/usr/bin/env python3
+"""
+Compute simple corpus size statistics for corpus/03_label_types.
+
+- Assumes each .txt file in corpus/03_label_types contains one label per non-empty line.
+- Counts:
+  - Number of files.
+  - Number of labels (lines) overall.
+  - Optionally: counts per "season" bucket derived from filename (tweet ID).
+
+Output:
+  corpus_size/corpus_size.tsv
+"""
+
+from __future__ import annotations
+
 import re
 from pathlib import Path
 from collections import defaultdict
 
 # --- CONFIGURATION ---
-CORPUS_ROOT = Path('corpus/07_tagged')
-VALID_LINE_PATTERN = re.compile(r'^[A-Za-z]')
+CORPUS_ROOT = Path("corpus/03_label_types")
+
+# Example "season" extraction: use the middle numeric block in tweet IDs like
+# tweet_000002_000001.txt -> season = "000002".
+SEASON_PATTERN = re.compile(r"^tweet_(\d{6})_\d{6}$")
 
 # --- GLOBAL COUNTERS ---
 total_files = 0
-total_words = 0
+total_labels = 0
 
-# By source (human vs ai)
-file_counts_source = defaultdict(int)
-word_counts_source = defaultdict(int)
-
-# By model (gemma, gpt, qwen, etc)
-file_counts_model = defaultdict(int)
-word_counts_model = defaultdict(int)
-
-# By season (derived from filename)
-file_counts_season = defaultdict(int)
-word_counts_season = defaultdict(int)
-
-# By source + model
-file_counts_source_model = defaultdict(lambda: defaultdict(int))
-word_counts_source_model = defaultdict(lambda: defaultdict(int))
+# By season (optional)
+file_counts_season: dict[str, int] = defaultdict(int)
+label_counts_season: dict[str, int] = defaultdict(int)
 
 
-# -------------------------------------------------
 def extract_season(filename_stem: str) -> str:
     """
-    Extracts season = 2nd and 3rd digits of filename stem.
-    Example: a0712_xxx -> season = "07"
+    Extract a "season" bucket from the tweet filename stem.
+
+    For names like 'tweet_000002_000001', returns '000002'.
+    If the pattern does not match, returns 'unknown'.
     """
-    if len(filename_stem) >= 3 and filename_stem[1].isdigit() and filename_stem[2].isdigit():
-        return filename_stem[1:3]
+    m = SEASON_PATTERN.match(filename_stem)
+    if m:
+        return m.group(1)
     return "unknown"
 
 
-# -------------------------------------------------
-def process_file(path: Path, source: str, model: str, season: str):
-    global total_files, total_words
+def process_file(path: Path) -> None:
+    """Count labels in a single label-types file."""
+    global total_files, total_labels
 
-    # File counter
-    file_counts_source[source] += 1
-    file_counts_model[model] += 1
-    file_counts_season[season] += 1
-    file_counts_source_model[source][model] += 1
     total_files += 1
+    season = extract_season(path.stem)
 
-    # Word counting
-    words = 0
-    with path.open(encoding='utf-8') as f:
+    labels = 0
+    with path.open(encoding="utf-8") as f:
         for line in f:
-            if VALID_LINE_PATTERN.match(line):
-                words += len(line.split())
+            if line.strip():
+                labels += 1
 
-    # Word counters
-    word_counts_source[source] += words
-    word_counts_model[model] += words
-    word_counts_season[season] += words
-    word_counts_source_model[source][model] += words
-    total_words += words
+    total_labels += labels
+    file_counts_season[season] += 1
+    label_counts_season[season] += labels
 
 
-# -------------------------------------------------
-# WALK THE CORPUS
-for txt in CORPUS_ROOT.rglob("*.txt"):
-    model_folder = txt.parent.name  # e.g., "gemma", "human", "gpt"
+def main() -> int:
+    if not CORPUS_ROOT.exists():
+        print(f"Error: corpus root does not exist: {CORPUS_ROOT}")
+        return 1
+    if not CORPUS_ROOT.is_dir():
+        print(f"Error: corpus root is not a directory: {CORPUS_ROOT}")
+        return 1
 
-    # SOURCE
-    source = "human" if model_folder == "human" else "ai"
+    txt_files = sorted(p for p in CORPUS_ROOT.iterdir() if p.is_file() and p.suffix == ".txt")
+    if not txt_files:
+        print(f"Error: no .txt files found in {CORPUS_ROOT}")
+        return 1
 
-    # MODEL
-    model = model_folder
+    for txt in txt_files:
+        process_file(txt)
 
-    # SEASON (from filename stem)
-    season = extract_season(txt.stem)
+    out_dir = Path("corpus_size")
+    out_dir.mkdir(exist_ok=True)
+    out = out_dir / "corpus_size.tsv"
 
-    process_file(txt, source, model, season)
+    with out.open("w", encoding="utf-8") as f:
+        f.write("Strata\tFile Count\tLabel Count\n")
+
+        # by season
+        for ss in sorted(file_counts_season):
+            f.write(f"{ss}\t{file_counts_season[ss]}\t{label_counts_season[ss]}\n")
+        f.write("\n")
+
+        # overall
+        f.write(f"overall\t{total_files}\t{total_labels}\n")
+
+    print(f"Corpus sizes saved to {out}")
+    return 0
 
 
-# -------------------------------------------------
-# WRITE OUT TSV
-out_dir = Path('corpus_size')
-out_dir.mkdir(exist_ok=True)
-out = out_dir / 'corpus_size.tsv'
-
-with out.open('w', encoding='utf-8') as f:
-    f.write("Strata\tText Count\tWord Count\n")
-
-    # by source
-    for src in sorted(file_counts_source):
-        f.write(f"{src}\t{file_counts_source[src]}\t{word_counts_source[src]}\n")
-    f.write("\n")
-
-    # by model
-    for mdl in sorted(file_counts_model):
-        f.write(f"{mdl}\t{file_counts_model[mdl]}\t{word_counts_model[mdl]}\n")
-    f.write("\n")
-
-    # by source/model combined
-    f.write("# Source/Model breakdown\n")
-    for src in sorted(file_counts_source_model):
-        for mdl in sorted(file_counts_source_model[src]):
-            f.write(f"{src}/{mdl}\t"
-                    f"{file_counts_source_model[src][mdl]}\t"
-                    f"{word_counts_source_model[src][mdl]}\n")
-    f.write("\n")
-
-    # by season
-    for ss in sorted(file_counts_season):
-        f.write(f"{ss}\t{file_counts_season[ss]}\t{word_counts_season[ss]}\n")
-    f.write("\n")
-
-    # overall
-    f.write(f"overall\t{total_files}\t{total_words}\n")
-
-print(f"Corpus sizes saved to {out}")
+if __name__ == "__main__":
+    raise SystemExit(main())

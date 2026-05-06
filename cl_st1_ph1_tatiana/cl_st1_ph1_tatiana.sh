@@ -36,3 +36,5 @@ python factor_lists.py
 python corpus_size.py
 # Output: corpus_size/corpus_size.tsv
 
+python examples.py
+# Output: examples (LaTeX format)
