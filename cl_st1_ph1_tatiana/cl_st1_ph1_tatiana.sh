@@ -17,3 +17,7 @@ python top_labels.py \
     --input-dir corpus/03_label_types \
     --output-dir corpus/04_top_labels
 
+rm -rf columns columns_clean
+python columns.py
+# Output: columns, columns_clean, file_ids.txt, index_keywords.txt
+
