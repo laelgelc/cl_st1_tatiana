@@ -68,7 +68,7 @@ EXAMPLES_DIR = Path("examples")
 EXAMPLES_DIR.mkdir(exist_ok=True)
 
 # Number of examples per pole
-TOP_N_PER_POLE = 20
+TOP_N_PER_POLE = 40
 
 # =============================================================================
 # HELPER FUNCTIONS
