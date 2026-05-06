@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5482424,
+          "topicality": 0.0019758982
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5264783,
+          "topicality": 0.005941089
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5185608,
+          "topicality": 0.00916401
+        }
+      ]
+    }
+  ]
+}

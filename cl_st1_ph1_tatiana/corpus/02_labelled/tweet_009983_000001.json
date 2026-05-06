@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7880293,
+          "topicality": 0.0011090777
+        },
+        {
+          "mid": "/m/0203vw",
+          "description": "Energy drink",
+          "score": 0.68237597,
+          "topicality": 0.17356427
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6621906,
+          "topicality": 0.015749892
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.54051644,
+          "topicality": 0.00011241921
+        }
+      ]
+    }
+  ]
+}

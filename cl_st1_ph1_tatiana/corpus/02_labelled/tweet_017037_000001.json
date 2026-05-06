@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.843097,
+          "topicality": 0.009561949
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.7363896,
+          "topicality": 0.0006688524
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.5872702,
+          "topicality": 2.8588658e-05
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.5620979,
+          "topicality": 0.014718957
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5483453,
+          "topicality": 0.0016824575
+        },
+        {
+          "mid": "/m/0bhmh",
+          "description": "Telephony",
+          "score": 0.5449723,
+          "topicality": 0.004090025
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5199816,
+          "topicality": 0.0010146479
+        }
+      ]
+    }
+  ]
+}

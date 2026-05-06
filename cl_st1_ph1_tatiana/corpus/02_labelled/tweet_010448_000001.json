@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03thgk",
+          "description": "Silhouette",
+          "score": 0.85960233,
+          "topicality": 0.019582681
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.6822284,
+          "topicality": 0.13805655
+        },
+        {
+          "mid": "/m/04mx32",
+          "description": "Evening",
+          "score": 0.6329016,
+          "topicality": 0.0115192495
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.6180209,
+          "topicality": 0.0003178855
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.6003092,
+          "topicality": 0.0065599354
+        },
+        {
+          "mid": "/m/09cjl",
+          "description": "Airport",
+          "score": 0.54947937,
+          "topicality": 0.6131055
+        },
+        {
+          "mid": "/m/026smn",
+          "description": "Airport terminal",
+          "score": 0.510317,
+          "topicality": 0.38000494
+        }
+      ]
+    }
+  ]
+}

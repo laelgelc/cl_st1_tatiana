@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8245323,
+          "topicality": 0.008045182
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6148521,
+          "topicality": 0.0009923312
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5677128,
+          "topicality": 0.0011270408
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5327898,
+          "topicality": 0.016188521
+        }
+      ]
+    }
+  ]
+}

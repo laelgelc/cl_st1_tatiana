@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03vtbc",
+          "description": "Silver",
+          "score": 0.82548946,
+          "topicality": 0.0024634227
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.60715824,
+          "topicality": 0.04220298
+        },
+        {
+          "mid": "/m/027vj2v",
+          "description": "Aluminium",
+          "score": 0.5295645,
+          "topicality": 0.08413415
+        },
+        {
+          "mid": "/m/025s4r7",
+          "description": "Nickel",
+          "score": 0.5142728,
+          "topicality": 0.007978957
+        }
+      ]
+    }
+  ]
+}

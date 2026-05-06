@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8832647,
+          "topicality": 0.043007772
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8249636,
+          "topicality": 0.03684574
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.743476,
+          "topicality": 0.021832364
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.5609343,
+          "topicality": 0.012650723
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.52598065,
+          "topicality": 0.023305422
+        }
+      ]
+    }
+  ]
+}

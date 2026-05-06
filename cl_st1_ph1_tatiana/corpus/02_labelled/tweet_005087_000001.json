@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.69550914,
+          "topicality": 0.0033265338
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.6645384,
+          "topicality": 0.0005281544
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.6435254,
+          "topicality": 0.0061560865
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5326979,
+          "topicality": 0.0013179345
+        },
+        {
+          "mid": "/m/01d743",
+          "description": "Package delivery",
+          "score": 0.51051843,
+          "topicality": 0.04016919
+        }
+      ]
+    }
+  ]
+}

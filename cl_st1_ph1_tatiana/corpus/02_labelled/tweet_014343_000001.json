@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09jfs",
+          "description": "Uniform",
+          "score": 0.8581814,
+          "topicality": 0.046841066
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7057358,
+          "topicality": 0.0045159794
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7041726,
+          "topicality": 0.09614432
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.62850106,
+          "topicality": 0.120697565
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.62711406,
+          "topicality": 0.00036738915
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.57969064,
+          "topicality": 0.33659828
+        }
+      ]
+    }
+  ]
+}

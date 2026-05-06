@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnq0",
+          "description": "Pollen",
+          "score": 0.62598336,
+          "topicality": 0.0030359928
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6038316,
+          "topicality": 0.14264037
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.583978,
+          "topicality": 0.00039507254
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5738612,
+          "topicality": 0.0014929515
+        }
+      ]
+    }
+  ]
+}

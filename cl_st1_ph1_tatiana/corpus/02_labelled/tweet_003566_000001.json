@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07bsy",
+          "description": "Transport",
+          "score": 0.9726449,
+          "topicality": 0.22794549
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.9678153,
+          "topicality": 0.6440708
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.95726997,
+          "topicality": 0.268995
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.9031695,
+          "topicality": 0.00095482595
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.8988064,
+          "topicality": 0.16142526
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.8863018,
+          "topicality": 0.03808217
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5543082,
+          "topicality": 0.0049237767
+        }
+      ]
+    }
+  ]
+}

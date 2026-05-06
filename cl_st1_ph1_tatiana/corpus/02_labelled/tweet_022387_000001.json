@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6510339,
+          "topicality": 0.042629108
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.58024174,
+          "topicality": 7.137074e-05
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.56355083,
+          "topicality": 0.096090004
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5424061,
+          "topicality": 0.004385937
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.54047555,
+          "topicality": 0.00034901258
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.529723,
+          "topicality": 0.00018228104
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.52907914,
+          "topicality": 0.0012288995
+        }
+      ]
+    }
+  ]
+}

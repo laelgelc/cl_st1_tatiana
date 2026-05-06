@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.886651,
+          "topicality": 0.005258015
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.82351184,
+          "topicality": 0.0030134874
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.80601484,
+          "topicality": 0.08768819
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7943269,
+          "topicality": 0.002350152
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7358802,
+          "topicality": 0.017466813
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.73085123,
+          "topicality": 2.0209418e-05
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.64040715,
+          "topicality": 0.0068882657
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.60983026,
+          "topicality": 6.425064e-05
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6055878,
+          "topicality": 0.15192871
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.60111564,
+          "topicality": 0.04164151
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.58873874,
+          "topicality": 0.0058610095
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.58732724,
+          "topicality": 0.18997903
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.69650835,
+          "topicality": 0.0008767432
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.5881135,
+          "topicality": 0.0028617715
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.58263475,
+          "topicality": 0.13458806
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5374304,
+          "topicality": 0.016713586
+        },
+        {
+          "mid": "/m/0151nd",
+          "description": "Balaclava",
+          "score": 0.51607907,
+          "topicality": 0.0021566965
+        }
+      ]
+    }
+  ]
+}

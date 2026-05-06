@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.8805113,
+          "topicality": 0.025298135
+        },
+        {
+          "mid": "/m/03154",
+          "description": "Fungus",
+          "score": 0.5562471,
+          "topicality": 0.01270221
+        },
+        {
+          "mid": "/m/0cxwt",
+          "description": "Fractal art",
+          "score": 0.53337437,
+          "topicality": 0.003169746
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5234232,
+          "topicality": 0.042869717
+        }
+      ]
+    }
+  ]
+}

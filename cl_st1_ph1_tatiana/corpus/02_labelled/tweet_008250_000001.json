@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9595787,
+          "topicality": 0.0060995743
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9510616,
+          "topicality": 0.04713144
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9382881,
+          "topicality": 0.20364642
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.93120104,
+          "topicality": 0.07528684
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.92802763,
+          "topicality": 0.21986835
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9209761,
+          "topicality": 0.002423874
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.84945834,
+          "topicality": 0.0036563014
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.7406976,
+          "topicality": 0.023767127
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.6483122,
+          "topicality": 0.000119961674
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.62496895,
+          "topicality": 0.005137402
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.6107587,
+          "topicality": 6.72579e-05
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.5937002,
+          "topicality": 0.044961303
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.59267217,
+          "topicality": 0.027711987
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5172122,
+          "topicality": 0.012754418
+        }
+      ]
+    }
+  ]
+}

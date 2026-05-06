@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/068jd",
+          "description": "Photograph",
+          "score": 0.9878946,
+          "topicality": 0.0009090434
+        },
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.9742012,
+          "topicality": 0.0010605671
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9722687,
+          "topicality": 0.016371312
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.94440305,
+          "topicality": 0.017457962
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9171437,
+          "topicality": 0.001126657
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.87222385,
+          "topicality": 0.04141951
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.82394296,
+          "topicality": 0.11586115
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.5846978,
+          "topicality": 8.485876e-05
+        },
+        {
+          "mid": "/m/04jjh",
+          "description": "Letter",
+          "score": 0.5006828,
+          "topicality": 0.2519072
+        }
+      ]
+    }
+  ]
+}

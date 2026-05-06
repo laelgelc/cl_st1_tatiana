@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.68467945,
+          "topicality": 0.013547222
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.62006813,
+          "topicality": 0.024838023
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.5989914,
+          "topicality": 0.00018225932
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5468767,
+          "topicality": 0.0026766486
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.50293374,
+          "topicality": 0.01004971
+        }
+      ]
+    }
+  ]
+}

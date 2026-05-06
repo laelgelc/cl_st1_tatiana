@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.91103655,
+          "topicality": 0.025147742
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9041473,
+          "topicality": 0.0011149553
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8560626,
+          "topicality": 0.0016908502
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.82216877,
+          "topicality": 0.000453194
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7593665,
+          "topicality": 0.0018112215
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7297486,
+          "topicality": 0.00073076074
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.67363256,
+          "topicality": 0.028687371
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.665791,
+          "topicality": 0.030562544
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5390562,
+          "topicality": 0.0042946343
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.51250434,
+          "topicality": 0.1438844
+        }
+      ]
+    }
+  ]
+}

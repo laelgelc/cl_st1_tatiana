@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.70538044,
+          "topicality": 0.000579622
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6953229,
+          "topicality": 0.0013862133
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.68863,
+          "topicality": 0.0031050085
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.55909616,
+          "topicality": 0.0004081056
+        }
+      ]
+    }
+  ]
+}

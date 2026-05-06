@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.97004825,
+          "topicality": 0.018236045
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9143825,
+          "topicality": 0.0059033125
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.90033346,
+          "topicality": 0.0023987636
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.86295897,
+          "topicality": 0.005957252
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.82541436,
+          "topicality": 0.05108689
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7988315,
+          "topicality": 0.0001930264
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.77046716,
+          "topicality": 0.14898549
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7549754,
+          "topicality": 0.11404634
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7007227,
+          "topicality": 0.0011532151
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.6935523,
+          "topicality": 0.16758937
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.6274061,
+          "topicality": 0.0179608
+        }
+      ]
+    }
+  ]
+}

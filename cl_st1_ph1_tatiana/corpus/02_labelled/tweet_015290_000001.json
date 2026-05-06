@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.91071934,
+          "topicality": 0.059554495
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7187254,
+          "topicality": 0.0071269344
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5834005,
+          "topicality": 0.0137721775
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5586971,
+          "topicality": 0.03458124
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.550227,
+          "topicality": 0.00067836203
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5161695,
+          "topicality": 0.0007793701
+        }
+      ]
+    }
+  ]
+}

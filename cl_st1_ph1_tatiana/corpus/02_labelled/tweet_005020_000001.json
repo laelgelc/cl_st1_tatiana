@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.94125223,
+          "topicality": 0.0018644348
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8166918,
+          "topicality": 0.02147324
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7683159,
+          "topicality": 0.0056963433
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.50930977,
+          "topicality": 9.549102e-05
+        }
+      ]
+    }
+  ]
+}

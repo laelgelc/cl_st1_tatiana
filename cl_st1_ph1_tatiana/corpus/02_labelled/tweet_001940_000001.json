@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "Clothing",
+          "score": 0.9939404,
+          "topicality": 0.018964997
+        },
+        {
+          "mid": "/m/062581",
+          "description": "Sleeve",
+          "score": 0.98491764,
+          "topicality": 0.003443136
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.9282672,
+          "topicality": 0.14185674
+        },
+        {
+          "mid": "/m/02d46y",
+          "description": "Cap",
+          "score": 0.8048978,
+          "topicality": 0.013673198
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.6328858,
+          "topicality": 0.006114935
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.90072477,
+          "topicality": 0.0018327746
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8821938,
+          "topicality": 0.051469944
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7816963,
+          "topicality": 0.0004434178
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7344291,
+          "topicality": 0.12071165
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.66115993,
+          "topicality": 0.00015032728
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5697359,
+          "topicality": 0.029119236
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.5568369,
+          "topicality": 2.0101508e-05
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5212018,
+          "topicality": 1.8343188e-05
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.52067286,
+          "topicality": 0.01768816
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.5191891,
+          "topicality": 0.17229274
+        }
+      ]
+    }
+  ]
+}

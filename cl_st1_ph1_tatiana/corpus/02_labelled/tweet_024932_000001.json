@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/062581",
+          "description": "Sleeve",
+          "score": 0.9854478,
+          "topicality": 0.0020067762
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8991503,
+          "topicality": 0.030872263
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.8715546,
+          "topicality": 0.07227806
+        },
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.8642544,
+          "topicality": 0.03688356
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8265074,
+          "topicality": 0.0037984233
+        },
+        {
+          "mid": "/m/025rhd",
+          "description": "Pocket",
+          "score": 0.78129745,
+          "topicality": 0.029607957
+        },
+        {
+          "mid": "/m/04lzmz",
+          "description": "Strap",
+          "score": 0.7743281,
+          "topicality": 0.01902459
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.76266277,
+          "topicality": 0.013526229
+        },
+        {
+          "mid": "/m/0176mf",
+          "description": "Belt",
+          "score": 0.74384964,
+          "topicality": 0.13524543
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.7049577,
+          "topicality": 0.0016293711
+        },
+        {
+          "mid": "/m/09x8z",
+          "description": "Stomach",
+          "score": 0.5789735,
+          "topicality": 0.021822955
+        },
+        {
+          "mid": "/m/08fs21",
+          "description": "Cuff",
+          "score": 0.503985,
+          "topicality": 0.015985595
+        }
+      ]
+    }
+  ]
+}

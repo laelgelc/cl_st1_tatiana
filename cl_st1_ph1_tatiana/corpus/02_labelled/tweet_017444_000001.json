@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7604116,
+          "topicality": 0.00011555438
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.6821151,
+          "topicality": 0.012397857
+        },
+        {
+          "mid": "/m/02_g0",
+          "description": "Funeral",
+          "score": 0.6760895,
+          "topicality": 0.29489207
+        },
+        {
+          "mid": "/m/0p_66",
+          "description": "Ritual",
+          "score": 0.56465757,
+          "topicality": 0.01328514
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.51965183,
+          "topicality": 0.0025467807
+        }
+      ]
+    }
+  ]
+}

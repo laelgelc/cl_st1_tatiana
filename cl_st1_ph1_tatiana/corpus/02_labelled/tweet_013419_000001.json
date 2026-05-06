@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9445776,
+          "topicality": 0.00010515438
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.93875694,
+          "topicality": 0.0030677358
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.91297823,
+          "topicality": 0.011934121
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6662045,
+          "topicality": 0.0058096033
+        },
+        {
+          "mid": "/m/01ln6f",
+          "description": "Washing",
+          "score": 0.5154654,
+          "topicality": 0.07480988
+        },
+        {
+          "mid": "/m/01zfyk",
+          "description": "Bucket",
+          "score": 0.50451404,
+          "topicality": 0.022040822
+        }
+      ]
+    }
+  ]
+}

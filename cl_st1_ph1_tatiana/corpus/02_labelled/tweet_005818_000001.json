@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.77024496,
+          "topicality": 0.00078937784
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.76033133,
+          "topicality": 0.16288953
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.67118895,
+          "topicality": 0.012800691
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.66624963,
+          "topicality": 0.0030804349
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.6565242,
+          "topicality": 0.0011047749
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.5879128,
+          "topicality": 0.011119887
+        }
+      ]
+    }
+  ]
+}

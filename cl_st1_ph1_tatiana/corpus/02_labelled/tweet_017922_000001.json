@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7565861,
+          "topicality": 0.0003166376
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6042521,
+          "topicality": 0.11586823
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.55385584,
+          "topicality": 0.0003911705
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.52717584,
+          "topicality": 0.035376094
+        }
+      ]
+    }
+  ]
+}

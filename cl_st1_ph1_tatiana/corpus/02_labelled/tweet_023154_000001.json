@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.91832304,
+          "topicality": 0.0049003055
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.83933663,
+          "topicality": 0.20687415
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8371391,
+          "topicality": 0.05466958
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.83409494,
+          "topicality": 0.0042968104
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.8216706,
+          "topicality": 0.037803426
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.81586385,
+          "topicality": 0.0012233246
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7602429,
+          "topicality": 0.0005867543
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.70828813,
+          "topicality": 0.010587241
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.63030726,
+          "topicality": 0.0009468741
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.62784564,
+          "topicality": 0.009662063
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5921213,
+          "topicality": 0.0040423027
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5855059,
+          "topicality": 0.0055792895
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.90622765,
+          "topicality": 0.00061110203
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.7957858,
+          "topicality": 0.1658569
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.74682593,
+          "topicality": 0.0132881785
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6650217,
+          "topicality": 0.0078847585
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.656983,
+          "topicality": 0.14773938
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6351799,
+          "topicality": 0.015652927
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.57090217,
+          "topicality": 0.07818455
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.533124,
+          "topicality": 3.3826732e-06
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.89471453,
+          "topicality": 0.07343352
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.85667646,
+          "topicality": 0.33522224
+        },
+        {
+          "mid": "/m/0crjs",
+          "description": "Convenience store",
+          "score": 0.8403892,
+          "topicality": 0.019670337
+        },
+        {
+          "mid": "/m/0dnkv",
+          "description": "Supermarket",
+          "score": 0.78663874,
+          "topicality": 0.3271431
+        },
+        {
+          "mid": "/m/01jpn4",
+          "description": "Grocery store",
+          "score": 0.6379658,
+          "topicality": 0.08775689
+        },
+        {
+          "mid": "/m/0hhdb",
+          "description": "Shopping",
+          "score": 0.62844104,
+          "topicality": 0.21072797
+        }
+      ]
+    }
+  ]
+}

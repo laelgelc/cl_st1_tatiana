@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01q_cy",
+          "description": "Globe",
+          "score": 0.9436948,
+          "topicality": 0.6970309
+        },
+        {
+          "mid": "/m/04_tb",
+          "description": "Map",
+          "score": 0.9101924,
+          "topicality": 0.031245084
+        },
+        {
+          "mid": "/m/02j71",
+          "description": "Earth",
+          "score": 0.8782369,
+          "topicality": 0.27094847
+        },
+        {
+          "mid": "/m/05qc_",
+          "description": "Planet",
+          "score": 0.73283446,
+          "topicality": 0.0551945
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.7086894,
+          "topicality": 0.013451387
+        },
+        {
+          "mid": "/m/0crnf",
+          "description": "Atlas",
+          "score": 0.63925505,
+          "topicality": 0.008890571
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5637353,
+          "topicality": 0.011177017
+        }
+      ]
+    }
+  ]
+}

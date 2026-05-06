@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9531509,
+          "topicality": 0.0016634748
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.91652966,
+          "topicality": 0.0017025705
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8589057,
+          "topicality": 0.00058153586
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8505021,
+          "topicality": 0.050848223
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.78737056,
+          "topicality": 0.11947581
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.75536925,
+          "topicality": 8.394287e-05
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7177329,
+          "topicality": 0.004958545
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58722484,
+          "topicality": 0.027285906
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.57212514,
+          "topicality": 0.018191196
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.54900706,
+          "topicality": 0.10084313
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.54803103,
+          "topicality": 0.024885716
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.5267969,
+          "topicality": 0.03928515
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5225989,
+          "topicality": 0.1680983
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.77118486,
+          "topicality": 0.0021272327
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6764002,
+          "topicality": 0.01694931
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.58003944,
+          "topicality": 0.0010717793
+        },
+        {
+          "mid": "/m/03yhk",
+          "description": "Ink",
+          "score": 0.5301884,
+          "topicality": 6.479252e-05
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52277505,
+          "topicality": 0.035072025
+        }
+      ]
+    }
+  ]
+}

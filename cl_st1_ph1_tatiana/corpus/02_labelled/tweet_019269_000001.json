@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.6828727,
+          "topicality": 0.06962002
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.61663276,
+          "topicality": 0.0020897177
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.6099627,
+          "topicality": 0.0029532441
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.5654324,
+          "topicality": 0.005883876
+        },
+        {
+          "mid": "/m/021yby",
+          "description": "Seat of local government",
+          "score": 0.5590628,
+          "topicality": 0.0031991007
+        },
+        {
+          "mid": "/m/026y56",
+          "description": "Brutalist architecture",
+          "score": 0.5436145,
+          "topicality": 0.008482365
+        }
+      ]
+    }
+  ]
+}

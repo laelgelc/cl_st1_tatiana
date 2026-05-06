@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8846559,
+          "topicality": 0.33796483
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.84173876,
+          "topicality": 0.0022723181
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.82840276,
+          "topicality": 0.04379407
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.80869204,
+          "topicality": 0.017459651
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7658871,
+          "topicality": 0.0024291847
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.75019866,
+          "topicality": 0.08458212
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.747454,
+          "topicality": 0.06535813
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.7413821,
+          "topicality": 0.04720401
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7348631,
+          "topicality": 0.026650064
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.7321582,
+          "topicality": 0.012615844
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7185834,
+          "topicality": 0.07602888
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.55971646,
+          "topicality": 0.0016463266
+        }
+      ]
+    }
+  ]
+}

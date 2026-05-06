@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7911225,
+          "topicality": 0.00245018
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.73755217,
+          "topicality": 0.029391712
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.7209515,
+          "topicality": 0.0011811962
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6697895,
+          "topicality": 0.36143017
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6326744,
+          "topicality": 0.006342263
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6122228,
+          "topicality": 0.019993538
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5928359,
+          "topicality": 0.007699857
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5566963,
+          "topicality": 0.04541217
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.5359536,
+          "topicality": 6.8758577e-06
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.5070495,
+          "topicality": 0.0825982
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.98853266,
+          "topicality": 0.00030815433
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9853449,
+          "topicality": 0.00026387104
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98356766,
+          "topicality": 0.0004357189
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.85516435,
+          "topicality": 0.0028650607
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6138296,
+          "topicality": 0.04093986
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.52494544,
+          "topicality": 0.01829623
+        }
+      ]
+    }
+  ]
+}

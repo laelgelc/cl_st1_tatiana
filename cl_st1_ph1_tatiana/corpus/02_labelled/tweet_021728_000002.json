@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449466,
+          "topicality": 0.0033365325
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.87990266,
+          "topicality": 0.061694156
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7021914,
+          "topicality": 0.008180631
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.55524725,
+          "topicality": 0.040271524
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5347918,
+          "topicality": 0.0061580017
+        }
+      ]
+    }
+  ]
+}

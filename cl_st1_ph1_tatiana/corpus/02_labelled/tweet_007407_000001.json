@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9480224,
+          "topicality": 0.0063015455
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9468766,
+          "topicality": 0.057471383
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9354342,
+          "topicality": 0.0054370435
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9337261,
+          "topicality": 0.28893584
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.91849715,
+          "topicality": 0.1165367
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.89848524,
+          "topicality": 0.2867522
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.8547714,
+          "topicality": 0.027749155
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.82653403,
+          "topicality": 0.00056606083
+        },
+        {
+          "mid": "/m/04qwst",
+          "description": "Oxygen mask",
+          "score": 0.7879826,
+          "topicality": 0.336358
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.63424784,
+          "topicality": 0.017884977
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.6309589,
+          "topicality": 0.00069193594
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6226051,
+          "topicality": 0.03180389
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.6074142,
+          "topicality": 0.00067541905
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.5336507,
+          "topicality": 1.7372913e-05
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.52774465,
+          "topicality": 0.011160334
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5204368,
+          "topicality": 0.023078134
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.51693773,
+          "topicality": 5.472834e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.88349247,
+          "topicality": 0.0225744
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.76142573,
+          "topicality": 0.015087785
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6671015,
+          "topicality": 0.019391486
+        },
+        {
+          "mid": "/m/09spj9",
+          "description": "Layered hair",
+          "score": 0.6538415,
+          "topicality": 0.00068414805
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.64795786,
+          "topicality": 0.017177915
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.5080573,
+          "topicality": 7.983143e-06
+        }
+      ]
+    }
+  ]
+}

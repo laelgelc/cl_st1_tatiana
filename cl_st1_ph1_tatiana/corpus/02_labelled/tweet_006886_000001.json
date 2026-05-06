@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.97636354,
+          "topicality": 0.12056606
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.94370645,
+          "topicality": 0.0033646578
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.9365886,
+          "topicality": 0.28287885
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.92153406,
+          "topicality": 0.04419579
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.8382456,
+          "topicality": 0.08053487
+        },
+        {
+          "mid": "/m/078hm",
+          "description": "Slope",
+          "score": 0.7704463,
+          "topicality": 4.1182924e-05
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.68828934,
+          "topicality": 0.32816884
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.683208,
+          "topicality": 0.006338265
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.6719309,
+          "topicality": 0.0006960939
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.66304743,
+          "topicality": 0.02089873
+        },
+        {
+          "mid": "/m/01r9v",
+          "description": "Computer program",
+          "score": 0.63396764,
+          "topicality": 0.025075989
+        },
+        {
+          "mid": "/m/06q83",
+          "description": "Software engineering",
+          "score": 0.59836966,
+          "topicality": 0.0071713743
+        }
+      ]
+    }
+  ]
+}

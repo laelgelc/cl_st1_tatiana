@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9598597,
+          "topicality": 0.055547316
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91168267,
+          "topicality": 0.00015243715
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.710325,
+          "topicality": 0.002504866
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6206265,
+          "topicality": 0.0077969776
+        }
+      ]
+    }
+  ]
+}

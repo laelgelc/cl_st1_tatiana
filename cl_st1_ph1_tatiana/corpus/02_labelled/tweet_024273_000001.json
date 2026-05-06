@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.77552706,
+          "topicality": 0.10335829
+        },
+        {
+          "mid": "/m/01wk9c",
+          "description": "Emblem",
+          "score": 0.61629057,
+          "topicality": 0.0040752515
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.5423468,
+          "topicality": 0.03227004
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.52387094,
+          "topicality": 0.0067653186
+        }
+      ]
+    }
+  ]
+}

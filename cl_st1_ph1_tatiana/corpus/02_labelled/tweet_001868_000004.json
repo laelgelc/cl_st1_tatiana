@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.98859525,
+          "topicality": 0.0033620861
+        },
+        {
+          "mid": "/m/037p5b",
+          "description": "Cheek",
+          "score": 0.98675054,
+          "topicality": 0.0014330796
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.98590356,
+          "topicality": 0.0007774381
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9844128,
+          "topicality": 0.010199315
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9768572,
+          "topicality": 0.026297398
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9607748,
+          "topicality": 0.005498491
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.95669156,
+          "topicality": 0.0008628478
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.954323,
+          "topicality": 0.008208584
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9527647,
+          "topicality": 0.00039097609
+        },
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.9169338,
+          "topicality": 0.0075721005
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.84510183,
+          "topicality": 0.010255857
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.66978604,
+          "topicality": 0.019304289
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.66028124,
+          "topicality": 0.02616031
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.61821944,
+          "topicality": 0.0011959777
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.5156379,
+          "topicality": 6.2291794e-05
+        },
+        {
+          "mid": "/m/027v9wk",
+          "description": "Elder",
+          "score": 0.5010363,
+          "topicality": 0.00040164238
+        }
+      ]
+    }
+  ]
+}

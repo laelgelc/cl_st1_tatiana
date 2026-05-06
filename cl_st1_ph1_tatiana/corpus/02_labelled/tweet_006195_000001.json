@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9332929,
+          "topicality": 0.0039163576
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9108236,
+          "topicality": 0.029842388
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.89283836,
+          "topicality": 0.010621987
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.84427977,
+          "topicality": 0.00027131135
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.83546245,
+          "topicality": 0.008254641
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.76411563,
+          "topicality": 0.15603386
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7381531,
+          "topicality": 0.06775858
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7380059,
+          "topicality": 0.029287236
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.67458135,
+          "topicality": 0.12444623
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.61567444,
+          "topicality": 0.08472993
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5785375,
+          "topicality": 0.013260541
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.56215966,
+          "topicality": 0.023506582
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.54338235,
+          "topicality": 0.0017244552
+        }
+      ]
+    }
+  ]
+}

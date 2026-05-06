@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8443417,
+          "topicality": 0.0026251208
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.6132242,
+          "topicality": 0.0122254975
+        },
+        {
+          "mid": "/m/01mfj",
+          "description": "Computer hardware",
+          "score": 0.59633267,
+          "topicality": 0.0064375326
+        }
+      ]
+    }
+  ]
+}

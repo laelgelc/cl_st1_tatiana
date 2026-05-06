@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05sm1",
+          "description": "Plain",
+          "score": 0.89390236,
+          "topicality": 0.00096143316
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.76906776,
+          "topicality": 0.12186623
+        },
+        {
+          "mid": "/m/01v327",
+          "description": "Lawn",
+          "score": 0.76605374,
+          "topicality": 0.00020776755
+        },
+        {
+          "mid": "/m/08863x",
+          "description": "Bird's-eye view",
+          "score": 0.7450723,
+          "topicality": 0.13837901
+        },
+        {
+          "mid": "/m/0166ls",
+          "description": "Park",
+          "score": 0.72378975,
+          "topicality": 0.036124732
+        }
+      ]
+    }
+  ]
+}

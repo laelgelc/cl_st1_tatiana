@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90865785,
+          "topicality": 0.00087270094
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8309703,
+          "topicality": 0.14159967
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.6127802,
+          "topicality": 0.008442295
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.554968,
+          "topicality": 0.1044787
+        }
+      ]
+    }
+  ]
+}

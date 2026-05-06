@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.8228685,
+          "topicality": 0.036441993
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8143188,
+          "topicality": 0.029097214
+        },
+        {
+          "mid": "/m/012mj",
+          "description": "Alcoholic drink",
+          "score": 0.7539318,
+          "topicality": 0.164585
+        },
+        {
+          "mid": "/m/04shl0",
+          "description": "Liquor",
+          "score": 0.74627036,
+          "topicality": 0.019736944
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.66873246,
+          "topicality": 0.03485381
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.61939436,
+          "topicality": 0.0054547247
+        }
+      ]
+    }
+  ]
+}

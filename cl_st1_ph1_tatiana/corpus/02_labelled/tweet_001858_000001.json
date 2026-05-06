@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9624698,
+          "topicality": 0.06936907
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494975,
+          "topicality": 0.017814372
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.93195724,
+          "topicality": 0.0047028805
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.88977265,
+          "topicality": 0.029916748
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.724962,
+          "topicality": 0.29378265
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.5869458,
+          "topicality": 0.0019721752
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5737704,
+          "topicality": 0.0014223087
+        },
+        {
+          "mid": "/m/05p553",
+          "description": "Comedy",
+          "score": 0.5642008,
+          "topicality": 0.026856165
+        },
+        {
+          "mid": "/m/0fjkt",
+          "description": "Tongue",
+          "score": 0.5534655,
+          "topicality": 0.0065224813
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.51173985,
+          "topicality": 0.0016578886
+        },
+        {
+          "mid": "/m/0cfrhj",
+          "description": "Surprise",
+          "score": 0.5048729,
+          "topicality": 0.00889789
+        }
+      ]
+    }
+  ]
+}

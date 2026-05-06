@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449081,
+          "topicality": 0.00678462
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9138576,
+          "topicality": 0.0028060977
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.695831,
+          "topicality": 0.0023019072
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.62492007,
+          "topicality": 0.0054989266
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6082218,
+          "topicality": 0.016116159
+        },
+        {
+          "mid": "/m/0b0fq",
+          "description": "Photomontage",
+          "score": 0.59553903,
+          "topicality": 0.004873111
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5596433,
+          "topicality": 5.152705e-05
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.5029375,
+          "topicality": 0.009593377
+        }
+      ]
+    }
+  ]
+}

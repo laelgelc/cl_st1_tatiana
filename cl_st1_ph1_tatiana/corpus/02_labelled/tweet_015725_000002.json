@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.95982105,
+          "topicality": 0.010440837
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91288817,
+          "topicality": 6.530813e-05
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.88803446,
+          "topicality": 0.09428964
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.7788087,
+          "topicality": 0.0007395041
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.66341007,
+          "topicality": 0.0005626081
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.64782685,
+          "topicality": 0.0056273052
+        },
+        {
+          "mid": "/m/07jx7",
+          "description": "Triangle",
+          "score": 0.6070652,
+          "topicality": 0.0016039048
+        },
+        {
+          "mid": "/m/018jrr",
+          "description": "Plan",
+          "score": 0.57463247,
+          "topicality": 0.004276882
+        }
+      ]
+    }
+  ]
+}

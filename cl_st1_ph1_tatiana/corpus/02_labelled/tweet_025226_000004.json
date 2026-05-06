@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083kv",
+          "description": "Wire",
+          "score": 0.91743827,
+          "topicality": 0.0018962243
+        },
+        {
+          "mid": "/m/0bmz2",
+          "description": "Electrical cable",
+          "score": 0.9088483,
+          "topicality": 0.0149755245
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8399527,
+          "topicality": 0.0074753608
+        },
+        {
+          "mid": "/m/046glt",
+          "description": "Electrical wiring",
+          "score": 0.8244945,
+          "topicality": 0.0014030099
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8227948,
+          "topicality": 0.0066786623
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.80026,
+          "topicality": 0.008492369
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.78899205,
+          "topicality": 0.002825385
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.69320315,
+          "topicality": 0.0013653984
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.69065976,
+          "topicality": 0.02228637
+        },
+        {
+          "mid": "/m/01z8xy",
+          "description": "Transparency",
+          "score": 0.6011954,
+          "topicality": 0.00023182276
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51355875,
+          "topicality": 0.009841655
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.50465107,
+          "topicality": 0.0031663913
+        }
+      ]
+    }
+  ]
+}

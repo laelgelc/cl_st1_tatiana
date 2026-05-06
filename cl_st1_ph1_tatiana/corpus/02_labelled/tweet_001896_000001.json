@@ -1,0 +1,37 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/062581",
+          "description": "Sleeve",
+          "score": 0.9839381,
+          "topicality": 0.0004591709
+        },
+        {
+          "mid": "/m/032tl",
+          "description": "Fashion",
+          "score": 0.9413186
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.8705015,
+          "topicality": 0.022365779
+        },
+        {
+          "mid": "/m/02pd__z",
+          "description": "Long hair",
+          "score": 0.82686853,
+          "topicality": 0.058418702
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.55889374,
+          "topicality": 0.0007263932
+        }
+      ]
+    }
+  ]
+}

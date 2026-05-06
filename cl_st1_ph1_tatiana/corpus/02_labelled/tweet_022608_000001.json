@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06rrc",
+          "description": "Shoe",
+          "score": 0.9543212,
+          "topicality": 0.020215854
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.8208158,
+          "topicality": 0.18092807
+        },
+        {
+          "mid": "/m/02qqd4n",
+          "description": "Fashion design",
+          "score": 0.774341,
+          "topicality": 0.013571459
+        },
+        {
+          "mid": "/m/04s5jq",
+          "description": "Costume design",
+          "score": 0.6676978,
+          "topicality": 0.033629026
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.63045615,
+          "topicality": 0.0059140786
+        },
+        {
+          "mid": "/m/01n5cy",
+          "description": "Carpet",
+          "score": 0.5739599,
+          "topicality": 0.0020464957
+        },
+        {
+          "mid": "/m/0645zg",
+          "description": "Red carpet",
+          "score": 0.5739096,
+          "topicality": 0.1683916
+        }
+      ]
+    }
+  ]
+}

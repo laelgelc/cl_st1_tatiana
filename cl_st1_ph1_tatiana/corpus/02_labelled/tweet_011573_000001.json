@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.95730305,
+          "topicality": 0.4722668
+        },
+        {
+          "mid": "/m/08ncv6",
+          "description": "Capsule",
+          "score": 0.94805485,
+          "topicality": 0.30204174
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.92408967,
+          "topicality": 0.007751144
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9203727,
+          "topicality": 0.0035386912
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.9131946,
+          "topicality": 0.22502394
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.8868145,
+          "topicality": 0.04371372
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8809391,
+          "topicality": 0.018558409
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8137724,
+          "topicality": 0.00057357375
+        },
+        {
+          "mid": "/m/0y09",
+          "description": "Analgesic",
+          "score": 0.72875285,
+          "topicality": 0.09373112
+        },
+        {
+          "mid": "/m/04jng2",
+          "description": "Nutraceutical",
+          "score": 0.66167825,
+          "topicality": 0.022206912
+        },
+        {
+          "mid": "/m/0q593",
+          "description": "Dietary supplement",
+          "score": 0.6586642,
+          "topicality": 0.08492468
+        },
+        {
+          "mid": "/m/0hk26",
+          "description": "Stimulant",
+          "score": 0.63496166,
+          "topicality": 0.085735805
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6292259,
+          "topicality": 0.009124324
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55000234,
+          "topicality": 0.014637834
+        }
+      ]
+    }
+  ]
+}

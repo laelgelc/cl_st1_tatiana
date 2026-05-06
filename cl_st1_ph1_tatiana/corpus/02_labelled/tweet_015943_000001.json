@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.796548,
+          "topicality": 0.0011419957
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.78167945,
+          "topicality": 0.00014696928
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7709494,
+          "topicality": 0.0009988886
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6035203,
+          "topicality": 0.0042838287
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5563321,
+          "topicality": 0.0036111616
+        }
+      ]
+    }
+  ]
+}

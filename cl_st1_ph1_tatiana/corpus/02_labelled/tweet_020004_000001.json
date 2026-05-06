@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.8621708,
+          "topicality": 0.0010244873
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8540626,
+          "topicality": 0.021020282
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.8457677,
+          "topicality": 0.009760453
+        },
+        {
+          "mid": "/m/02jf2p",
+          "description": "Public address system",
+          "score": 0.7845485,
+          "topicality": 7.96136e-05
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.63636744,
+          "topicality": 6.24091e-05
+        },
+        {
+          "mid": "/m/03zyjs",
+          "description": "Polo shirt",
+          "score": 0.57203156,
+          "topicality": 0.00011704529
+        }
+      ]
+    }
+  ]
+}

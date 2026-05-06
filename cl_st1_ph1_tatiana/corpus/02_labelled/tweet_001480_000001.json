@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6579709,
+          "topicality": 0.0029019595
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5970546,
+          "topicality": 0.00069871143
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.59491634,
+          "topicality": 0.08988046
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.59256846,
+          "topicality": 0.0002045615
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.53365564,
+          "topicality": 0.00020246196
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.5293486,
+          "topicality": 0.02654862
+        }
+      ]
+    }
+  ]
+}

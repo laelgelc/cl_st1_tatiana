@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.69479585,
+          "topicality": 0.050469495
+        },
+        {
+          "mid": "/m/06bdpk",
+          "description": "Academic institution",
+          "score": 0.56485426,
+          "topicality": 0.00045094153
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5505136,
+          "topicality": 0.009893643
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5464445,
+          "topicality": 0.002844839
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5182668,
+          "topicality": 0.010764942
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9942957,
+          "topicality": 0.009914676
+        },
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.9609885,
+          "topicality": 0.03614206
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.9571324,
+          "topicality": 0.0045250473
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.94218814,
+          "topicality": 0.08099326
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9221496,
+          "topicality": 0.020917663
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.92010033,
+          "topicality": 0.0045699184
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.90794617,
+          "topicality": 0.19564977
+        },
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.8824588,
+          "topicality": 0.0026475473
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.8645767,
+          "topicality": 0.006043637
+        },
+        {
+          "mid": "/m/056mk",
+          "description": "Metropolis",
+          "score": 0.8107123,
+          "topicality": 0.011983844
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.74575096,
+          "topicality": 0.012684897
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.67655855,
+          "topicality": 0.019909834
+        }
+      ]
+    }
+  ]
+}

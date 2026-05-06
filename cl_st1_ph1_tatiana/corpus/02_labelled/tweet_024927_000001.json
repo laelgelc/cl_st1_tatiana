@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8997249,
+          "topicality": 0.0035605915
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8005659,
+          "topicality": 0.0044429093
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7041607,
+          "topicality": 0.0007408425
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.578676,
+          "topicality": 0.029279063
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5062494,
+          "topicality": 7.705479e-05
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.50460523,
+          "topicality": 0.0003763459
+        }
+      ]
+    }
+  ]
+}

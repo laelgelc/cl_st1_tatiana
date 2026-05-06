@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06hps",
+          "description": "Rodent",
+          "score": 0.8808457,
+          "topicality": 0.06803753
+        },
+        {
+          "mid": "/m/03qrc",
+          "description": "Hamster",
+          "score": 0.8414245,
+          "topicality": 0.6822844
+        },
+        {
+          "mid": "/m/02h9rm",
+          "description": "Muroids",
+          "score": 0.82251793,
+          "topicality": 0.02528816
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.8002342,
+          "topicality": 0.003757721
+        },
+        {
+          "mid": "/m/06lk1",
+          "description": "Rat",
+          "score": 0.7495327,
+          "topicality": 0.18858679
+        },
+        {
+          "mid": "/m/01dqkc",
+          "description": "Pest",
+          "score": 0.73555416,
+          "topicality": 0.004319658
+        },
+        {
+          "mid": "/m/04k_6h",
+          "description": "Murids",
+          "score": 0.6707507,
+          "topicality": 0.018451406
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5761488,
+          "topicality": 0.00033053753
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.56633085,
+          "topicality": 0.0090146735
+        },
+        {
+          "mid": "/m/028lhq",
+          "description": "Dormouse",
+          "score": 0.5341669,
+          "topicality": 0.0012362817
+        },
+        {
+          "mid": "/m/01c53d",
+          "description": "Gerbil",
+          "score": 0.5224791,
+          "topicality": 0.01659273
+        }
+      ]
+    }
+  ]
+}

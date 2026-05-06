@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.8669896,
+          "topicality": 0.0007886362
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.72909695,
+          "topicality": 7.180005e-05
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.700602,
+          "topicality": 0.00036050993
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.51200527,
+          "topicality": 0.008745965
+        }
+      ]
+    }
+  ]
+}

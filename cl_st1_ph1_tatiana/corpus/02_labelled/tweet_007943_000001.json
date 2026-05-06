@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032tl",
+          "description": "Fashion",
+          "score": 0.9476871
+        },
+        {
+          "mid": "/m/02rfdq",
+          "description": "Interior design",
+          "score": 0.9403311,
+          "topicality": 0.0059339767
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.9131991,
+          "topicality": 0.019373817
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.8900687,
+          "topicality": 0.0035928308
+        },
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.88017017,
+          "topicality": 0.070331365
+        },
+        {
+          "mid": "/m/08790l",
+          "description": "Boutique",
+          "score": 0.8065722,
+          "topicality": 0.12277234
+        },
+        {
+          "mid": "/m/02qqd4n",
+          "description": "Fashion design",
+          "score": 0.7766804,
+          "topicality": 0.0034610825
+        },
+        {
+          "mid": "/m/03fp41",
+          "description": "Houseplant",
+          "score": 0.66331196,
+          "topicality": 0.00068484776
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.620937,
+          "topicality": 0.026395358
+        },
+        {
+          "mid": "/m/09bgkl",
+          "description": "Outlet store",
+          "score": 0.6197604,
+          "topicality": 0.093965724
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6027696,
+          "topicality": 5.3087526e-05
+        },
+        {
+          "mid": "/m/01gl_m",
+          "description": "Mannequin",
+          "score": 0.52927333,
+          "topicality": 0.0011014994
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.525505,
+          "topicality": 0.001920216
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.5116166,
+          "topicality": 0.015936738
+        },
+        {
+          "mid": "/m/025s8bs",
+          "description": "Shopping mall",
+          "score": 0.5087022,
+          "topicality": 0.013074414
+        }
+      ]
+    }
+  ]
+}

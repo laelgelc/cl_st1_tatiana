@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07mhn",
+          "description": "Trousers",
+          "score": 0.9617708,
+          "topicality": 0.0014124275
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.7337839,
+          "topicality": 0.036960993
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.69507337,
+          "topicality": 0.06355719
+        },
+        {
+          "mid": "/m/01t2ln",
+          "description": "Police officer",
+          "score": 0.5815295,
+          "topicality": 0.048576776
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.54128456,
+          "topicality": 0.0001656875
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.53311896,
+          "topicality": 0.16268748
+        }
+      ]
+    }
+  ]
+}

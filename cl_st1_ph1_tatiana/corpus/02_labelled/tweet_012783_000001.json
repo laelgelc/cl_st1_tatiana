@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99435157,
+          "topicality": 0.016785348
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.93157977,
+          "topicality": 0.019189829
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.8829024,
+          "topicality": 0.035398073
+        },
+        {
+          "mid": "/m/0687y",
+          "description": "Prayer",
+          "score": 0.79615414,
+          "topicality": 0.08523555
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.72681457,
+          "topicality": 0.00022602326
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.5993813,
+          "topicality": 0.004293849
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.5671351,
+          "topicality": 0.000846641
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.54775566,
+          "topicality": 0.011488034
+        }
+      ]
+    }
+  ]
+}

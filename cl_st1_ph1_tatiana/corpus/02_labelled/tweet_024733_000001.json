@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.9138272,
+          "topicality": 0.017154463
+        },
+        {
+          "mid": "/m/015p6",
+          "description": "Bird",
+          "score": 0.611008,
+          "topicality": 0.20629992
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.5906069,
+          "topicality": 0.03393161
+        },
+        {
+          "mid": "/m/0h8m7cs",
+          "description": "Animal Figure",
+          "score": 0.57175803,
+          "topicality": 0.000103710336
+        }
+      ]
+    }
+  ]
+}

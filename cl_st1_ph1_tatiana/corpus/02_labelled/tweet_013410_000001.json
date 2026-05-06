@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8173937,
+          "topicality": 0.0014133541
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.77574974,
+          "topicality": 0.0039137625
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.7529299,
+          "topicality": 0.00016156811
+        },
+        {
+          "mid": "/m/01mfj",
+          "description": "Computer hardware",
+          "score": 0.67798394,
+          "topicality": 1.048617e-05
+        },
+        {
+          "mid": "/m/01c648",
+          "description": "Laptop",
+          "score": 0.5201213,
+          "topicality": 0.0044320123
+        }
+      ]
+    }
+  ]
+}

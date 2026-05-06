@@ -1,0 +1,91 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.9571663,
+          "topicality": 0.087001614
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.94325954,
+          "topicality": 0.0055448106
+        },
+        {
+          "mid": "/m/01x314",
+          "description": "Facade",
+          "score": 0.94267625,
+          "topicality": 0.018487092
+        },
+        {
+          "mid": "/m/03nfmq",
+          "description": "Architecture",
+          "score": 0.93949467,
+          "topicality": 0.09777061
+        },
+        {
+          "mid": "/m/02wzbmj",
+          "description": "Standing",
+          "score": 0.9384037
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.932216,
+          "topicality": 0.0049536023
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.93008536,
+          "topicality": 0.02200278
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.91839784,
+          "topicality": 0.149372
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.8185072,
+          "topicality": 0.044920918
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.75882953,
+          "topicality": 0.013287365
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.7352067,
+          "topicality": 0.0019791853
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.6854196,
+          "topicality": 0.0042923554
+        },
+        {
+          "mid": "/m/02t2zd",
+          "description": "Cobblestone",
+          "score": 0.5486576,
+          "topicality": 0.0012589424
+        },
+        {
+          "mid": "/m/01wkk9",
+          "description": "Town square",
+          "score": 0.5279432,
+          "topicality": 0.046985425
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z37_",
+          "description": "Picture frame",
+          "score": 0.9038958,
+          "topicality": 0.014315396
+        },
+        {
+          "mid": "/m/0p9xx",
+          "description": "Visual arts",
+          "score": 0.8603524,
+          "topicality": 0.006599841
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "Modern art",
+          "score": 0.63356286,
+          "topicality": 0.0108838035
+        },
+        {
+          "mid": "/m/06xzh",
+          "description": "Sleep",
+          "score": 0.5621325,
+          "topicality": 0.04754049
+        },
+        {
+          "mid": "/m/05c1ypb",
+          "description": "Nap",
+          "score": 0.5535875,
+          "topicality": 0.061561882
+        }
+      ]
+    }
+  ]
+}

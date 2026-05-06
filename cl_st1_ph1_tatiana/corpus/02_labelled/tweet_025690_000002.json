@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94492877,
+          "topicality": 0.033839844
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6313586,
+          "topicality": 0.016011793
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.55028844,
+          "topicality": 0.000700716
+        },
+        {
+          "mid": "/m/0463cq4",
+          "description": "Crying",
+          "score": 0.51281065,
+          "topicality": 0.03381112
+        }
+      ]
+    }
+  ]
+}

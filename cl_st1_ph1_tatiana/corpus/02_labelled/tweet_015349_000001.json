@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.9729956,
+          "topicality": 0.0020199714
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9050255,
+          "topicality": 0.021481968
+        },
+        {
+          "mid": "/m/0919rx",
+          "description": "Line art",
+          "score": 0.75980973,
+          "topicality": 0.008396218
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6559902,
+          "topicality": 0.00661612
+        },
+        {
+          "mid": "/m/03g09t",
+          "description": "Clip art",
+          "score": 0.55433726,
+          "topicality": 0.013974641
+        },
+        {
+          "mid": "/m/05h7rm",
+          "description": "Coloring book",
+          "score": 0.5087176,
+          "topicality": 0.00375672
+        }
+      ]
+    }
+  ]
+}

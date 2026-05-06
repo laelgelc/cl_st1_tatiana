@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8068284,
+          "topicality": 0.003467838
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.7884407,
+          "topicality": 0.00094175834
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.78423077,
+          "topicality": 4.6995876e-05
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7670949,
+          "topicality": 0.006488479
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.6928511,
+          "topicality": 0.04288901
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6830135,
+          "topicality": 0.069708824
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6360513,
+          "topicality": 0.0064173224
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5912035,
+          "topicality": 0.018325752
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5866709,
+          "topicality": 0.0017993334
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5565346,
+          "topicality": 0.018317766
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5385035,
+          "topicality": 0.010379743
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.5278221,
+          "topicality": 0.001519488
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5081095,
+          "topicality": 0.04290476
+        }
+      ]
+    }
+  ]
+}

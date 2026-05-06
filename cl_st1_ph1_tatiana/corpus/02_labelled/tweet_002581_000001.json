@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/077p0h",
+          "description": "Sleeveless shirt",
+          "score": 0.90323085,
+          "topicality": 0.00017183738
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.88422996,
+          "topicality": 0.019348206
+        },
+        {
+          "mid": "/m/0dzdr",
+          "description": "Thorax",
+          "score": 0.7807516,
+          "topicality": 0.0051831286
+        },
+        {
+          "mid": "/m/0hgntgw",
+          "description": "Active Tank",
+          "score": 0.67717654,
+          "topicality": 9.015883e-05
+        },
+        {
+          "mid": "/m/01sdv7",
+          "description": "Vest",
+          "score": 0.5307276,
+          "topicality": 8.403681e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8768918,
+          "topicality": 0.016481118
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6588511,
+          "topicality": 0.009825874
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6452597,
+          "topicality": 0.007328289
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.624556,
+          "topicality": 0.030157924
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.58894944,
+          "topicality": 0.005770972
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5797852,
+          "topicality": 0.29013163
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55683666,
+          "topicality": 0.0091030765
+        }
+      ]
+    }
+  ]
+}

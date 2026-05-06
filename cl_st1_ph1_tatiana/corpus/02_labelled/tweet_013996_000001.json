@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9826226,
+          "topicality": 0.0029337178
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9774862,
+          "topicality": 0.06345282
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9622545,
+          "topicality": 0.00079022994
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9223103,
+          "topicality": 0.00013998928
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.7814121,
+          "topicality": 3.7859234e-05
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.60674024,
+          "topicality": 0.0026634624
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5860748,
+          "topicality": 0.00013321955
+        }
+      ]
+    }
+  ]
+}

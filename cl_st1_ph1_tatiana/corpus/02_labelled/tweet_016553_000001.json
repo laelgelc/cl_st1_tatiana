@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.98735213,
+          "topicality": 0.003173203
+        },
+        {
+          "mid": "/m/0dzct",
+          "description": "Face",
+          "score": 0.98014057,
+          "topicality": 0.021316579
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9786988,
+          "topicality": 0.0024101213
+        },
+        {
+          "mid": "/m/0283dt1",
+          "description": "Mouth",
+          "score": 0.9623426,
+          "topicality": 0.0013690679
+        },
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.9510298,
+          "topicality": 0.0046173497
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.948925,
+          "topicality": 0.009198886
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9146704,
+          "topicality": 0.0013575164
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.7026733,
+          "topicality": 0.00676981
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6894139,
+          "topicality": 0.05238233
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.65997434,
+          "topicality": 0.03051545
+        },
+        {
+          "mid": "/m/01qwsw",
+          "description": "Flat-panel display",
+          "score": 0.6266733,
+          "topicality": 0.0056898296
+        },
+        {
+          "mid": "/m/05p37dx",
+          "description": "LED-backlit LCD",
+          "score": 0.6193497,
+          "topicality": 0.014575914
+        },
+        {
+          "mid": "/m/0bx_y3w",
+          "description": "Television set",
+          "score": 0.57931095,
+          "topicality": 0.013098833
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5064846,
+          "topicality": 0.010530361
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.87988746,
+          "topicality": 0.0014271396
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7017749,
+          "topicality": 0.0076736473
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.677055,
+          "topicality": 0.010167257
+        },
+        {
+          "mid": "/m/03h_4m",
+          "description": "Cylinder",
+          "score": 0.6485274,
+          "topicality": 0.0008617826
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5165472,
+          "topicality": 0.0019124881
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.51101077,
+          "topicality": 0.0132233305
+        }
+      ]
+    }
+  ]
+}

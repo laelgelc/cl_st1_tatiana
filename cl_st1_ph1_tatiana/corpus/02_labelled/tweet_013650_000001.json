@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.9270058,
+          "topicality": 0.0271808
+        },
+        {
+          "mid": "/m/02p4dfn",
+          "description": "Lectern",
+          "score": 0.8996412,
+          "topicality": 0.0063455002
+        },
+        {
+          "mid": "/m/03qpft",
+          "description": "Podium",
+          "score": 0.8265159,
+          "topicality": 0.021269284
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.78668797,
+          "topicality": 0.04472771
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7623507,
+          "topicality": 0.0026420383
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.75094616,
+          "topicality": 0.027683906
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.7311228,
+          "topicality": 0.020217111
+        },
+        {
+          "mid": "/m/03rszm",
+          "description": "Curtain",
+          "score": 0.7145808,
+          "topicality": 5.036445e-05
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.70051897,
+          "topicality": 0.0026633441
+        },
+        {
+          "mid": "/m/025xf_8",
+          "description": "Microphone stand",
+          "score": 0.6552012,
+          "topicality": 0.00024425754
+        }
+      ]
+    }
+  ]
+}

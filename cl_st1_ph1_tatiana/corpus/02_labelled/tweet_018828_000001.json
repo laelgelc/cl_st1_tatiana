@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9853816,
+          "topicality": 7.399737e-05
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.98477674,
+          "topicality": 0.0012103283
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9698021,
+          "topicality": 0.00024587015
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.92542195,
+          "topicality": 0.00081096357
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.78077793,
+          "topicality": 0.013053271
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7434601,
+          "topicality": 0.0021513368
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.70321256,
+          "topicality": 0.01838165
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.6564736,
+          "topicality": 0.0050131986
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5950279,
+          "topicality": 8.171879e-05
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.59023744,
+          "topicality": 1.656774e-05
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.5398591,
+          "topicality": 0.02871555
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.5045541,
+          "topicality": 4.4012886e-05
+        }
+      ]
+    }
+  ]
+}

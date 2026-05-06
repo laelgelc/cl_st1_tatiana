@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9583409,
+          "topicality": 0.85712963
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.947476,
+          "topicality": 0.0068255668
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.94442964,
+          "topicality": 0.21777469
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.93813545,
+          "topicality": 0.009588677
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.93158555,
+          "topicality": 0.07635989
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.9121778,
+          "topicality": 0.016329132
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9076417,
+          "topicality": 0.0011296793
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.90141815,
+          "topicality": 0.056809176
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.86222017,
+          "topicality": 0.29708382
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7933191,
+          "topicality": 0.063099414
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.71320504,
+          "topicality": 0.010028674
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.6531768,
+          "topicality": 0.0014245142
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5556673,
+          "topicality": 0.008243964
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.5503993,
+          "topicality": 0.014922239
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.5210637,
+          "topicality": 0.031237831
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.90591264,
+          "topicality": 0.91036326
+        },
+        {
+          "mid": "/m/02x8n4r",
+          "description": "Fertility monitor",
+          "score": 0.77542394,
+          "topicality": 0.018994693
+        },
+        {
+          "mid": "/m/0bwgjh",
+          "description": "Medical thermometer",
+          "score": 0.7345267,
+          "topicality": 0.19129144
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.58562577,
+          "topicality": 0.00022594634
+        },
+        {
+          "mid": "/m/07gr_",
+          "description": "Temperature",
+          "score": 0.5484312,
+          "topicality": 0.016442385
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5139323,
+          "topicality": 0.011702859
+        }
+      ]
+    }
+  ]
+}

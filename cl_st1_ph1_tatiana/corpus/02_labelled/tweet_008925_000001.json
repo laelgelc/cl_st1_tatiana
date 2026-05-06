@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.79407763,
+          "topicality": 0.023936804
+        },
+        {
+          "mid": "/m/01g6gs",
+          "description": "Black and white",
+          "score": 0.78221166,
+          "topicality": 0.019738257
+        },
+        {
+          "mid": "/m/03thgk",
+          "description": "Silhouette",
+          "score": 0.7496034,
+          "topicality": 0.26957527
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.5999555,
+          "topicality": 0.0013403284
+        },
+        {
+          "mid": "/m/0b0lbv",
+          "description": "Backlighting",
+          "score": 0.5366459,
+          "topicality": 0.016403804
+        }
+      ]
+    }
+  ]
+}

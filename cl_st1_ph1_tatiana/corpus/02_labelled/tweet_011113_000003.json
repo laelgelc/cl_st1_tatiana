@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02h00q",
+          "description": "Jersey",
+          "score": 0.91148853,
+          "topicality": 0.001956657
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8434304,
+          "topicality": 0.0056119063
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6661996,
+          "topicality": 0.00034436706
+        },
+        {
+          "mid": "/m/0gl2ny2",
+          "description": "Football player",
+          "score": 0.6635546,
+          "topicality": 0.17744286
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.6419004,
+          "topicality": 0.000103924656
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.54121715,
+          "topicality": 0.00022126021
+        }
+      ]
+    }
+  ]
+}

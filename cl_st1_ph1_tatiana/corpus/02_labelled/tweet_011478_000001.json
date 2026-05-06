@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8468854,
+          "topicality": 0.018211687
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.59534377,
+          "topicality": 0.023392403
+        },
+        {
+          "mid": "/m/0lqk",
+          "description": "Alcohol",
+          "score": 0.5952783,
+          "topicality": 0.06264799
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5459843,
+          "topicality": 0.020583263
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.5143347,
+          "topicality": 0.0024764095
+        }
+      ]
+    }
+  ]
+}

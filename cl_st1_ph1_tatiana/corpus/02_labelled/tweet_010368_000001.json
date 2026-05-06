@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9483219,
+          "topicality": 0.24292147
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9322735,
+          "topicality": 0.0016900935
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.9182479,
+          "topicality": 0.036150903
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.91715276,
+          "topicality": 0.03687965
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8973732,
+          "topicality": 0.012448878
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8965189,
+          "topicality": 0.003985814
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8791468,
+          "topicality": 0.053109314
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.86231005,
+          "topicality": 0.033697784
+        },
+        {
+          "mid": "/m/01xlvy",
+          "description": "Ankle",
+          "score": 0.85774153,
+          "topicality": 0.022181917
+        },
+        {
+          "mid": "/m/031n1",
+          "description": "Foot",
+          "score": 0.8125028,
+          "topicality": 0.06715137
+        },
+        {
+          "mid": "/m/0715t2",
+          "description": "Calf",
+          "score": 0.7656665,
+          "topicality": 0.004247907
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7405807,
+          "topicality": 0.00022898082
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7185929,
+          "topicality": 0.023173464
+        },
+        {
+          "mid": "/m/01d_ff",
+          "description": "Toe",
+          "score": 0.6335124,
+          "topicality": 0.0018448997
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.61913496,
+          "topicality": 0.012308956
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5391551,
+          "topicality": 0.049799677
+        }
+      ]
+    }
+  ]
+}

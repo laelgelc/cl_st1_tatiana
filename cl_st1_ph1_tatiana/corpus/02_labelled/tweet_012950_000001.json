@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.60712403,
+          "topicality": 0.007885144
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5763323,
+          "topicality": 0.0029890733
+        },
+        {
+          "mid": "/m/018lrm",
+          "description": "Arena",
+          "score": 0.5106675,
+          "topicality": 0.014673255
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5085198,
+          "topicality": 0.0005056578
+        }
+      ]
+    }
+  ]
+}

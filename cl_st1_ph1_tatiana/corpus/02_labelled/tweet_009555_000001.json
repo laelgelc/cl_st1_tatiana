@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/034wh",
+          "description": "Graffiti",
+          "score": 0.6536087,
+          "topicality": 0.4406049
+        },
+        {
+          "mid": "/m/05y4t",
+          "description": "Paint",
+          "score": 0.6525485,
+          "topicality": 0.0047178287
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.60691744,
+          "topicality": 0.0083646355
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6047387,
+          "topicality": 0.012992442
+        }
+      ]
+    }
+  ]
+}

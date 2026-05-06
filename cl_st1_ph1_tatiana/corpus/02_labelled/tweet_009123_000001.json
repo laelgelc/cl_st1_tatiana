@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.75537497,
+          "topicality": 0.016838916
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.70561963,
+          "topicality": 0.011186211
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.700346,
+          "topicality": 6.571471e-05
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.68205404,
+          "topicality": 0.0017587263
+        },
+        {
+          "mid": "/m/05y4t",
+          "description": "Paint",
+          "score": 0.6225474,
+          "topicality": 0.009501514
+        },
+        {
+          "mid": "/m/0btmb",
+          "description": "Superhero",
+          "score": 0.50385827,
+          "topicality": 0.016028138
+        }
+      ]
+    }
+  ]
+}

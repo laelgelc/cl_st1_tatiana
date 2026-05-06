@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8220878,
+          "topicality": 9.744491e-05
+        },
+        {
+          "mid": "/m/01b92",
+          "description": "Bone",
+          "score": 0.5802307,
+          "topicality": 0.019108513
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5508325,
+          "topicality": 0.002646121
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.9450977,
+          "topicality": 0.118363775
+        },
+        {
+          "mid": "/m/07xgrh",
+          "description": "Ingredient",
+          "score": 0.90055615,
+          "topicality": 0.005916588
+        },
+        {
+          "mid": "/m/02vk7kj",
+          "description": "Foil",
+          "score": 0.89076144,
+          "topicality": 0.005967365
+        },
+        {
+          "mid": "/m/0b3dyl",
+          "description": "Finger food",
+          "score": 0.813984,
+          "topicality": 0.00010705416
+        },
+        {
+          "mid": "/m/023pfw",
+          "description": "Aluminium foil",
+          "score": 0.7756106,
+          "topicality": 0.01865499
+        },
+        {
+          "mid": "/m/0270h",
+          "description": "Dessert",
+          "score": 0.75658983,
+          "topicality": 0.016916888
+        },
+        {
+          "mid": "/m/0p57p",
+          "description": "Recipe",
+          "score": 0.6929836,
+          "topicality": 0.035318762
+        },
+        {
+          "mid": "/m/0dv34",
+          "description": "Baking",
+          "score": 0.5502819,
+          "topicality": 0.009127744
+        },
+        {
+          "mid": "/m/01_bhs",
+          "description": "Fast food",
+          "score": 0.529394,
+          "topicality": 0.009888912
+        },
+        {
+          "mid": "/m/04q6ng",
+          "description": "Comfort food",
+          "score": 0.52608454,
+          "topicality": 0.0009868771
+        }
+      ]
+    }
+  ]
+}

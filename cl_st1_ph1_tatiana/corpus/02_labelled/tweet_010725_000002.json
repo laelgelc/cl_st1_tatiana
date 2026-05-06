@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94465727,
+          "topicality": 0.0017698669
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.89537466,
+          "topicality": 0.00786065
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.76394707,
+          "topicality": 0.0020304502
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.684454,
+          "topicality": 0.006663849
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.59793174,
+          "topicality": 0.030464394
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5726793,
+          "topicality": 0.039904054
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.52762014,
+          "topicality": 0.18623377
+        }
+      ]
+    }
+  ]
+}

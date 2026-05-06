@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.669254,
+          "topicality": 0.0038323433
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.65070206,
+          "topicality": 0.0005843449
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.6211919,
+          "topicality": 0.008702176
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6116645,
+          "topicality": 0.03696622
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5532398,
+          "topicality": 0.0023430602
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54130065,
+          "topicality": 0.006381207
+        }
+      ]
+    }
+  ]
+}

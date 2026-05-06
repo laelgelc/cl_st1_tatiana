@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/022ch",
+          "description": "Cross",
+          "score": 0.89645076,
+          "topicality": 0.2453947
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7334695,
+          "topicality": 0.0018605822
+        },
+        {
+          "mid": "/m/0h8p5l_",
+          "description": "Religious Item",
+          "score": 0.7265165,
+          "topicality": 0.0005154156
+        },
+        {
+          "mid": "/m/0h36z",
+          "description": "Cemetery",
+          "score": 0.682798,
+          "topicality": 0.16868477
+        },
+        {
+          "mid": "/m/07djv",
+          "description": "Tradition",
+          "score": 0.6792603,
+          "topicality": 0.017129455
+        },
+        {
+          "mid": "/m/01vw0_",
+          "description": "Grave",
+          "score": 0.66998106,
+          "topicality": 0.06715582
+        }
+      ]
+    }
+  ]
+}

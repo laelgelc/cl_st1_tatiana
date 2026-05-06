@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95217884,
+          "topicality": 0.0028433013
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.88644505,
+          "topicality": 0.0007330018
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.86722934,
+          "topicality": 0.080813445
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.8574865,
+          "topicality": 0.14312887
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.81765205,
+          "topicality": 0.017891267
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7992573,
+          "topicality": 0.07312175
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6472599,
+          "topicality": 0.00017400357
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6278017,
+          "topicality": 4.0791398e-05
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6265886,
+          "topicality": 0.040057898
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.5489497,
+          "topicality": 0.0002801605
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.5322068,
+          "topicality": 0.0012037989
+        }
+      ]
+    }
+  ]
+}

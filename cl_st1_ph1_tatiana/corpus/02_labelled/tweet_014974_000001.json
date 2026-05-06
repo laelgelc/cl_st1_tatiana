@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.9732758,
+          "topicality": 0.22105674
+        },
+        {
+          "mid": "/m/08863x",
+          "description": "Bird's-eye view",
+          "score": 0.9624771,
+          "topicality": 0.09458436
+        },
+        {
+          "mid": "/m/025s3q0",
+          "description": "Landscape",
+          "score": 0.92539275,
+          "topicality": 0.0019168878
+        },
+        {
+          "mid": "/m/0d9wj",
+          "description": "Urban design",
+          "score": 0.90236425,
+          "topicality": 0.0029595157
+        }
+      ]
+    }
+  ]
+}

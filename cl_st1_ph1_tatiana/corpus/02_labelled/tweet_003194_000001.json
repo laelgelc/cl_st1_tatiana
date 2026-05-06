@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.82976514,
+          "topicality": 0.005339754
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7469241,
+          "topicality": 0.012380435
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.63207763,
+          "topicality": 0.0053132526
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.59619224,
+          "topicality": 0.0035911517
+        },
+        {
+          "mid": "/m/02l7rx",
+          "description": "Convention center",
+          "score": 0.50094026,
+          "topicality": 0.08688976
+        }
+      ]
+    }
+  ]
+}

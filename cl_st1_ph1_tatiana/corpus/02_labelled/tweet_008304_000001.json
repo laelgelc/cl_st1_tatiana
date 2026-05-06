@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.56510067,
+          "topicality": 0.00054357725
+        },
+        {
+          "mid": "/m/012h24",
+          "description": "Comics",
+          "score": 0.55358595,
+          "topicality": 0.08818307
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.537102,
+          "topicality": 0.0005382396
+        },
+        {
+          "mid": "/m/01vnb",
+          "description": "Comic book",
+          "score": 0.52060723,
+          "topicality": 0.0017346013
+        }
+      ]
+    }
+  ]
+}

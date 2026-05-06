@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9406508,
+          "topicality": 0.005191468
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8657048,
+          "topicality": 0.031813364
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.7865612,
+          "topicality": 0.0014213385
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.70988333,
+          "topicality": 0.0002490646
+        },
+        {
+          "mid": "/m/0h8nm6p",
+          "description": "Nail Care",
+          "score": 0.5929342,
+          "topicality": 0.00049574726
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.5054683,
+          "topicality": 0.06817041
+        }
+      ]
+    }
+  ]
+}

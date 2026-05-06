@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.7933719,
+          "topicality": 0.00060251204
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7854942,
+          "topicality": 0.011513425
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6397702,
+          "topicality": 0.053360462
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.62631327,
+          "topicality": 0.09575531
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.61524576,
+          "topicality": 0.00015880252
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5728612,
+          "topicality": 0.0010062438
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5111421,
+          "topicality": 0.00081166363
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.5039554,
+          "topicality": 0.010695451
+        }
+      ]
+    }
+  ]
+}

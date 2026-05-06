@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9446458,
+          "topicality": 0.0002821884
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7307278,
+          "topicality": 0.012962501
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.70788616,
+          "topicality": 0.0012965152
+        },
+        {
+          "mid": "/m/09dhj",
+          "description": "Family",
+          "score": 0.6272209,
+          "topicality": 0.05539707
+        }
+      ]
+    }
+  ]
+}

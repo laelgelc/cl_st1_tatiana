@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94478947,
+          "topicality": 0.00047438312
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.85995865,
+          "topicality": 0.0007997264
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.81120837,
+          "topicality": 0.56181395
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.8034023,
+          "topicality": 0.0044460827
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.68474966,
+          "topicality": 0.009581515
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.6015942,
+          "topicality": 0.012745277
+        },
+        {
+          "mid": "/m/0463cq4",
+          "description": "Crying",
+          "score": 0.52442443,
+          "topicality": 0.0005843703
+        },
+        {
+          "mid": "/m/04v2qy",
+          "description": "Cousin",
+          "score": 0.5009311,
+          "topicality": 0.0008990099
+        }
+      ]
+    }
+  ]
+}

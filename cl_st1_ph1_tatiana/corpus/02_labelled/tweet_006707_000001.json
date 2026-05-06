@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9909473,
+          "topicality": 0.010291033
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.97802895,
+          "topicality": 0.014520416
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.97545844,
+          "topicality": 0.07526177
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9559955,
+          "topicality": 0.0009312095
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.88253963,
+          "topicality": 0.0121141225
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.84186566,
+          "topicality": 0.04591036
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.823398,
+          "topicality": 0.00010348925
+        },
+        {
+          "mid": "/m/020fsy",
+          "description": "Portable communications device",
+          "score": 0.75741017,
+          "topicality": 0.0027374232
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6703863,
+          "topicality": 0.005499391
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.65845394,
+          "topicality": 0.0013763019
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.59707683,
+          "topicality": 0.005111778
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.59077173,
+          "topicality": 0.006427153
+        },
+        {
+          "mid": "/m/030swj",
+          "description": "Mobile device",
+          "score": 0.58163387,
+          "topicality": 0.01649156
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.57002175,
+          "topicality": 7.340126e-05
+        }
+      ]
+    }
+  ]
+}

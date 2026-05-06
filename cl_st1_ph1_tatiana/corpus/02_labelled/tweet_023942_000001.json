@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.80974597,
+          "topicality": 0.021564137
+        },
+        {
+          "mid": "/m/018xm",
+          "description": "Ball",
+          "score": 0.649075,
+          "topicality": 0.10329264
+        },
+        {
+          "mid": "/m/0dpm1v",
+          "description": "Soccer ball",
+          "score": 0.6033025,
+          "topicality": 0.011244304
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5719804,
+          "topicality": 0.0032900474
+        },
+        {
+          "mid": "/m/01226z",
+          "description": "Football",
+          "score": 0.5088067,
+          "topicality": 0.019397656
+        }
+      ]
+    }
+  ]
+}

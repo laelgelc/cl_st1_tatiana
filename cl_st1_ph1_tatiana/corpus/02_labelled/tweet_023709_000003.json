@@ -1,0 +1,152 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k0mv",
+          "description": "Road surface",
+          "score": 0.96734905,
+          "topicality": 0.0007280142
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.95643646,
+          "topicality": 0.039426014
+        },
+        {
+          "mid": "/m/0dx1j",
+          "description": "Town",
+          "score": 0.9559529,
+          "topicality": 0.02981881
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.95561695,
+          "topicality": 0.2770203
+        },
+        {
+          "mid": "/m/06gfj",
+          "description": "Road",
+          "score": 0.9538939,
+          "topicality": 0.033803288
+        },
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.94771,
+          "topicality": 0.074731074
+        },
+        {
+          "mid": "/m/0180xr",
+          "description": "Neighbourhood",
+          "score": 0.9450078,
+          "topicality": 0.028773427
+        },
+        {
+          "mid": "/m/02nfxt",
+          "description": "Residential area",
+          "score": 0.93304634,
+          "topicality": 0.013998855
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.92628753,
+          "topicality": 0.12071924
+        },
+        {
+          "mid": "/m/0bm8qyq",
+          "description": "Thoroughfare",
+          "score": 0.9209737,
+          "topicality": 0.020073805
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.91375893,
+          "topicality": 0.015694587
+        },
+        {
+          "mid": "/m/0hr8",
+          "description": "Asphalt",
+          "score": 0.8944847,
+          "topicality": 0.004610084
+        },
+        {
+          "mid": "/m/0d9wj",
+          "description": "Urban design",
+          "score": 0.8923898,
+          "topicality": 0.0014748238
+        },
+        {
+          "mid": "/m/02lts",
+          "description": "Electricity",
+          "score": 0.89182967,
+          "topicality": 0.0009940212
+        },
+        {
+          "mid": "/m/033j3c",
+          "description": "Lane",
+          "score": 0.87275517,
+          "topicality": 0.012029118
+        },
+        {
+          "mid": "/m/0c1vxg",
+          "description": "Mixed-use",
+          "score": 0.8235059,
+          "topicality": 0.0014757005
+        },
+        {
+          "mid": "/m/0750y",
+          "description": "Suburb",
+          "score": 0.77128404,
+          "topicality": 0.017899549
+        },
+        {
+          "mid": "/m/0cmsl0l",
+          "description": "Electrical Supply",
+          "score": 0.767855,
+          "topicality": 0.00017549437
+        },
+        {
+          "mid": "/m/033rq4",
+          "description": "Street light",
+          "score": 0.7237114,
+          "topicality": 0.0028363552
+        },
+        {
+          "mid": "/m/083kv",
+          "description": "Wire",
+          "score": 0.711182,
+          "topicality": 0.00014666829
+        },
+        {
+          "mid": "/m/04w7nv",
+          "description": "Overhead power line",
+          "score": 0.7038358,
+          "topicality": 0.00037896656
+        },
+        {
+          "mid": "/m/01lwf0",
+          "description": "Alley",
+          "score": 0.6517038,
+          "topicality": 0.01298458
+        },
+        {
+          "mid": "/m/02lxj",
+          "description": "Electrical network",
+          "score": 0.61305326,
+          "topicality": 6.879016e-05
+        },
+        {
+          "mid": "/m/01jm2n",
+          "description": "Walkway",
+          "score": 0.5474938,
+          "topicality": 0.0037201038
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.8865918,
+          "topicality": 0.005405807
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.77060556,
+          "topicality": 0.014807271
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.59581834,
+          "topicality": 0.0028067634
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.5657905,
+          "topicality": 0.20258875
+        }
+      ]
+    }
+  ]
+}

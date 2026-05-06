@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.91461957,
+          "topicality": 0.044785127
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.6530308,
+          "topicality": 0.0013064096
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.61025447,
+          "topicality": 0.06452213
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.525507,
+          "topicality": 0.018419705
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.5050175,
+          "topicality": 0.0064589395
+        }
+      ]
+    }
+  ]
+}

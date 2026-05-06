@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.74910915,
+          "topicality": 0.0102299815
+        },
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.7455907,
+          "topicality": 0.0040456713
+        },
+        {
+          "mid": "/m/01jp3p",
+          "description": "Tradesman",
+          "score": 0.6229464,
+          "topicality": 0.009811891
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.61078286,
+          "topicality": 0.0001814428
+        },
+        {
+          "mid": "/m/09j9h",
+          "description": "Engineer",
+          "score": 0.5479709,
+          "topicality": 0.02126384
+        },
+        {
+          "mid": "/m/0l8fl",
+          "description": "Model aircraft",
+          "score": 0.5374719,
+          "topicality": 0.0003574547
+        },
+        {
+          "mid": "/m/025tnyc",
+          "description": "Lumber",
+          "score": 0.53623444,
+          "topicality": 0.0093842605
+        }
+      ]
+    }
+  ]
+}

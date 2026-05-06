@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6146215,
+          "topicality": 0.0022211561
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.58732504,
+          "topicality": 0.17414038
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5813731,
+          "topicality": 0.0072153886
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5772553,
+          "topicality": 0.024052188
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5645877,
+          "topicality": 0.00057566044
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.5520918,
+          "topicality": 0.005438624
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5365048,
+          "topicality": 0.005216417
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5095673,
+          "topicality": 0.0067698075
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.50200635,
+          "topicality": 0.057292968
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8281063,
+          "topicality": 0.005475009
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.74436504,
+          "topicality": 0.011425535
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.73139745,
+          "topicality": 0.00094439683
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.68303704,
+          "topicality": 0.026231257
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.6322667,
+          "topicality": 0.006824653
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5218644,
+          "topicality": 0.09840187
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.52168316,
+          "topicality": 0.09555646
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5188986,
+          "topicality": 0.004727204
+        }
+      ]
+    }
+  ]
+}

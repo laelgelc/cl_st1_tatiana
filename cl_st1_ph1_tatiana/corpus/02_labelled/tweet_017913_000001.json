@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bwgjh",
+          "description": "Medical thermometer",
+          "score": 0.9163573,
+          "topicality": 0.11107634
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.84144914,
+          "topicality": 0.0077946656
+        },
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.8115171,
+          "topicality": 0.7349851
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.73702526,
+          "topicality": 0.004447617
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.67125165,
+          "topicality": 0.0002166508
+        },
+        {
+          "mid": "/m/02x8n4r",
+          "description": "Fertility monitor",
+          "score": 0.5969258,
+          "topicality": 0.006968652
+        },
+        {
+          "mid": "/m/07gr_",
+          "description": "Temperature",
+          "score": 0.51773965,
+          "topicality": 0.016715616
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.50239867,
+          "topicality": 0.0011942333
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9369422,
+          "topicality": 0.001042577
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.82507044,
+          "topicality": 0.0017654401
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.81190884,
+          "topicality": 0.095495
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.77728695,
+          "topicality": 0.000642735
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6098827,
+          "topicality": 0.027555047
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.57148415,
+          "topicality": 0.009914736
+        }
+      ]
+    }
+  ]
+}

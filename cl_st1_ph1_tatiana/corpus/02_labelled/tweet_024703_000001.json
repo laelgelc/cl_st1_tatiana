@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8338662,
+          "topicality": 0.001964809
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.819186,
+          "topicality": 0.36450762
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.67937636,
+          "topicality": 0.09583539
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6601579,
+          "topicality": 0.10005912
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.64932185,
+          "topicality": 0.0049820323
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.59398943,
+          "topicality": 0.0048333304
+        },
+        {
+          "mid": "/m/0hv3g",
+          "description": "Conifers",
+          "score": 0.58213437,
+          "topicality": 2.2054108e-05
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55091274,
+          "topicality": 0.011271868
+        }
+      ]
+    }
+  ]
+}

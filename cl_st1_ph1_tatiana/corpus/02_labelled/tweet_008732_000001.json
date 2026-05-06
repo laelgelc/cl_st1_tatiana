@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9022351,
+          "topicality": 0.0016315096
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8401087,
+          "topicality": 0.0023781462
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.80514824,
+          "topicality": 0.0017280206
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7735381,
+          "topicality": 0.04420788
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7394236,
+          "topicality": 0.011197742
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7163685,
+          "topicality": 0.19966397
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.6663818,
+          "topicality": 0.19097394
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.60440224,
+          "topicality": 0.00029807264
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5821991,
+          "topicality": 0.09628789
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5673843,
+          "topicality": 0.00096245063
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.5497757,
+          "topicality": 0.012912053
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54430884,
+          "topicality": 0.02473385
+        },
+        {
+          "mid": "/m/0129f4",
+          "description": "Chemical compound",
+          "score": 0.529329,
+          "topicality": 0.003693302
+        }
+      ]
+    }
+  ]
+}

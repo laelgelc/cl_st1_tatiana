@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.97695905,
+          "topicality": 0.0020769583
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9585968,
+          "topicality": 0.025443032
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90289235,
+          "topicality": 0.00040964622
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8498408,
+          "topicality": 0.0010118932
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.84012014,
+          "topicality": 0.044502854
+        }
+      ]
+    }
+  ]
+}

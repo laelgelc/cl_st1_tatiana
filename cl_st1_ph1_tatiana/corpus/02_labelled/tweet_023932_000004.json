@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8970533,
+          "topicality": 0.0031602713
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8415487,
+          "topicality": 0.006025052
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.8145936,
+          "topicality": 0.0012525497
+        },
+        {
+          "mid": "/m/058sv",
+          "description": "Magazine",
+          "score": 0.77475107,
+          "topicality": 0.09043957
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.6147645,
+          "topicality": 0.07933706
+        },
+        {
+          "mid": "/m/07mbq",
+          "description": "Tabloid",
+          "score": 0.6088822,
+          "topicality": 0.016658109
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5658035,
+          "topicality": 0.00011582223
+        },
+        {
+          "mid": "/m/09j1x",
+          "description": "Undergarment",
+          "score": 0.5192201,
+          "topicality": 0.0001277977
+        }
+      ]
+    }
+  ]
+}

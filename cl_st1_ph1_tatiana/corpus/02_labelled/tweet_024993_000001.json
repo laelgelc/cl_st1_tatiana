@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.79346126,
+          "topicality": 0.003395287
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.6629575,
+          "topicality": 0.0010731361
+        },
+        {
+          "mid": "/m/01v229",
+          "description": "Raincoat",
+          "score": 0.6404653,
+          "topicality": 0.0018002131
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.6003634,
+          "topicality": 0.3323708
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.54885364,
+          "topicality": 0.0054127644
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.53233296,
+          "topicality": 0.002085146
+        }
+      ]
+    }
+  ]
+}

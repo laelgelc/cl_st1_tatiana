@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8134104,
+          "topicality": 0.0017584173
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7294058,
+          "topicality": 0.0019522397
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.64976233,
+          "topicality": 0.0025767544
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6214053,
+          "topicality": 0.024523446
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.61068034,
+          "topicality": 0.090496376
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.55300224,
+          "topicality": 3.430092e-06
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.54824364,
+          "topicality": 0.0010067056
+        }
+      ]
+    }
+  ]
+}

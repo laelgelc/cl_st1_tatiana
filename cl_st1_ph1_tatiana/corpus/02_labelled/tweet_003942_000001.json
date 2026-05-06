@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.7900496,
+          "topicality": 0.101844504
+        },
+        {
+          "mid": "/m/088l6h",
+          "description": "Family car",
+          "score": 0.7434085,
+          "topicality": 8.7609864e-05
+        },
+        {
+          "mid": "/m/02jxn5",
+          "description": "Parking lot",
+          "score": 0.6750626,
+          "topicality": 0.011379965
+        },
+        {
+          "mid": "/m/01jp76",
+          "description": "Parking",
+          "score": 0.5980584,
+          "topicality": 0.009627767
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5852203,
+          "topicality": 0.0061947666
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.5529733,
+          "topicality": 0.00048178085
+        },
+        {
+          "mid": "/m/0ctrp",
+          "description": "Sport utility vehicle",
+          "score": 0.54135615,
+          "topicality": 0.00017084963
+        },
+        {
+          "mid": "/m/014mpm",
+          "description": "Intersection",
+          "score": 0.5233858,
+          "topicality": 0.0002978823
+        },
+        {
+          "mid": "/m/0cfzkp",
+          "description": "Compact MPV",
+          "score": 0.50268847,
+          "topicality": 2.202136e-05
+        }
+      ]
+    }
+  ]
+}

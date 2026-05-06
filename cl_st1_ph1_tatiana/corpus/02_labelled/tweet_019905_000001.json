@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.89762384,
+          "topicality": 0.006929508
+        },
+        {
+          "mid": "/m/02csf",
+          "description": "Drawing",
+          "score": 0.82885987,
+          "topicality": 0.15605587
+        },
+        {
+          "mid": "/m/0919rx",
+          "description": "Line art",
+          "score": 0.80634993,
+          "topicality": 0.061061453
+        },
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.76738507,
+          "topicality": 0.17559919
+        },
+        {
+          "mid": "/m/07glzq",
+          "description": "Sketch",
+          "score": 0.6704226,
+          "topicality": 0.099608675
+        }
+      ]
+    }
+  ]
+}

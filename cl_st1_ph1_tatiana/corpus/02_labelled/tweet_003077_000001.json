@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9021901,
+          "topicality": 0.0027784964
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.87352455,
+          "topicality": 0.00059719075
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8657855,
+          "topicality": 9.1850656e-05
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.75025266,
+          "topicality": 0.034399442
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.73268384,
+          "topicality": 0.0059036063
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.72933066,
+          "topicality": 0.0011506696
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6946627,
+          "topicality": 0.0005732589
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6218794,
+          "topicality": 0.032580797
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6071046,
+          "topicality": 0.0065602
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.5846244,
+          "topicality": 0.033489406
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52943844,
+          "topicality": 0.003540003
+        }
+      ]
+    }
+  ]
+}

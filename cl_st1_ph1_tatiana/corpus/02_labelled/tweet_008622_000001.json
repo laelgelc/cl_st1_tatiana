@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.9149486,
+          "topicality": 0.006724089
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.71473855,
+          "topicality": 0.0008925854
+        },
+        {
+          "mid": "/m/0btmb",
+          "description": "Superhero",
+          "score": 0.5534183,
+          "topicality": 0.0075666956
+        },
+        {
+          "mid": "/m/07vwy6",
+          "description": "Street art",
+          "score": 0.5437349,
+          "topicality": 0.039480325
+        },
+        {
+          "mid": "/m/034wh",
+          "description": "Graffiti",
+          "score": 0.52053934,
+          "topicality": 0.038434714
+        }
+      ]
+    }
+  ]
+}

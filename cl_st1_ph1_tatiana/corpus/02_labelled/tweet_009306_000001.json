@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.77791935,
+          "topicality": 0.019061495
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.5936463,
+          "topicality": 0.027292743
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.54313385,
+          "topicality": 0.02085717
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5362177,
+          "topicality": 0.00066788
+        },
+        {
+          "mid": "/m/02_784",
+          "description": "Display advertising",
+          "score": 0.5164223,
+          "topicality": 0.00087239326
+        }
+      ]
+    }
+  ]
+}

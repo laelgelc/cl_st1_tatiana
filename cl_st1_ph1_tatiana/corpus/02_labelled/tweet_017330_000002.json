@@ -1,0 +1,49 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.9294322,
+          "topicality": 0.3186676
+        },
+        {
+          "mid": "/m/01fnck",
+          "description": "Waste",
+          "score": 0.8395534
+        },
+        {
+          "mid": "/m/03ns2k",
+          "description": "Litter",
+          "score": 0.8038183,
+          "topicality": 0.34087816
+        },
+        {
+          "mid": "/m/01g0g",
+          "description": "Brick",
+          "score": 0.6751609,
+          "topicality": 0.0006403511
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6577672,
+          "topicality": 0.013603754
+        },
+        {
+          "mid": "/m/0cl7h",
+          "description": "Drainage",
+          "score": 0.59755,
+          "topicality": 0.082057364
+        },
+        {
+          "mid": "/m/09w9qp",
+          "description": "Pipe",
+          "score": 0.5097112,
+          "topicality": 0.0039723055
+        }
+      ]
+    }
+  ]
+}

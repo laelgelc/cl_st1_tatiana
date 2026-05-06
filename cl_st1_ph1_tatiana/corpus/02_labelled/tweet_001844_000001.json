@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.95167273,
+          "topicality": 0.18699823
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7831061,
+          "topicality": 0.0016374231
+        },
+        {
+          "mid": "/m/02_n6y",
+          "description": "Goggles",
+          "score": 0.7391478,
+          "topicality": 0.0065696943
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.715469,
+          "topicality": 0.0028697085
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.69377345,
+          "topicality": 0.00018549756
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5385119,
+          "topicality": 0.022539835
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5333022,
+          "topicality": 2.4597139e-05
+        }
+      ]
+    }
+  ]
+}

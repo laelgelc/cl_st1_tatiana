@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9369527,
+          "topicality": 0.007992792
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8350913,
+          "topicality": 0.00422953
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8133607,
+          "topicality": 0.0018809091
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.79650956,
+          "topicality": 0.021074574
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.7568989,
+          "topicality": 0.00038021154
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.7268318,
+          "topicality": 0.028673554
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.69630903,
+          "topicality": 0.003167532
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.64238924,
+          "topicality": 0.002998046
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.5934662,
+          "topicality": 0.0010697166
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.56464255,
+          "topicality": 0.050834253
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.5102046,
+          "topicality": 0.0003936576
+        }
+      ]
+    }
+  ]
+}

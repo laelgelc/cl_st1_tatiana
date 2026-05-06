@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01vw0_",
+          "description": "Grave",
+          "score": 0.9346147,
+          "topicality": 0.50284433
+        },
+        {
+          "mid": "/m/02vk6x",
+          "description": "Headstone",
+          "score": 0.92257667,
+          "topicality": 0.06884129
+        },
+        {
+          "mid": "/m/0h36z",
+          "description": "Cemetery",
+          "score": 0.89183724,
+          "topicality": 0.8014996
+        },
+        {
+          "mid": "/m/022ch",
+          "description": "Cross",
+          "score": 0.6754331,
+          "topicality": 0.003198981
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.556235,
+          "topicality": 0.00013879251
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.5295681,
+          "topicality": 0.00013482776
+        }
+      ]
+    }
+  ]
+}

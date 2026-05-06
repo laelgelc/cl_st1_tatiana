@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98229235,
+          "topicality": 0.004411208
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.747386,
+          "topicality": 0.017606746
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.68701655,
+          "topicality": 0.00010971545
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.67746806,
+          "topicality": 0.006805647
+        }
+      ]
+    }
+  ]
+}

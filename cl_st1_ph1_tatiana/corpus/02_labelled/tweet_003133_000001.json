@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9854746,
+          "topicality": 0.001026423
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98273546,
+          "topicality": 0.006238563
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.9190342,
+          "topicality": 0.0021242984
+        },
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.9141795,
+          "topicality": 0.002948114
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.75276023,
+          "topicality": 0.00822843
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7458857,
+          "topicality": 0.00527081
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.70434296,
+          "topicality": 0.021722006
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6119197,
+          "topicality": 0.07667558
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.55441123,
+          "topicality": 0.007993053
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.5186101,
+          "topicality": 0.041589644
+        }
+      ]
+    }
+  ]
+}

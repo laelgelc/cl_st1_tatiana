@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.61618197,
+          "topicality": 0.08362826
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.57368004,
+          "topicality": 0.035274494
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.5575898,
+          "topicality": 0.07287271
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5510591,
+          "topicality": 0.0008622917
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.5318955,
+          "topicality": 0.0013595542
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5274567,
+          "topicality": 0.11892123
+        }
+      ]
+    }
+  ]
+}

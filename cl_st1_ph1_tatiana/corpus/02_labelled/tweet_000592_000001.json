@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.69190156,
+          "topicality": 0.0014386162
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.6118711,
+          "topicality": 0.00020217299
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.58041066,
+          "topicality": 0.0002592675
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.5571256,
+          "topicality": 0.1440176
+        }
+      ]
+    }
+  ]
+}

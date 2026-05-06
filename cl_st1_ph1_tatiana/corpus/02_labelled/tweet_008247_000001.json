@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.8795082,
+          "topicality": 0.0009274393
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6523411,
+          "topicality": 0.012030454
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5674335,
+          "topicality": 0.00021203996
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5163004,
+          "topicality": 0.0902259
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.5009522,
+          "topicality": 0.015969662
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.8962545,
+          "topicality": 0.004760711
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.86493415,
+          "topicality": 0.003427365
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.80171996,
+          "topicality": 0.0030815727
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.74701214,
+          "topicality": 0.041871175
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7200518,
+          "topicality": 0.0007693552
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.71175516,
+          "topicality": 0.00052018213
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6672912,
+          "topicality": 0.03534875
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6455985,
+          "topicality": 0.032015156
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.8974535,
+          "topicality": 0.087647334
+        },
+        {
+          "mid": "/m/02vk7kj",
+          "description": "Foil",
+          "score": 0.8585006,
+          "topicality": 0.0054495865
+        },
+        {
+          "mid": "/m/0b3dyl",
+          "description": "Finger food",
+          "score": 0.5997207,
+          "topicality": 2.1030453e-05
+        },
+        {
+          "mid": "/m/023pfw",
+          "description": "Aluminium foil",
+          "score": 0.5948063,
+          "topicality": 0.0054407134
+        },
+        {
+          "mid": "/m/020vl",
+          "description": "Chocolate",
+          "score": 0.5838207,
+          "topicality": 0.24876621
+        },
+        {
+          "mid": "/m/0270h",
+          "description": "Dessert",
+          "score": 0.57452446,
+          "topicality": 0.019975081
+        },
+        {
+          "mid": "/m/0h55b",
+          "description": "Junk food",
+          "score": 0.5196604,
+          "topicality": 0.0021609205
+        }
+      ]
+    }
+  ]
+}

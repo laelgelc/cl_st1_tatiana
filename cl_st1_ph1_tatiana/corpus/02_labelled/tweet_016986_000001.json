@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9132969,
+          "topicality": 0.00413671
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.882187,
+          "topicality": 0.0069554653
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.8594503,
+          "topicality": 0.011916586
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8125944,
+          "topicality": 0.011760831
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7844809,
+          "topicality": 0.012938941
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.7534651,
+          "topicality": 0.23679525
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.65581566,
+          "topicality": 0.0020238573
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.52173555,
+          "topicality": 0.0017840614
+        }
+      ]
+    }
+  ]
+}

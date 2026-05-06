@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.89978945,
+          "topicality": 0.7236214
+        },
+        {
+          "mid": "/m/0151nd",
+          "description": "Balaclava",
+          "score": 0.853014,
+          "topicality": 0.09779511
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.84529024,
+          "topicality": 0.016666727
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7310513,
+          "topicality": 0.026829151
+        },
+        {
+          "mid": "/m/0jyt6",
+          "description": "Masque",
+          "score": 0.6585671,
+          "topicality": 0.05086119
+        }
+      ]
+    }
+  ]
+}

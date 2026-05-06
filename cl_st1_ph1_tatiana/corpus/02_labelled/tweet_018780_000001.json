@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.91370296,
+          "topicality": 0.017940162
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8461278,
+          "topicality": 0.0074878526
+        },
+        {
+          "mid": "/m/0ql23",
+          "description": "Pollinator",
+          "score": 0.58707947,
+          "topicality": 0.008707015
+        },
+        {
+          "mid": "/m/06gjp9",
+          "description": "Floral design",
+          "score": 0.5417929,
+          "topicality": 0.00220425
+        },
+        {
+          "mid": "/m/0zkm",
+          "description": "Arthropod",
+          "score": 0.5340013,
+          "topicality": 0.00048646604
+        }
+      ]
+    }
+  ]
+}

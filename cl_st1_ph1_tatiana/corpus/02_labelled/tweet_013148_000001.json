@@ -1,0 +1,224 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "Building",
+          "score": 0.97754663,
+          "topicality": 0.2819075
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.9765856,
+          "topicality": 0.06896942
+        },
+        {
+          "mid": "/m/06gfj",
+          "description": "Road",
+          "score": 0.9748787,
+          "topicality": 0.1360584
+        },
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.97371,
+          "topicality": 0.14364971
+        },
+        {
+          "mid": "/m/07bsy",
+          "description": "Transport",
+          "score": 0.9718093,
+          "topicality": 0.055546306
+        },
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.9657955,
+          "topicality": 0.027764281
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9581534,
+          "topicality": 0.116157584
+        },
+        {
+          "mid": "/m/0bm8qyq",
+          "description": "Thoroughfare",
+          "score": 0.94503695,
+          "topicality": 0.013196765
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.94351006,
+          "topicality": 0.01714866
+        },
+        {
+          "mid": "/m/056mk",
+          "description": "Metropolis",
+          "score": 0.90570855,
+          "topicality": 0.045942735
+        },
+        {
+          "mid": "/m/033j3c",
+          "description": "Lane",
+          "score": 0.90504766,
+          "topicality": 0.049573652
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.90101993,
+          "topicality": 0.0012722486
+        },
+        {
+          "mid": "/m/0d9wj",
+          "description": "Urban design",
+          "score": 0.89770925,
+          "topicality": 0.031775896
+        },
+        {
+          "mid": "/m/0hr8",
+          "description": "Asphalt",
+          "score": 0.89558274,
+          "topicality": 0.0046828957
+        },
+        {
+          "mid": "/m/079cl",
+          "description": "Skyscraper",
+          "score": 0.87064797,
+          "topicality": 0.23978817
+        },
+        {
+          "mid": "/m/0cz_0",
+          "description": "Highway",
+          "score": 0.8701172,
+          "topicality": 0.011055521
+        },
+        {
+          "mid": "/m/014mpm",
+          "description": "Intersection",
+          "score": 0.86973876,
+          "topicality": 0.17017528
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.86826414,
+          "topicality": 0.029930022
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.8449479,
+          "topicality": 0.0011750746
+        },
+        {
+          "mid": "/m/0c1vxg",
+          "description": "Mixed-use",
+          "score": 0.83273906,
+          "topicality": 0.0029248311
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.8268387,
+          "topicality": 0.16258372
+        },
+        {
+          "mid": "/m/034z7h",
+          "description": "Cityscape",
+          "score": 0.8125505,
+          "topicality": 0.010898762
+        },
+        {
+          "mid": "/m/0335j",
+          "description": "Controlled-access highway",
+          "score": 0.8123097,
+          "topicality": 0.00450872
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.8020524,
+          "topicality": 0.03160537
+        },
+        {
+          "mid": "/m/016znt",
+          "description": "Public utility",
+          "score": 0.7676757,
+          "topicality": 0.0034812815
+        },
+        {
+          "mid": "/m/09x3lm",
+          "description": "Road junction",
+          "score": 0.7601968,
+          "topicality": 0.059182055
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.71334445,
+          "topicality": 0.001611454
+        },
+        {
+          "mid": "/m/014xcs",
+          "description": "Pedestrian crossing",
+          "score": 0.71137714,
+          "topicality": 0.038282584
+        },
+        {
+          "mid": "/m/033rq4",
+          "description": "Street light",
+          "score": 0.6975268,
+          "topicality": 0.0039509735
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.69382626,
+          "topicality": 0.00045147227
+        },
+        {
+          "mid": "/m/014v7p",
+          "description": "Zebra crossing",
+          "score": 0.6887989,
+          "topicality": 0.030266687
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.6204447,
+          "topicality": 0.010481525
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.59478444,
+          "topicality": 0.13699894
+        },
+        {
+          "mid": "/m/07r04",
+          "description": "Truck",
+          "score": 0.56658536,
+          "topicality": 0.0008805013
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5664487,
+          "topicality": 0.00084262504
+        },
+        {
+          "mid": "/m/02mgm6",
+          "description": "Shoulder",
+          "score": 0.54270303,
+          "topicality": 0.0007138979
+        }
+      ]
+    }
+  ]
+}

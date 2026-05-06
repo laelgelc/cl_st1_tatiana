@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.89250934,
+          "topicality": 0.0026019458
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.737443,
+          "topicality": 0.0004408502
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7216527,
+          "topicality": 0.0065357564
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.67087996,
+          "topicality": 0.0034112658
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5315347,
+          "topicality": 0.007168509
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.50870496,
+          "topicality": 0.0017915736
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447988,
+          "topicality": 0.0013087951
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.64434296,
+          "topicality": 0.012406482
+        },
+        {
+          "mid": "/m/0687y",
+          "description": "Prayer",
+          "score": 0.644178,
+          "topicality": 0.06858408
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.6395365,
+          "topicality": 0.051370144
+        }
+      ]
+    }
+  ]
+}

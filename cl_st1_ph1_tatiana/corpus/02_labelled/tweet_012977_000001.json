@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.74889433,
+          "topicality": 0.03447306
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7357942,
+          "topicality": 0.00020017235
+        },
+        {
+          "mid": "/m/02_n6y",
+          "description": "Goggles",
+          "score": 0.6728619,
+          "topicality": 5.0716775e-05
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.62794614,
+          "topicality": 0.0006018927
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.58927685,
+          "topicality": 0.0027484503
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.58857983,
+          "topicality": 0.0002147673
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.54853135,
+          "topicality": 7.464565e-05
+        }
+      ]
+    }
+  ]
+}

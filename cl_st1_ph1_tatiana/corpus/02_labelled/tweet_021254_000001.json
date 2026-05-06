@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01443y",
+          "description": "Headgear",
+          "score": 0.95671666,
+          "topicality": 0.0009909001
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.76618564,
+          "topicality": 0.023546755
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.5937769,
+          "topicality": 0.10477136
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5758882,
+          "topicality": 0.039200675
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.57221687,
+          "topicality": 0.08248911
+        },
+        {
+          "mid": "/m/04y7xr",
+          "description": "Cook",
+          "score": 0.51729214,
+          "topicality": 0.0070927343
+        }
+      ]
+    }
+  ]
+}

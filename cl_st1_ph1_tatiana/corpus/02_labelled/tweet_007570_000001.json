@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.96813536,
+          "topicality": 0.005047044
+        },
+        {
+          "mid": "/m/03d49p1",
+          "description": "Monochrome photography",
+          "score": 0.90456307,
+          "topicality": 0.00421874
+        },
+        {
+          "mid": "/m/01mwkf",
+          "description": "Monochrome",
+          "score": 0.842179,
+          "topicality": 0.0052108527
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5910893,
+          "topicality": 0.011075369
+        }
+      ]
+    }
+  ]
+}

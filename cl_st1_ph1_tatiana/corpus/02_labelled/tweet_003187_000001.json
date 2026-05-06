@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j61q",
+          "description": "Tent",
+          "score": 0.9243081,
+          "topicality": 0.01823574
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.8913857,
+          "topicality": 0.0029740701
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.7189063,
+          "topicality": 0.0022693847
+        },
+        {
+          "mid": "/m/02w3fc",
+          "description": "Tarpaulin",
+          "score": 0.6640394,
+          "topicality": 0.0027585295
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.5870793,
+          "topicality": 0.005927131
+        },
+        {
+          "mid": "/m/0b03ql",
+          "description": "Canopy",
+          "score": 0.5809178,
+          "topicality": 0.00090136554
+        },
+        {
+          "mid": "/m/01h6d4",
+          "description": "Camping",
+          "score": 0.5758478,
+          "topicality": 0.0006166056
+        }
+      ]
+    }
+  ]
+}

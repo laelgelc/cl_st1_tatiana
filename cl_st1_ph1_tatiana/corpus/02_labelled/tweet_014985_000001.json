@@ -1,0 +1,122 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.95027035,
+          "topicality": 0.0023956103
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.93860054,
+          "topicality": 0.13145873
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.92652214,
+          "topicality": 0.08455177
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.92140454,
+          "topicality": 0.05284967
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.89380515,
+          "topicality": 0.0014535575
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.892324,
+          "topicality": 0.30117056
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.88687956,
+          "topicality": 0.2015367
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.8231867,
+          "topicality": 0.0074357637
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.8053507,
+          "topicality": 0.23952258
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.7592236,
+          "topicality": 0.010954123
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.7573446,
+          "topicality": 0.17281176
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.73126185,
+          "topicality": 0.022242997
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.73090726,
+          "topicality": 0.044044595
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.72736096,
+          "topicality": 0.025741473
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.7200964,
+          "topicality": 0.29657984
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6833179,
+          "topicality": 0.0049511134
+        },
+        {
+          "mid": "/m/062t2",
+          "description": "Pain",
+          "score": 0.5642766,
+          "topicality": 0.007980861
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55209905,
+          "topicality": 0.030645892
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.50364476,
+          "topicality": 1.3551501e-05
+        }
+      ]
+    }
+  ]
+}

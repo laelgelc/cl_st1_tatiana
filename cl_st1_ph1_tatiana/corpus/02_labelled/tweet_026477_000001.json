@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.984787,
+          "topicality": 0.014421615
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.8950181,
+          "topicality": 0.011228994
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8106253,
+          "topicality": 0.016645906
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7253659,
+          "topicality": 0.02208114
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6016555,
+          "topicality": 0.0022011553
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.59274656,
+          "topicality": 0.085468434
+        }
+      ]
+    }
+  ]
+}

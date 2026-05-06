@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.6876414,
+          "topicality": 0.67538434
+        },
+        {
+          "mid": "/m/0hgsb5g",
+          "description": "Day Dress",
+          "score": 0.68696564,
+          "topicality": 4.5853667e-05
+        },
+        {
+          "mid": "/m/0142sg",
+          "description": "One-piece garment",
+          "score": 0.5848195,
+          "topicality": 1.5771791e-05
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.57363856,
+          "topicality": 0.0864399
+        },
+        {
+          "mid": "/m/02x4gxs",
+          "description": "Sheath dress",
+          "score": 0.54294,
+          "topicality": 0.0009485739
+        }
+      ]
+    }
+  ]
+}

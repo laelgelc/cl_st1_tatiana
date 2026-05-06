@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.89733166,
+          "topicality": 0.065147266
+        },
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.87458247,
+          "topicality": 0.004709111
+        },
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.85818183,
+          "topicality": 0.049678177
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.76927066,
+          "topicality": 0.08857616
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.74369913,
+          "topicality": 0.09893508
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.72286546,
+          "topicality": 0.001232828
+        },
+        {
+          "mid": "/m/088l6h",
+          "description": "Family car",
+          "score": 0.7205024,
+          "topicality": 2.6469816e-05
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7082319,
+          "topicality": 0.09774005
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.56895566,
+          "topicality": 0.015444695
+        },
+        {
+          "mid": "/m/02jxn5",
+          "description": "Parking lot",
+          "score": 0.55423224,
+          "topicality": 0.0018850926
+        },
+        {
+          "mid": "/m/014mpm",
+          "description": "Intersection",
+          "score": 0.5440109,
+          "topicality": 1.8507128e-05
+        },
+        {
+          "mid": "/m/05zdsq",
+          "description": "California palm",
+          "score": 0.53276825,
+          "topicality": 0.00014011437
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.50765455,
+          "topicality": 0.035711464
+        }
+      ]
+    }
+  ]
+}

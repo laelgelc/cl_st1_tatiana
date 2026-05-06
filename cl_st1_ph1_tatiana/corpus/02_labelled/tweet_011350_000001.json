@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9331196,
+          "topicality": 0.13360156
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.93192714,
+          "topicality": 0.30662063
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.928949,
+          "topicality": 0.030664464
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.92247623,
+          "topicality": 0.085785694
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.89817864,
+          "topicality": 0.0034065095
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.8976427,
+          "topicality": 0.0042671645
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.826619,
+          "topicality": 0.0036877848
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7829473,
+          "topicality": 0.021530028
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.7431621,
+          "topicality": 0.022751553
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.7364356,
+          "topicality": 0.005343539
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.62446237,
+          "topicality": 0.037761334
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.6144309,
+          "topicality": 0.0014384523
+        },
+        {
+          "mid": "/m/02q1b85",
+          "description": "Boarding",
+          "score": 0.5550059,
+          "topicality": 0.006062327
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.54857856,
+          "topicality": 8.761337e-05
+        }
+      ]
+    }
+  ]
+}

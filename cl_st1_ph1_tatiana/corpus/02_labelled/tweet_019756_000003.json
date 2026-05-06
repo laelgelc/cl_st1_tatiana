@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g0g",
+          "description": "Brick",
+          "score": 0.9402298,
+          "topicality": 0.44993654
+        },
+        {
+          "mid": "/m/01__sk",
+          "description": "Brickwork",
+          "score": 0.92478585,
+          "topicality": 0.061381254
+        },
+        {
+          "mid": "/m/02cr01",
+          "description": "Building material",
+          "score": 0.8164194,
+          "topicality": 0.024267424
+        },
+        {
+          "mid": "/m/01vzvy",
+          "description": "Mortar",
+          "score": 0.59879684,
+          "topicality": 0.11487124
+        },
+        {
+          "mid": "/m/05y4t",
+          "description": "Paint",
+          "score": 0.58396846,
+          "topicality": 0.0067363163
+        }
+      ]
+    }
+  ]
+}

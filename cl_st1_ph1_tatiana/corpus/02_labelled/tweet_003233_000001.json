@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9526216,
+          "topicality": 0.028593013
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9050115,
+          "topicality": 0.0007937247
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8456377,
+          "topicality": 0.0058515244
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8137492,
+          "topicality": 0.00825801
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.65938896,
+          "topicality": 0.052934896
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.5501477,
+          "topicality": 0.010783649
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5247945,
+          "topicality": 0.00070176384
+        }
+      ]
+    }
+  ]
+}

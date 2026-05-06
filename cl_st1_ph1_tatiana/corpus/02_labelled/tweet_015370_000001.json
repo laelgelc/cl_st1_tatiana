@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9756822,
+          "topicality": 0.014953708
+        },
+        {
+          "mid": "/m/064rdf8",
+          "description": "Shipping container",
+          "score": 0.9174147,
+          "topicality": 0.34538653
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.8808321,
+          "topicality": 0.00038883343
+        },
+        {
+          "mid": "/m/070qm",
+          "description": "Freight transport",
+          "score": 0.7596627,
+          "topicality": 0.48832315
+        },
+        {
+          "mid": "/m/023cbk",
+          "description": "Cargo",
+          "score": 0.7464134,
+          "topicality": 0.3304065
+        }
+      ]
+    }
+  ]
+}

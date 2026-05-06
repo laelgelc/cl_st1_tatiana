@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9137265,
+          "topicality": 0.0753127
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9104744,
+          "topicality": 0.0021064642
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9104657,
+          "topicality": 0.6553252
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.83441234,
+          "topicality": 0.23514614
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8159594,
+          "topicality": 0.0038145033
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.8064612,
+          "topicality": 0.0013329838
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.80112416,
+          "topicality": 0.19526453
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.73355484,
+          "topicality": 0.005778558
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.62350434,
+          "topicality": 0.021424342
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.6210278,
+          "topicality": 1.89823e-05
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5629049,
+          "topicality": 0.0104208235
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.53932583,
+          "topicality": 0.0009878136
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.50135064,
+          "topicality": 0.00060404924
+        }
+      ]
+    }
+  ]
+}

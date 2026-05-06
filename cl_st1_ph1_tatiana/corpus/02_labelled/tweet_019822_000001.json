@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.96032524,
+          "topicality": 0.046624858
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9096713,
+          "topicality": 0.0002823031
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8936215,
+          "topicality": 0.0007915303
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8798434,
+          "topicality": 0.03202784
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.56769097,
+          "topicality": 0.0004966988
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.5174102,
+          "topicality": 0.019087126
+        }
+      ]
+    }
+  ]
+}

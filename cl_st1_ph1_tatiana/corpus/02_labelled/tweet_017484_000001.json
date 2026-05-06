@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.8748923,
+          "topicality": 0.00084680924
+        },
+        {
+          "mid": "/m/0d9wj",
+          "description": "Urban design",
+          "score": 0.87340957,
+          "topicality": 0.0025592558
+        },
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.81420267,
+          "topicality": 0.050882086
+        },
+        {
+          "mid": "/m/027vj2v",
+          "description": "Aluminium",
+          "score": 0.54003483,
+          "topicality": 0.00035496126
+        }
+      ]
+    }
+  ]
+}

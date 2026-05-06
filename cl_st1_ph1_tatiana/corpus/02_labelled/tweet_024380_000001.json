@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.84397495,
+          "topicality": 0.08693117
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.7930297,
+          "topicality": 0.16258721
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7645252,
+          "topicality": 0.10306522
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7372256,
+          "topicality": 0.050226316
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7366551,
+          "topicality": 0.00092963286
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.59104,
+          "topicality": 0.01764366
+        }
+      ]
+    }
+  ]
+}

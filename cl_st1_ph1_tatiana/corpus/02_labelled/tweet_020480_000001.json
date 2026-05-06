@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9815491,
+          "topicality": 0.0015679843
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.8994612,
+          "topicality": 3.3652497e-05
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7747281,
+          "topicality": 0.018189488
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.62117255,
+          "topicality": 0.00096855254
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.53517956,
+          "topicality": 3.7852312e-06
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.52224153,
+          "topicality": 0.043394055
+        },
+        {
+          "mid": "/m/028mzr",
+          "description": "Hair coloring",
+          "score": 0.5014529,
+          "topicality": 5.4423617e-05
+        }
+      ]
+    }
+  ]
+}

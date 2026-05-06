@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94487405,
+          "topicality": 0.009148364
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.718678,
+          "topicality": 0.0011437443
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6315528,
+          "topicality": 0.004923302
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5713472,
+          "topicality": 0.0014038611
+        },
+        {
+          "mid": "/m/03n0sf",
+          "description": "Afro",
+          "score": 0.56947434,
+          "topicality": 0.011843505
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.55649245,
+          "topicality": 0.00033470234
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.50826776,
+          "topicality": 0.00083761086
+        }
+      ]
+    }
+  ]
+}

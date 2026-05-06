@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494873,
+          "topicality": 0.0028886877
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.93050843,
+          "topicality": 0.020788236
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.887487,
+          "topicality": 0.03593775
+        },
+        {
+          "mid": "/m/0464z4",
+          "description": "Pack animal",
+          "score": 0.84415424,
+          "topicality": 0.004167253
+        },
+        {
+          "mid": "/m/0fbf1m",
+          "description": "Terrestrial animal",
+          "score": 0.8280303,
+          "topicality": 0.0014868956
+        },
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.7838675,
+          "topicality": 0.0018084621
+        },
+        {
+          "mid": "/m/01280g",
+          "description": "Wildlife",
+          "score": 0.7336391,
+          "topicality": 0.0012434904
+        },
+        {
+          "mid": "/m/0ch8v",
+          "description": "Livestock",
+          "score": 0.6378927,
+          "topicality": 0.012211029
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6338784,
+          "topicality": 0.0010081662
+        },
+        {
+          "mid": "/m/0fjkt",
+          "description": "Tongue",
+          "score": 0.6251418,
+          "topicality": 0.025864976
+        },
+        {
+          "mid": "/m/08w8zl",
+          "description": "Ranch",
+          "score": 0.55976653,
+          "topicality": 0.0003538384
+        }
+      ]
+    }
+  ]
+}

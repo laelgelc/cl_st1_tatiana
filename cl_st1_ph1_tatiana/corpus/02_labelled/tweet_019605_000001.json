@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.72132075,
+          "topicality": 0.0027239586
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.70607746,
+          "topicality": 0.014981935
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.6381977,
+          "topicality": 0.014020538
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5004521,
+          "topicality": 0.012021312
+        }
+      ]
+    }
+  ]
+}

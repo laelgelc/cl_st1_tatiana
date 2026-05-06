@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9533356,
+          "topicality": 0.09659295
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94466823,
+          "topicality": 7.030849e-05
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.69260645,
+          "topicality": 0.0010807748
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.60924166,
+          "topicality": 0.00052274915
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.5546536,
+          "topicality": 0.038687877
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51020175,
+          "topicality": 0.0026175834
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.50497174,
+          "topicality": 6.7070294e-05
+        }
+      ]
+    }
+  ]
+}

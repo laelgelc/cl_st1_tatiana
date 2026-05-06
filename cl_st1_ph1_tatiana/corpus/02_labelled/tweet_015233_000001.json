@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.95410097,
+          "topicality": 0.079609066
+        },
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.9507172,
+          "topicality": 0.024483819
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9446679,
+          "topicality": 0.0007625808
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.89636254,
+          "topicality": 0.0025957017
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.7292296,
+          "topicality": 0.00010177863
+        }
+      ]
+    }
+  ]
+}

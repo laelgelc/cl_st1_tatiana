@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.86722285,
+          "topicality": 0.0124764675
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.8390216,
+          "topicality": 0.002745118
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.8155156,
+          "topicality": 0.0061863884
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.79968506,
+          "topicality": 0.001092967
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.78711855,
+          "topicality": 0.04061771
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.71853095,
+          "topicality": 0.07476669
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.70617074,
+          "topicality": 0.116836965
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.7005118,
+          "topicality": 8.4468375e-06
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.69683325,
+          "topicality": 0.11100112
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6106823,
+          "topicality": 0.0005046629
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.5684269,
+          "topicality": 0.003818261
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55489373,
+          "topicality": 0.030152591
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5332874,
+          "topicality": 0.012409774
+        }
+      ]
+    }
+  ]
+}

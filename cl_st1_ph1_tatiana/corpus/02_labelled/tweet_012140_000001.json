@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.926005,
+          "topicality": 0.7428697
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.8821452,
+          "topicality": 0.02692689
+        },
+        {
+          "mid": "/m/02h9bf",
+          "description": "Hood",
+          "score": 0.56900316,
+          "topicality": 0.006541196
+        },
+        {
+          "mid": "/m/0jyt6",
+          "description": "Masque",
+          "score": 0.5136695,
+          "topicality": 0.06572764
+        }
+      ]
+    }
+  ]
+}

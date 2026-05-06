@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.95880044,
+          "topicality": 0.6362512
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9585604,
+          "topicality": 0.4878345
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.95357764,
+          "topicality": 0.00519878
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9529858,
+          "topicality": 0.00020086621
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9508784,
+          "topicality": 0.06263192
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.93522805,
+          "topicality": 0.017398473
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.917801,
+          "topicality": 0.05652092
+        },
+        {
+          "mid": "/m/08xgn7",
+          "description": "Comfort",
+          "score": 0.90497714,
+          "topicality": 0.0013181888
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.8626241,
+          "topicality": 0.041788943
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.83131164,
+          "topicality": 0.11912589
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.82577205,
+          "topicality": 0.0031186244
+        },
+        {
+          "mid": "/m/06dc32",
+          "description": "Hospital gown",
+          "score": 0.8093469,
+          "topicality": 0.047303878
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.80335623,
+          "topicality": 0.005711712
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7558582,
+          "topicality": 0.023860428
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.58930695,
+          "topicality": 6.366999e-05
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5346239,
+          "topicality": 0.004398252
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.5251042,
+          "topicality": 0.010416552
+        }
+      ]
+    }
+  ]
+}

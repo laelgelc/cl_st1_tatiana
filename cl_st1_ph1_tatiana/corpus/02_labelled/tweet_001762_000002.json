@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.9677484,
+          "topicality": 0.0025124259
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.930355,
+          "topicality": 0.0071648727
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.9190772,
+          "topicality": 0.0026794802
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.84790426,
+          "topicality": 0.029672245
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.83969456,
+          "topicality": 0.0036393981
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.8021027,
+          "topicality": 0.0005519519
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.79723316,
+          "topicality": 0.037041165
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.7710997,
+          "topicality": 0.21931666
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.6973554,
+          "topicality": 0.0005448429
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.6731665,
+          "topicality": 0.008753472
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.63130987,
+          "topicality": 0.00076102756
+        },
+        {
+          "mid": "/m/07k55_3",
+          "description": "Hand luggage",
+          "score": 0.6239333,
+          "topicality": 7.371481e-05
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.53477526,
+          "topicality": 0.01179597
+        }
+      ]
+    }
+  ]
+}

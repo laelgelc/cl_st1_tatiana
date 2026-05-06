@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wzbmj",
+          "description": "Standing",
+          "score": 0.9369318
+        },
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.80883324,
+          "topicality": 0.000121137164
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.78348976,
+          "topicality": 0.5438301
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.70723456,
+          "topicality": 0.047236077
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7001457,
+          "topicality": 0.0009516068
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.696701,
+          "topicality": 0.01798391
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.655237,
+          "topicality": 0.17014602
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.563309,
+          "topicality": 5.894034e-05
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.56017345,
+          "topicality": 0.00067506084
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.501691,
+          "topicality": 0.0057573905
+        }
+      ]
+    }
+  ]
+}

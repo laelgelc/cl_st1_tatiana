@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97582144,
+          "topicality": 0.015558993
+        },
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95579976,
+          "topicality": 0.021945145
+        },
+        {
+          "mid": "/m/04k94",
+          "description": "Liquid",
+          "score": 0.9215781,
+          "topicality": 0.18996686
+        },
+        {
+          "mid": "/m/012mj",
+          "description": "Alcoholic drink",
+          "score": 0.89364547,
+          "topicality": 0.3076232
+        },
+        {
+          "mid": "/m/04shl0",
+          "description": "Liquor",
+          "score": 0.7175325,
+          "topicality": 0.06361208
+        },
+        {
+          "mid": "/m/024g6",
+          "description": "Cocktail",
+          "score": 0.6490151,
+          "topicality": 0.22468135
+        },
+        {
+          "mid": "/m/04_1j33",
+          "description": "Cranberry juice",
+          "score": 0.64004326,
+          "topicality": 0.006160292
+        },
+        {
+          "mid": "/m/040y6r",
+          "description": "Campari",
+          "score": 0.58111554,
+          "topicality": 0.012457698
+        },
+        {
+          "mid": "/m/06qrr",
+          "description": "Soft drink",
+          "score": 0.56817317,
+          "topicality": 0.009540709
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.53736776,
+          "topicality": 0.013809715
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53538996,
+          "topicality": 0.030986596
+        },
+        {
+          "mid": "/m/0h980f3",
+          "description": "Red Russian",
+          "score": 0.5207956,
+          "topicality": 0.004166222
+        }
+      ]
+    }
+  ]
+}

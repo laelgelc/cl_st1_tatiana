@@ -1,0 +1,49 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94491416,
+          "topicality": 0.016829252
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8229906,
+          "topicality": 0.006507273
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.79103047,
+          "topicality": 0.026067635
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "Portrait",
+          "score": 0.725201,
+          "topicality": 0.23695
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.6021961,
+          "topicality": 0.01942346
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.60183364,
+          "topicality": 0.0020881523
+        },
+        {
+          "mid": "/m/0266180",
+          "description": "Self-portrait",
+          "score": 0.5898283
+        }
+      ]
+    }
+  ]
+}

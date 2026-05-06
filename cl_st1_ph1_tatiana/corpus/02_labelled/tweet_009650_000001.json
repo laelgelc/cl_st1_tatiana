@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9816242,
+          "topicality": 0.060094755
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97588116,
+          "topicality": 0.19257252
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9339418,
+          "topicality": 0.0034792586
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9202374,
+          "topicality": 0.0016841128
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.9102031,
+          "topicality": 0.0134934625
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8807753,
+          "topicality": 0.053478766
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.8638077,
+          "topicality": 0.020636477
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8535138,
+          "topicality": 0.0016117711
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8517323,
+          "topicality": 0.025054894
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8379984,
+          "topicality": 0.009413453
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7065762,
+          "topicality": 0.034650944
+        },
+        {
+          "mid": "/m/09l0j_",
+          "description": "Ring",
+          "score": 0.6283363,
+          "topicality": 0.28806862
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5807861,
+          "topicality": 0.003710421
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.5380251,
+          "topicality": 0.0019955626
+        }
+      ]
+    }
+  ]
+}

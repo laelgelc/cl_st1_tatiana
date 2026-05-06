@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.91883266,
+          "topicality": 0.052958835
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.8913913,
+          "topicality": 0.008165178
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.8099777,
+          "topicality": 0.00968258
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7919443,
+          "topicality": 0.009180902
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.6242917,
+          "topicality": 0.00092159736
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.59925044,
+          "topicality": 0.11345253
+        }
+      ]
+    }
+  ]
+}

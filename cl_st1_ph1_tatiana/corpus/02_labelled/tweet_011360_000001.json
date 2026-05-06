@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.820567,
+          "topicality": 0.007884241
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7680802,
+          "topicality": 0.008245784
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.61945194,
+          "topicality": 0.0011944738
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.52043027,
+          "topicality": 0.034981046
+        }
+      ]
+    }
+  ]
+}

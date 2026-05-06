@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9855789,
+          "topicality": 9.743257e-05
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9842551,
+          "topicality": 0.0010793565
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.9437412,
+          "topicality": 0.00060541
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8436331,
+          "topicality": 0.0003641838
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.74527913,
+          "topicality": 0.001019773
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.71366495,
+          "topicality": 0.029181378
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.70810163,
+          "topicality": 0.0005934036
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.67283374,
+          "topicality": 0.011100559
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.66673166,
+          "topicality": 0.00026556914
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6613265,
+          "topicality": 0.029011484
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.525461,
+          "topicality": 0.017927263
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.509829,
+          "topicality": 0.013773999
+        }
+      ]
+    }
+  ]
+}

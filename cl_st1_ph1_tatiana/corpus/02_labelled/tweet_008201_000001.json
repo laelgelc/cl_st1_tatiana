@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.9471151,
+          "topicality": 0.26338333
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9412565,
+          "topicality": 0.003632616
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9382835,
+          "topicality": 0.0020988244
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.93112713,
+          "topicality": 0.074190155
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.921896,
+          "topicality": 0.01910391
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.91840893,
+          "topicality": 0.15846719
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.87311375,
+          "topicality": 0.16317664
+        },
+        {
+          "mid": "/m/056hv",
+          "description": "Measuring instrument",
+          "score": 0.8417169,
+          "topicality": 0.032938894
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7942546,
+          "topicality": 0.035518933
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7903217,
+          "topicality": 0.036459964
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7217975,
+          "topicality": 0.02708087
+        },
+        {
+          "mid": "/m/05kc0j",
+          "description": "Gauge",
+          "score": 0.68269026,
+          "topicality": 0.050671812
+        },
+        {
+          "mid": "/m/03c1dkx",
+          "description": "Therapy",
+          "score": 0.6695141,
+          "topicality": 0.09886756
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.6615369,
+          "topicality": 0.002332404
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.65615183,
+          "topicality": 0.016431477
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.5843787,
+          "topicality": 0.003172776
+        },
+        {
+          "mid": "/m/04lzmz",
+          "description": "Strap",
+          "score": 0.5803374,
+          "topicality": 0.0021668563
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.90351546,
+          "topicality": 0.049670953
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.90303624,
+          "topicality": 0.0007211233
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.81711334,
+          "topicality": 0.00037394158
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7307422,
+          "topicality": 0.063146174
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6960659,
+          "topicality": 0.09729275
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.69439995,
+          "topicality": 0.0044308575
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.62397254,
+          "topicality": 0.0002597217
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5816998,
+          "topicality": 0.044118274
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5545149,
+          "topicality": 0.12899594
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5380347,
+          "topicality": 0.021158585
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5119455,
+          "topicality": 0.0119130155
+        }
+      ]
+    }
+  ]
+}

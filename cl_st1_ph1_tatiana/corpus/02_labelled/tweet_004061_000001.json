@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.92765504,
+          "topicality": 0.010683308
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7993671,
+          "topicality": 0.038248092
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.74280035,
+          "topicality": 0.028040554
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.72834986,
+          "topicality": 0.119150035
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.71569693,
+          "topicality": 0.09610635
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6154439,
+          "topicality": 0.015670916
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.60718983,
+          "topicality": 0.002127078
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6030332,
+          "topicality": 0.32915854
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5984358,
+          "topicality": 0.0005296855
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5599122,
+          "topicality": 0.052978076
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5482062,
+          "topicality": 0.020276349
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.5307829,
+          "topicality": 0.046833813
+        }
+      ]
+    }
+  ]
+}

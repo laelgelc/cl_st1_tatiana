@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07r04",
+          "description": "Truck",
+          "score": 0.7069999,
+          "topicality": 0.0008101271
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.58543634,
+          "topicality": 2.7800528e-05
+        },
+        {
+          "mid": "/m/02607v9",
+          "description": "Transport hub",
+          "score": 0.55356604,
+          "topicality": 0.0030040725
+        }
+      ]
+    }
+  ]
+}

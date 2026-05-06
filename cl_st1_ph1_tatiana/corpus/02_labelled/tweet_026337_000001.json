@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019tzr",
+          "description": "Coffin",
+          "score": 0.9101266,
+          "topicality": 0.7584578
+        },
+        {
+          "mid": "/m/02_g0",
+          "description": "Funeral",
+          "score": 0.84708726,
+          "topicality": 0.8086112
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.72646505,
+          "topicality": 0.003229026
+        },
+        {
+          "mid": "/m/01vw0_",
+          "description": "Grave",
+          "score": 0.6512066,
+          "topicality": 0.28006828
+        },
+        {
+          "mid": "/m/0h36z",
+          "description": "Cemetery",
+          "score": 0.61569977,
+          "topicality": 0.24223989
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8033082,
+          "topicality": 0.010334064
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7823836,
+          "topicality": 0.002931416
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7162118,
+          "topicality": 0.0013002134
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6929599,
+          "topicality": 0.05595113
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.68359745,
+          "topicality": 0.0015996853
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6807865,
+          "topicality": 0.011449776
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6680237,
+          "topicality": 0.062303353
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.58156675,
+          "topicality": 0.09362049
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5275802,
+          "topicality": 0.008925133
+        }
+      ]
+    }
+  ]
+}

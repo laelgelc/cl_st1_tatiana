@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.8659357,
+          "topicality": 0.00037579302
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.85649467,
+          "topicality": 0.0009963751
+        },
+        {
+          "mid": "/m/03k3r",
+          "description": "Horse",
+          "score": 0.82330745,
+          "topicality": 0.30043897
+        },
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.69651026,
+          "topicality": 0.0001835847
+        },
+        {
+          "mid": "/m/0464z4",
+          "description": "Pack animal",
+          "score": 0.6198839,
+          "topicality": 0.0001115802
+        },
+        {
+          "mid": "/m/0ch8v",
+          "description": "Livestock",
+          "score": 0.6089497,
+          "topicality": 0.005679922
+        },
+        {
+          "mid": "/m/0fy9p2",
+          "description": "Mane",
+          "score": 0.5809935,
+          "topicality": 0.02690341
+        },
+        {
+          "mid": "/m/0c23pz",
+          "description": "Mare",
+          "score": 0.52777976,
+          "topicality": 0.016740877
+        }
+      ]
+    }
+  ]
+}

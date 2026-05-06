@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943414,
+          "topicality": 0.023989715
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.89694303,
+          "topicality": 0.0051177284
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.8893165,
+          "topicality": 0.002022676
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.8733398,
+          "topicality": 0.021241093
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.79328036,
+          "topicality": 0.3387486
+        },
+        {
+          "mid": "/m/02k88w",
+          "description": "Rebellion",
+          "score": 0.6646179,
+          "topicality": 0.037037987
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.54687494,
+          "topicality": 0.00015768851
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5297968,
+          "topicality": 0.002764929
+        }
+      ]
+    }
+  ]
+}

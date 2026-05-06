@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.8272958,
+          "topicality": 0.05656781
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8072817,
+          "topicality": 0.007100416
+        },
+        {
+          "mid": "/m/0hgs9bq",
+          "description": "Walking Shoe",
+          "score": 0.7774648,
+          "topicality": 7.114662e-05
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.5514298,
+          "topicality": 0.0048492895
+        }
+      ]
+    }
+  ]
+}

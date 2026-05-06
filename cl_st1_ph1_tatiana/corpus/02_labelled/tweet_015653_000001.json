@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.9680276,
+          "topicality": 0.1158872
+        },
+        {
+          "mid": "/m/08863x",
+          "description": "Bird's-eye view",
+          "score": 0.96341,
+          "topicality": 0.039918974
+        },
+        {
+          "mid": "/m/025s3q0",
+          "description": "Landscape",
+          "score": 0.9376826,
+          "topicality": 0.0022426571
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.67258584,
+          "topicality": 0.015870025
+        },
+        {
+          "mid": "/m/07r04",
+          "description": "Truck",
+          "score": 0.65518415,
+          "topicality": 0.008370467
+        },
+        {
+          "mid": "/m/02jxn5",
+          "description": "Parking lot",
+          "score": 0.5475338,
+          "topicality": 0.00020787296
+        }
+      ]
+    }
+  ]
+}

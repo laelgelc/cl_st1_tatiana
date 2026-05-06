@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07mhn",
+          "description": "Trousers",
+          "score": 0.9596763,
+          "topicality": 0.0014353193
+        },
+        {
+          "mid": "/m/0fly7",
+          "description": "Jeans",
+          "score": 0.92319167,
+          "topicality": 0.0012252971
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9142833,
+          "topicality": 0.011887005
+        },
+        {
+          "mid": "/m/07r04",
+          "description": "Truck",
+          "score": 0.75692225,
+          "topicality": 0.009066286
+        },
+        {
+          "mid": "/m/01d743",
+          "description": "Package delivery",
+          "score": 0.65309745,
+          "topicality": 0.27092382
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.64353865,
+          "topicality": 0.00016111904
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.58791715,
+          "topicality": 0.0084788045
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.5504804,
+          "topicality": 0.0006256569
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5361801,
+          "topicality": 0.0067896824
+        }
+      ]
+    }
+  ]
+}

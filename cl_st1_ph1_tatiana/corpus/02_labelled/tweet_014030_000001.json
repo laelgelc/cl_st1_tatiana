@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.93957376,
+          "topicality": 0.0056467494
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.8613915,
+          "topicality": 0.00044539513
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.692492,
+          "topicality": 0.0006390171
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.574697,
+          "topicality": 0.0027528973
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5382232,
+          "topicality": 0.007646174
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.5055935,
+          "topicality": 0.020821376
+        }
+      ]
+    }
+  ]
+}

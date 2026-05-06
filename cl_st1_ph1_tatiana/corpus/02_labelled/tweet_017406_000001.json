@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.84007335,
+          "topicality": 0.013988148
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.6952047,
+          "topicality": 0.004405436
+        },
+        {
+          "mid": "/m/01b7fy",
+          "description": "Headphones",
+          "score": 0.68496424,
+          "topicality": 0.12241081
+        },
+        {
+          "mid": "/m/0bmz2",
+          "description": "Electrical cable",
+          "score": 0.5682028,
+          "topicality": 0.08898354
+        }
+      ]
+    }
+  ]
+}

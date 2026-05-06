@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.91784745,
+          "topicality": 0.0020755231
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.9048851,
+          "topicality": 0.0037679633
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.8287897,
+          "topicality": 0.0012497847
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.63075846,
+          "topicality": 0.0072423522
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.58476293,
+          "topicality": 0.00020069485
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.57652545,
+          "topicality": 0.010389409
+        },
+        {
+          "mid": "/m/0583b1",
+          "description": "Barricade",
+          "score": 0.5327554,
+          "topicality": 0.03445614
+        }
+      ]
+    }
+  ]
+}

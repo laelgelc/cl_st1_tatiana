@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.9805941,
+          "topicality": 0.059506457
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9773376,
+          "topicality": 0.036694895
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97474897,
+          "topicality": 0.16880658
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.948898,
+          "topicality": 0.038552705
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9164015,
+          "topicality": 0.009060505
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8734015,
+          "topicality": 0.013879516
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.8633888,
+          "topicality": 0.15863007
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.79525745,
+          "topicality": 0.00043576604
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7606748,
+          "topicality": 0.0024796957
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.74656475,
+          "topicality": 0.046824526
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.6411306,
+          "topicality": 0.023728764
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6199942,
+          "topicality": 0.06862684
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.597229,
+          "topicality": 0.13130876
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.58599555,
+          "topicality": 0.0013154341
+        },
+        {
+          "mid": "/m/0dzb2",
+          "description": "Vein",
+          "score": 0.5805718,
+          "topicality": 0.007991639
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.57497495,
+          "topicality": 7.526644e-05
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.54995817,
+          "topicality": 0.006105346
+        }
+      ]
+    }
+  ]
+}

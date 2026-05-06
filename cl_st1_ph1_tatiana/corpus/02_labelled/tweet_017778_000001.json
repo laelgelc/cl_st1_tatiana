@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8854642,
+          "topicality": 0.17360872
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.83540446,
+          "topicality": 0.34299752
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7996035,
+          "topicality": 0.1735396
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7873974,
+          "topicality": 0.0022063677
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.68680805,
+          "topicality": 0.35126236
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6807568,
+          "topicality": 0.4605784
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6333552,
+          "topicality": 0.0006133906
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.61779565,
+          "topicality": 0.08950863
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.58018273,
+          "topicality": 0.023542384
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.577398,
+          "topicality": 0.0037020873
+        }
+      ]
+    }
+  ]
+}

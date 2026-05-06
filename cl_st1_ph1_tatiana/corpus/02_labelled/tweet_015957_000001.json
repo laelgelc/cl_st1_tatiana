@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.905764,
+          "topicality": 0.002715916
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9037889,
+          "topicality": 0.0069337254
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7990581,
+          "topicality": 0.0010928232
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.69618,
+          "topicality": 0.018443862
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.63950443,
+          "topicality": 0.0012336691
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5730967,
+          "topicality": 0.020731458
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.5634088,
+          "topicality": 0.14433499
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.54468393,
+          "topicality": 0.008392154
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52380097,
+          "topicality": 0.004926328
+        }
+      ]
+    }
+  ]
+}

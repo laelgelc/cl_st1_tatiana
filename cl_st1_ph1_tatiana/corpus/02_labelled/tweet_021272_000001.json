@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98847234,
+          "topicality": 0.051637206
+        },
+        {
+          "mid": "/m/05kq4",
+          "description": "Ocean",
+          "score": 0.77755105,
+          "topicality": 0.0240521
+        },
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.6409631,
+          "topicality": 0.008265452
+        },
+        {
+          "mid": "/m/01d9ll",
+          "description": "Astronomical object",
+          "score": 0.6082139,
+          "topicality": 0.010656153
+        },
+        {
+          "mid": "/m/03qwvw",
+          "description": "Moonlight",
+          "score": 0.5393184,
+          "topicality": 0.09570768
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.95730853,
+          "topicality": 0.013120073
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91454667,
+          "topicality": 0.0012516854
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.88527083,
+          "topicality": 0.013018332
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.86284155,
+          "topicality": 0.0005539844
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.688548,
+          "topicality": 0.01877822
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.58495444,
+          "topicality": 0.0917678
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5705179,
+          "topicality": 0.0033541746
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5040508,
+          "topicality": 0.04580897
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5006424,
+          "topicality": 0.008169862
+        }
+      ]
+    }
+  ]
+}

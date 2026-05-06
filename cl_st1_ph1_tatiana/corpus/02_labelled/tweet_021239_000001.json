@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.8965759,
+          "topicality": 0.334502
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.87068564,
+          "topicality": 0.030097382
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.84582186,
+          "topicality": 0.0013927644
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.69526637,
+          "topicality": 0.085738994
+        },
+        {
+          "mid": "/m/081rb",
+          "description": "Writing",
+          "score": 0.67615044,
+          "topicality": 0.010007384
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.65545195,
+          "topicality": 0.0012434988
+        },
+        {
+          "mid": "/m/01cndb",
+          "description": "Stationery",
+          "score": 0.51524484,
+          "topicality": 0.004672408
+        },
+        {
+          "mid": "/m/03yhk",
+          "description": "Ink",
+          "score": 0.5100233,
+          "topicality": 0.0050718086
+        }
+      ]
+    }
+  ]
+}

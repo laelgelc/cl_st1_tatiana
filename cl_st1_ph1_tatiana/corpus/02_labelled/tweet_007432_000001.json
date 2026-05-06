@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8907437,
+          "topicality": 0.0011568932
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.88813174,
+          "topicality": 0.26437688
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8259347,
+          "topicality": 0.00060716586
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.80836344,
+          "topicality": 0.07762164
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.7746385,
+          "topicality": 0.0019056705
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.74513865,
+          "topicality": 0.13745306
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.69517076,
+          "topicality": 0.012244134
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.69222045,
+          "topicality": 0.0033325595
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6808053,
+          "topicality": 0.0065684374
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.64565307,
+          "topicality": 1.6602853e-05
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.64431626,
+          "topicality": 0.03972986
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5835009,
+          "topicality": 0.07991907
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52035433,
+          "topicality": 0.009731452
+        }
+      ]
+    }
+  ]
+}

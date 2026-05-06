@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03nwjn",
+          "description": "Mohawk hairstyle",
+          "score": 0.8032041,
+          "topicality": 0.087154366
+        },
+        {
+          "mid": "/m/032rtm",
+          "description": "High and tight",
+          "score": 0.61093867,
+          "topicality": 0.0016922366
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.53303814,
+          "topicality": 0.01233115
+        },
+        {
+          "mid": "/m/03gj44",
+          "description": "Crew cut",
+          "score": 0.52256095,
+          "topicality": 0.016328482
+        },
+        {
+          "mid": "/m/02dgws",
+          "description": "Quiff",
+          "score": 0.5177897,
+          "topicality": 0.005517425
+        }
+      ]
+    }
+  ]
+}

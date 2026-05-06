@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.94452715,
+          "topicality": 0.081052266
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.92911625,
+          "topicality": 0.089976236
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9036218,
+          "topicality": 0.14229515
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.86782134,
+          "topicality": 0.001940274
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.8230149,
+          "topicality": 0.0004836106
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7724207,
+          "topicality": 0.02539155
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7294548,
+          "topicality": 0.007429164
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.7276743,
+          "topicality": 0.0005355686
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.6821213,
+          "topicality": 0.036595386
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.65145165,
+          "topicality": 0.015601149
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.6232925,
+          "topicality": 0.00023964459
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.59077024,
+          "topicality": 0.0018510288
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.52485824,
+          "topicality": 0.0006949978
+        },
+        {
+          "mid": "/m/01wkk9",
+          "description": "Town square",
+          "score": 0.521679,
+          "topicality": 0.016486112
+        }
+      ]
+    }
+  ]
+}

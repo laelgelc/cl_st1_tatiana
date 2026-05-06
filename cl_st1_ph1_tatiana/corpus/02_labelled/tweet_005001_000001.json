@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.98643446,
+          "topicality": 0.0067074494
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.98318356,
+          "topicality": 0.03112473
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.94996893,
+          "topicality": 0.018417258
+        },
+        {
+          "mid": "/m/02dl1y",
+          "description": "Hat",
+          "score": 0.9337637,
+          "topicality": 0.0019625677
+        },
+        {
+          "mid": "/m/02d46y",
+          "description": "Cap",
+          "score": 0.9128347,
+          "topicality": 0.0013783845
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8542127,
+          "topicality": 0.0015856829
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.8155537,
+          "topicality": 0.00018766314
+        },
+        {
+          "mid": "/m/03gt5g4",
+          "description": "Cricket cap",
+          "score": 0.63963616,
+          "topicality": 1.1448134e-05
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5088911,
+          "topicality": 0.0007736221
+        }
+      ]
+    }
+  ]
+}

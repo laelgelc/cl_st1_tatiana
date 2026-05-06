@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.9882259,
+          "topicality": 0.0035919298
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9579319,
+          "topicality": 0.016985318
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91053885,
+          "topicality": 0.0003580679
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7825341,
+          "topicality": 0.07441181
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5084655,
+          "topicality": 0.007678119
+        }
+      ]
+    }
+  ]
+}

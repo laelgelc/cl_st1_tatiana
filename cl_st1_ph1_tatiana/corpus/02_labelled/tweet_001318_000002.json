@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bt9lr",
+          "description": "Dog",
+          "score": 0.95920646,
+          "topicality": 0.14507475
+        },
+        {
+          "mid": "/m/02dl1y",
+          "description": "Hat",
+          "score": 0.92660856,
+          "topicality": 0.012820543
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.80197096,
+          "topicality": 0.057684615
+        },
+        {
+          "mid": "/m/01z5f",
+          "description": "Canidae",
+          "score": 0.5863889,
+          "topicality": 0.000412981
+        },
+        {
+          "mid": "/m/02fq_6",
+          "description": "Fedora",
+          "score": 0.55638605,
+          "topicality": 0.006001684
+        },
+        {
+          "mid": "/m/02wbtzl",
+          "description": "Sun hat",
+          "score": 0.54373467,
+          "topicality": 0.0008607537
+        },
+        {
+          "mid": "/m/0hpcdn2",
+          "description": "Rapper",
+          "score": 0.5251534,
+          "topicality": 0.31590882
+        }
+      ]
+    }
+  ]
+}

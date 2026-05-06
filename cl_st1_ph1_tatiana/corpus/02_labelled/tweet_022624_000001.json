@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7081127,
+          "topicality": 0.011018192
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.58579373,
+          "topicality": 0.0043195826
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.55671424,
+          "topicality": 0.001146799
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.53100383,
+          "topicality": 0.0038610613
+        },
+        {
+          "mid": "/m/030swj",
+          "description": "Mobile device",
+          "score": 0.5025309,
+          "topicality": 0.0048787757
+        }
+      ]
+    }
+  ]
+}

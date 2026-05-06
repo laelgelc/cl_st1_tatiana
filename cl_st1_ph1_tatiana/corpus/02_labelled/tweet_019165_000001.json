@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98789847,
+          "topicality": 0.00011657657
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9745733,
+          "topicality": 0.0017016685
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.9677042,
+          "topicality": 0.30761763
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.9378406,
+          "topicality": 0.00225609
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9223926,
+          "topicality": 0.00020011835
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.91120595,
+          "topicality": 0.045310866
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.8889475,
+          "topicality": 0.027826078
+        },
+        {
+          "mid": "/m/078hm",
+          "description": "Slope",
+          "score": 0.8438273,
+          "topicality": 0.006162514
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.67072946,
+          "topicality": 0.0008396227
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.5641728,
+          "topicality": 0.011507556
+        },
+        {
+          "mid": "/m/0hgpr70",
+          "description": "Office Application Software",
+          "score": 0.51717675,
+          "topicality": 1.6272537e-06
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.98629606,
+          "topicality": 0.0049789916
+        },
+        {
+          "mid": "/m/062581",
+          "description": "Sleeve",
+          "score": 0.98536825,
+          "topicality": 4.48402e-05
+        },
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.9602587,
+          "topicality": 0.010950291
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.87030524,
+          "topicality": 0.0033203124
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.82813156,
+          "topicality": 0.00036392245
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.7888252,
+          "topicality": 0.00029074206
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.6878824,
+          "topicality": 0.0014683817
+        }
+      ]
+    }
+  ]
+}

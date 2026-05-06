@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9700152,
+          "topicality": 0.023741271
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.95472187,
+          "topicality": 0.0024544674
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9049432,
+          "topicality": 0.005395536
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8789574,
+          "topicality": 0.009244192
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.7915038,
+          "topicality": 0.0018642766
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7482248,
+          "topicality": 0.00018364983
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.6105966,
+          "topicality": 0.0015542847
+        }
+      ]
+    }
+  ]
+}

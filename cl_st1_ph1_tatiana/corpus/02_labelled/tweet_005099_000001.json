@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448692,
+          "topicality": 0.0013370665
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.94277596,
+          "topicality": 0.0026937162
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.9011806,
+          "topicality": 0.0062755737
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.875142,
+          "topicality": 0.041321736
+        },
+        {
+          "mid": "/m/016gcr",
+          "description": "Guru",
+          "score": 0.7057752,
+          "topicality": 0.0448774
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.659861,
+          "topicality": 0.02618356
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6394649,
+          "topicality": 0.006602568
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6370832,
+          "topicality": 0.0057112924
+        },
+        {
+          "mid": "/m/01pbfj",
+          "description": "Turban",
+          "score": 0.57890356,
+          "topicality": 0.042324882
+        },
+        {
+          "mid": "/m/03kll",
+          "description": "Hero",
+          "score": 0.5446952,
+          "topicality": 0.008129583
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5425914,
+          "topicality": 0.000419876
+        }
+      ]
+    }
+  ]
+}

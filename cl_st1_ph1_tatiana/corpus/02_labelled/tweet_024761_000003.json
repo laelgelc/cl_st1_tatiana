@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8893332,
+          "topicality": 0.05603794
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.77849746,
+          "topicality": 0.02009972
+        },
+        {
+          "mid": "/m/031n1",
+          "description": "Foot",
+          "score": 0.5796765,
+          "topicality": 0.0847835
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5757687,
+          "topicality": 0.0005615559
+        },
+        {
+          "mid": "/m/06x0q",
+          "description": "Sign language",
+          "score": 0.5006988,
+          "topicality": 0.02902971
+        }
+      ]
+    }
+  ]
+}

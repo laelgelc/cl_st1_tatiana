@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01yttv",
+          "description": "Audio equipment",
+          "score": 0.9338008,
+          "topicality": 0.00011293247
+        },
+        {
+          "mid": "/m/01b7fy",
+          "description": "Headphones",
+          "score": 0.89455706,
+          "topicality": 0.088382825
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.8494319,
+          "topicality": 0.00023446018
+        },
+        {
+          "mid": "/m/03mb156",
+          "description": "Headset",
+          "score": 0.67027533,
+          "topicality": 0.0086823385
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5524341,
+          "topicality": 0.005625453
+        }
+      ]
+    }
+  ]
+}

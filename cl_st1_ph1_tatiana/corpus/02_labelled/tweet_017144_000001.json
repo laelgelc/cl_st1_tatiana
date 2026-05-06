@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.80492663,
+          "topicality": 0.004744128
+        },
+        {
+          "mid": "/m/03bx017",
+          "description": "Researcher",
+          "score": 0.7564448,
+          "topicality": 0.22196925
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.7465458,
+          "topicality": 0.15995412
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.7035006,
+          "topicality": 0.2621897
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.6884502,
+          "topicality": 0.06271475
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6477498,
+          "topicality": 0.15692028
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.59415597,
+          "topicality": 0.0010218384
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.5385013,
+          "topicality": 0.013671043
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.5147402,
+          "topicality": 0.095045604
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.50796634,
+          "topicality": 0.000773898
+        }
+      ]
+    }
+  ]
+}

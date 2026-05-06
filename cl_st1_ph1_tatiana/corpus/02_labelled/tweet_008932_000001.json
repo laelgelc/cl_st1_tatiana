@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.87629575,
+          "topicality": 0.0029413938
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.74482864,
+          "topicality": 0.011311107
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6736056,
+          "topicality": 0.00019861873
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.5343159,
+          "topicality": 0.03931088
+        }
+      ]
+    }
+  ]
+}

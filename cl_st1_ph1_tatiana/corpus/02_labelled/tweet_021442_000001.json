@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09ggk",
+          "description": "Purple",
+          "score": 0.8114013,
+          "topicality": 0.0025241692
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.55627817,
+          "topicality": 0.0011629397
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.5412514,
+          "topicality": 0.0040269066
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.53397006,
+          "topicality": 0.0013426589
+        }
+      ]
+    }
+  ]
+}

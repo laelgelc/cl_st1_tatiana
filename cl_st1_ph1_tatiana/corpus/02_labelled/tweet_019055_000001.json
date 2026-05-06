@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.9037558,
+          "topicality": 0.011507511
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6522106,
+          "topicality": 0.0020321407
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.574969,
+          "topicality": 0.0035198072
+        },
+        {
+          "mid": "/m/02rlncx",
+          "description": "Plastic bottle",
+          "score": 0.57081,
+          "topicality": 0.00025012592
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5489324,
+          "topicality": 0.0022097076
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.5390579,
+          "topicality": 0.07351383
+        }
+      ]
+    }
+  ]
+}

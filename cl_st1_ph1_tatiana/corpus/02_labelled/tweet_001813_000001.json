@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9505227,
+          "topicality": 0.0014742841
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94462883,
+          "topicality": 0.005932208
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8764359,
+          "topicality": 0.00034332598
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.84207743,
+          "topicality": 0.003209494
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7159335,
+          "topicality": 0.003481367
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.7019183,
+          "topicality": 0.100854605
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.63998836,
+          "topicality": 0.033702444
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.59734833,
+          "topicality": 0.00036596152
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.57279384,
+          "topicality": 0.098028146
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.5598091,
+          "topicality": 0.007168659
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.53863674,
+          "topicality": 0.0017458311
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.53495365,
+          "topicality": 0.017234895
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.9606518,
+          "topicality": 0.015457116
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.92707175,
+          "topicality": 0.0030408546
+        },
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.90178716,
+          "topicality": 0.016427616
+        },
+        {
+          "mid": "/m/09jfs",
+          "description": "Uniform",
+          "score": 0.88178474,
+          "topicality": 0.003405108
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.81725967,
+          "topicality": 0.0056746816
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.74794346,
+          "topicality": 0.018696599
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.69948363,
+          "topicality": 0.023545701
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.6835818,
+          "topicality": 0.012762736
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6687277,
+          "topicality": 0.0053900527
+        }
+      ]
+    }
+  ]
+}

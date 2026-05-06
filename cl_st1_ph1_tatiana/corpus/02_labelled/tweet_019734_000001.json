@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9444478,
+          "topicality": 0.00020058277
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.81370604,
+          "topicality": 0.022502245
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.79835486,
+          "topicality": 0.0013973953
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.73176175,
+          "topicality": 0.0043009436
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6115243,
+          "topicality": 0.0009850553
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.558816,
+          "topicality": 0.008669338
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5351945,
+          "topicality": 0.0014360193
+        }
+      ]
+    }
+  ]
+}

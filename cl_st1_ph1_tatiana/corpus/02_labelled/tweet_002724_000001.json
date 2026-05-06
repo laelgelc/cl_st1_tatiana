@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9477544,
+          "topicality": 0.055404935
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449491,
+          "topicality": 0.006517487
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.91643894,
+          "topicality": 0.0003363462
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.76515585,
+          "topicality": 0.029979667
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.751802,
+          "topicality": 0.0019247707
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.73048097,
+          "topicality": 0.0020571172
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.5760065,
+          "topicality": 0.14334296
+        }
+      ]
+    }
+  ]
+}

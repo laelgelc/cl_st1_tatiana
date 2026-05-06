@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95252085,
+          "topicality": 0.001512888
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9180284,
+          "topicality": 0.0019077093
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8886138,
+          "topicality": 0.00082425034
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.87311757,
+          "topicality": 0.35727924
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.868072,
+          "topicality": 0.0048299707
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.80319995,
+          "topicality": 0.008562542
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.79457015,
+          "topicality": 0.0249793
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.66075236,
+          "topicality": 0.11896181
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.60650384,
+          "topicality": 0.029926948
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5193548,
+          "topicality": 0.0062138615
+        }
+      ]
+    }
+  ]
+}

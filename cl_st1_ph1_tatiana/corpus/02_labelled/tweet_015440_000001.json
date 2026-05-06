@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0pcq81q",
+          "description": "Soccer player",
+          "score": 0.92308307,
+          "topicality": 0.08473196
+        },
+        {
+          "mid": "/m/0gl2ny2",
+          "description": "Football player",
+          "score": 0.84311515,
+          "topicality": 0.08366473
+        },
+        {
+          "mid": "/m/02vx4",
+          "description": "Football",
+          "score": 0.8241625,
+          "topicality": 0.18973574
+        },
+        {
+          "mid": "/m/0h8n2hv",
+          "description": "Sports Fan Jersey",
+          "score": 0.6510643,
+          "topicality": 6.236753e-05
+        },
+        {
+          "mid": "/m/0bmgjqz",
+          "description": "Sports venue",
+          "score": 0.62764055,
+          "topicality": 0.005693927
+        },
+        {
+          "mid": "/m/02sdk9v",
+          "description": "Forward",
+          "score": 0.56336296,
+          "topicality": 0.15541314
+        },
+        {
+          "mid": "/m/019cfy",
+          "description": "Stadium",
+          "score": 0.5617151,
+          "topicality": 0.078130044
+        },
+        {
+          "mid": "/m/0404y4",
+          "description": "Soccer-specific stadium",
+          "score": 0.5315845,
+          "topicality": 0.02975487
+        }
+      ]
+    }
+  ]
+}

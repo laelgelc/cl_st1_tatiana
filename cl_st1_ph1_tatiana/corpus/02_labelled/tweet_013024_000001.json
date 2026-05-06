@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.9885547,
+          "topicality": 0.00035920786
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98481387,
+          "topicality": 0.0010824859
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.94997895,
+          "topicality": 0.000155797
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.9494887,
+          "topicality": 0.0006256444
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.9184933,
+          "topicality": 2.2715052e-05
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9006769,
+          "topicality": 0.0028194154
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8839604,
+          "topicality": 2.3644325e-05
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8775843,
+          "topicality": 0.010483316
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8763195,
+          "topicality": 7.8439974e-05
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7994691,
+          "topicality": 0.0008523273
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7940417,
+          "topicality": 0.16934107
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7534339,
+          "topicality": 0.0010689013
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.71208626,
+          "topicality": 0.001444136
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.67756176,
+          "topicality": 0.068578005
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.63555557,
+          "topicality": 0.0011506194
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.5634173,
+          "topicality": 0.03924827
+        }
+      ]
+    }
+  ]
+}

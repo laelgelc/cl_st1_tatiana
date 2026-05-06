@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.59113085,
+          "topicality": 0.0012172826
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5663163,
+          "topicality": 0.042808432
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5247685,
+          "topicality": 0.042710654
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.51176876,
+          "topicality": 0.0011695263
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.98568255,
+          "topicality": 0.005429177
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.89903915,
+          "topicality": 0.005767058
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.87746584,
+          "topicality": 0.10567566
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.84873635,
+          "topicality": 0.20134296
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.84708965,
+          "topicality": 0.23236905
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.7711455,
+          "topicality": 0.044457387
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.7611091,
+          "topicality": 0.0015841586
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.7608788,
+          "topicality": 0.17444731
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.75920475,
+          "topicality": 0.04343226
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.6276175,
+          "topicality": 0.036359236
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5895833,
+          "topicality": 0.05087514
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.55538934,
+          "topicality": 0.00049582985
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.52591825,
+          "topicality": 0.18722296
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.91631156,
+          "topicality": 0.13628694
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.87074697,
+          "topicality": 0.034763936
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.8051631,
+          "topicality": 0.027441189
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "Mural",
+          "score": 0.79543936,
+          "topicality": 0.060604624
+        },
+        {
+          "mid": "/m/034wh",
+          "description": "Graffiti",
+          "score": 0.774211,
+          "topicality": 0.10725651
+        },
+        {
+          "mid": "/m/01mxf",
+          "description": "Concrete",
+          "score": 0.7727765,
+          "topicality": 0.0008797219
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7557185,
+          "topicality": 0.023966998
+        },
+        {
+          "mid": "/m/07vwy6",
+          "description": "Street art",
+          "score": 0.74380255,
+          "topicality": 0.0857657
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.63360524,
+          "topicality": 0.01116117
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.62989885,
+          "topicality": 0.0013998508
+        },
+        {
+          "mid": "/m/05y4t",
+          "description": "Paint",
+          "score": 0.60039645,
+          "topicality": 0.0022840104
+        }
+      ]
+    }
+  ]
+}

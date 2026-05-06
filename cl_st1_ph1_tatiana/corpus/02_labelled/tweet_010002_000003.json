@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448761,
+          "topicality": 0.0013185133
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9062974,
+          "topicality": 0.0006436466
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7629848,
+          "topicality": 0.0031981813
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.74041474,
+          "topicality": 0.58781505
+        },
+        {
+          "mid": "/m/0463cq4",
+          "description": "Crying",
+          "score": 0.58783865,
+          "topicality": 0.016215358
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.5251448,
+          "topicality": 0.016224092
+        }
+      ]
+    }
+  ]
+}

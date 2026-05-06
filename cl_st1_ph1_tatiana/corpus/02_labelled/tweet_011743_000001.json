@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/079bkr",
+          "description": "Mode of transport",
+          "score": 0.9835575,
+          "topicality": 0.002044115
+        },
+        {
+          "mid": "/m/07bsy",
+          "description": "Transport",
+          "score": 0.97377586,
+          "topicality": 0.014220459
+        },
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.97282636,
+          "topicality": 0.0026828165
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.85841876,
+          "topicality": 0.0035256087
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.83272105,
+          "topicality": 0.0019085113
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.81634015,
+          "topicality": 0.09089133
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.6887248,
+          "topicality": 0.017008126
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.6747137,
+          "topicality": 0.0014645375
+        },
+        {
+          "mid": "/m/045jsc",
+          "description": "Minibus",
+          "score": 0.57832885,
+          "topicality": 0.004218644
+        },
+        {
+          "mid": "/m/03j1ly",
+          "description": "Emergency vehicle",
+          "score": 0.5544681,
+          "topicality": 0.0058997013
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.53946763,
+          "topicality": 0.00094739516
+        }
+      ]
+    }
+  ]
+}

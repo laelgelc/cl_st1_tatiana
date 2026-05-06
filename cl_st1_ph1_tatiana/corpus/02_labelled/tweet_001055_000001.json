@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9629055,
+          "topicality": 0.00083674816
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8502899,
+          "topicality": 0.001265017
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.79450303,
+          "topicality": 0.0034949256
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7038762,
+          "topicality": 0.0018810926
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.6517153,
+          "topicality": 0.0028372211
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.64451087,
+          "topicality": 0.026939666
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5502502,
+          "topicality": 0.011029744
+        }
+      ]
+    }
+  ]
+}

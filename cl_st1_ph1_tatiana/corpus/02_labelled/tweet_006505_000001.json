@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8822088,
+          "topicality": 0.0052526477
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.832648,
+          "topicality": 0.006539603
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.7017857,
+          "topicality": 0.04830133
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.67104846,
+          "topicality": 0.06367063
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.66911954,
+          "topicality": 0.0015658679
+        },
+        {
+          "mid": "/m/03cvmmd",
+          "description": "Suit trousers",
+          "score": 0.58257174,
+          "topicality": 1.4612782e-05
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.56801957,
+          "topicality": 0.006978667
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.54209965,
+          "topicality": 0.008026685
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5414363,
+          "topicality": 0.01705283
+        }
+      ]
+    }
+  ]
+}

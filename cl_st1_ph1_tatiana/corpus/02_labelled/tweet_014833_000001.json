@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02h9bf",
+          "description": "Hood",
+          "score": 0.98258394,
+          "topicality": 0.13599156
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.940775,
+          "topicality": 0.009387228
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.8612926,
+          "topicality": 0.030928245
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.73316294,
+          "topicality": 0.008574415
+        },
+        {
+          "mid": "/m/014621",
+          "description": "Parka",
+          "score": 0.5931665,
+          "topicality": 0.0004229766
+        }
+      ]
+    }
+  ]
+}

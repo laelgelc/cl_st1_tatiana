@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9816043,
+          "topicality": 0.040188294
+        },
+        {
+          "mid": "/m/02p0tk3",
+          "description": "Human body",
+          "score": 0.9584465,
+          "topicality": 0.009858928
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.936237,
+          "topicality": 0.05768779
+        },
+        {
+          "mid": "/m/04bcr3",
+          "description": "Table",
+          "score": 0.9156682,
+          "topicality": 0.15891965
+        },
+        {
+          "mid": "/m/02rfdq",
+          "description": "Interior design",
+          "score": 0.9073714,
+          "topicality": 0.007402815
+        },
+        {
+          "mid": "/m/06l8d",
+          "description": "Restaurant",
+          "score": 0.8914962,
+          "topicality": 0.17936094
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.81144804,
+          "topicality": 0.046534337
+        },
+        {
+          "mid": "/m/01h8n0",
+          "description": "Conversation",
+          "score": 0.7606754,
+          "topicality": 0.0061486927
+        },
+        {
+          "mid": "/m/02pdnx",
+          "description": "Cafeteria",
+          "score": 0.62012076,
+          "topicality": 0.39445442
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.61964244,
+          "topicality": 5.146571e-05
+        }
+      ]
+    }
+  ]
+}

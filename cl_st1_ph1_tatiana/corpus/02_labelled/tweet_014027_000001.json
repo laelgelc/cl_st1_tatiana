@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9885505,
+          "topicality": 0.023118265
+        },
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.9885383,
+          "topicality": 0.0015693571
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.98622364,
+          "topicality": 0.077566
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.98533183,
+          "topicality": 0.0019661111
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9805606,
+          "topicality": 0.0021962782
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9744219,
+          "topicality": 0.0034325274
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.97331375,
+          "topicality": 0.019626353
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.96435636,
+          "topicality": 3.1116244e-05
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.7884706,
+          "topicality": 0.00090039434
+        },
+        {
+          "mid": "/m/0h8n982",
+          "description": "Shelving",
+          "score": 0.75729465,
+          "topicality": 5.800851e-05
+        },
+        {
+          "mid": "/m/0gjbg72",
+          "description": "Shelf",
+          "score": 0.7060131,
+          "topicality": 0.00044591248
+        },
+        {
+          "mid": "/m/03__z0",
+          "description": "Bookcase",
+          "score": 0.68846095,
+          "topicality": 0.0011291993
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.56390494,
+          "topicality": 0.0035698984
+        },
+        {
+          "mid": "/m/0bt_c3",
+          "description": "Book",
+          "score": 0.5169572,
+          "topicality": 0.07324346
+        }
+      ]
+    }
+  ]
+}

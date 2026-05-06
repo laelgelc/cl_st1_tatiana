@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.85576504,
+          "topicality": 0.00860334
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.84129244,
+          "topicality": 0.00013566692
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.83381027,
+          "topicality": 0.013662122
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8112553,
+          "topicality": 0.009302494
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.71879935,
+          "topicality": 0.042446107
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.64370114,
+          "topicality": 0.038639996
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.57200193,
+          "topicality": 0.00064017647
+        }
+      ]
+    }
+  ]
+}

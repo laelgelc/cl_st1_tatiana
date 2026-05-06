@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.9175015,
+          "topicality": 0.009246166
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.75524735,
+          "topicality": 0.00047286233
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.57656986,
+          "topicality": 0.085015826
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.5450106,
+          "topicality": 0.00050824037
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.54419065,
+          "topicality": 0.032777302
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5386209,
+          "topicality": 0.00077454123
+        }
+      ]
+    }
+  ]
+}

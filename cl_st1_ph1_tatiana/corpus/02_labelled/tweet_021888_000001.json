@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.97438866,
+          "topicality": 0.004591877
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.9564741,
+          "topicality": 0.0039911913
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.9159672,
+          "topicality": 0.0011389386
+        },
+        {
+          "mid": "/m/01bsxb",
+          "description": "Collage",
+          "score": 0.7868857,
+          "topicality": 0.008969954
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.6601244,
+          "topicality": 0.006208055
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6087446,
+          "topicality": 0.01758882
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.5890261,
+          "topicality": 0.0028891684
+        }
+      ]
+    }
+  ]
+}

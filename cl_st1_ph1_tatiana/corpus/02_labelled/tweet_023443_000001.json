@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.80952245,
+          "topicality": 0.01742422
+        },
+        {
+          "mid": "/m/0dcjfr",
+          "description": "Garden tool",
+          "score": 0.78887457,
+          "topicality": 0.00030907
+        },
+        {
+          "mid": "/m/01bb6j",
+          "description": "Shovel",
+          "score": 0.6585714,
+          "topicality": 0.092470825
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.60370517,
+          "topicality": 0.008291271
+        },
+        {
+          "mid": "/m/027sy7",
+          "description": "Hoe",
+          "score": 0.59839004,
+          "topicality": 0.026349185
+        },
+        {
+          "mid": "/m/0g0vx",
+          "description": "Agriculturist",
+          "score": 0.55019003,
+          "topicality": 0.010817334
+        },
+        {
+          "mid": "/m/0h36z",
+          "description": "Cemetery",
+          "score": 0.5386593,
+          "topicality": 0.21106036
+        }
+      ]
+    }
+  ]
+}

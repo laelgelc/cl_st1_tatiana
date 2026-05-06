@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943548,
+          "topicality": 0.015894499
+        },
+        {
+          "mid": "/m/07j7r",
+          "description": "Tree",
+          "score": 0.97702473,
+          "topicality": 0.05390343
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.94706726,
+          "topicality": 0.1564526
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.9371578,
+          "topicality": 0.05310899
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.90759766,
+          "topicality": 0.030713854
+        },
+        {
+          "mid": "/m/01txr2",
+          "description": "Spring",
+          "score": 0.8375024,
+          "topicality": 0.00049140066
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.71062994,
+          "topicality": 0.024564926
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.6822314,
+          "topicality": 0.018840449
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.57106864,
+          "topicality": 0.00022136529
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.5489328,
+          "topicality": 0.028915094
+        }
+      ]
+    }
+  ]
+}

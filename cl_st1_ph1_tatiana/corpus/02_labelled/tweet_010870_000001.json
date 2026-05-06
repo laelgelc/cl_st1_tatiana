@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9046893,
+          "topicality": 0.010027751
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7744575,
+          "topicality": 0.072388604
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.65164554,
+          "topicality": 0.0033122567
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6435288,
+          "topicality": 0.0012449677
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.50752485,
+          "topicality": 0.010372368
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7321002,
+          "topicality": 0.04553987
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.69063115,
+          "topicality": 0.010581624
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5853932,
+          "topicality": 0.0030662052
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.56955665,
+          "topicality": 0.008610538
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5482778,
+          "topicality": 0.07457285
+        }
+      ]
+    }
+  ]
+}

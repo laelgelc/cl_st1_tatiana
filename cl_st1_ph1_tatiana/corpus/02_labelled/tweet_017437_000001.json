@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.7691425,
+          "topicality": 0.011471947
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.63831,
+          "topicality": 0.16635647
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.5910556,
+          "topicality": 0.001693261
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.55284745,
+          "topicality": 0.0048067127
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.52266794,
+          "topicality": 0.09022325
+        }
+      ]
+    }
+  ]
+}

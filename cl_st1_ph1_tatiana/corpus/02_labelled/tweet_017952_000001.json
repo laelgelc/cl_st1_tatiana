@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7379543,
+          "topicality": 0.00200786
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.72311926,
+          "topicality": 0.035858493
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.65752804,
+          "topicality": 0.005068227
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5485979,
+          "topicality": 0.00048423684
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.98230755,
+          "topicality": 0.03453425
+        },
+        {
+          "mid": "/m/0dzct",
+          "description": "Face",
+          "score": 0.98010993,
+          "topicality": 0.04267714
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9774375,
+          "topicality": 0.011423758
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.97105247,
+          "topicality": 0.005394109
+        },
+        {
+          "mid": "/m/0283dt1",
+          "description": "Mouth",
+          "score": 0.95791477,
+          "topicality": 0.0077330344
+        },
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.9533948,
+          "topicality": 0.010568792
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494885,
+          "topicality": 0.0005461282
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9291059,
+          "topicality": 0.0074711763
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.8776049,
+          "topicality": 0.0026478218
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.7265663,
+          "topicality": 0.000105218365
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.70486027,
+          "topicality": 0.0039833956
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.599125,
+          "topicality": 0.027393281
+        }
+      ]
+    }
+  ]
+}

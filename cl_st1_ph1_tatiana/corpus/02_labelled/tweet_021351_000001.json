@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.93363357,
+          "topicality": 0.023622092
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.629385,
+          "topicality": 0.11016839
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5304307,
+          "topicality": 0.0070047155
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.5209624,
+          "topicality": 0.025704926
+        },
+        {
+          "mid": "/m/02_784",
+          "description": "Display advertising",
+          "score": 0.5179568,
+          "topicality": 0.0020607212
+        }
+      ]
+    }
+  ]
+}

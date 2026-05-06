@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9054263,
+          "topicality": 0.0015314901
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.88429755,
+          "topicality": 0.06871634
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8818044,
+          "topicality": 0.00078771805
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.7478233,
+          "topicality": 0.28673992
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7435701,
+          "topicality": 0.015787711
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.66482365,
+          "topicality": 0.00097598997
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6263476,
+          "topicality": 0.1308304
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.5479272,
+          "topicality": 7.53487e-06
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5157864,
+          "topicality": 0.07242814
+        },
+        {
+          "mid": "/m/07gr_",
+          "description": "Temperature",
+          "score": 0.5142817,
+          "topicality": 0.010836541
+        }
+      ]
+    }
+  ]
+}

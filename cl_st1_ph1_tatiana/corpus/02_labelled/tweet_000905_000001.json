@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.878236,
+          "topicality": 0.00419968
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8107713,
+          "topicality": 0.0028217335
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7975341,
+          "topicality": 0.14854473
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7466368,
+          "topicality": 0.020576414
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.6066746,
+          "topicality": 0.0006643297
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9524351,
+          "topicality": 0.00026812934
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.93675816,
+          "topicality": 0.00036453234
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.91092384,
+          "topicality": 0.00028662305
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.79704684,
+          "topicality": 0.036519438
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.79137033,
+          "topicality": 7.2814524e-05
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.7781799,
+          "topicality": 0.0015841195
+        },
+        {
+          "mid": "/m/01xq3w",
+          "description": "Debate",
+          "score": 0.6209794,
+          "topicality": 0.20760189
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.61892194,
+          "topicality": 0.03247912
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.5626652,
+          "topicality": 0.0033859804
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.5340804,
+          "topicality": 0.013668698
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.5302778,
+          "topicality": 0.0030255106
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.5192923,
+          "topicality": 0.005186924
+        }
+      ]
+    }
+  ]
+}

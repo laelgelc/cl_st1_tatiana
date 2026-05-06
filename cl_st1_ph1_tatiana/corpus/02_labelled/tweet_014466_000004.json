@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.88935745,
+          "topicality": 0.0072095706
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.78073907,
+          "topicality": 0.01769026
+        },
+        {
+          "mid": "/m/0bt_c3",
+          "description": "Book",
+          "score": 0.74334085,
+          "topicality": 0.28533664
+        },
+        {
+          "mid": "/m/09xbm8",
+          "description": "Book cover",
+          "score": 0.71075803,
+          "topicality": 0.02846688
+        },
+        {
+          "mid": "/m/03kll",
+          "description": "Hero",
+          "score": 0.6141941,
+          "topicality": 0.025620978
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5541626,
+          "topicality": 0.0007026204
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.54022413,
+          "topicality": 0.027620804
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5155455,
+          "topicality": 0.0019506102
+        },
+        {
+          "mid": "/m/05hgj",
+          "description": "Novel",
+          "score": 0.51129556,
+          "topicality": 0.018855112
+        }
+      ]
+    }
+  ]
+}

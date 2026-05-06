@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94490343,
+          "topicality": 0.002669292
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.64841926,
+          "topicality": 0.0020259332
+        },
+        {
+          "mid": "/m/0jxy",
+          "description": "Anime",
+          "score": 0.6294322,
+          "topicality": 0.25150573
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.54017484,
+          "topicality": 0.019594122
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.5329341,
+          "topicality": 0.0025550977
+        },
+        {
+          "mid": "/m/01hryy",
+          "description": "Naruto",
+          "score": 0.52360725,
+          "topicality": 0.95679724
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04gvstg",
+          "description": "Tobacco products",
+          "score": 0.9747124,
+          "topicality": 0.27767837
+        },
+        {
+          "mid": "/m/09k76",
+          "description": "Cigarette",
+          "score": 0.9360784,
+          "topicality": 0.84652334
+        },
+        {
+          "mid": "/m/07ly_",
+          "description": "Tobacco",
+          "score": 0.8525924,
+          "topicality": 0.5318243
+        },
+        {
+          "mid": "/m/04zjxcz",
+          "description": "Ash",
+          "score": 0.5891188,
+          "topicality": 0.00035738928
+        },
+        {
+          "mid": "/m/01qdq2",
+          "description": "Smoking cessation",
+          "score": 0.5689594,
+          "topicality": 0.57222295
+        }
+      ]
+    }
+  ]
+}

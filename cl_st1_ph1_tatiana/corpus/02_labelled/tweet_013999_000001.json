@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dzf4",
+          "description": "Arm",
+          "score": 0.97263217,
+          "topicality": 0.010223836
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9143335,
+          "topicality": 0.0022530274
+        },
+        {
+          "mid": "/m/01ckgp",
+          "description": "Interaction",
+          "score": 0.9135126,
+          "topicality": 0.025092324
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.89889413,
+          "topicality": 0.0055370643
+        },
+        {
+          "mid": "/m/01h8n0",
+          "description": "Conversation",
+          "score": 0.7380733,
+          "topicality": 0.01551704
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.7228042,
+          "topicality": 0.0036067169
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.59302056,
+          "topicality": 0.00083211984
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5914279,
+          "topicality": 0.010992829
+        },
+        {
+          "mid": "/m/09fwz6",
+          "description": "Lap",
+          "score": 0.5232256,
+          "topicality": 0.0014104297
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.81023324,
+          "topicality": 0.005018294
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7479904,
+          "topicality": 0.008472773
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.6183826,
+          "topicality": 0.0060896007
+        },
+        {
+          "mid": "/m/0220r2",
+          "description": "Fountain",
+          "score": 0.6030858,
+          "topicality": 0.08548627
+        },
+        {
+          "mid": "/m/090j23",
+          "description": "Water feature",
+          "score": 0.60247374,
+          "topicality": 0.0029137635
+        }
+      ]
+    }
+  ]
+}

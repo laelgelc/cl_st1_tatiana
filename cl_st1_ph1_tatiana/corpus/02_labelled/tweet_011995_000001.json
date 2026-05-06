@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.8631934,
+          "topicality": 0.0004379446
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.82265943,
+          "topicality": 0.0018904294
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.7567916,
+          "topicality": 0.24439225
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.6955849,
+          "topicality": 0.11403478
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.691774,
+          "topicality": 0.28121373
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.682486,
+          "topicality": 0.00028482734
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.6653912,
+          "topicality": 4.016688e-06
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.64445186,
+          "topicality": 0.37389958
+        },
+        {
+          "mid": "/m/017clw",
+          "description": "Laboratory",
+          "score": 0.6403663,
+          "topicality": 0.23486792
+        },
+        {
+          "mid": "/m/03bx017",
+          "description": "Researcher",
+          "score": 0.63341635,
+          "topicality": 0.15362547
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6016044,
+          "topicality": 6.052585e-05
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.55239326,
+          "topicality": 0.0056191627
+        }
+      ]
+    }
+  ]
+}

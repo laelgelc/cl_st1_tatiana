@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9758092,
+          "topicality": 0.06963899
+        },
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.8489005,
+          "topicality": 0.04934448
+        },
+        {
+          "mid": "/m/03rbf6",
+          "description": "Macro photography",
+          "score": 0.79167575,
+          "topicality": 0.07752591
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.563934,
+          "topicality": 0.0023163105
+        },
+        {
+          "mid": "/m/0f454",
+          "description": "Brambles",
+          "score": 0.55320656,
+          "topicality": 0.006481709
+        },
+        {
+          "mid": "/m/03154",
+          "description": "Fungus",
+          "score": 0.5069971,
+          "topicality": 0.021300392
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.50639653,
+          "topicality": 0.051319543
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9630303,
+          "topicality": 0.5011823
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9597973,
+          "topicality": 0.6291564
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.95151013,
+          "topicality": 0.05620022
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9504072,
+          "topicality": 0.002858221
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9373776,
+          "topicality": 0.00019925131
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9301834,
+          "topicality": 0.012529062
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.9158907,
+          "topicality": 0.041173264
+        },
+        {
+          "mid": "/m/08xgn7",
+          "description": "Comfort",
+          "score": 0.8862452,
+          "topicality": 0.0009391758
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.8569825,
+          "topicality": 0.043491982
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8497121,
+          "topicality": 0.088614024
+        },
+        {
+          "mid": "/m/06dc32",
+          "description": "Hospital gown",
+          "score": 0.80398256,
+          "topicality": 0.044988584
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7854119,
+          "topicality": 0.023817193
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.59202164,
+          "topicality": 0.018091088
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.58333266,
+          "topicality": 6.544954e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/062581",
+          "description": "Sleeve",
+          "score": 0.9849729,
+          "topicality": 0.0018294831
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.6610175,
+          "topicality": 0.0070194434
+        },
+        {
+          "mid": "/m/02h9bf",
+          "description": "Hood",
+          "score": 0.6356852,
+          "topicality": 0.0034838724
+        },
+        {
+          "mid": "/m/01v229",
+          "description": "Raincoat",
+          "score": 0.5255895,
+          "topicality": 0.011270252
+        }
+      ]
+    }
+  ]
+}

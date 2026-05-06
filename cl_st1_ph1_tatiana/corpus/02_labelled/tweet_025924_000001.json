@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.87286574,
+          "topicality": 0.025210224
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.6920512,
+          "topicality": 0.05056167
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.5934355,
+          "topicality": 0.014902107
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.55808467,
+          "topicality": 0.0030150022
+        },
+        {
+          "mid": "/m/0nb89bq",
+          "description": "Photobombing",
+          "score": 0.514765,
+          "topicality": 0.01573242
+        }
+      ]
+    }
+  ]
+}

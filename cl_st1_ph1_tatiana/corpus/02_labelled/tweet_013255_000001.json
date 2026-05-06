@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fc1fy",
+          "description": "Black hair",
+          "score": 0.9503151,
+          "topicality": 0.041819602
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.87282854,
+          "topicality": 0.004997902
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.6229458,
+          "topicality": 0.041412972
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.500972,
+          "topicality": 0.014209522
+        }
+      ]
+    }
+  ]
+}

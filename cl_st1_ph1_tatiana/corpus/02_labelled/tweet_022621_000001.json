@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8100583,
+          "topicality": 0.0240299
+        },
+        {
+          "mid": "/m/0199g",
+          "description": "Bicycle",
+          "score": 0.7644496,
+          "topicality": 0.0067847897
+        },
+        {
+          "mid": "/m/0c3vfpc",
+          "description": "Bicycle tire",
+          "score": 0.6476415,
+          "topicality": 2.7076549e-06
+        },
+        {
+          "mid": "/m/01bqgn",
+          "description": "Bicycle frame",
+          "score": 0.5919032,
+          "topicality": 4.4511835e-06
+        },
+        {
+          "mid": "/m/02rqv26",
+          "description": "Bicycle handlebar",
+          "score": 0.5446602,
+          "topicality": 2.5537354e-06
+        },
+        {
+          "mid": "/m/01bqk0",
+          "description": "Bicycle wheel",
+          "score": 0.5311502,
+          "topicality": 3.9206996e-05
+        },
+        {
+          "mid": "/m/0bpnmk0",
+          "description": "Bicycles--Equipment and supplies",
+          "score": 0.50671834,
+          "topicality": 3.2401742e-06
+        }
+      ]
+    }
+  ]
+}

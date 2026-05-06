@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9520783,
+          "topicality": 0.017443456
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9192716,
+          "topicality": 0.0008095749
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8267924,
+          "topicality": 0.02926468
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.716329,
+          "topicality": 0.0070080194
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6844656,
+          "topicality": 0.0009736968
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.57263,
+          "topicality": 0.0030711708
+        }
+      ]
+    }
+  ]
+}

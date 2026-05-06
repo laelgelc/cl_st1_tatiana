@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.95320565,
+          "topicality": 0.14247179
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.921134,
+          "topicality": 0.10057662
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.76197976,
+          "topicality": 0.03280535
+        },
+        {
+          "mid": "/m/07jdr",
+          "description": "Train",
+          "score": 0.6477196,
+          "topicality": 0.30452636
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.6445898,
+          "topicality": 0.10078103
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.55006605,
+          "topicality": 0.00026511654
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.5356745,
+          "topicality": 0.00014125544
+        }
+      ]
+    }
+  ]
+}

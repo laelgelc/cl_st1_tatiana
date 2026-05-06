@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.80914855,
+          "topicality": 0.12370548
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.7156288,
+          "topicality": 0.051316198
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.69837606,
+          "topicality": 0.008601702
+        },
+        {
+          "mid": "/m/03g09t",
+          "description": "Clip art",
+          "score": 0.6133311,
+          "topicality": 0.027414653
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.610292,
+          "topicality": 0.007852564
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.5800304,
+          "topicality": 0.0043467735
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5576728,
+          "topicality": 0.0053729834
+        }
+      ]
+    }
+  ]
+}

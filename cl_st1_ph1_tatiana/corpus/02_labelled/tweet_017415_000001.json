@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.97821856,
+          "topicality": 0.012962635
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97551376,
+          "topicality": 0.09637961
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.91556364,
+          "topicality": 0.0010852722
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9104891,
+          "topicality": 0.00057133375
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.89057255,
+          "topicality": 0.008352718
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.85479826,
+          "topicality": 0.0002967086
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.83520305,
+          "topicality": 0.0037127659
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.8010723,
+          "topicality": 0.1183459
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6654043,
+          "topicality": 0.011967792
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6548264,
+          "topicality": 0.090753965
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.6117576,
+          "topicality": 0.057313617
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.5796002,
+          "topicality": 0.03159517
+        }
+      ]
+    }
+  ]
+}

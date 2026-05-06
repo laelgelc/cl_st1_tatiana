@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6256246,
+          "topicality": 0.055779234
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6033198,
+          "topicality": 0.010234833
+        },
+        {
+          "mid": "/m/0569zg",
+          "description": "Beauty salon",
+          "score": 0.5758022,
+          "topicality": 0.006534392
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.5582906,
+          "topicality": 0.00060684467
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5479411,
+          "topicality": 0.004311035
+        },
+        {
+          "mid": "/m/02m1vq",
+          "description": "Personal grooming",
+          "score": 0.53996396,
+          "topicality": 0.002312179
+        }
+      ]
+    }
+  ]
+}

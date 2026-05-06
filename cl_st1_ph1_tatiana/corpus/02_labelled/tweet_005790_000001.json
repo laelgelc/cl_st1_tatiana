@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9220446,
+          "topicality": 0.00011361446
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.87339306,
+          "topicality": 0.00032228342
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.87124825,
+          "topicality": 0.0019205741
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7699001,
+          "topicality": 8.339784e-05
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.69525826,
+          "topicality": 0.004397206
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.67724156,
+          "topicality": 0.07817776
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6310303,
+          "topicality": 0.0005309034
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.53900194,
+          "topicality": 0.011247204
+        }
+      ]
+    }
+  ]
+}

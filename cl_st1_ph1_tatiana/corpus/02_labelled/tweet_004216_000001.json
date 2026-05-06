@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.89569557,
+          "topicality": 0.0012467175
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.892512,
+          "topicality": 0.00094194175
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.83879995,
+          "topicality": 0.005913448
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.74756724,
+          "topicality": 0.013980996
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7420154,
+          "topicality": 0.16639844
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.67066795,
+          "topicality": 0.13900362
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6228767,
+          "topicality": 0.060348462
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.6080195,
+          "topicality": 0.0025343539
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5824815,
+          "topicality": 0.009561151
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5654059,
+          "topicality": 0.025872776
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51124567,
+          "topicality": 0.0052083763
+        }
+      ]
+    }
+  ]
+}

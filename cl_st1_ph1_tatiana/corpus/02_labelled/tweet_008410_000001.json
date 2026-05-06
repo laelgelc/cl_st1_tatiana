@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01_v7j",
+          "description": "Identity document",
+          "score": 0.96908265,
+          "topicality": 0.12082381
+        },
+        {
+          "mid": "/m/05sv1",
+          "description": "Passport",
+          "score": 0.93580055,
+          "topicality": 0.95506656
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7560569,
+          "topicality": 4.4288787e-05
+        },
+        {
+          "mid": "/m/03ybby4",
+          "description": "Everyday carry",
+          "score": 0.6327692,
+          "topicality": 1.5144233e-05
+        }
+      ]
+    }
+  ]
+}

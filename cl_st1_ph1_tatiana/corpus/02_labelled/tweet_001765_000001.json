@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.9747418,
+          "topicality": 0.00071588793
+        },
+        {
+          "mid": "/m/03j1ly",
+          "description": "Emergency vehicle",
+          "score": 0.94392383,
+          "topicality": 0.008045219
+        },
+        {
+          "mid": "/m/012n7d",
+          "description": "Ambulance",
+          "score": 0.8904163,
+          "topicality": 0.509146
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.8580588,
+          "topicality": 0.021616027
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.8108482,
+          "topicality": 0.013333049
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.80355495,
+          "topicality": 0.0012062034
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.765283,
+          "topicality": 0.13832933
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73641825,
+          "topicality": 0.00023553142
+        },
+        {
+          "mid": "/m/0jzbb",
+          "description": "Paramedic",
+          "score": 0.6859223,
+          "topicality": 0.30981654
+        },
+        {
+          "mid": "/m/02pz5g2",
+          "description": "Light commercial vehicle",
+          "score": 0.6766319,
+          "topicality": 0.0023017451
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.6605648,
+          "topicality": 0.0010969328
+        },
+        {
+          "mid": "/m/0fmnf5",
+          "description": "Compact van",
+          "score": 0.56162465,
+          "topicality": 0.00085915386
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.54271865,
+          "topicality": 0.01315104
+        }
+      ]
+    }
+  ]
+}

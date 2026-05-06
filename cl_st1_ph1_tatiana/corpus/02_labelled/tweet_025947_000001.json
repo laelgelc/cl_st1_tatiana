@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "Clothing",
+          "score": 0.9940373,
+          "topicality": 0.015128425
+        },
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.9862293,
+          "topicality": 0.002744579
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.97231174,
+          "topicality": 0.003567394
+        },
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.96325755,
+          "topicality": 0.007288461
+        },
+        {
+          "mid": "/m/01n4qj",
+          "description": "Shirt",
+          "score": 0.9541592,
+          "topicality": 0.0027438274
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.8789645,
+          "topicality": 0.003465873
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.81246257,
+          "topicality": 0.00080382003
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7740233,
+          "topicality": 0.001941826
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.7494206,
+          "topicality": 0.0009459174
+        },
+        {
+          "mid": "/m/02_n6y",
+          "description": "Goggles",
+          "score": 0.70485336,
+          "topicality": 0.00015704942
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.66362184,
+          "topicality": 0.0009724365
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6620765,
+          "topicality": 0.020830275
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.63906354,
+          "topicality": 0.0028843014
+        },
+        {
+          "mid": "/m/01zpz",
+          "description": "Crew",
+          "score": 0.6168424,
+          "topicality": 0.001216368
+        }
+      ]
+    }
+  ]
+}

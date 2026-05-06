@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.73796797,
+          "topicality": 0.0026036515
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.555821,
+          "topicality": 0.021063646
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5398686,
+          "topicality": 0.0011414129
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.50550824,
+          "topicality": 0.00510052
+        }
+      ]
+    }
+  ]
+}

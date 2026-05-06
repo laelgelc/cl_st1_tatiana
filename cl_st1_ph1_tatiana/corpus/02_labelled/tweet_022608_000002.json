@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.79993564,
+          "topicality": 0.18351822
+        },
+        {
+          "mid": "/m/04s5jq",
+          "description": "Costume design",
+          "score": 0.5983352,
+          "topicality": 0.040353175
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.55829763,
+          "topicality": 0.0030637728
+        },
+        {
+          "mid": "/m/01n5cy",
+          "description": "Carpet",
+          "score": 0.5404735,
+          "topicality": 0.0018125823
+        },
+        {
+          "mid": "/m/014ht3",
+          "description": "Cosplay",
+          "score": 0.5184204,
+          "topicality": 0.077010006
+        }
+      ]
+    }
+  ]
+}

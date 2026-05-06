@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.81327057,
+          "topicality": 0.019015914
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.7853035,
+          "topicality": 0.008025028
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.64563423,
+          "topicality": 0.014923345
+        },
+        {
+          "mid": "/m/011yvr",
+          "description": "Plantation",
+          "score": 0.6250382,
+          "topicality": 0.019464338
+        },
+        {
+          "mid": "/m/0w2h",
+          "description": "Arbor Day",
+          "score": 0.5794043,
+          "topicality": 0.022506125
+        },
+        {
+          "mid": "/m/0g0vx",
+          "description": "Agriculturist",
+          "score": 0.57662964,
+          "topicality": 0.008783223
+        },
+        {
+          "mid": "/m/0h36z",
+          "description": "Cemetery",
+          "score": 0.53829443,
+          "topicality": 0.039453708
+        }
+      ]
+    }
+  ]
+}

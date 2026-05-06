@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449351,
+          "topicality": 0.00048810584
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9136853,
+          "topicality": 0.014210709
+        },
+        {
+          "mid": "/m/01sfl",
+          "description": "Clown",
+          "score": 0.8999107,
+          "topicality": 0.48190662
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.8362576,
+          "topicality": 0.027739167
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.83070064,
+          "topicality": 0.034689993
+        },
+        {
+          "mid": "/m/02jjt",
+          "description": "Entertainment",
+          "score": 0.81672525,
+          "topicality": 0.00070393475
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.81198955,
+          "topicality": 0.0025575466
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5636372,
+          "topicality": 0.0009570203
+        }
+      ]
+    }
+  ]
+}

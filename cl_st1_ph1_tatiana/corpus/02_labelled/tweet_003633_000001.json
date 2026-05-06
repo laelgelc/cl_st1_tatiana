@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9307695,
+          "topicality": 0.012478558
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.82614934,
+          "topicality": 0.018042976
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.7981016,
+          "topicality": 0.023674356
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6596823,
+          "topicality": 0.00784592
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.56042504,
+          "topicality": 0.024770565
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.50881106,
+          "topicality": 0.022546304
+        }
+      ]
+    }
+  ]
+}

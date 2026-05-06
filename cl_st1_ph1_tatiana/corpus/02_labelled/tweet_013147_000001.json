@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.988523,
+          "topicality": 0.0024262154
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.982002,
+          "topicality": 0.0035972549
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.9656224,
+          "topicality": 0.0072684665
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.96274024,
+          "topicality": 0.00249533
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.94552416,
+          "topicality": 0.0010139574
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9342031,
+          "topicality": 7.397318e-05
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8257036,
+          "topicality": 1.8880439e-05
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.7091948,
+          "topicality": 0.27578637
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.6892691,
+          "topicality": 0.012663643
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.6754117,
+          "topicality": 0.00092763413
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5888029,
+          "topicality": 0.00035683456
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.5541052,
+          "topicality": 0.00011895404
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.5251343,
+          "topicality": 0.00013003482
+        }
+      ]
+    }
+  ]
+}

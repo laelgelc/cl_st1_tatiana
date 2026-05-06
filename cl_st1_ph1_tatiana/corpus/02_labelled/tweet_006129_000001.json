@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.93329173,
+          "topicality": 0.0042980877
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.91630226,
+          "topicality": 0.0075520007
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8827017,
+          "topicality": 0.0924575
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8384168,
+          "topicality": 0.09638704
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.829914,
+          "topicality": 0.00097152614
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.80962825,
+          "topicality": 0.020604152
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.7878532,
+          "topicality": 0.101457536
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7779489,
+          "topicality": 0.17345059
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.76717526,
+          "topicality": 0.00025669468
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.7267953,
+          "topicality": 0.026929041
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7182589,
+          "topicality": 0.07654722
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.63498634,
+          "topicality": 0.047861
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5768964,
+          "topicality": 0.025677307
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5511849,
+          "topicality": 0.0101386
+        }
+      ]
+    }
+  ]
+}

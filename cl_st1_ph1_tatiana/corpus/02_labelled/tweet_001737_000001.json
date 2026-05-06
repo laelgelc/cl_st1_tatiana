@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.99366784,
+          "topicality": 0.0013712513
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9849554,
+          "topicality": 0.018538764
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.98327464,
+          "topicality": 0.0012021362
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5998348,
+          "topicality": 0.082835786
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5209235,
+          "topicality": 0.010955849
+        }
+      ]
+    }
+  ]
+}

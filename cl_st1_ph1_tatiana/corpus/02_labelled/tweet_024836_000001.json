@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.84166664,
+          "topicality": 0.19870816
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7670229,
+          "topicality": 0.0042209714
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7432636,
+          "topicality": 0.0010948833
+        },
+        {
+          "mid": "/m/04qwst",
+          "description": "Oxygen mask",
+          "score": 0.7306188,
+          "topicality": 0.5398802
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.66383785,
+          "topicality": 0.0278364
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.63952285,
+          "topicality": 0.13284077
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5717549,
+          "topicality": 0.024712937
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5645693,
+          "topicality": 0.10089333
+        },
+        {
+          "mid": "/m/02gq7v",
+          "description": "Diving equipment",
+          "score": 0.5408374,
+          "topicality": 0.008118099
+        }
+      ]
+    }
+  ]
+}

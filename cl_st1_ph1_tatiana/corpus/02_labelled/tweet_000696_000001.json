@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.81878626,
+          "topicality": 0.00062960427
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7810558,
+          "topicality": 0.0014595744
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.75726974,
+          "topicality": 0.0038743343
+        },
+        {
+          "mid": "/m/09w9qp",
+          "description": "Pipe",
+          "score": 0.54272145,
+          "topicality": 0.015973963
+        },
+        {
+          "mid": "/m/03h_4m",
+          "description": "Cylinder",
+          "score": 0.5142742,
+          "topicality": 0.008978041
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.5123675,
+          "topicality": 0.017471889
+        }
+      ]
+    }
+  ]
+}

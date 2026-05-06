@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.98523456,
+          "topicality": 0.0065241163
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9725351,
+          "topicality": 0.009777774
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9567708,
+          "topicality": 0.0037918289
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494444,
+          "topicality": 0.0008260331
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.93190986,
+          "topicality": 0.02753082
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.92027104,
+          "topicality": 0.0042877314
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.8878101,
+          "topicality": 0.007936691
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.76391417,
+          "topicality": 0.0046727867
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6094776,
+          "topicality": 0.003642074
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06gfj",
+          "description": "Road",
+          "score": 0.95298773,
+          "topicality": 0.030857628
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.95282954,
+          "topicality": 0.577135
+        },
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.9429769,
+          "topicality": 0.13529585
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.90364677,
+          "topicality": 0.051524878
+        },
+        {
+          "mid": "/m/01lwf0",
+          "description": "Alley",
+          "score": 0.90056247,
+          "topicality": 0.18458466
+        },
+        {
+          "mid": "/m/09y4pm",
+          "description": "Market",
+          "score": 0.80135095,
+          "topicality": 0.08286796
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7886023,
+          "topicality": 0.025338145
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7600136,
+          "topicality": 0.02460863
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.68132293,
+          "topicality": 0.013489218
+        },
+        {
+          "mid": "/m/0hhdb",
+          "description": "Shopping",
+          "score": 0.6003313,
+          "topicality": 0.03310138
+        },
+        {
+          "mid": "/m/02prwx",
+          "description": "Bazaar",
+          "score": 0.573723,
+          "topicality": 0.023143122
+        },
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.52995086,
+          "topicality": 0.006321409
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.52419627,
+          "topicality": 0.002262541
+        },
+        {
+          "mid": "/m/02t2zd",
+          "description": "Cobblestone",
+          "score": 0.5006176,
+          "topicality": 0.00092429883
+        }
+      ]
+    }
+  ]
+}

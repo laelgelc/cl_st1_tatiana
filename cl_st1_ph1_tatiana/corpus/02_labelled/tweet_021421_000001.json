@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8220344,
+          "topicality": 0.018307094
+        },
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.8049186,
+          "topicality": 0.011059524
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.74477535,
+          "topicality": 0.007567574
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.70566404,
+          "topicality": 0.0079002995
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6511118,
+          "topicality": 0.39514855
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6238937,
+          "topicality": 0.0007397586
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.5482313,
+          "topicality": 0.0120426575
+        },
+        {
+          "mid": "/m/021mp2",
+          "description": "Sedan",
+          "score": 0.54674554,
+          "topicality": 0.0007647909
+        },
+        {
+          "mid": "/m/0crtnw",
+          "description": "Executive car",
+          "score": 0.5157725,
+          "topicality": 7.967186e-05
+        }
+      ]
+    }
+  ]
+}

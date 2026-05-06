@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8726895,
+          "topicality": 0.010065752
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7260286,
+          "topicality": 0.00036221332
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.600197,
+          "topicality": 0.0013956098
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.5892288,
+          "topicality": 0.0007142116
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.58875465,
+          "topicality": 0.009663829
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.527892,
+          "topicality": 0.00058315985
+        }
+      ]
+    }
+  ]
+}

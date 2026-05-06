@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449244,
+          "topicality": 0.0017883253
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9110301,
+          "topicality": 0.011528141
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.8944824,
+          "topicality": 8.819688e-05
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8493703,
+          "topicality": 0.0013253101
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8111405,
+          "topicality": 0.013115991
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.807126,
+          "topicality": 0.016398754
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7588929,
+          "topicality": 0.00095615146
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.7313151,
+          "topicality": 0.7772654
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.67766243,
+          "topicality": 0.0036278798
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.67140883,
+          "topicality": 0.002046255
+        },
+        {
+          "mid": "/m/04gc2",
+          "description": "Lawyer",
+          "score": 0.6371014,
+          "topicality": 0.006401131
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.57127297,
+          "topicality": 0.0051186895
+        },
+        {
+          "mid": "/m/0dl76",
+          "description": "Prince",
+          "score": 0.5592438,
+          "topicality": 0.004099065
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.5171694,
+          "topicality": 0.014256956
+        }
+      ]
+    }
+  ]
+}

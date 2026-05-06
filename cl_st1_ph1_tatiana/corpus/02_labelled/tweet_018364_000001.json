@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7754088,
+          "topicality": 0.0038551693
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7119479,
+          "topicality": 0.0023277528
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.68840855,
+          "topicality": 0.0017169346
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6764873,
+          "topicality": 0.09036267
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.64741284,
+          "topicality": 0.016741475
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6442506,
+          "topicality": 0.04534551
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6289167,
+          "topicality": 0.18142954
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5860251,
+          "topicality": 0.007293552
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5572853,
+          "topicality": 0.022359654
+        }
+      ]
+    }
+  ]
+}

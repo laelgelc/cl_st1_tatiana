@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7668767,
+          "topicality": 0.35860214
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5515798,
+          "topicality": 0.010658596
+        },
+        {
+          "mid": "/m/0k2n5",
+          "description": "Daylighting",
+          "score": 0.5322072,
+          "topicality": 6.332345e-05
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.51917183,
+          "topicality": 0.030220227
+        }
+      ]
+    }
+  ]
+}

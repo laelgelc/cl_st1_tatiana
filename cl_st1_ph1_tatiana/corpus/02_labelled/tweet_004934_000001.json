@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02kdvj",
+          "description": "Blackboard",
+          "score": 0.72808146,
+          "topicality": 0.0072330525
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.6814521,
+          "topicality": 0.0031947626
+        },
+        {
+          "mid": "/m/031hrg",
+          "description": "Lecture",
+          "score": 0.5277847,
+          "topicality": 0.0032749565
+        },
+        {
+          "mid": "/m/04hyxm",
+          "description": "Classroom",
+          "score": 0.5052621,
+          "topicality": 0.0002487255
+        }
+      ]
+    }
+  ]
+}

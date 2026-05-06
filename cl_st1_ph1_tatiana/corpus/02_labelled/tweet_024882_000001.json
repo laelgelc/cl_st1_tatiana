@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j61q",
+          "description": "Tent",
+          "score": 0.83643174,
+          "topicality": 0.30732733
+        },
+        {
+          "mid": "/m/0hndl",
+          "description": "Shade",
+          "score": 0.8051606,
+          "topicality": 0.00500438
+        },
+        {
+          "mid": "/m/02w3fc",
+          "description": "Tarpaulin",
+          "score": 0.7645687,
+          "topicality": 0.021326443
+        },
+        {
+          "mid": "/m/0b03ql",
+          "description": "Canopy",
+          "score": 0.7447454,
+          "topicality": 0.02219602
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.58680075,
+          "topicality": 0.0115547795
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5789555,
+          "topicality": 0.0029495102
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5669337,
+          "topicality": 0.044152696
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.55979013,
+          "topicality": 0.026502918
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.55661476,
+          "topicality": 0.011802985
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.50209093,
+          "topicality": 0.0001321874
+        }
+      ]
+    }
+  ]
+}

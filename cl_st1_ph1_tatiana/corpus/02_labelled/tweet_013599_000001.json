@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9534159,
+          "topicality": 0.010787908
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8491858,
+          "topicality": 0.00019331247
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.7922128,
+          "topicality": 0.00034183764
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7423176,
+          "topicality": 0.12182633
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.72121954,
+          "topicality": 4.2893815e-05
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.706827,
+          "topicality": 0.15170828
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.630291,
+          "topicality": 0.097060986
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.60817105,
+          "topicality": 0.004700908
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.57825965,
+          "topicality": 0.038733367
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.5737186,
+          "topicality": 0.04674791
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.5375317,
+          "topicality": 0.019520415
+        }
+      ]
+    }
+  ]
+}

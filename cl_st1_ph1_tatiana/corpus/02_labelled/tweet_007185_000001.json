@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94459075,
+          "topicality": 0.0021046817
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.82259446,
+          "topicality": 0.00054819713
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.72912,
+          "topicality": 0.00018787547
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6399015,
+          "topicality": 0.0007509071
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.5666126,
+          "topicality": 0.00013963052
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.5183716,
+          "topicality": 0.61467373
+        }
+      ]
+    }
+  ]
+}

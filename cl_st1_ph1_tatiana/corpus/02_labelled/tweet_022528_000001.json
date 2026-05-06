@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.8940745,
+          "topicality": 0.012667757
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8806865,
+          "topicality": 0.6631491
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8789149,
+          "topicality": 0.00060515845
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7573206,
+          "topicality": 0.39777917
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.7312473,
+          "topicality": 0.001436663
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7248032,
+          "topicality": 0.18724988
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.68155926,
+          "topicality": 0.0036660312
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.6214493,
+          "topicality": 0.000119014054
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5219784,
+          "topicality": 0.028713837
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51849073,
+          "topicality": 0.0074291537
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.51127744,
+          "topicality": 0.17060815
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5039421,
+          "topicality": 0.00086124317
+        }
+      ]
+    }
+  ]
+}

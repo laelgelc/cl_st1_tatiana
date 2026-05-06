@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.99513716,
+          "topicality": 0.0012213296
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.98735285,
+          "topicality": 0.0063065155
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.98483056,
+          "topicality": 0.00026095883
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.87894017,
+          "topicality": 0.000548877
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8340004,
+          "topicality": 0.0002980724
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7502135,
+          "topicality": 6.3796106e-05
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.74231255,
+          "topicality": 0.0009231925
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7338284,
+          "topicality": 0.07565247
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6940852,
+          "topicality": 0.00024318487
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.5679877,
+          "topicality": 9.706061e-05
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.55754167,
+          "topicality": 0.02679109
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.51051927,
+          "topicality": 0.0069439323
+        }
+      ]
+    }
+  ]
+}

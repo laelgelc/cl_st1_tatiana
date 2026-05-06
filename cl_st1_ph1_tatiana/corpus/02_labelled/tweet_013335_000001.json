@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.97467035,
+          "topicality": 0.00017022941
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.6020879,
+          "topicality": 0.002469238
+        },
+        {
+          "mid": "/m/03233l",
+          "description": "Seminar",
+          "score": 0.57468015,
+          "topicality": 0.039874405
+        },
+        {
+          "mid": "/m/014cnc",
+          "description": "Student",
+          "score": 0.5373398,
+          "topicality": 0.10472241
+        },
+        {
+          "mid": "/m/014jg3",
+          "description": "Training",
+          "score": 0.52768093,
+          "topicality": 0.008208661
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.5141192,
+          "topicality": 0.021640727
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.50317174,
+          "topicality": 0.0012076676
+        },
+        {
+          "mid": "/m/031hrg",
+          "description": "Lecture",
+          "score": 0.50185823,
+          "topicality": 0.05260793
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8790606,
+          "topicality": 0.0014127713
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7002101,
+          "topicality": 0.061916355
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.58126754,
+          "topicality": 0.017286532
+        }
+      ]
+    }
+  ]
+}

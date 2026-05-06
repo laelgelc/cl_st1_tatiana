@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.6616411,
+          "topicality": 0.0063594333
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.5998989,
+          "topicality": 0.00021194578
+        },
+        {
+          "mid": "/m/0bhmh",
+          "description": "Telephony",
+          "score": 0.53459406,
+          "topicality": 0.002240246
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51211727,
+          "topicality": 0.006538826
+        },
+        {
+          "mid": "/m/030swj",
+          "description": "Mobile device",
+          "score": 0.50139314,
+          "topicality": 0.0014156494
+        }
+      ]
+    }
+  ]
+}

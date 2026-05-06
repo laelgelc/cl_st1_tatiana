@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0215n",
+          "description": "Cartoon",
+          "score": 0.8516592,
+          "topicality": 0.13571337
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.819897,
+          "topicality": 0.00047907155
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.67414683,
+          "topicality": 0.00018315458
+        },
+        {
+          "mid": "/m/03g09t",
+          "description": "Clip art",
+          "score": 0.60300326,
+          "topicality": 0.0060627493
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.6012808,
+          "topicality": 0.00076179276
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5805654,
+          "topicality": 0.008264785
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.5371415,
+          "topicality": 9.150236e-05
+        }
+      ]
+    }
+  ]
+}

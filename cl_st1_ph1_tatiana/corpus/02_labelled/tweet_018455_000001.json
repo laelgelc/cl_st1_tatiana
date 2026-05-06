@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9552155,
+          "topicality": 0.0016267074
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.94271326,
+          "topicality": 0.0037388855
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.86921686,
+          "topicality": 0.27352008
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8640829,
+          "topicality": 0.050618708
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.85936594,
+          "topicality": 0.0007827074
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.7964898,
+          "topicality": 0.04045305
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.79570764,
+          "topicality": 0.012268887
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7586792,
+          "topicality": 0.05544677
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.68461806,
+          "topicality": 6.7381676e-05
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6487578,
+          "topicality": 0.08662502
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6119559,
+          "topicality": 0.010877163
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5566592,
+          "topicality": 0.0045220843
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55260426,
+          "topicality": 0.022657257
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5440273,
+          "topicality": 0.08908348
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.50925535,
+          "topicality": 1.2061584e-05
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5055784,
+          "topicality": 0.04040312
+        }
+      ]
+    }
+  ]
+}

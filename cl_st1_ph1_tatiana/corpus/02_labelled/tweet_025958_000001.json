@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95264554,
+          "topicality": 0.015324433
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.91414773,
+          "topicality": 0.0018495128
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9024135,
+          "topicality": 0.0034311998
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8141442,
+          "topicality": 0.027865184
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.64226973,
+          "topicality": 0.007752336
+        },
+        {
+          "mid": "/m/02rlncx",
+          "description": "Plastic bottle",
+          "score": 0.52900225,
+          "topicality": 0.0004690023
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.5112817,
+          "topicality": 0.022017136
+        }
+      ]
+    }
+  ]
+}

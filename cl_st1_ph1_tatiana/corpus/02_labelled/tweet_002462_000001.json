@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.8029851,
+          "topicality": 0.0020628627
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6694013,
+          "topicality": 0.0010658057
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.6103173,
+          "topicality": 0.005354352
+        },
+        {
+          "mid": "/m/05_4_",
+          "description": "Party",
+          "score": 0.5891838,
+          "topicality": 0.04452233
+        }
+      ]
+    }
+  ]
+}

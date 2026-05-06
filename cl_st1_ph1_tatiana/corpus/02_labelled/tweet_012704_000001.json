@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037p5b",
+          "description": "Cheek",
+          "score": 0.9867409,
+          "topicality": 0.03997614
+        },
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.9847945,
+          "topicality": 0.015967106
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944831,
+          "topicality": 0.029626293
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.9403642,
+          "topicality": 0.0025394952
+        },
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.88123596,
+          "topicality": 0.008652512
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.8390976,
+          "topicality": 0.11673286
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.63913673,
+          "topicality": 0.14866602
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.5691299,
+          "topicality": 0.0012597257
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.97836643,
+          "topicality": 1.1937195e-05
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.97580236,
+          "topicality": 0.00074021023
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.76721716,
+          "topicality": 0.0067062485
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.56072074,
+          "topicality": 0.0023619921
+        }
+      ]
+    }
+  ]
+}

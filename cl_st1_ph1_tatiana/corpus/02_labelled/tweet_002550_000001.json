@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.91055477,
+          "topicality": 0.00028983317
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.82607836,
+          "topicality": 0.00079748797
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.77665335,
+          "topicality": 0.33012086
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.76095366,
+          "topicality": 0.0026858228
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7269591,
+          "topicality": 0.06958015
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.6985943,
+          "topicality": 0.00015446822
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.65972227,
+          "topicality": 0.001513073
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.6084979,
+          "topicality": 0.054924093
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.6055542,
+          "topicality": 0.0013731483
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.59953994,
+          "topicality": 0.0138961375
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.556024,
+          "topicality": 0.05549968
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.526001,
+          "topicality": 0.045699444
+        }
+      ]
+    }
+  ]
+}

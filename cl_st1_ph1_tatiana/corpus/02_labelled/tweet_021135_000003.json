@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.8754782,
+          "topicality": 0.013163368
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.55688196,
+          "topicality": 0.0030437675
+        },
+        {
+          "mid": "/m/02pkr5",
+          "description": "Plumbing fixture",
+          "score": 0.51480937,
+          "topicality": 0.002071928
+        }
+      ]
+    }
+  ]
+}

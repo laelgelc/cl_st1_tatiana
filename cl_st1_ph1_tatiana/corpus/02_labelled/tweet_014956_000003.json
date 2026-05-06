@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.8794992,
+          "topicality": 0.0017729707
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8400115,
+          "topicality": 0.12997094
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.8281343,
+          "topicality": 0.30118304
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7490729,
+          "topicality": 0.0006146398
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.60336787,
+          "topicality": 0.00039096526
+        }
+      ]
+    }
+  ]
+}

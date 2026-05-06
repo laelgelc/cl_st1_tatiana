@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.96772504,
+          "topicality": 0.013634353
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.915948,
+          "topicality": 0.003731644
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8664872,
+          "topicality": 0.006440385
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.831119,
+          "topicality": 0.0013404574
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.81553525,
+          "topicality": 0.00040476333
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.75080705,
+          "topicality": 0.0021433914
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.7489387,
+          "topicality": 0.018288687
+        },
+        {
+          "mid": "/m/0bhmh",
+          "description": "Telephony",
+          "score": 0.60538167,
+          "topicality": 0.0039004611
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.5829235,
+          "topicality": 0.00015785701
+        },
+        {
+          "mid": "/m/030swj",
+          "description": "Mobile device",
+          "score": 0.57662576,
+          "topicality": 0.0027940837
+        },
+        {
+          "mid": "/m/020fsy",
+          "description": "Portable communications device",
+          "score": 0.5138946,
+          "topicality": 0.0016529113
+        }
+      ]
+    }
+  ]
+}

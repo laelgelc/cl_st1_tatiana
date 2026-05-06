@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6190886,
+          "topicality": 0.3756393
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5982118,
+          "topicality": 0.029042503
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5897097,
+          "topicality": 0.09055476
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.5695898,
+          "topicality": 0.00015976622
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.5691807,
+          "topicality": 0.0145640485
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5548257,
+          "topicality": 0.007989371
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5152112,
+          "topicality": 0.0058106957
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.501853,
+          "topicality": 0.0015771083
+        }
+      ]
+    }
+  ]
+}

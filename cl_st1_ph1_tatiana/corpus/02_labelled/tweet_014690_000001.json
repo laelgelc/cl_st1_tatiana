@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449422,
+          "topicality": 0.047856044
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.65944636,
+          "topicality": 0.009348266
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.5890508,
+          "topicality": 0.0039934055
+        },
+        {
+          "mid": "/m/02ngh",
+          "description": "Emoticon",
+          "score": 0.52272564,
+          "topicality": 0.5757271
+        },
+        {
+          "mid": "/m/03g09t",
+          "description": "Clip art",
+          "score": 0.51891774,
+          "topicality": 0.041356705
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0csby",
+          "description": "Cloud",
+          "score": 0.9554212,
+          "topicality": 0.10099185
+        },
+        {
+          "mid": "/m/0z71l",
+          "description": "Storm",
+          "score": 0.93586844,
+          "topicality": 0.70297366
+        },
+        {
+          "mid": "/m/09c5_",
+          "description": "Tornado",
+          "score": 0.8399979,
+          "topicality": 0.8926663
+        },
+        {
+          "mid": "/m/0brn2d",
+          "description": "Field",
+          "score": 0.76579857,
+          "topicality": 0.01584876
+        },
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.75914896,
+          "topicality": 0.07849413
+        },
+        {
+          "mid": "/m/0hkvx",
+          "description": "Prairie",
+          "score": 0.7505925,
+          "topicality": 0.033750925
+        },
+        {
+          "mid": "/m/0csh5",
+          "description": "Cumulus",
+          "score": 0.72164285,
+          "topicality": 0.002649265
+        },
+        {
+          "mid": "/g/11k2xz7mr",
+          "description": "Meteorological phenomenon",
+          "score": 0.7186204,
+          "topicality": 0.0012938556
+        },
+        {
+          "mid": "/m/0f45l",
+          "description": "Steppe",
+          "score": 0.61603254,
+          "topicality": 0.0026246677
+        },
+        {
+          "mid": "/m/0jb2l",
+          "description": "Thunderstorm",
+          "score": 0.57065994,
+          "topicality": 0.4130996
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.56808174,
+          "topicality": 0.0070958924
+        },
+        {
+          "mid": "/m/0cz_0",
+          "description": "Highway",
+          "score": 0.54369056,
+          "topicality": 0.0013608859
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.5151016,
+          "topicality": 0.0062641483
+        }
+      ]
+    }
+  ]
+}

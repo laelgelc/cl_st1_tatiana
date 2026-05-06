@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.8857702,
+          "topicality": 0.017811075
+        },
+        {
+          "mid": "/m/01kv7h",
+          "description": "Midnight",
+          "score": 0.7531961,
+          "topicality": 0.0012529739
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6481388,
+          "topicality": 0.061190758
+        },
+        {
+          "mid": "/m/02l7rx",
+          "description": "Convention center",
+          "score": 0.521788,
+          "topicality": 0.1131264
+        }
+      ]
+    }
+  ]
+}

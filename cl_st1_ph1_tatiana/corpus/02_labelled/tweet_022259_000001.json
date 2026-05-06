@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.92783993,
+          "topicality": 0.0006048137
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.84730726,
+          "topicality": 0.0021736752
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7882356,
+          "topicality": 0.05049572
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.75950277,
+          "topicality": 0.08045524
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.7244051,
+          "topicality": 0.00011515696
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.71181685,
+          "topicality": 0.0033228984
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.6503379,
+          "topicality": 0.0185138
+        }
+      ]
+    }
+  ]
+}

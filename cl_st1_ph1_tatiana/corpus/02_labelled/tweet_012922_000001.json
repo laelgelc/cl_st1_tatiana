@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6386786,
+          "topicality": 0.026145047
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6272904,
+          "topicality": 0.0017409062
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.57474333,
+          "topicality": 0.0005976614
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.5716035,
+          "topicality": 0.0010362616
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52741146,
+          "topicality": 0.023769654
+        }
+      ]
+    }
+  ]
+}

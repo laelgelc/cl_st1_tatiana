@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8262229,
+          "topicality": 0.13465838
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.81896,
+          "topicality": 0.0042758975
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7524889,
+          "topicality": 0.049716964
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.71336377,
+          "topicality": 0.015504492
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.669114,
+          "topicality": 0.014965133
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.64350414,
+          "topicality": 0.0013979056
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.5992067,
+          "topicality": 0.007110006
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5936488,
+          "topicality": 0.07057146
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5856002,
+          "topicality": 0.0008324493
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.56284416,
+          "topicality": 7.766323e-06
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.51398015,
+          "topicality": 0.008015887
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01r2fb",
+          "description": "Inflatable",
+          "score": 0.8161176,
+          "topicality": 0.10474492
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8055744,
+          "topicality": 0.009989788
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7831277,
+          "topicality": 0.0008826719
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.6564465,
+          "topicality": 0.007307433
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.84742063,
+          "topicality": 0.008162984
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8033363,
+          "topicality": 0.10510458
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.76121724,
+          "topicality": 0.0026216065
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.61689264,
+          "topicality": 0.007960685
+        },
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.6094423,
+          "topicality": 0.39857975
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.58923143,
+          "topicality": 0.0028673394
+        }
+      ]
+    }
+  ]
+}

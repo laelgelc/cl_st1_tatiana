@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8mhzd",
+          "description": "Sports Uniform",
+          "score": 0.9418287,
+          "topicality": 0.0006211509
+        },
+        {
+          "mid": "/m/0bmgjqz",
+          "description": "Sports venue",
+          "score": 0.75100666,
+          "topicality": 0.00065899437
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73721045,
+          "topicality": 8.5561616e-05
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.65878445,
+          "topicality": 0.003449913
+        },
+        {
+          "mid": "/m/026_x9",
+          "description": "Ponytail",
+          "score": 0.55535144,
+          "topicality": 0.00023087164
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.50188833,
+          "topicality": 0.0018465839
+        }
+      ]
+    }
+  ]
+}

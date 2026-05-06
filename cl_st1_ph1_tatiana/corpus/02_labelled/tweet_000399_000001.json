@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.9503249,
+          "topicality": 0.19799404
+        },
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.9154863,
+          "topicality": 0.15070191
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8739722,
+          "topicality": 0.33763048
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.7425012,
+          "topicality": 0.046111275
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.6506739,
+          "topicality": 4.5185447e-05
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5177096,
+          "topicality": 0.0010627634
+        },
+        {
+          "mid": "/m/07z226",
+          "description": "Broadcasting",
+          "score": 0.5028233,
+          "topicality": 0.0012399937
+        }
+      ]
+    }
+  ]
+}

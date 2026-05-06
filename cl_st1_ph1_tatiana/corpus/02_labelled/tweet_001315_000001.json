@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01v229",
+          "description": "Raincoat",
+          "score": 0.9490094,
+          "topicality": 0.7690556
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8444482,
+          "topicality": 0.0005861335
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.7293768,
+          "topicality": 0.024396839
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.70303047,
+          "topicality": 0.02158857
+        },
+        {
+          "mid": "/m/05gqfk",
+          "description": "Plastic bag",
+          "score": 0.62533015,
+          "topicality": 0.103057794
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.534281,
+          "topicality": 0.004543311
+        },
+        {
+          "mid": "/m/01444p",
+          "description": "Cloak",
+          "score": 0.519493,
+          "topicality": 0.15807183
+        }
+      ]
+    }
+  ]
+}

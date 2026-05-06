@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.87701225,
+          "topicality": 0.2654296
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.8106529,
+          "topicality": 0.048310023
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7823749,
+          "topicality": 0.066665016
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.70766443,
+          "topicality": 0.0057017994
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.68166995,
+          "topicality": 0.00090452295
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6707172,
+          "topicality": 0.00043766006
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6242793,
+          "topicality": 0.000578016
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6045384,
+          "topicality": 0.016311517
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.55819017,
+          "topicality": 0.00021986068
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.55448776,
+          "topicality": 0.32219404
+        }
+      ]
+    }
+  ]
+}

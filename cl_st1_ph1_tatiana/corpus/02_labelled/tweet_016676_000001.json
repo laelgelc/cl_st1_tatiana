@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8753599,
+          "topicality": 0.092638925
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8177965,
+          "topicality": 0.00078334205
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.71684784,
+          "topicality": 0.0019231597
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.6083521,
+          "topicality": 0.06999727
+        },
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.57513905,
+          "topicality": 0.43344498
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.50775653,
+          "topicality": 0.00023172001
+        }
+      ]
+    }
+  ]
+}

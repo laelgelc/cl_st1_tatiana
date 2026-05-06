@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9701033,
+          "topicality": 0.053593617
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.91747826,
+          "topicality": 0.024372203
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9139148,
+          "topicality": 0.017640611
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8787652,
+          "topicality": 0.01881492
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8053976,
+          "topicality": 0.0050158715
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.7603379,
+          "topicality": 0.005834329
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.6728815,
+          "topicality": 0.00096666685
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.61650836,
+          "topicality": 0.079103015
+        },
+        {
+          "mid": "/m/0kw6d",
+          "description": "Driving",
+          "score": 0.51563495,
+          "topicality": 0.13864389
+        }
+      ]
+    }
+  ]
+}

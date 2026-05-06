@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.74999243,
+          "topicality": 0.0430456
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.66088516,
+          "topicality": 0.066153735
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.5568082,
+          "topicality": 0.038515348
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.50744784,
+          "topicality": 0.02413841
+        }
+      ]
+    }
+  ]
+}

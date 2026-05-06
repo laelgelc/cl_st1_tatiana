@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.77984726,
+          "topicality": 0.047995813
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.77632207,
+          "topicality": 0.35781804
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7102674,
+          "topicality": 0.03629718
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6520087,
+          "topicality": 0.0020766016
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.62072694,
+          "topicality": 0.00013644312
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.60039645,
+          "topicality": 0.0107448725
+        },
+        {
+          "mid": "/m/04nfs2",
+          "description": "Broomrapes",
+          "score": 0.50257266,
+          "topicality": 1.5139136e-05
+        },
+        {
+          "mid": "/m/03vt0",
+          "description": "Insect",
+          "score": 0.50068986,
+          "topicality": 0.004976268
+        }
+      ]
+    }
+  ]
+}

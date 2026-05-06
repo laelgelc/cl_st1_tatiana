@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7152382,
+          "topicality": 0.019178797
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.66789204,
+          "topicality": 0.000576249
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6421907,
+          "topicality": 0.0053798673
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.5006748,
+          "topicality": 0.001238491
+        }
+      ]
+    }
+  ]
+}

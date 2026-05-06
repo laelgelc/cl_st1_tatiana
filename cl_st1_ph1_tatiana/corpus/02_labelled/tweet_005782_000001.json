@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.75140804,
+          "topicality": 0.0016121387
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.62815994,
+          "topicality": 0.0013343393
+        },
+        {
+          "mid": "/m/0bpxlzj",
+          "description": "Endurance sports",
+          "score": 0.5832377,
+          "topicality": 0.00030107843
+        },
+        {
+          "mid": "/m/019w6h",
+          "description": "Exercise",
+          "score": 0.5741852,
+          "topicality": 0.0030121782
+        }
+      ]
+    }
+  ]
+}

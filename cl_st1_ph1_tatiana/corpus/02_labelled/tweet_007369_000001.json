@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.69761086,
+          "topicality": 0.07787123
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.65481746,
+          "topicality": 0.00068296044
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6442709,
+          "topicality": 0.18341352
+        },
+        {
+          "mid": "/m/01wk9c",
+          "description": "Emblem",
+          "score": 0.6032819,
+          "topicality": 0.0009953105
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5536065,
+          "topicality": 0.11750621
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.5135523,
+          "topicality": 0.021168314
+        }
+      ]
+    }
+  ]
+}

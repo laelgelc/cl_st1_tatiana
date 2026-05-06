@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9572639,
+          "topicality": 0.0002597448
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.9506082,
+          "topicality": 0.0026352843
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8590671,
+          "topicality": 0.0067775897
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.76410276,
+          "topicality": 0.0030294498
+        },
+        {
+          "mid": "/m/01qwsw",
+          "description": "Flat-panel display",
+          "score": 0.7479756,
+          "topicality": 0.003141081
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6398439,
+          "topicality": 0.0037818446
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6347561,
+          "topicality": 0.00032476912
+        },
+        {
+          "mid": "/m/0bx_y3w",
+          "description": "Television set",
+          "score": 0.5690725,
+          "topicality": 0.009067776
+        },
+        {
+          "mid": "/m/05p37dx",
+          "description": "LED-backlit LCD",
+          "score": 0.5542528,
+          "topicality": 0.0036604519
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.5488929,
+          "topicality": 0.0019276534
+        },
+        {
+          "mid": "/m/02522",
+          "description": "Computer monitor",
+          "score": 0.54420227,
+          "topicality": 0.008445294
+        },
+        {
+          "mid": "/m/044_87",
+          "description": "Output device",
+          "score": 0.53778833,
+          "topicality": 0.00023036105
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5279872,
+          "topicality": 0.09811866
+        },
+        {
+          "mid": "/m/07c52",
+          "description": "Television",
+          "score": 0.52616346,
+          "topicality": 0.043486178
+        }
+      ]
+    }
+  ]
+}

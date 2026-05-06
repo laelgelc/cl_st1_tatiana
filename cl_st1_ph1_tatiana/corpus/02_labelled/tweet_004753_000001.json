@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019tzr",
+          "description": "Coffin",
+          "score": 0.9130376,
+          "topicality": 0.7990893
+        },
+        {
+          "mid": "/m/02_g0",
+          "description": "Funeral",
+          "score": 0.85532874,
+          "topicality": 0.7970166
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.6557614,
+          "topicality": 0.0038729066
+        },
+        {
+          "mid": "/m/0h36z",
+          "description": "Cemetery",
+          "score": 0.572292,
+          "topicality": 0.18701746
+        }
+      ]
+    }
+  ]
+}

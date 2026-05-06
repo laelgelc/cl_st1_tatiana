@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8415451,
+          "topicality": 0.0072853775
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.71148264,
+          "topicality": 0.017163657
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.689426,
+          "topicality": 0.05128072
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5112515,
+          "topicality": 0.0030930683
+        }
+      ]
+    }
+  ]
+}

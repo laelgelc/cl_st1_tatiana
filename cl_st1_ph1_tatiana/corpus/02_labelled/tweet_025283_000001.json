@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.8908938,
+          "topicality": 0.0024629459
+        },
+        {
+          "mid": "/m/02gw_5",
+          "description": "Beanie",
+          "score": 0.64557016,
+          "topicality": 0.0004867244
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.6195732,
+          "topicality": 0.007078786
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.5461273,
+          "topicality": 0.0013611359
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.5042801,
+          "topicality": 0.00074488623
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9681232,
+          "topicality": 0.0048507643
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94463354,
+          "topicality": 2.0630541e-05
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.92650014,
+          "topicality": 0.00037306157
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8387966,
+          "topicality": 0.002215508
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73851943,
+          "topicality": 0.0017819337
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7243795,
+          "topicality": 0.0017520777
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.5585002,
+          "topicality": 0.0020511837
+        }
+      ]
+    }
+  ]
+}

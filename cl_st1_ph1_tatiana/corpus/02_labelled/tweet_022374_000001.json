@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.86395264,
+          "topicality": 0.00076822925
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.8607196,
+          "topicality": 0.0019232397
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8372193,
+          "topicality": 0.01159877
+        },
+        {
+          "mid": "/m/06h12k",
+          "description": "Sharing",
+          "score": 0.82498723,
+          "topicality": 0.0039215665
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7929566,
+          "topicality": 0.003253343
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7923011,
+          "topicality": 0.0015493025
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.72411555,
+          "topicality": 0.01161281
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.71577626,
+          "topicality": 0.01829616
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.67324615,
+          "topicality": 0.02259146
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.65913045,
+          "topicality": 0.00921934
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.63954514,
+          "topicality": 0.00034474628
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5968172,
+          "topicality": 0.00026245895
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.86918634,
+          "topicality": 0.0015991051
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.7628882,
+          "topicality": 0.026545921
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6404613,
+          "topicality": 0.03255489
+        },
+        {
+          "mid": "/m/09w9qp",
+          "description": "Pipe",
+          "score": 0.6253169,
+          "topicality": 0.03604336
+        },
+        {
+          "mid": "/m/03h_4m",
+          "description": "Cylinder",
+          "score": 0.6004274,
+          "topicality": 0.013018842
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.555226,
+          "topicality": 0.0003597158
+        },
+        {
+          "mid": "/m/01jp3p",
+          "description": "Tradesman",
+          "score": 0.54792166,
+          "topicality": 0.0013822456
+        }
+      ]
+    }
+  ]
+}

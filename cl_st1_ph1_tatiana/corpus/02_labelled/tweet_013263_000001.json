@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449276,
+          "topicality": 0.029668368
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.59730047,
+          "topicality": 0.013839431
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.56289935,
+          "topicality": 0.003030052
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.52770597,
+          "topicality": 0.00083837216
+        },
+        {
+          "mid": "/m/0463cq4",
+          "description": "Crying",
+          "score": 0.5024851,
+          "topicality": 0.02923688
+        }
+      ]
+    }
+  ]
+}

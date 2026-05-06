@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.9858668,
+          "topicality": 0.0120928325
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9575517,
+          "topicality": 0.0083136065
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.9564554,
+          "topicality": 0.011806312
+        },
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.921111,
+          "topicality": 0.004812334
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.87029976,
+          "topicality": 0.014195449
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.80612797,
+          "topicality": 3.7625574e-05
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.76981515,
+          "topicality": 0.0006420839
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.65977037,
+          "topicality": 0.21560688
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6206826,
+          "topicality": 0.000343746
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.5818845,
+          "topicality": 0.050145425
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5264645,
+          "topicality": 0.13488866
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5173175,
+          "topicality": 0.058117032
+        }
+      ]
+    }
+  ]
+}

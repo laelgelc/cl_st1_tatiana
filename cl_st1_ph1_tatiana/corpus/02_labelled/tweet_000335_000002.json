@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8ls87",
+          "description": "Automotive Exterior",
+          "score": 0.9400178,
+          "topicality": 0.0009052351
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.9121826,
+          "topicality": 0.042300224
+        },
+        {
+          "mid": "/m/01lrnl",
+          "description": "Windshield",
+          "score": 0.87777674,
+          "topicality": 0.27029976
+        },
+        {
+          "mid": "/m/039jq",
+          "description": "Glass",
+          "score": 0.87136835,
+          "topicality": 0.019123264
+        },
+        {
+          "mid": "/m/02417f",
+          "description": "Windscreen wiper",
+          "score": 0.8163561,
+          "topicality": 0.012526285
+        },
+        {
+          "mid": "/m/0h8nz9n",
+          "description": "Automotive Care",
+          "score": 0.74794805,
+          "topicality": 0.0007653341
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.74048984,
+          "topicality": 0.0016073491
+        },
+        {
+          "mid": "/m/02df64",
+          "description": "Hood",
+          "score": 0.73741055,
+          "topicality": 0.007827359
+        },
+        {
+          "mid": "/m/0h8lk4b",
+          "description": "Automotive Mirror",
+          "score": 0.7112445,
+          "topicality": 3.38447e-05
+        },
+        {
+          "mid": "/m/0h8ls4g",
+          "description": "Automotive Cleaning",
+          "score": 0.60857755,
+          "topicality": 0.0015550992
+        },
+        {
+          "mid": "/m/05j11x",
+          "description": "Rear-view mirror",
+          "score": 0.58253914,
+          "topicality": 0.0016780931
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.50445503,
+          "topicality": 0.0062638815
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.7990541,
+          "topicality": 0.0040447796
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.763574,
+          "topicality": 0.00093881745
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.5956923,
+          "topicality": 0.03251956
+        },
+        {
+          "mid": "/m/0fy6nv",
+          "description": "Head restraint",
+          "score": 0.5455441,
+          "topicality": 0.0007972284
+        }
+      ]
+    }
+  ]
+}

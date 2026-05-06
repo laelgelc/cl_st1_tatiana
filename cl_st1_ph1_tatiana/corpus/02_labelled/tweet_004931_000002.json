@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.98102266,
+          "topicality": 0.01558218
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.9004968,
+          "topicality": 0.028274171
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8957715,
+          "topicality": 0.0031757043
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.8521396,
+          "topicality": 0.00010829104
+        },
+        {
+          "mid": "/m/04_fs",
+          "description": "Muscle",
+          "score": 0.8488065,
+          "topicality": 0.015607432
+        },
+        {
+          "mid": "/m/0dzdr",
+          "description": "Thorax",
+          "score": 0.7268382,
+          "topicality": 0.007628627
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.71523225,
+          "topicality": 0.0010796927
+        }
+      ]
+    }
+  ]
+}

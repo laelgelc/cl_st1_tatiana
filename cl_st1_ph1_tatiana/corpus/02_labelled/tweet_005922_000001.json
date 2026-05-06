@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.91210645,
+          "topicality": 0.003381873
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.8976321,
+          "topicality": 0.0014014647
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.88367677,
+          "topicality": 0.027203005
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.85456276,
+          "topicality": 0.34674904
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8440104,
+          "topicality": 0.0007476867
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.8170068,
+          "topicality": 0.02195385
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7798302,
+          "topicality": 0.01418285
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7227578,
+          "topicality": 0.10867968
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.7196695,
+          "topicality": 0.005116223
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.70537853,
+          "topicality": 0.119427815
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.691514,
+          "topicality": 0.024087638
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.66745925,
+          "topicality": 0.0878276
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54937685,
+          "topicality": 0.007933009
+        }
+      ]
+    }
+  ]
+}

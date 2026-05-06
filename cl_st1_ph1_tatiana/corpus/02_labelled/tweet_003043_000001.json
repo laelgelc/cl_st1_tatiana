@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.8709379,
+          "topicality": 0.08304921
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.77793765,
+          "topicality": 0.0117049655
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.69801956,
+          "topicality": 0.46000242
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.64606214,
+          "topicality": 0.014061364
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5418279,
+          "topicality": 0.0032575405
+        }
+      ]
+    }
+  ]
+}

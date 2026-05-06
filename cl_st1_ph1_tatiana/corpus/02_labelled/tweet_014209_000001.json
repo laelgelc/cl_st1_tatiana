@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.95306194,
+          "topicality": 0.009876708
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9444227,
+          "topicality": 0.0043179477
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.88350594,
+          "topicality": 0.00018567857
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6463862,
+          "topicality": 0.49088103
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.56078124,
+          "topicality": 8.1944876e-05
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.51901567,
+          "topicality": 0.00073755276
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.5000767,
+          "topicality": 0.00038210885
+        }
+      ]
+    }
+  ]
+}

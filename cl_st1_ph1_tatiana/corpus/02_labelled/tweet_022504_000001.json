@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.93853873,
+          "topicality": 0.0006634234
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8951821,
+          "topicality": 0.005880928
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.78054297,
+          "topicality": 0.05485425
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7207477,
+          "topicality": 0.010400879
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7112229,
+          "topicality": 0.033478152
+        },
+        {
+          "mid": "/m/0ggnq",
+          "description": "Peripheral",
+          "score": 0.54582226,
+          "topicality": 6.4726623e-07
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.53918374,
+          "topicality": 0.0005128931
+        },
+        {
+          "mid": "/m/044_87",
+          "description": "Output device",
+          "score": 0.53108615,
+          "topicality": 1.6465189e-06
+        }
+      ]
+    }
+  ]
+}

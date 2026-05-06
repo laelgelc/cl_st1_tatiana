@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8599017,
+          "topicality": 0.030765923
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7873894,
+          "topicality": 0.02301049
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7353752,
+          "topicality": 0.02094904
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.69329304,
+          "topicality": 0.022639595
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.603404,
+          "topicality": 0.005790981
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5349669,
+          "topicality": 0.04522343
+        },
+        {
+          "mid": "/m/05b1rx",
+          "description": "Online advertising",
+          "score": 0.5146253,
+          "topicality": 0.004394719
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.81122714,
+          "topicality": 0.076515205
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.6775946,
+          "topicality": 0.010471011
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6574287,
+          "topicality": 0.017121945
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.63215786,
+          "topicality": 0.017927507
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9719831,
+          "topicality": 0.015220008
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9239932,
+          "topicality": 0.031968653
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.87516546,
+          "topicality": 0.0010718749
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.87072647,
+          "topicality": 0.017001629
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.832185,
+          "topicality": 0.027442452
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8296987,
+          "topicality": 0.00031840295
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7624627,
+          "topicality": 0.010926587
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6775458,
+          "topicality": 0.00018161068
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.6178795,
+          "topicality": 0.0024594725
+        },
+        {
+          "mid": "/m/0dzb2",
+          "description": "Vein",
+          "score": 0.5399417,
+          "topicality": 0.24493217
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.51337916,
+          "topicality": 0.00455535
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5028849,
+          "topicality": 0.040240876
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.5012992,
+          "topicality": 0.0012953754
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.50119656,
+          "topicality": 0.0340918
+        }
+      ]
+    }
+  ]
+}

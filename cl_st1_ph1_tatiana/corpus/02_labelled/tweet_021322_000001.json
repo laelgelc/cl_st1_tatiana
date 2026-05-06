@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.722575,
+          "topicality": 0.034872465
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.7030579,
+          "topicality": 0.009178159
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5887645,
+          "topicality": 0.0010172544
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "Mural",
+          "score": 0.5198747,
+          "topicality": 0.006588069
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943555,
+          "topicality": 0.13386554
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9418768,
+          "topicality": 0.07062978
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.8276773,
+          "topicality": 0.00083337986
+        },
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.76262784,
+          "topicality": 0.0012025902
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.58478725,
+          "topicality": 0.032805175
+        }
+      ]
+    }
+  ]
+}

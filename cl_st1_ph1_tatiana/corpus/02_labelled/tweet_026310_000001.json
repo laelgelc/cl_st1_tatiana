@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9077161,
+          "topicality": 0.001470868
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9006158,
+          "topicality": 0.32059157
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8912545,
+          "topicality": 0.019253679
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8871835,
+          "topicality": 0.34636217
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8737017,
+          "topicality": 0.0024016912
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.82328826,
+          "topicality": 0.010893207
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.80875194,
+          "topicality": 0.051096477
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.7047742,
+          "topicality": 0.0005964848
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.678445,
+          "topicality": 0.010486026
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6615077,
+          "topicality": 0.011711173
+        }
+      ]
+    }
+  ]
+}

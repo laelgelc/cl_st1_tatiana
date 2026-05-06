@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.56152916,
+          "topicality": 0.0019471811
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5610435,
+          "topicality": 0.0066731153
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.53679025,
+          "topicality": 0.0005208197
+        }
+      ]
+    }
+  ]
+}

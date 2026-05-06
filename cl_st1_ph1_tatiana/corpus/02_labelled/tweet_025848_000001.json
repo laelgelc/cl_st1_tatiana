@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494784,
+          "topicality": 0.0014424997
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9025331,
+          "topicality": 0.050336815
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.88817024,
+          "topicality": 0.012161504
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.79527026,
+          "topicality": 0.7569964
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6873826,
+          "topicality": 0.0026905604
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.60954696,
+          "topicality": 0.0008480079
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.569101,
+          "topicality": 0.07372144
+        }
+      ]
+    }
+  ]
+}

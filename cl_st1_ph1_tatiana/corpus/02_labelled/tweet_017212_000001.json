@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6569057,
+          "topicality": 0.0071830386
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5902394,
+          "topicality": 0.00091534463
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5769299,
+          "topicality": 0.0020520499
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5525947,
+          "topicality": 0.017388688
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.534429,
+          "topicality": 0.0011068317
+        }
+      ]
+    }
+  ]
+}

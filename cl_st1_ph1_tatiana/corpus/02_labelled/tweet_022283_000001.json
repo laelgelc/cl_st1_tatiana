@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.9881985,
+          "topicality": 0.0006105856
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9520282,
+          "topicality": 0.0019246906
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9100579,
+          "topicality": 0.00010311019
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.87654597,
+          "topicality": 0.068352416
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8647426,
+          "topicality": 0.0017501606
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.85057133,
+          "topicality": 0.71846634
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.5181921,
+          "topicality": 0.025510011
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.5101346,
+          "topicality": 0.025998445
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.988327,
+          "topicality": 0.00046340292
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9747362,
+          "topicality": 0.0044362447
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9697809,
+          "topicality": 0.00019014571
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.7307749,
+          "topicality": 0.06895966
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.97625935,
+          "topicality": 0.75450134
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.96683043,
+          "topicality": 0.03477437
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.9530637,
+          "topicality": 0.02228336
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.9415462,
+          "topicality": 0.0003549586
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.9313876,
+          "topicality": 0.0016153691
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.8955758,
+          "topicality": 0.00023592763
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.8854299,
+          "topicality": 1.5457214e-05
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8091356,
+          "topicality": 0.0016981406
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.6264616,
+          "topicality": 0.00062608224
+        },
+        {
+          "mid": "/m/07mbq",
+          "description": "Tabloid",
+          "score": 0.61048174,
+          "topicality": 0.051177662
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.59334105,
+          "topicality": 0.0072787623
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.56005454,
+          "topicality": 0.004230093
+        },
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.55720687,
+          "topicality": 0.0022876933
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.55707735,
+          "topicality": 0.00061149907
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5005055,
+          "topicality": 2.3904418e-05
+        }
+      ]
+    }
+  ]
+}

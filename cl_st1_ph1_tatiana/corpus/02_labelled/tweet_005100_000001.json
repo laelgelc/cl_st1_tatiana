@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8985501,
+          "topicality": 0.0016757974
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.7998901,
+          "topicality": 0.00047968276
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.78122157,
+          "topicality": 0.026835492
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.76798916,
+          "topicality": 0.003642908
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7049591,
+          "topicality": 0.0019716618
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.68961716,
+          "topicality": 0.009237101
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.6781128,
+          "topicality": 0.030622577
+        }
+      ]
+    }
+  ]
+}

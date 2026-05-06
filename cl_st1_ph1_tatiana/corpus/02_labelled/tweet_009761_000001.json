@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.84762305,
+          "topicality": 0.29832855
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.70765454,
+          "topicality": 0.010804357
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.67603135,
+          "topicality": 0.0126614
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6353847,
+          "topicality": 0.011128017
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.61040205,
+          "topicality": 0.08447928
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.5216475,
+          "topicality": 0.023146164
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7520874,
+          "topicality": 0.0051232497
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6455512,
+          "topicality": 0.0011950703
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6346082,
+          "topicality": 0.00510884
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.57185954,
+          "topicality": 0.0021460152
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.56290984,
+          "topicality": 0.00029955545
+        }
+      ]
+    }
+  ]
+}

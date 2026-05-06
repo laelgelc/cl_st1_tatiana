@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.86371624,
+          "topicality": 0.002595099
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.8588649,
+          "topicality": 0.00065134297
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.7389109,
+          "topicality": 0.00043297003
+        },
+        {
+          "mid": "/m/024gjb",
+          "description": "Restaurant menu",
+          "score": 0.5827005,
+          "topicality": 0.45812735
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.57765454,
+          "topicality": 0.0058937334
+        }
+      ]
+    }
+  ]
+}

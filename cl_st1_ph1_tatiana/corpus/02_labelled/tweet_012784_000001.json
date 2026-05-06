@@ -1,0 +1,43 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wzbmj",
+          "description": "Standing",
+          "score": 0.9472335
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8335936,
+          "topicality": 0.045925234
+        },
+        {
+          "mid": "/m/0blz9",
+          "description": "Fence",
+          "score": 0.8176211,
+          "topicality": 0.07867165
+        },
+        {
+          "mid": "/m/0hgr6",
+          "description": "Denim",
+          "score": 0.7523302,
+          "topicality": 0.000601362
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6790655,
+          "topicality": 0.015019643
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.6575196,
+          "topicality": 0.033710152
+        }
+      ]
+    }
+  ]
+}

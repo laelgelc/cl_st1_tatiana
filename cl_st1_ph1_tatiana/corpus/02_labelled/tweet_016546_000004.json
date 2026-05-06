@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9263825,
+          "topicality": 0.00062628934
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.8556879,
+          "topicality": 0.0047360696
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.8226315,
+          "topicality": 0.029238341
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.7581268,
+          "topicality": 0.0019395426
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.57257336,
+          "topicality": 0.04642717
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.55414623,
+          "topicality": 0.005285157
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.5393553,
+          "topicality": 0.00058377517
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.53753275,
+          "topicality": 0.01519009
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8404467,
+          "topicality": 0.0026573022
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7139394,
+          "topicality": 0.0003632514
+        },
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.551449,
+          "topicality": 0.57005113
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.51676303,
+          "topicality": 0.0030349016
+        }
+      ]
+    }
+  ]
+}

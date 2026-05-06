@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.60569274,
+          "topicality": 0.0004153465
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5712498,
+          "topicality": 0.03724265
+        },
+        {
+          "mid": "/m/08tlbj",
+          "description": "Natural foods",
+          "score": 0.5193005,
+          "topicality": 0.0020505232
+        }
+      ]
+    }
+  ]
+}

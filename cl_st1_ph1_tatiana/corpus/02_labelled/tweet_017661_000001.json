@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.63486993,
+          "topicality": 0.012890166
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.6317247,
+          "topicality": 0.0028225358
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.61564845,
+          "topicality": 0.042807773
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.5267134,
+          "topicality": 0.031214505
+        }
+      ]
+    }
+  ]
+}

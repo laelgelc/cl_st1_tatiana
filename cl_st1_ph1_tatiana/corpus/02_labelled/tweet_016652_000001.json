@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9411796,
+          "topicality": 0.00027428102
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8397816,
+          "topicality": 0.004513466
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.83838975,
+          "topicality": 0.0001872531
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7738914,
+          "topicality": 0.0505389
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6970116,
+          "topicality": 0.014283981
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.66912353,
+          "topicality": 0.001949568
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.60474247,
+          "topicality": 0.014421032
+        }
+      ]
+    }
+  ]
+}

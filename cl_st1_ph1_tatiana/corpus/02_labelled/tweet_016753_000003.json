@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9499247,
+          "topicality": 0.0051469496
+        },
+        {
+          "mid": "/m/01c34b",
+          "description": "Flooring",
+          "score": 0.9393809,
+          "topicality": 0.0005785352
+        },
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.9299771,
+          "topicality": 0.0017658252
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.8836802,
+          "topicality": 0.063141875
+        },
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.8614224,
+          "topicality": 0.00015565979
+        },
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.84878975,
+          "topicality": 0.0005223145
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.56597525,
+          "topicality": 0.0066473894
+        }
+      ]
+    }
+  ]
+}

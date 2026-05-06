@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.98320156,
+          "topicality": 0.2643487
+        },
+        {
+          "mid": "/m/02ngh",
+          "description": "Emoticon",
+          "score": 0.95115954,
+          "topicality": 0.17679478
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944841,
+          "topicality": 0.0041274084
+        },
+        {
+          "mid": "/m/06n05",
+          "description": "Smiley",
+          "score": 0.930916,
+          "topicality": 0.16224916
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.875979,
+          "topicality": 0.046852488
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7809161,
+          "topicality": 0.022263179
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5782644,
+          "topicality": 0.0030142826
+        },
+        {
+          "mid": "/m/03tqj",
+          "description": "Icon",
+          "score": 0.5634757,
+          "topicality": 8.3446175e-06
+        }
+      ]
+    }
+  ]
+}

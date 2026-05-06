@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.57836396,
+          "topicality": 0.0024060635
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.57128733,
+          "topicality": 0.009020273
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.55828583,
+          "topicality": 0.0034561101
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.52894413,
+          "topicality": 0.0019212771
+        }
+      ]
+    }
+  ]
+}

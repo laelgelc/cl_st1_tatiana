@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7754197,
+          "topicality": 0.075093634
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6495514,
+          "topicality": 0.0008676259
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6133646,
+          "topicality": 0.0029200583
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5825596,
+          "topicality": 0.13575968
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.54441845,
+          "topicality": 0.011119032
+        }
+      ]
+    }
+  ]
+}

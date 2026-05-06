@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03vt0",
+          "description": "Insect",
+          "score": 0.893022,
+          "topicality": 0.15114792
+        },
+        {
+          "mid": "/m/09f96",
+          "description": "Mosquito",
+          "score": 0.8621841,
+          "topicality": 0.94457513
+        },
+        {
+          "mid": "/m/0zkm",
+          "description": "Arthropod",
+          "score": 0.7919542,
+          "topicality": 0.0020074483
+        },
+        {
+          "mid": "/m/01dqkc",
+          "description": "Pest",
+          "score": 0.7466041,
+          "topicality": 0.0538671
+        },
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.6215768,
+          "topicality": 0.01717385
+        }
+      ]
+    }
+  ]
+}

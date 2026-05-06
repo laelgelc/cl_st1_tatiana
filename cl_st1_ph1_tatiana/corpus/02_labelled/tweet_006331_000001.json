@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7842087,
+          "topicality": 0.11310317
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.76861006,
+          "topicality": 0.00014469617
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.75426763,
+          "topicality": 0.000620569
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7350776,
+          "topicality": 0.019860283
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.71193737,
+          "topicality": 0.31564224
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.68097395,
+          "topicality": 0.07630233
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6071677,
+          "topicality": 0.0035046602
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.60063726,
+          "topicality": 0.28227517
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5094149,
+          "topicality": 0.023526024
+        }
+      ]
+    }
+  ]
+}

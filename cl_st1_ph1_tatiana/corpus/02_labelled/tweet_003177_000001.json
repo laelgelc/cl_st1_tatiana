@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98826814,
+          "topicality": 0.042778887
+        },
+        {
+          "mid": "/m/07bg4p",
+          "description": "Heart",
+          "score": 0.94970816,
+          "topicality": 0.38693646
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.7852185,
+          "topicality": 0.8761251
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.7022726,
+          "topicality": 0.47654796
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.67048454,
+          "topicality": 0.15235706
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51774055,
+          "topicality": 0.012802342
+        }
+      ]
+    }
+  ]
+}

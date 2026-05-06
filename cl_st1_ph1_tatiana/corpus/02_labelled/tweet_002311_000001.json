@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9624488,
+          "topicality": 0.75985
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9485574,
+          "topicality": 0.0027240505
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.93909633,
+          "topicality": 0.10630506
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9380688,
+          "topicality": 0.0077687427
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.89142996,
+          "topicality": 0.38524824
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.84525406,
+          "topicality": 0.01534658
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.84382266,
+          "topicality": 0.0013826354
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.81628263,
+          "topicality": 0.0045663323
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7863525,
+          "topicality": 0.012286373
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7858726,
+          "topicality": 0.021218188
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.6570634,
+          "topicality": 0.16007558
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.51712584,
+          "topicality": 0.012788091
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.5086138,
+          "topicality": 0.00016975174
+        },
+        {
+          "mid": "/m/083kv",
+          "description": "Wire",
+          "score": 0.5085658,
+          "topicality": 4.6315155e-05
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.50530607,
+          "topicality": 0.054036815
+        }
+      ]
+    }
+  ]
+}

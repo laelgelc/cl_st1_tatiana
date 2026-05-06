@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.92102677,
+          "topicality": 0.005072621
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.91812724,
+          "topicality": 0.27248195
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.909658,
+          "topicality": 0.17977057
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.90464306,
+          "topicality": 0.6764064
+        },
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.8564566,
+          "topicality": 3.235062e-05
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.84988004,
+          "topicality": 0.0077168713
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.84795356,
+          "topicality": 0.017382935
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.74934995,
+          "topicality": 0.016138773
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.7297396,
+          "topicality": 0.11491623
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7152242,
+          "topicality": 0.00021139113
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.69097686,
+          "topicality": 0.07425167
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6867074,
+          "topicality": 0.0018624754
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.67077446,
+          "topicality": 0.003341366
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6007782,
+          "topicality": 0.017401524
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.5745197,
+          "topicality": 0.10395446
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5565534,
+          "topicality": 0.16997927
+        }
+      ]
+    }
+  ]
+}

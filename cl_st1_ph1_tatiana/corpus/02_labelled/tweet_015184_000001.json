@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9844311,
+          "topicality": 0.21438032
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9645273,
+          "topicality": 0.16094612
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494873,
+          "topicality": 0.0024028886
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.92874765,
+          "topicality": 0.027078357
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.86352867,
+          "topicality": 0.075760216
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8083262,
+          "topicality": 0.005695093
+        },
+        {
+          "mid": "/m/07bg4p",
+          "description": "Heart",
+          "score": 0.6976498,
+          "topicality": 0.0024879812
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.58103114,
+          "topicality": 0.0022024314
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.5541746,
+          "topicality": 0.00024259942
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.55161804,
+          "topicality": 0.014044948
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.52324694,
+          "topicality": 0.03071019
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.50809973,
+          "topicality": 0.016617114
+        }
+      ]
+    }
+  ]
+}

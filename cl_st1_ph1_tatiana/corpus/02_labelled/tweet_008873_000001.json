@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8450179,
+          "topicality": 0.011170736
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.79262793,
+          "topicality": 8.35129e-05
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.687744,
+          "topicality": 0.013609468
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.609941,
+          "topicality": 0.0006767705
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.87733066,
+          "topicality": 0.0052755037
+        },
+        {
+          "mid": "/m/01jnzj",
+          "description": "Construction",
+          "score": 0.67467487,
+          "topicality": 0.06938126
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.65556324,
+          "topicality": 0.045571975
+        },
+        {
+          "mid": "/m/0156dy",
+          "description": "Project",
+          "score": 0.52645344,
+          "topicality": 0.2087823
+        }
+      ]
+    }
+  ]
+}

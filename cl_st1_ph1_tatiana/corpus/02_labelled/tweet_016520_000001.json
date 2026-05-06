@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08xgn7",
+          "description": "Comfort",
+          "score": 0.7898212,
+          "topicality": 0.00454456
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6711958,
+          "topicality": 0.09018367
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.57379913,
+          "topicality": 0.0020023154
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5458654,
+          "topicality": 0.01625608
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9225478,
+          "topicality": 0.0006523565
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8868652,
+          "topicality": 0.01228041
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8202532,
+          "topicality": 0.1934262
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.76882666,
+          "topicality": 0.13768198
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.7438174,
+          "topicality": 0.003151551
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.74379635,
+          "topicality": 0.033772524
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7150535,
+          "topicality": 0.034258347
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.70565575,
+          "topicality": 0.0070154336
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6746107,
+          "topicality": 0.14348829
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.65146554,
+          "topicality": 0.12658158
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6305579,
+          "topicality": 0.05377903
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.61939,
+          "topicality": 0.0047058053
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5131808,
+          "topicality": 0.004311272
+        }
+      ]
+    }
+  ]
+}

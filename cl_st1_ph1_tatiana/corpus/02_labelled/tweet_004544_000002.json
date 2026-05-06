@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8ntf7",
+          "description": "Household Cleaning Supply",
+          "score": 0.9132414,
+          "topicality": 0.00027511903
+        },
+        {
+          "mid": "/m/02pnv61",
+          "description": "Cleaner",
+          "score": 0.9026081,
+          "topicality": 0.121452615
+        },
+        {
+          "mid": "/m/0f75y",
+          "description": "Homemaking",
+          "score": 0.83226746,
+          "topicality": 0.011678049
+        },
+        {
+          "mid": "/m/04yp7k",
+          "description": "Housekeeper",
+          "score": 0.7757892,
+          "topicality": 0.055689648
+        },
+        {
+          "mid": "/m/0g7xf",
+          "description": "Broom",
+          "score": 0.7050521,
+          "topicality": 0.059563655
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.63120425,
+          "topicality": 0.005970904
+        },
+        {
+          "mid": "/m/04cvgx",
+          "description": "Mop",
+          "score": 0.5121177,
+          "topicality": 0.058567163
+        }
+      ]
+    }
+  ]
+}

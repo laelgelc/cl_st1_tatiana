@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.7965459,
+          "topicality": 0.008634051
+        },
+        {
+          "mid": "/m/01ss0",
+          "description": "Compost",
+          "score": 0.5798113,
+          "topicality": 0.028056925
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.54680824,
+          "topicality": 0.060480334
+        }
+      ]
+    }
+  ]
+}

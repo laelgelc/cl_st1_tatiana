@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.799244,
+          "topicality": 0.034349855
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.76536804,
+          "topicality": 0.00012640527
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6385816,
+          "topicality": 0.0040284907
+        },
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.56053686,
+          "topicality": 0.9138884
+        }
+      ]
+    }
+  ]
+}

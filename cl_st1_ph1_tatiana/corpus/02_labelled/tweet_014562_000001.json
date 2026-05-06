@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.8028678,
+          "topicality": 0.02490805
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.72945607,
+          "topicality": 0.05321274
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.61255777,
+          "topicality": 0.022073576
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5823969,
+          "topicality": 0.08349315
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.5333399,
+          "topicality": 0.16037409
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.530564,
+          "topicality": 0.0001394707
+        }
+      ]
+    }
+  ]
+}

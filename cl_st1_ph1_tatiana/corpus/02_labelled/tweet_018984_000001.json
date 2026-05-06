@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.8101277,
+          "topicality": 0.0768893
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.7550071,
+          "topicality": 0.0024498352
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.66322076,
+          "topicality": 0.007171557
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.61788446,
+          "topicality": 0.0037246058
+        }
+      ]
+    }
+  ]
+}

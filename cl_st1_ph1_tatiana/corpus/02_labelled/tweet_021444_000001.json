@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.9855469,
+          "topicality": 0.00026638107
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9756243,
+          "topicality": 0.0003001109
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7498744,
+          "topicality": 0.013274136
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7062149,
+          "topicality": 0.002619364
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6891533,
+          "topicality": 0.05945913
+        },
+        {
+          "mid": "/m/0h8my9s",
+          "description": "Vintage Advertisement",
+          "score": 0.65699464,
+          "topicality": 4.1982177e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.98567414,
+          "topicality": 0.0010921079
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9830101,
+          "topicality": 0.0018763479
+        },
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.98032707,
+          "topicality": 0.0019614175
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94450104,
+          "topicality": 0.0095786685
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.8736417,
+          "topicality": 0.018345771
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.79823476,
+          "topicality": 0.0070721256
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7731379,
+          "topicality": 0.018881992
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.57698214,
+          "topicality": 0.0014628201
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.5424493,
+          "topicality": 0.0006442556
+        }
+      ]
+    }
+  ]
+}

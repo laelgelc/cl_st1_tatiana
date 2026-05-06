@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9446888,
+          "topicality": 0.009032492
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7726916,
+          "topicality": 0.021236138
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6511001,
+          "topicality": 0.002857112
+        },
+        {
+          "mid": "/m/03g09t",
+          "description": "Clip art",
+          "score": 0.5288063,
+          "topicality": 0.05928282
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.52470595,
+          "topicality": 0.00080631365
+        }
+      ]
+    }
+  ]
+}

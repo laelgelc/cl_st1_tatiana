@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.98064494,
+          "topicality": 0.056312837
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9444782,
+          "topicality": 0.0046892534
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.93282,
+          "topicality": 0.1859334
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.9131535,
+          "topicality": 0.00015409042
+        },
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.8701716,
+          "topicality": 0.012230929
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.8137152,
+          "topicality": 0.6097846
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.8093997,
+          "topicality": 0.17114149
+        },
+        {
+          "mid": "/m/0h8q07j",
+          "description": "Baby & Toddler Clothing",
+          "score": 0.7027943,
+          "topicality": 3.652425e-05
+        }
+      ]
+    }
+  ]
+}

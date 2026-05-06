@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.97357464,
+          "topicality": 0.0008953324
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.95997125,
+          "topicality": 0.05932904
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9463374,
+          "topicality": 0.018391998
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448995,
+          "topicality": 0.0010343934
+        },
+        {
+          "mid": "/m/0hgsb5g",
+          "description": "Day Dress",
+          "score": 0.80910784,
+          "topicality": 2.5816913e-05
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.6963797,
+          "topicality": 0.0113403285
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.673162,
+          "topicality": 0.0040714904
+        },
+        {
+          "mid": "/m/0142sg",
+          "description": "One-piece garment",
+          "score": 0.55528706,
+          "topicality": 3.5197536e-05
+        }
+      ]
+    }
+  ]
+}

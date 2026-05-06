@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.80774593,
+          "topicality": 0.0052876165
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73383874,
+          "topicality": 0.0033779058
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6433328,
+          "topicality": 0.047356673
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.6020868,
+          "topicality": 0.0026335942
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.56379,
+          "topicality": 0.0091523975
+        }
+      ]
+    }
+  ]
+}

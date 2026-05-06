@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.9542515,
+          "topicality": 0.019459676
+        },
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.95269793,
+          "topicality": 0.23610772
+        },
+        {
+          "mid": "/m/02nfxt",
+          "description": "Residential area",
+          "score": 0.9403881,
+          "topicality": 0.103792764
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.9148306,
+          "topicality": 0.3025034
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.9121136,
+          "topicality": 0.07834721
+        },
+        {
+          "mid": "/m/0fpdgl",
+          "description": "Human settlement",
+          "score": 0.88547105,
+          "topicality": 0.0029626184
+        },
+        {
+          "mid": "/m/0d9wj",
+          "description": "Urban design",
+          "score": 0.8812084,
+          "topicality": 0.0052393945
+        },
+        {
+          "mid": "/m/0c1vxg",
+          "description": "Mixed-use",
+          "score": 0.84255505,
+          "topicality": 0.015710253
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7694279,
+          "topicality": 0.034965523
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.7508836,
+          "topicality": 0.00274294
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.7097477,
+          "topicality": 0.0013086005
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.698968,
+          "topicality": 0.04265237
+        },
+        {
+          "mid": "/m/01748f",
+          "description": "Balcony",
+          "score": 0.6666394,
+          "topicality": 0.010292135
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6582077,
+          "topicality": 0.020192683
+        },
+        {
+          "mid": "/m/047q30j",
+          "description": "Eco hotel",
+          "score": 0.6211967,
+          "topicality": 0.0046385024
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5601795,
+          "topicality": 0.0049824207
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5433753,
+          "topicality": 0.16808195
+        }
+      ]
+    }
+  ]
+}

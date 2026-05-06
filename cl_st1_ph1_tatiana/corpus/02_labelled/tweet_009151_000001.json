@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.6851767,
+          "topicality": 0.00023113174
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6558637,
+          "topicality": 0.007093564
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.6256198,
+          "topicality": 0.00020228831
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58359295,
+          "topicality": 0.043851394
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.77375233,
+          "topicality": 0.014997783
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.74710476,
+          "topicality": 0.001210171
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.69337904,
+          "topicality": 0.0064520855
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.6772969,
+          "topicality": 9.7155156e-05
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5765614,
+          "topicality": 0.00026422803
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.5637405,
+          "topicality": 0.0014242801
+        }
+      ]
+    }
+  ]
+}

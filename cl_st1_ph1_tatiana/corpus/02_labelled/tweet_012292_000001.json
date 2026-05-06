@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8775956,
+          "topicality": 0.005267963
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.841726,
+          "topicality": 0.00069549703
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.77487266,
+          "topicality": 0.042928703
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.5017785,
+          "topicality": 0.00023182032
+        }
+      ]
+    }
+  ]
+}

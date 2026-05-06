@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01pxgq",
+          "description": "Romance",
+          "score": 0.9064512,
+          "topicality": 0.063031234
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.9010315,
+          "topicality": 0.07511373
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7735953,
+          "topicality": 0.00020421599
+        },
+        {
+          "mid": "/m/025s9qt",
+          "description": "Hug",
+          "score": 0.76977175,
+          "topicality": 0.044750854
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.7647393,
+          "topicality": 0.45205376
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7191401,
+          "topicality": 0.0010982
+        }
+      ]
+    }
+  ]
+}

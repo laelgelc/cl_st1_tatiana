@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.932619,
+          "topicality": 0.98327446
+        },
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.8381282,
+          "topicality": 0.002626397
+        },
+        {
+          "mid": "/m/02x8n4r",
+          "description": "Fertility monitor",
+          "score": 0.58309346,
+          "topicality": 0.0050450065
+        },
+        {
+          "mid": "/m/06dmh",
+          "description": "Rose family",
+          "score": 0.50270444,
+          "topicality": 0.0011010722
+        }
+      ]
+    }
+  ]
+}

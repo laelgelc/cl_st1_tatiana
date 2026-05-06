@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.93981,
+          "topicality": 0.40811282
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.9362079,
+          "topicality": 0.1218622
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8499194,
+          "topicality": 0.0024729006
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8428788,
+          "topicality": 0.2334561
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.83301747,
+          "topicality": 0.029355822
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.78514344,
+          "topicality": 0.049334254
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.71290964,
+          "topicality": 0.09996302
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6770038,
+          "topicality": 0.0010980751
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.66869646,
+          "topicality": 0.020375783
+        },
+        {
+          "mid": "/m/02_n6y",
+          "description": "Goggles",
+          "score": 0.66446984,
+          "topicality": 0.004453882
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6114522,
+          "topicality": 0.015822615
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.60935676,
+          "topicality": 0.00712817
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5879214,
+          "topicality": 0.061590023
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.57781154,
+          "topicality": 6.796213e-05
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53827906,
+          "topicality": 0.01584404
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.51348555,
+          "topicality": 0.013096791
+        },
+        {
+          "mid": "/m/04qwst",
+          "description": "Oxygen mask",
+          "score": 0.5110119,
+          "topicality": 0.007560796
+        }
+      ]
+    }
+  ]
+}

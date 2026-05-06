@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.81555885,
+          "topicality": 0.02044693
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.74490845,
+          "topicality": 0.046711847
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7406006,
+          "topicality": 0.010041748
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.64124453,
+          "topicality": 0.056100577
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5985825,
+          "topicality": 0.10194165
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5918685,
+          "topicality": 0.004552822
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5471237,
+          "topicality": 0.0068462365
+        }
+      ]
+    }
+  ]
+}

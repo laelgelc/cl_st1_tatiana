@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8076692,
+          "topicality": 0.0031723583
+        },
+        {
+          "mid": "/m/01j3br",
+          "description": "Medical imaging",
+          "score": 0.5819816,
+          "topicality": 0.035089724
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5792225,
+          "topicality": 0.08079564
+        },
+        {
+          "mid": "/m/013x4m",
+          "description": "Radiology",
+          "score": 0.574671,
+          "topicality": 0.01686576
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.5230599,
+          "topicality": 0.045678385
+        }
+      ]
+    }
+  ]
+}

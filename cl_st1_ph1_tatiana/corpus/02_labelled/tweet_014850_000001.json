@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8564885,
+          "topicality": 0.09146852
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8386179,
+          "topicality": 0.10940675
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.8128025,
+          "topicality": 0.30894318
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.80953825,
+          "topicality": 0.047415268
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.7948986,
+          "topicality": 0.0044076103
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7924633,
+          "topicality": 0.0005270074
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.744963,
+          "topicality": 0.11484662
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7334601,
+          "topicality": 0.18979283
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.7319102,
+          "topicality": 0.115826294
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.65949494,
+          "topicality": 0.019846702
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.6379222,
+          "topicality": 0.031007364
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.62906235,
+          "topicality": 0.15920186
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5431636,
+          "topicality": 0.014207526
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.96385646,
+          "topicality": 0.011867608
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9170039,
+          "topicality": 0.0017239251
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8399839,
+          "topicality": 0.026017105
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.83481795,
+          "topicality": 0.13340005
+        }
+      ]
+    }
+  ]
+}

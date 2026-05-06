@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.78199697,
+          "topicality": 0.030303717
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6006416,
+          "topicality": 0.000988515
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.59019566,
+          "topicality": 0.06414722
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.55162257,
+          "topicality": 0.00024627137
+        }
+      ]
+    }
+  ]
+}

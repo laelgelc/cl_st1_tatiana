@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.95602316,
+          "topicality": 0.0015079943
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.93934935,
+          "topicality": 0.00047755032
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6632191,
+          "topicality": 0.014390456
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.64734346,
+          "topicality": 0.00073038077
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.64229,
+          "topicality": 6.813826e-05
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.5282457,
+          "topicality": 0.00036416313
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.52376443,
+          "topicality": 0.00020669308
+        }
+      ]
+    }
+  ]
+}

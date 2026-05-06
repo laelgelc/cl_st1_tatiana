@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.8849812,
+          "topicality": 0.001486408
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.80782497,
+          "topicality": 0.8081154
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7139815,
+          "topicality": 0.0056379316
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.69622874,
+          "topicality": 0.0011803932
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.625325,
+          "topicality": 0.079643205
+        },
+        {
+          "mid": "/m/027vj2v",
+          "description": "Aluminium",
+          "score": 0.52125543,
+          "topicality": 0.0007226454
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.5064935,
+          "topicality": 0.07983945
+        }
+      ]
+    }
+  ]
+}

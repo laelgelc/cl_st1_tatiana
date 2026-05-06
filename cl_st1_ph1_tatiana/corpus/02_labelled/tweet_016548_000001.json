@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447402,
+          "topicality": 0.0015275243
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.90468085,
+          "topicality": 0.03664925
+        },
+        {
+          "mid": "/m/09ggk",
+          "description": "Purple",
+          "score": 0.8132586,
+          "topicality": 0.0037080331
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.8070838,
+          "topicality": 0.0006824773
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.69775856,
+          "topicality": 0.007236478
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.67906404,
+          "topicality": 0.011745892
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.5504469,
+          "topicality": 0.010869738
+        }
+      ]
+    }
+  ]
+}

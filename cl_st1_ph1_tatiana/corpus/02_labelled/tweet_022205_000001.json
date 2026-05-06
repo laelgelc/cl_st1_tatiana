@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99435216,
+          "topicality": 0.05432231
+        },
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.95512104,
+          "topicality": 0.00033765522
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9172747,
+          "topicality": 0.032414094
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.90572083,
+          "topicality": 0.006165085
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.7239029,
+          "topicality": 0.24076386
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.7123276,
+          "topicality": 0.00023212399
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.57574767,
+          "topicality": 0.0038269882
+        },
+        {
+          "mid": "/m/02k88w",
+          "description": "Rebellion",
+          "score": 0.50064176,
+          "topicality": 0.055573173
+        }
+      ]
+    }
+  ]
+}

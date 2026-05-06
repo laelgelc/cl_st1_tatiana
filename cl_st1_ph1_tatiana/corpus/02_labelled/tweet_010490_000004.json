@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448167,
+          "topicality": 0.0030310529
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8471685,
+          "topicality": 0.020691602
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6708418,
+          "topicality": 0.0024380009
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.5597131,
+          "topicality": 0.5388614
+        },
+        {
+          "mid": "/m/05p553",
+          "description": "Comedy",
+          "score": 0.50084376,
+          "topicality": 0.0059052855
+        }
+      ]
+    }
+  ]
+}

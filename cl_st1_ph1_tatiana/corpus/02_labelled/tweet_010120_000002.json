@@ -1,0 +1,224 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01prls",
+          "description": "Land vehicle",
+          "score": 0.98968345,
+          "topicality": 0.010434847
+        },
+        {
+          "mid": "/m/0k4j",
+          "description": "Car",
+          "score": 0.9893481,
+          "topicality": 0.068571925
+        },
+        {
+          "mid": "/m/07yv9",
+          "description": "Vehicle",
+          "score": 0.9867424,
+          "topicality": 0.14355682
+        },
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.97627234,
+          "topicality": 0.015235309
+        },
+        {
+          "mid": "/m/0h8ls87",
+          "description": "Automotive Exterior",
+          "score": 0.95537966,
+          "topicality": 0.0003689454
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.883369,
+          "topicality": 0.0024749313
+        },
+        {
+          "mid": "/m/0h8n616",
+          "description": "Automotive Side-View Mirror",
+          "score": 0.835909,
+          "topicality": 0.00018532446
+        },
+        {
+          "mid": "/m/0h8ly30",
+          "description": "Automotive Wheel System",
+          "score": 0.8173685,
+          "topicality": 4.33566e-05
+        },
+        {
+          "mid": "/m/0h8lk4b",
+          "description": "Automotive Mirror",
+          "score": 0.8134231,
+          "topicality": 0.00032245615
+        },
+        {
+          "mid": "/m/01jfm_",
+          "description": "Vehicle registration plate",
+          "score": 0.79491895,
+          "topicality": 0.021781536
+        },
+        {
+          "mid": "/m/03vntj",
+          "description": "Full-size car",
+          "score": 0.7889737,
+          "topicality": 0.0053763213
+        },
+        {
+          "mid": "/m/088l6h",
+          "description": "Family car",
+          "score": 0.78537303,
+          "topicality": 0.0023033465
+        },
+        {
+          "mid": "/m/03vnt4",
+          "description": "Mid-size car",
+          "score": 0.7639858,
+          "topicality": 0.0019580654
+        },
+        {
+          "mid": "/m/021mp2",
+          "description": "Sedan",
+          "score": 0.7601104,
+          "topicality": 0.007964183
+        },
+        {
+          "mid": "/m/01w71f",
+          "description": "Personal luxury car",
+          "score": 0.7587257,
+          "topicality": 0.00021085086
+        },
+        {
+          "mid": "/m/01lrnl",
+          "description": "Windshield",
+          "score": 0.75774974,
+          "topicality": 0.00096261187
+        },
+        {
+          "mid": "/m/01lcwm",
+          "description": "Luxury vehicle",
+          "score": 0.7548352,
+          "topicality": 0.0020980276
+        },
+        {
+          "mid": "/m/02mnkq",
+          "description": "Bumper",
+          "score": 0.747184,
+          "topicality": 0.00014499093
+        },
+        {
+          "mid": "/m/0crtnw",
+          "description": "Executive car",
+          "score": 0.72223836,
+          "topicality": 0.0039230157
+        },
+        {
+          "mid": "/m/0h8m331",
+          "description": "Automotive Tail & Brake Light",
+          "score": 0.6887479,
+          "topicality": 0.00017890062
+        },
+        {
+          "mid": "/m/01jp76",
+          "description": "Parking",
+          "score": 0.68471336,
+          "topicality": 0.023390833
+        },
+        {
+          "mid": "/m/01sdr3",
+          "description": "Hubcap",
+          "score": 0.66924685,
+          "topicality": 0.00014922331
+        },
+        {
+          "mid": "/m/0369ss",
+          "description": "City car",
+          "score": 0.6653282,
+          "topicality": 0.0024089622
+        },
+        {
+          "mid": "/m/0hgs9r2",
+          "description": "Automotive Light Bulb",
+          "score": 0.65412056,
+          "topicality": 2.8992092e-05
+        },
+        {
+          "mid": "/m/02swz_",
+          "description": "Compact car",
+          "score": 0.64930624,
+          "topicality": 0.001883463
+        },
+        {
+          "mid": "/m/05j11x",
+          "description": "Rear-view mirror",
+          "score": 0.62116736,
+          "topicality": 0.0007611327
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.6083738,
+          "topicality": 0.0031453986
+        },
+        {
+          "mid": "/m/02df64",
+          "description": "Hood",
+          "score": 0.60575646,
+          "topicality": 0.00021694227
+        },
+        {
+          "mid": "/m/01cmcs",
+          "description": "Hatchback",
+          "score": 0.5807771,
+          "topicality": 0.00059534603
+        },
+        {
+          "mid": "/m/03txxp",
+          "description": "Subcompact car",
+          "score": 0.5617293,
+          "topicality": 0.00035945346
+        },
+        {
+          "mid": "/m/035nm",
+          "description": "General Motors",
+          "score": 0.5536788,
+          "topicality": 0.0061191767
+        },
+        {
+          "mid": "/m/05sxvp",
+          "description": "Sports sedan",
+          "score": 0.5386497,
+          "topicality": 0.00016279986
+        },
+        {
+          "mid": "/m/014rrf",
+          "description": "Hybrid vehicle",
+          "score": 0.5383588,
+          "topicality": 0.0021378668
+        },
+        {
+          "mid": "/m/0gm56",
+          "description": "Kit car",
+          "score": 0.5270373,
+          "topicality": 2.9311008e-05
+        },
+        {
+          "mid": "/m/03m7v4",
+          "description": "Hardtop",
+          "score": 0.5245213,
+          "topicality": 1.2795269e-05
+        },
+        {
+          "mid": "/m/01pmdg",
+          "description": "Electric vehicle",
+          "score": 0.5221467,
+          "topicality": 0.008991924
+        }
+      ]
+    }
+  ]
+}

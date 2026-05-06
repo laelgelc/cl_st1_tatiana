@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.744242,
+          "topicality": 0.01357204
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6224715,
+          "topicality": 0.0054210033
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.6140021,
+          "topicality": 0.0031514554
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.60981214,
+          "topicality": 0.110731624
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.575861,
+          "topicality": 0.0008259419
+        }
+      ]
+    }
+  ]
+}

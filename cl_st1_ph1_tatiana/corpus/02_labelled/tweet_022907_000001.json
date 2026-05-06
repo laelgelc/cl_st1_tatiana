@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.9562898,
+          "topicality": 0.0024652644
+        },
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.9555268,
+          "topicality": 0.00301677
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.88661474,
+          "topicality": 0.00028751278
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.8693743,
+          "topicality": 0.0057279402
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8652918,
+          "topicality": 0.011912954
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.8565952,
+          "topicality": 0.0051187533
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.7664002,
+          "topicality": 0.0049702097
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.6313952,
+          "topicality": 9.574851e-05
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.6265513,
+          "topicality": 0.11804736
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.60557055,
+          "topicality": 0.000116617055
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5464403,
+          "topicality": 0.0016284933
+        },
+        {
+          "mid": "/m/015kr",
+          "description": "Bridge",
+          "score": 0.5346805,
+          "topicality": 0.12387278
+        }
+      ]
+    }
+  ]
+}

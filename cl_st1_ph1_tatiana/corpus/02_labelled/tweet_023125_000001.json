@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.97201395,
+          "topicality": 0.18384743
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91925585,
+          "topicality": 0.00086713856
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.875386,
+          "topicality": 0.029515836
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.7733874,
+          "topicality": 0.004315706
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.54681563,
+          "topicality": 0.0025724084
+        }
+      ]
+    }
+  ]
+}

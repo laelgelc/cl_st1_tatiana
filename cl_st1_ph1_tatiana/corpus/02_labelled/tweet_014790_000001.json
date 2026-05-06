@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.94789755,
+          "topicality": 0.00060154777
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91005325,
+          "topicality": 0.00023987087
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.84645224,
+          "topicality": 0.07917036
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.7721669,
+          "topicality": 0.026369896
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.76151097,
+          "topicality": 0.027373413
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.5803883,
+          "topicality": 0.014984208
+        },
+        {
+          "mid": "/m/0hgpr70",
+          "description": "Office Application Software",
+          "score": 0.5155878,
+          "topicality": 3.8945223e-06
+        }
+      ]
+    }
+  ]
+}

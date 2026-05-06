@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07bsy",
+          "description": "Transport",
+          "score": 0.9754439,
+          "topicality": 0.5875977
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.93584704,
+          "topicality": 0.054340467
+        },
+        {
+          "mid": "/m/07r04",
+          "description": "Truck",
+          "score": 0.92454064,
+          "topicality": 0.23256338
+        },
+        {
+          "mid": "/m/070qm",
+          "description": "Freight transport",
+          "score": 0.84039986,
+          "topicality": 0.6941943
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.75591934,
+          "topicality": 0.029463891
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6794007,
+          "topicality": 0.006727497
+        },
+        {
+          "mid": "/m/023cbk",
+          "description": "Cargo",
+          "score": 0.66736627,
+          "topicality": 0.59433687
+        },
+        {
+          "mid": "/m/03hdcz",
+          "description": "Semi-trailer truck",
+          "score": 0.56646186,
+          "topicality": 0.033775907
+        },
+        {
+          "mid": "/m/02pz5g2",
+          "description": "Light commercial vehicle",
+          "score": 0.5488412,
+          "topicality": 0.008607576
+        }
+      ]
+    }
+  ]
+}

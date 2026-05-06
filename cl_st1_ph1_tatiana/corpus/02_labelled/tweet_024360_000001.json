@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8206851,
+          "topicality": 0.012961762
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.812119,
+          "topicality": 0.027265444
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.77043736,
+          "topicality": 0.006999093
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.75144756,
+          "topicality": 0.05578032
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.72901946,
+          "topicality": 0.0011970485
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.63918257,
+          "topicality": 0.004424499
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.63729554,
+          "topicality": 0.0014609074
+        }
+      ]
+    }
+  ]
+}

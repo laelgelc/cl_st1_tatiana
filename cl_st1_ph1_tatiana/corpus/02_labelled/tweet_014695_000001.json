@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.96316236,
+          "topicality": 0.015736667
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91815937,
+          "topicality": 7.5234435e-05
+        },
+        {
+          "mid": "/m/01ty0n",
+          "description": "Spring",
+          "score": 0.61619127,
+          "topicality": 0.1644262
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5813571,
+          "topicality": 8.531647e-05
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.52669007,
+          "topicality": 0.0016573812
+        }
+      ]
+    }
+  ]
+}

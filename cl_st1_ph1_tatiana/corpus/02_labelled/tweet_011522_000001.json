@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.879865,
+          "topicality": 0.0028084253
+        },
+        {
+          "mid": "/m/03k3r",
+          "description": "Horse",
+          "score": 0.57656544,
+          "topicality": 0.1903255
+        },
+        {
+          "mid": "/m/0ch8v",
+          "description": "Livestock",
+          "score": 0.5465823,
+          "topicality": 0.015558583
+        },
+        {
+          "mid": "/m/0464z4",
+          "description": "Pack animal",
+          "score": 0.54079163,
+          "topicality": 0.000111627334
+        },
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.53684056,
+          "topicality": 8.7941735e-05
+        },
+        {
+          "mid": "/m/08jpwt",
+          "description": "Light fixture",
+          "score": 0.5001858,
+          "topicality": 0.00033046128
+        }
+      ]
+    }
+  ]
+}

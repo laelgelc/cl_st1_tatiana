@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.81648046,
+          "topicality": 0.015658973
+        },
+        {
+          "mid": "/m/01748f",
+          "description": "Balcony",
+          "score": 0.7166869,
+          "topicality": 0.004905161
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.69733846,
+          "topicality": 0.0012379439
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.53232497,
+          "topicality": 0.0059013846
+        }
+      ]
+    }
+  ]
+}

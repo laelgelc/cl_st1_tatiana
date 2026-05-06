@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01x314",
+          "description": "Facade",
+          "score": 0.9374309,
+          "topicality": 0.01589219
+        },
+        {
+          "mid": "/m/02dgv",
+          "description": "Door",
+          "score": 0.85811985,
+          "topicality": 0.002517448
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.6400931,
+          "topicality": 0.008612992
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.51753104,
+          "topicality": 0.0131304925
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0987_ns",
+          "description": "Video Game Software",
+          "score": 0.7376811,
+          "topicality": 0.0009824147
+        },
+        {
+          "mid": "/m/04tr8s",
+          "description": "PC game",
+          "score": 0.56365466,
+          "topicality": 0.008181939
+        },
+        {
+          "mid": "/m/02g49",
+          "description": "Digital compositing",
+          "score": 0.52652043,
+          "topicality": 0.002642797
+        }
+      ]
+    }
+  ]
+}

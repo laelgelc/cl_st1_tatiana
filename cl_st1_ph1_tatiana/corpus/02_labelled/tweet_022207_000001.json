@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7380015,
+          "topicality": 0.0014568181
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.60699034,
+          "topicality": 0.2640735
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.59023255,
+          "topicality": 0.04470305
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5677394,
+          "topicality": 0.00033311706
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5569397,
+          "topicality": 0.013567125
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5196641,
+          "topicality": 0.029286796
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9750647,
+          "topicality": 0.0061407425
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9589424,
+          "topicality": 0.0144142825
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9080395,
+          "topicality": 0.0012639756
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.8303159,
+          "topicality": 0.1439488
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.72582954,
+          "topicality": 0.00085999875
+        }
+      ]
+    }
+  ]
+}

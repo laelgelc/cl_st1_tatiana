@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h6d4",
+          "description": "Camping",
+          "score": 0.9380533,
+          "topicality": 0.20311895
+        },
+        {
+          "mid": "/m/01j61q",
+          "description": "Tent",
+          "score": 0.93037474,
+          "topicality": 0.3377706
+        },
+        {
+          "mid": "/m/06bm2",
+          "description": "Recreation",
+          "score": 0.88179624,
+          "topicality": 0.00618525
+        },
+        {
+          "mid": "/m/02w3fc",
+          "description": "Tarpaulin",
+          "score": 0.83183366,
+          "topicality": 0.036961857
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7836585,
+          "topicality": 0.0034627107
+        },
+        {
+          "mid": "/m/0lf45",
+          "description": "Camp",
+          "score": 0.57309973,
+          "topicality": 0.6114255
+        }
+      ]
+    }
+  ]
+}

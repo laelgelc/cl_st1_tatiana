@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/013s93",
+          "description": "T-shirt",
+          "score": 0.96375,
+          "topicality": 0.0039014516
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9555854,
+          "topicality": 0.028480966
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.9428455,
+          "topicality": 0.016091574
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.90212804,
+          "topicality": 0.00017024501
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.73458916,
+          "topicality": 0.012042227
+        },
+        {
+          "mid": "/m/0gl2ny2",
+          "description": "Football player",
+          "score": 0.6395069,
+          "topicality": 0.16187151
+        }
+      ]
+    }
+  ]
+}

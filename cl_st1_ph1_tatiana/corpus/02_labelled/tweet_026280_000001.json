@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94479805,
+          "topicality": 0.021071346
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.9415573,
+          "topicality": 0.15718797
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9246885,
+          "topicality": 0.027143229
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.83851033,
+          "topicality": 0.17742443
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.75185674,
+          "topicality": 0.52958244
+        },
+        {
+          "mid": "/m/0h8q07j",
+          "description": "Baby & Toddler Clothing",
+          "score": 0.7224877,
+          "topicality": 0.00013978357
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.68995404,
+          "topicality": 0.42110333
+        }
+      ]
+    }
+  ]
+}

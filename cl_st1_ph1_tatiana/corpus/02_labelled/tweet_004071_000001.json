@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0pcq81q",
+          "description": "Soccer player",
+          "score": 0.8634029,
+          "topicality": 0.14931996
+        },
+        {
+          "mid": "/m/0gl2ny2",
+          "description": "Football player",
+          "score": 0.7764152,
+          "topicality": 0.21645856
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.74459356,
+          "topicality": 0.00028757533
+        },
+        {
+          "mid": "/m/02vx4",
+          "description": "Football",
+          "score": 0.6232783,
+          "topicality": 0.17568107
+        },
+        {
+          "mid": "/m/02sdk9v",
+          "description": "Forward",
+          "score": 0.5425003,
+          "topicality": 0.10618023
+        }
+      ]
+    }
+  ]
+}

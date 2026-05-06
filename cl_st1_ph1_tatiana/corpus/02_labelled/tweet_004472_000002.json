@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.85831225,
+          "topicality": 0.0057932422
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.64287823,
+          "topicality": 0.0010907259
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.639014,
+          "topicality": 0.03202624
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6065203,
+          "topicality": 0.0010321396
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5932844,
+          "topicality": 0.00637729
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5894188,
+          "topicality": 0.0046840087
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.5722581,
+          "topicality": 0.0018335743
+        }
+      ]
+    }
+  ]
+}

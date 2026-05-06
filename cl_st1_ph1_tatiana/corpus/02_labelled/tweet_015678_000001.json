@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/013x4m",
+          "description": "Radiology",
+          "score": 0.9140514,
+          "topicality": 0.26368824
+        },
+        {
+          "mid": "/m/01j3br",
+          "description": "Medical imaging",
+          "score": 0.9130795,
+          "topicality": 0.283235
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8553386,
+          "topicality": 0.0020342083
+        },
+        {
+          "mid": "/m/0nqm4",
+          "description": "Radiography",
+          "score": 0.8496885,
+          "topicality": 0.1786834
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.83655936,
+          "topicality": 0.04830008
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.79990673,
+          "topicality": 0.00077778223
+        },
+        {
+          "mid": "/m/0dg0w",
+          "description": "Computed tomography",
+          "score": 0.7535688,
+          "topicality": 0.22761868
+        },
+        {
+          "mid": "/m/087gx",
+          "description": "X-ray",
+          "score": 0.7534117,
+          "topicality": 0.4290008
+        },
+        {
+          "mid": "/m/017cc",
+          "description": "Brain",
+          "score": 0.6313213,
+          "topicality": 0.4819821
+        },
+        {
+          "mid": "/m/01b92",
+          "description": "Bone",
+          "score": 0.6310369,
+          "topicality": 0.039114255
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.60753536,
+          "topicality": 0.092546105
+        }
+      ]
+    }
+  ]
+}

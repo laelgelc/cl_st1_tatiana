@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8297377,
+          "topicality": 0.14731102
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.82501346,
+          "topicality": 0.057840638
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.78124636,
+          "topicality": 0.007002351
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.77278996,
+          "topicality": 0.10232634
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.75419134,
+          "topicality": 0.0008332588
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6756001,
+          "topicality": 0.16501376
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6039617,
+          "topicality": 0.0005415188
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5330279,
+          "topicality": 0.01384555
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.5301328,
+          "topicality": 0.06552628
+        }
+      ]
+    }
+  ]
+}

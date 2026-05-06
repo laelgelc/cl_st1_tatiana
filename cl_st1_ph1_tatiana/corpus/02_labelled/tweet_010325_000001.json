@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9512938,
+          "topicality": 0.5583052
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9420896,
+          "topicality": 0.01097942
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9406765,
+          "topicality": 0.0902036
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.908248,
+          "topicality": 0.08399912
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.90545404,
+          "topicality": 0.4529138
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8950472,
+          "topicality": 0.0047906875
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.8392886,
+          "topicality": 0.012294008
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.82645196,
+          "topicality": 0.009027079
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8117862,
+          "topicality": 0.076095246
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.80202764,
+          "topicality": 0.054112505
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.7711884,
+          "topicality": 0.0013744881
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6874597,
+          "topicality": 0.00726949
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.6652903,
+          "topicality": 0.0023628352
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.6500869,
+          "topicality": 0.010227235
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5907631,
+          "topicality": 1.634444e-05
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5416528,
+          "topicality": 0.0054265237
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.53284156,
+          "topicality": 0.058857497
+        }
+      ]
+    }
+  ]
+}

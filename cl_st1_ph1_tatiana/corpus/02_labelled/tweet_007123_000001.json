@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.82843727,
+          "topicality": 0.024411777
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.6693452,
+          "topicality": 0.0020408304
+        },
+        {
+          "mid": "/m/05f725",
+          "description": "Leaf vegetable",
+          "score": 0.65805095,
+          "topicality": 0.010790681
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.58536375,
+          "topicality": 0.013159998
+        },
+        {
+          "mid": "/m/04ylr2",
+          "description": "Wild cabbage",
+          "score": 0.5419447,
+          "topicality": 0.12126702
+        }
+      ]
+    }
+  ]
+}

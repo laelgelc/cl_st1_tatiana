@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8231171,
+          "topicality": 0.002335785
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.7858841,
+          "topicality": 0.0008053975
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.77418387,
+          "topicality": 0.033804182
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.73103344,
+          "topicality": 0.0029174632
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.63855416,
+          "topicality": 0.052471414
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.59035057,
+          "topicality": 0.007912366
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.56829077,
+          "topicality": 0.0084710475
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.54312503,
+          "topicality": 0.00028154245
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.51615375,
+          "topicality": 0.005000449
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5004567,
+          "topicality": 0.035122935
+        }
+      ]
+    }
+  ]
+}

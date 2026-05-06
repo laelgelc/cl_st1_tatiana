@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7771126,
+          "topicality": 0.000415022
+        },
+        {
+          "mid": "/m/01d743",
+          "description": "Package delivery",
+          "score": 0.65770143,
+          "topicality": 0.28471735
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.65189767,
+          "topicality": 0.0019336063
+        },
+        {
+          "mid": "/m/070qm",
+          "description": "Freight transport",
+          "score": 0.5238078,
+          "topicality": 0.07433322
+        }
+      ]
+    }
+  ]
+}

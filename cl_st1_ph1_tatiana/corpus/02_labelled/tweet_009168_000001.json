@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.80963707,
+          "topicality": 0.04409292
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.77387387,
+          "topicality": 0.0055656508
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6837356,
+          "topicality": 0.07523139
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6103109,
+          "topicality": 0.0066146795
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.57428306,
+          "topicality": 0.01836648
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.56186914,
+          "topicality": 0.05273364
+        }
+      ]
+    }
+  ]
+}

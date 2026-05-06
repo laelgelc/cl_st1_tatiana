@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/081pkj",
+          "description": "Event",
+          "score": 0.93011785,
+          "topicality": 0.004490863
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9051093,
+          "topicality": 0.010768548
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.89405054,
+          "topicality": 0.00053619343
+        },
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.81526184,
+          "topicality": 0.0007255004
+        },
+        {
+          "mid": "/m/02jjt",
+          "description": "Entertainment",
+          "score": 0.79910135,
+          "topicality": 0.0055238158
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.6830172,
+          "topicality": 0.00566763
+        },
+        {
+          "mid": "/m/05_4_",
+          "description": "Party",
+          "score": 0.6079936,
+          "topicality": 0.060634628
+        }
+      ]
+    }
+  ]
+}

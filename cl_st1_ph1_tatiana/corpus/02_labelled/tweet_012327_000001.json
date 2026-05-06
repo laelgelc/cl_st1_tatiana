@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98813814,
+          "topicality": 0.00071754865
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9730605,
+          "topicality": 0.01742962
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.92407614,
+          "topicality": 0.008147576
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.9217231,
+          "topicality": 0.063066885
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.92079496,
+          "topicality": 0.0006227701
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.7717404,
+          "topicality": 0.059871938
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.83392173,
+          "topicality": 0.06254407
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.82412064,
+          "topicality": 0.02227321
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.78506875,
+          "topicality": 0.010650408
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.66564566,
+          "topicality": 0.016307088
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.6238007,
+          "topicality": 0.0011476349
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.60161036,
+          "topicality": 0.3269995
+        }
+      ]
+    }
+  ]
+}

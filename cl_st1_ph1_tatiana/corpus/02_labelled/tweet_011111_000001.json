@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8756067,
+          "topicality": 0.011872643
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7699232,
+          "topicality": 0.0022003835
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.7200486,
+          "topicality": 0.0039025745
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5847231,
+          "topicality": 0.0023334615
+        },
+        {
+          "mid": "/m/0522cz4",
+          "description": "Electronic signage",
+          "score": 0.5718094,
+          "topicality": 0.0022564335
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.5610136,
+          "topicality": 0.0014008865
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.5139883,
+          "topicality": 0.00047509832
+        }
+      ]
+    }
+  ]
+}

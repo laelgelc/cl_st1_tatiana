@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.7201378,
+          "topicality": 0.037604272
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.69846183,
+          "topicality": 0.0027881432
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.6727936,
+          "topicality": 0.000597719
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.50962055,
+          "topicality": 0.0025966733
+        }
+      ]
+    }
+  ]
+}

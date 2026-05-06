@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0215n",
+          "description": "Cartoon",
+          "score": 0.8501344,
+          "topicality": 0.106848024
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.57822007,
+          "topicality": 0.005769754
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5452493,
+          "topicality": 0.00016656285
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.5355257,
+          "topicality": 0.0019961095
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.51267356,
+          "topicality": 0.0017683207
+        }
+      ]
+    }
+  ]
+}

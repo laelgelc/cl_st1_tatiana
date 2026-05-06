@@ -1,0 +1,170 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "Clothing",
+          "score": 0.99388605,
+          "topicality": 0.0050880616
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.97016364,
+          "topicality": 0.006883231
+        },
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.9611237,
+          "topicality": 0.0023321398
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.9392652,
+          "topicality": 0.0012200464
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.93647414,
+          "topicality": 5.407973e-05
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.9269485,
+          "topicality": 0.0009119644
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9091115,
+          "topicality": 0.00021779971
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.9080057,
+          "topicality": 4.324941e-06
+        },
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.85624915,
+          "topicality": 0.00096654566
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.83795834,
+          "topicality": 0.084691755
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.8261621,
+          "topicality": 0.024179984
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.8144486,
+          "topicality": 0.014294499
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.7977426,
+          "topicality": 0.0015782928
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.79395366,
+          "topicality": 0.0023565043
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.78730655,
+          "topicality": 0.022859702
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.78088284,
+          "topicality": 0.00035756797
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.7427416,
+          "topicality": 0.0031503558
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.73876345,
+          "topicality": 0.04346503
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.72773415,
+          "topicality": 0.000892031
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7165062,
+          "topicality": 0.00010599278
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.7005553,
+          "topicality": 0.32199094
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.65617955,
+          "topicality": 0.09470514
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.6548329,
+          "topicality": 0.1337967
+        },
+        {
+          "mid": "/m/01xq3w",
+          "description": "Debate",
+          "score": 0.6084129,
+          "topicality": 0.5126049
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.6028118,
+          "topicality": 0.001069947
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.53039825,
+          "topicality": 0.0078105717
+        },
+        {
+          "mid": "/m/02gp31",
+          "description": "Government agency",
+          "score": 0.5234311,
+          "topicality": 0.007078202
+        }
+      ]
+    }
+  ]
+}

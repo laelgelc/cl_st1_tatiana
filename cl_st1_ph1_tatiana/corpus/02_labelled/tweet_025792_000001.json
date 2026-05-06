@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02h00q",
+          "description": "Jersey",
+          "score": 0.914555,
+          "topicality": 0.00048525404
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7737944,
+          "topicality": 0.01607061
+        },
+        {
+          "mid": "/m/0bmgjqz",
+          "description": "Sports venue",
+          "score": 0.76553315,
+          "topicality": 0.0032917927
+        },
+        {
+          "mid": "/m/0gl2ny2",
+          "description": "Football player",
+          "score": 0.64807016,
+          "topicality": 0.018037863
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.5993087,
+          "topicality": 5.2862833e-06
+        },
+        {
+          "mid": "/m/01226z",
+          "description": "Football",
+          "score": 0.5535776,
+          "topicality": 0.0498423
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9556063,
+          "topicality": 0.00810484
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9280819,
+          "topicality": 0.0006790056
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9271275,
+          "topicality": 0.0026705302
+        },
+        {
+          "mid": "/m/04k94",
+          "description": "Liquid",
+          "score": 0.91412586,
+          "topicality": 0.011849697
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8665136,
+          "topicality": 0.023476409
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.76331,
+          "topicality": 0.00026622138
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.6586077,
+          "topicality": 0.118910044
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.64994705,
+          "topicality": 0.13932104
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6142741,
+          "topicality": 0.06908927
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.5762176,
+          "topicality": 0.034897387
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5332583,
+          "topicality": 0.07869725
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.53317183,
+          "topicality": 0.017632132
+        }
+      ]
+    }
+  ]
+}

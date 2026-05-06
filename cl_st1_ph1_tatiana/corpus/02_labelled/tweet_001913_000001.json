@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.94475156,
+          "topicality": 0.9040817
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9352361,
+          "topicality": 0.0021879072
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8265597,
+          "topicality": 0.0060290024
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.6687332,
+          "topicality": 0.009128787
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58628994,
+          "topicality": 0.03778602
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.57080466,
+          "topicality": 0.21718986
+        },
+        {
+          "mid": "/m/083kv",
+          "description": "Wire",
+          "score": 0.5653896,
+          "topicality": 0.001745897
+        },
+        {
+          "mid": "/m/0bmz2",
+          "description": "Electrical cable",
+          "score": 0.54449743,
+          "topicality": 0.000344201
+        }
+      ]
+    }
+  ]
+}

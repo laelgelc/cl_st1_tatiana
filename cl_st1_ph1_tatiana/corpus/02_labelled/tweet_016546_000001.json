@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9588304,
+          "topicality": 0.0075645903
+        },
+        {
+          "mid": "/m/04bcr3",
+          "description": "Table",
+          "score": 0.9014492,
+          "topicality": 0.006936477
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.8512282,
+          "topicality": 0.016722217
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.8437399,
+          "topicality": 0.004375318
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.83868885,
+          "topicality": 0.07228768
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.7529979,
+          "topicality": 0.0029315723
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.574759,
+          "topicality": 0.019852288
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.5734136,
+          "topicality": 0.00034335745
+        }
+      ]
+    }
+  ]
+}

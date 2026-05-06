@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02fbqn",
+          "description": "Headpiece",
+          "score": 0.7503392,
+          "topicality": 0.0031140028
+        },
+        {
+          "mid": "/m/07djv",
+          "description": "Tradition",
+          "score": 0.7181699,
+          "topicality": 0.02037618
+        },
+        {
+          "mid": "/m/01r546",
+          "description": "Earring",
+          "score": 0.58799547,
+          "topicality": 0.00010895904
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.56826067,
+          "topicality": 0.002500501
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8889313,
+          "topicality": 0.00339849
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.87994283,
+          "topicality": 0.0007201735
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7012383,
+          "topicality": 0.00822785
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.66965944,
+          "topicality": 0.003781101
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6023944,
+          "topicality": 9.1527145e-05
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.59595776,
+          "topicality": 0.0005398252
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5591143,
+          "topicality": 0.011999585
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5227751,
+          "topicality": 0.02547482
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5137126,
+          "topicality": 0.004306392
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01c34b",
+          "description": "Flooring",
+          "score": 0.9540765,
+          "topicality": 0.008931509
+        },
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.9471402,
+          "topicality": 0.026255155
+        },
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.7335989,
+          "topicality": 0.013890696
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6461508,
+          "topicality": 0.002643633
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.63347036,
+          "topicality": 0.016197134
+        }
+      ]
+    }
+  ]
+}

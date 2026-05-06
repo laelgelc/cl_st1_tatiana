@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9804895,
+          "topicality": 0.0014982204
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9007486,
+          "topicality": 0.0003433807
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.89149874,
+          "topicality": 0.00047226215
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.86440146,
+          "topicality": 0.078458525
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.8507378,
+          "topicality": 0.14217454
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8411774,
+          "topicality": 0.0008869041
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7572926,
+          "topicality": 0.004287188
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7227614,
+          "topicality": 0.00065506535
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.62725335,
+          "topicality": 0.019856956
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5735989,
+          "topicality": 0.04800594
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.5676331,
+          "topicality": 0.015365852
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.55319554,
+          "topicality": 0.01629523
+        }
+      ]
+    }
+  ]
+}

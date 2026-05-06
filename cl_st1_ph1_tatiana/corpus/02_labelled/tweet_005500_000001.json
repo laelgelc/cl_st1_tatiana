@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97668767,
+          "topicality": 0.002631751
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.95843375,
+          "topicality": 0.00085413805
+        },
+        {
+          "mid": "/m/04_tb",
+          "description": "Map",
+          "score": 0.9440292,
+          "topicality": 0.28275177
+        },
+        {
+          "mid": "/m/0crnf",
+          "description": "Atlas",
+          "score": 0.5653591,
+          "topicality": 0.020808145
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.55267465,
+          "topicality": 0.019239327
+        }
+      ]
+    }
+  ]
+}

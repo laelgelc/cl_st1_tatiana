@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9734631,
+          "topicality": 0.0009271456
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.899497,
+          "topicality": 0.00040502442
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.7980811,
+          "topicality": 0.00096786063
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.7836972,
+          "topicality": 0.00047019072
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7024529,
+          "topicality": 0.0006801364
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5902141,
+          "topicality": 0.00096553884
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5111166,
+          "topicality": 0.000571315
+        }
+      ]
+    }
+  ]
+}

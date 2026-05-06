@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9073076,
+          "topicality": 0.008565205
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8185794,
+          "topicality": 0.0035325843
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.6722637,
+          "topicality": 0.007254343
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.56324077,
+          "topicality": 0.0064920345
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.55942047,
+          "topicality": 0.003353899
+        },
+        {
+          "mid": "/m/05b1rx",
+          "description": "Online advertising",
+          "score": 0.55624694,
+          "topicality": 0.0027479755
+        }
+      ]
+    }
+  ]
+}

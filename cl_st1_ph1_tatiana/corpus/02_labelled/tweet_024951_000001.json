@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7357536,
+          "topicality": 0.016599614
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.72904664,
+          "topicality": 0.003986715
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.72858626,
+          "topicality": 0.12252523
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.7058916,
+          "topicality": 0.0029558695
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7051907,
+          "topicality": 0.023182455
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.629577,
+          "topicality": 0.0014106338
+        }
+      ]
+    }
+  ]
+}

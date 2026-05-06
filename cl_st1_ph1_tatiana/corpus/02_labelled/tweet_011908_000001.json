@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.79695654,
+          "topicality": 0.044897396
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7894639,
+          "topicality": 0.0006483701
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.73602873,
+          "topicality": 0.0041999156
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.65393305,
+          "topicality": 0.07133189
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.64707726,
+          "topicality": 0.093574345
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.59949213,
+          "topicality": 0.00050684216
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5722472,
+          "topicality": 0.2049595
+        }
+      ]
+    }
+  ]
+}

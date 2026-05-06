@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.7257511,
+          "topicality": 0.019419841
+        },
+        {
+          "mid": "/m/01d9ll",
+          "description": "Astronomical object",
+          "score": 0.6611736,
+          "topicality": 0.06662095
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6098093,
+          "topicality": 0.11764733
+        },
+        {
+          "mid": "/m/0dc_v",
+          "description": "Astronomy",
+          "score": 0.5225531,
+          "topicality": 0.059180792
+        },
+        {
+          "mid": "/m/0cxwt",
+          "description": "Fractal art",
+          "score": 0.5138139,
+          "topicality": 0.0012791301
+        }
+      ]
+    }
+  ]
+}

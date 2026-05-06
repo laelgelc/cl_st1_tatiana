@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449494,
+          "topicality": 0.017853897
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7961692,
+          "topicality": 0.00578217
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7371984,
+          "topicality": 0.0042465823
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.6907436,
+          "topicality": 0.7159299
+        },
+        {
+          "mid": "/m/0463cq4",
+          "description": "Crying",
+          "score": 0.68638617,
+          "topicality": 0.036593948
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.66251796,
+          "topicality": 0.0032832325
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.64838505,
+          "topicality": 0.017500635
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.56264305,
+          "topicality": 0.0039060018
+        },
+        {
+          "mid": "/m/016gcr",
+          "description": "Guru",
+          "score": 0.5542489,
+          "topicality": 0.0011364314
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.5435508,
+          "topicality": 0.0056675775
+        }
+      ]
+    }
+  ]
+}

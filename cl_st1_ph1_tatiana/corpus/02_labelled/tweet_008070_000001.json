@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.9308623,
+          "topicality": 0.048232988
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.84843975,
+          "topicality": 0.009464867
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7606918,
+          "topicality": 0.0017423708
+        },
+        {
+          "mid": "/m/02phwj2",
+          "description": "Display window",
+          "score": 0.58467984,
+          "topicality": 0.008369969
+        },
+        {
+          "mid": "/m/025s8bs",
+          "description": "Shopping mall",
+          "score": 0.55829686,
+          "topicality": 0.023266198
+        },
+        {
+          "mid": "/m/09bgkl",
+          "description": "Outlet store",
+          "score": 0.5451703,
+          "topicality": 0.5770499
+        },
+        {
+          "mid": "/m/09y4pm",
+          "description": "Market",
+          "score": 0.52075034,
+          "topicality": 0.0033487023
+        }
+      ]
+    }
+  ]
+}

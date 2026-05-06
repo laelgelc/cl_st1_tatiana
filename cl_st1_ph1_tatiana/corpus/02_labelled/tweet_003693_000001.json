@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qsj",
+          "description": "Primate",
+          "score": 0.9613753,
+          "topicality": 0.20556085
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94491583,
+          "topicality": 0.00034135845
+        },
+        {
+          "mid": "/m/0267y",
+          "description": "Chimpanzee",
+          "score": 0.8961955,
+          "topicality": 0.53433657
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.8274862,
+          "topicality": 0.0011674572
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7367565,
+          "topicality": 0.0006132258
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.66440773,
+          "topicality": 0.0034630317
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.6302734,
+          "topicality": 0.00015604096
+        }
+      ]
+    }
+  ]
+}

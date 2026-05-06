@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.89835745,
+          "topicality": 0.0021616824
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8530164,
+          "topicality": 0.07143738
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.79363024,
+          "topicality": 0.10171673
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7617729,
+          "topicality": 0.06467114
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5865055,
+          "topicality": 0.0102095585
+        }
+      ]
+    }
+  ]
+}

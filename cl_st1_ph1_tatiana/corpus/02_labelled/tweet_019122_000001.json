@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03vt0",
+          "description": "Insect",
+          "score": 0.70618904,
+          "topicality": 0.002921865
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.67005134,
+          "topicality": 0.0018203853
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.6230695,
+          "topicality": 0.00568295
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.5933692,
+          "topicality": 0.00077175704
+        },
+        {
+          "mid": "/m/0ql23",
+          "description": "Pollinator",
+          "score": 0.53920144,
+          "topicality": 0.0022091498
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5338604,
+          "topicality": 0.0036136415
+        }
+      ]
+    }
+  ]
+}

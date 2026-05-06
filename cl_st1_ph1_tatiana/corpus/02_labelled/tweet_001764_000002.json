@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.93397874,
+          "topicality": 0.021741172
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.80962044,
+          "topicality": 0.005707836
+        },
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.77591985,
+          "topicality": 0.0002926755
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.7301796,
+          "topicality": 0.006323635
+        }
+      ]
+    }
+  ]
+}

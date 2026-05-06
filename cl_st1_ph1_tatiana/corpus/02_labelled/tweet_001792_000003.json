@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8610431,
+          "topicality": 0.00041163148
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7976542,
+          "topicality": 0.0023614701
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.73448676,
+          "topicality": 3.0661846e-05
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6858346,
+          "topicality": 0.037777476
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.67080534,
+          "topicality": 0.0059647034
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6542135,
+          "topicality": 0.0044825883
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6259914,
+          "topicality": 0.0005342852
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6251216,
+          "topicality": 0.00020624796
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5752956,
+          "topicality": 0.012539012
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.55428684,
+          "topicality": 0.030771686
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5440906,
+          "topicality": 0.017623927
+        }
+      ]
+    }
+  ]
+}

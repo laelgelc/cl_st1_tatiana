@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.79797655,
+          "topicality": 0.0030518887
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.751988,
+          "topicality": 0.006247285
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.6786783,
+          "topicality": 0.00069642294
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.66128457,
+          "topicality": 0.00056653284
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55384916,
+          "topicality": 0.024782201
+        }
+      ]
+    }
+  ]
+}

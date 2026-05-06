@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.8964025,
+          "topicality": 0.00036887612
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8074276,
+          "topicality": 0.0082380865
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7272129,
+          "topicality": 0.0027253774
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.70550716,
+          "topicality": 0.022988303
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6418546,
+          "topicality": 0.004979227
+        },
+        {
+          "mid": "/m/033rv2",
+          "description": "Cardboard Packaging",
+          "score": 0.621059,
+          "topicality": 0.0002176631
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.5110705,
+          "topicality": 0.013730951
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98880047,
+          "topicality": 0.0053703026
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9501103,
+          "topicality": 0.13058195
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9027476,
+          "topicality": 0.00010788383
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.70745194,
+          "topicality": 0.0044363337
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.64561164,
+          "topicality": 0.004082807
+        }
+      ]
+    }
+  ]
+}

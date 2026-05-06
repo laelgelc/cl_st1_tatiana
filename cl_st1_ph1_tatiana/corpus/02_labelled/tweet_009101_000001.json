@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9531447,
+          "topicality": 0.0029406764
+        },
+        {
+          "mid": "/m/04k94",
+          "description": "Liquid",
+          "score": 0.9170991,
+          "topicality": 0.010977541
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7410081,
+          "topicality": 0.00077882444
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7050349,
+          "topicality": 0.20416589
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6936716,
+          "topicality": 0.0003084921
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6710179,
+          "topicality": 0.016088566
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.670786,
+          "topicality": 0.06683628
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6322814,
+          "topicality": 0.00013587353
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.62001246,
+          "topicality": 0.052961774
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.609926,
+          "topicality": 0.17399645
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.53089195,
+          "topicality": 0.0042705713
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.50145507,
+          "topicality": 0.029807033
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.8565909,
+          "topicality": 0.012844482
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.84955585,
+          "topicality": 0.010012969
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.78318775,
+          "topicality": 0.010063946
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.7100135,
+          "topicality": 0.006813486
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6590664,
+          "topicality": 0.0008431695
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6303535,
+          "topicality": 0.32600766
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5914122,
+          "topicality": 0.05269487
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.5585425,
+          "topicality": 0.021188699
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5407418,
+          "topicality": 0.001183319
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5124753,
+          "topicality": 0.0029881492
+        }
+      ]
+    }
+  ]
+}

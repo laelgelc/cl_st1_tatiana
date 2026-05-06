@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9446547,
+          "topicality": 0.004366489
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.79094714,
+          "topicality": 0.00079664134
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.7668819,
+          "topicality": 7.902952e-05
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.63746285,
+          "topicality": 0.030607028
+        },
+        {
+          "mid": "/m/0fy6nv",
+          "description": "Head restraint",
+          "score": 0.5479587,
+          "topicality": 9.712828e-05
+        }
+      ]
+    }
+  ]
+}

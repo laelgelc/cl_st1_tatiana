@@ -1,0 +1,25 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wzbmj",
+          "description": "Standing",
+          "score": 0.94441617
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.71062064,
+          "topicality": 0.008322461
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.69153666,
+          "topicality": 0.004827869
+        }
+      ]
+    }
+  ]
+}

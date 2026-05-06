@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.9705601,
+          "topicality": 0.00028591126
+        },
+        {
+          "mid": "/m/03j1ly",
+          "description": "Emergency vehicle",
+          "score": 0.9501444,
+          "topicality": 0.015856875
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.92758363,
+          "topicality": 0.05500534
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.9258719,
+          "topicality": 0.37758404
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.92256624,
+          "topicality": 0.0017821856
+        },
+        {
+          "mid": "/m/012n7d",
+          "description": "Ambulance",
+          "score": 0.9192156,
+          "topicality": 0.39998135
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.91787523,
+          "topicality": 0.0014304535
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.80900484,
+          "topicality": 0.0004488568
+        },
+        {
+          "mid": "/m/0jzbb",
+          "description": "Paramedic",
+          "score": 0.77694106,
+          "topicality": 0.2386433
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7590513,
+          "topicality": 0.030021116
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7304072,
+          "topicality": 0.0036768424
+        },
+        {
+          "mid": "/m/01_p8q",
+          "description": "Rescue",
+          "score": 0.62051433,
+          "topicality": 0.06398911
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6147314,
+          "topicality": 0.0013328467
+        },
+        {
+          "mid": "/m/0fmnf5",
+          "description": "Compact van",
+          "score": 0.5367211,
+          "topicality": 7.796792e-05
+        },
+        {
+          "mid": "/m/02pz5g2",
+          "description": "Light commercial vehicle",
+          "score": 0.52535707,
+          "topicality": 0.00025561152
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.5174222,
+          "topicality": 0.09920537
+        }
+      ]
+    }
+  ]
+}

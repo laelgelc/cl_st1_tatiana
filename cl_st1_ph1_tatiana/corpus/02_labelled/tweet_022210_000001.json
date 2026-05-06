@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9698377,
+          "topicality": 0.0040805014
+        },
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.8286224,
+          "topicality": 0.0008068113
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.8133263,
+          "topicality": 0.00033726371
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.5720338,
+          "topicality": 0.0060776607
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.53485596,
+          "topicality": 0.0019668653
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.5180225,
+          "topicality": 0.0070989225
+        }
+      ]
+    }
+  ]
+}

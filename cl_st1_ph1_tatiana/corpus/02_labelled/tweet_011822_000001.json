@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9660539,
+          "topicality": 0.012047504
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.919892,
+          "topicality": 0.0011692101
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.78276145,
+          "topicality": 0.0022617092
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.76347554,
+          "topicality": 0.033027813
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.71699053,
+          "topicality": 0.0014261962
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.52154464,
+          "topicality": 0.00053617585
+        }
+      ]
+    }
+  ]
+}

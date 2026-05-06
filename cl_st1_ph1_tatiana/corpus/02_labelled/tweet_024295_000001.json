@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8561001,
+          "topicality": 0.002164128
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8249121,
+          "topicality": 0.16632245
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8121842,
+          "topicality": 0.00067613804
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.77191037,
+          "topicality": 0.00075507764
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7407608,
+          "topicality": 0.00035351556
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.69806916,
+          "topicality": 0.03206743
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6874039,
+          "topicality": 0.0020063207
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6595032,
+          "topicality": 0.003560103
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.52409774,
+          "topicality": 0.02615057
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.9566216,
+          "topicality": 0.004374425
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.8926269,
+          "topicality": 0.0020689145
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.88368994,
+          "topicality": 0.0090612145
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.8777355,
+          "topicality": 0.004400318
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.5641364,
+          "topicality": 0.016488407
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.53058463,
+          "topicality": 0.010662595
+        }
+      ]
+    }
+  ]
+}

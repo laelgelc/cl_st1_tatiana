@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.92070425,
+          "topicality": 0.0005987946
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.65912056,
+          "topicality": 0.043129858
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.6254018,
+          "topicality": 0.0008546728
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.6201502,
+          "topicality": 0.00022536411
+        },
+        {
+          "mid": "/m/07cx4",
+          "description": "Telephone",
+          "score": 0.59422374,
+          "topicality": 0.026159886
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.53088164,
+          "topicality": 0.04473571
+        }
+      ]
+    }
+  ]
+}

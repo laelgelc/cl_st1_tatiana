@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8315116,
+          "topicality": 0.0053885323
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7847273,
+          "topicality": 0.007996577
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.7357274,
+          "topicality": 0.18207178
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6968711,
+          "topicality": 0.009516983
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.6668729,
+          "topicality": 0.0015950935
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6455456,
+          "topicality": 0.029203562
+        }
+      ]
+    }
+  ]
+}

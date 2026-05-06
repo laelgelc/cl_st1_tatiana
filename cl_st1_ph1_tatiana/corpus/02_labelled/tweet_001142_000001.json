@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9067066,
+          "topicality": 0.0020204482
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8791809,
+          "topicality": 0.0050116866
+        },
+        {
+          "mid": "/j/3gbwgn",
+          "description": "People in nature",
+          "score": 0.8424646,
+          "topicality": 5.9682054e-05
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.75344217,
+          "topicality": 0.0009570482
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.58620447,
+          "topicality": 0.0043438105
+        }
+      ]
+    }
+  ]
+}

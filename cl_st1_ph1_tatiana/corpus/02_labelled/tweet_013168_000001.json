@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.8548938,
+          "topicality": 0.15187442
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.8267687,
+          "topicality": 0.0006384593
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.680404,
+          "topicality": 0.00067266775
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.6516281,
+          "topicality": 0.0017472055
+        },
+        {
+          "mid": "/m/09cjl",
+          "description": "Airport",
+          "score": 0.55016947,
+          "topicality": 0.37353367
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.5260724,
+          "topicality": 0.000105451305
+        },
+        {
+          "mid": "/m/026smn",
+          "description": "Airport terminal",
+          "score": 0.52192444,
+          "topicality": 0.07236556
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5210413,
+          "topicality": 0.00024961945
+        },
+        {
+          "mid": "/m/02607v9",
+          "description": "Transport hub",
+          "score": 0.5068742,
+          "topicality": 0.0016593873
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05ws7",
+          "description": "Police",
+          "score": 0.8599378,
+          "topicality": 0.50619364
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.81319547,
+          "topicality": 0.013510816
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.7920919,
+          "topicality": 0.035011068
+        },
+        {
+          "mid": "/m/01t2ln",
+          "description": "Police officer",
+          "score": 0.7861014,
+          "topicality": 0.08987519
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.701777,
+          "topicality": 0.0003394383
+        },
+        {
+          "mid": "/m/0133tk",
+          "description": "Bulletproof vest",
+          "score": 0.6729509,
+          "topicality": 0.0020337426
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.6390515,
+          "topicality": 0.0037156546
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.57024723,
+          "topicality": 0.0013846
+        }
+      ]
+    }
+  ]
+}

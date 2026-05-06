@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.93448645,
+          "topicality": 0.0045928867
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6914111,
+          "topicality": 0.03001277
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.61015564,
+          "topicality": 0.07982507
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5847827,
+          "topicality": 0.0068728183
+        }
+      ]
+    }
+  ]
+}

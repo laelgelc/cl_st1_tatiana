@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.72480863,
+          "topicality": 0.00047888
+        },
+        {
+          "mid": "/m/02q5pxq",
+          "description": "Aircraft cabin",
+          "score": 0.6383943,
+          "topicality": 0.142174
+        },
+        {
+          "mid": "/m/01b7fy",
+          "description": "Headphones",
+          "score": 0.62952346,
+          "topicality": 0.0010635463
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.57895553,
+          "topicality": 0.22006483
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5551561,
+          "topicality": 0.26556924
+        }
+      ]
+    }
+  ]
+}

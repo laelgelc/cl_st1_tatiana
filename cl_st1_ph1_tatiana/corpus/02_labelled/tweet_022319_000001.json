@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05_5t0l",
+          "description": "Landmark",
+          "score": 0.9165895,
+          "topicality": 0.014869319
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.88068575,
+          "topicality": 0.0032109318
+        },
+        {
+          "mid": "/m/0pgl9",
+          "description": "Tourist attraction",
+          "score": 0.8568721,
+          "topicality": 0.10522938
+        },
+        {
+          "mid": "/m/01lynh",
+          "description": "Stairs",
+          "score": 0.8440972,
+          "topicality": 0.05971851
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.8138866,
+          "topicality": 0.00064885593
+        },
+        {
+          "mid": "/m/07yr8h",
+          "description": "Historic site",
+          "score": 0.79354334,
+          "topicality": 0.12628083
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.79283607,
+          "topicality": 7.942381e-05
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.78406775,
+          "topicality": 0.026675733
+        },
+        {
+          "mid": "/m/01ht1r",
+          "description": "Medieval architecture",
+          "score": 0.74173653,
+          "topicality": 0.0012245417
+        },
+        {
+          "mid": "/m/0dvh9",
+          "description": "Classical architecture",
+          "score": 0.70122296,
+          "topicality": 0.005907553
+        },
+        {
+          "mid": "/m/0cx45",
+          "description": "Temple",
+          "score": 0.6031672,
+          "topicality": 0.034568682
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.59586596,
+          "topicality": 0.001936335
+        },
+        {
+          "mid": "/m/0cfs8",
+          "description": "Cathedral",
+          "score": 0.5772187,
+          "topicality": 0.06544487
+        },
+        {
+          "mid": "/m/03gkl",
+          "description": "Holiday",
+          "score": 0.5746223,
+          "topicality": 0.0011553799
+        },
+        {
+          "mid": "/m/0cfkj",
+          "description": "Monastery",
+          "score": 0.53024393,
+          "topicality": 0.0019498562
+        }
+      ]
+    }
+  ]
+}

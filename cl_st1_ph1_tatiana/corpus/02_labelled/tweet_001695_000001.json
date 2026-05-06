@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.60962343,
+          "topicality": 0.01893624
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.57860994,
+          "topicality": 0.0055561154
+        },
+        {
+          "mid": "/m/07nq4",
+          "description": "Tsunami",
+          "score": 0.54940146,
+          "topicality": 0.54477227
+        }
+      ]
+    }
+  ]
+}

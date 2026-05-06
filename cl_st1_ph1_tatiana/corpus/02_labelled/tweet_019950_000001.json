@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.9617021,
+          "topicality": 0.05015341
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.8489117,
+          "topicality": 0.0011764398
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.82074016,
+          "topicality": 0.18169828
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.797102,
+          "topicality": 9.2507704e-05
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.78688145,
+          "topicality": 0.0015131802
+        }
+      ]
+    }
+  ]
+}

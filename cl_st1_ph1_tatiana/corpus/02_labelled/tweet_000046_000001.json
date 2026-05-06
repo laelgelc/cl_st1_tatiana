@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.9064147,
+          "topicality": 0.05427258
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.8725077,
+          "topicality": 0.11345295
+        },
+        {
+          "mid": "/m/07jdr",
+          "description": "Train",
+          "score": 0.8705639,
+          "topicality": 0.26855865
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.8378138,
+          "topicality": 0.27295855
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.82847166,
+          "topicality": 0.003955447
+        },
+        {
+          "mid": "/m/025s53m",
+          "description": "Rolling stock",
+          "score": 0.7711653,
+          "topicality": 0.002910114
+        },
+        {
+          "mid": "/m/06d_3",
+          "description": "Rail transport",
+          "score": 0.70076746,
+          "topicality": 0.06547135
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.6799244,
+          "topicality": 0.0002600647
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.61920303,
+          "topicality": 0.005272348
+        },
+        {
+          "mid": "/m/0467y7",
+          "description": "Passenger car",
+          "score": 0.58977824,
+          "topicality": 0.0014808358
+        },
+        {
+          "mid": "/m/01g50p",
+          "description": "Railroad car",
+          "score": 0.5552708,
+          "topicality": 0.020628748
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.5053211,
+          "topicality": 0.023225488
+        },
+        {
+          "mid": "/m/01p3xl",
+          "description": "Metro station",
+          "score": 0.5038677,
+          "topicality": 0.019892367
+        }
+      ]
+    }
+  ]
+}

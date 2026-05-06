@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.89579695,
+          "topicality": 0.0034532493
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.85286885,
+          "topicality": 0.0063957227
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7571078,
+          "topicality": 0.009214833
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7473094,
+          "topicality": 0.08069853
+        },
+        {
+          "mid": "/m/028mzr",
+          "description": "Hair coloring",
+          "score": 0.50329596,
+          "topicality": 1.2438653e-05
+        }
+      ]
+    }
+  ]
+}

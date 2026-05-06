@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.9129103,
+          "topicality": 0.0045596375
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7455682,
+          "topicality": 0.008605187
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.56133515,
+          "topicality": 0.009314886
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.5316736,
+          "topicality": 0.0001423656
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.531063,
+          "topicality": 0.019565659
+        }
+      ]
+    }
+  ]
+}

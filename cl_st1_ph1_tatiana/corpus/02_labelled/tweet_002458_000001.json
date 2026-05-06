@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.95223606,
+          "topicality": 0.027470566
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9132923,
+          "topicality": 0.060251854
+        },
+        {
+          "mid": "/m/01kyr8",
+          "description": "Darkness",
+          "score": 0.8272223,
+          "topicality": 0.0043824944
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.7593909,
+          "topicality": 0.0008795195
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7375892,
+          "topicality": 0.32247558
+        }
+      ]
+    }
+  ]
+}

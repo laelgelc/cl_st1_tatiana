@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9023627,
+          "topicality": 0.017600298
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7410338,
+          "topicality": 0.0012971866
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.63026404,
+          "topicality": 0.0026950205
+        },
+        {
+          "mid": "/m/05p553",
+          "description": "Comedy",
+          "score": 0.56506544,
+          "topicality": 0.030883936
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.5179334,
+          "topicality": 0.8262052
+        }
+      ]
+    }
+  ]
+}

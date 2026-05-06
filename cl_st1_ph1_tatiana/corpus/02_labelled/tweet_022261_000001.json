@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.85397047,
+          "topicality": 0.008959295
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.8389506,
+          "topicality": 0.034760285
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7815955,
+          "topicality": 0.21695615
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6354616,
+          "topicality": 0.0029351895
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5858425,
+          "topicality": 0.0012970305
+        }
+      ]
+    }
+  ]
+}

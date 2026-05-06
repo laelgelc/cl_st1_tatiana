@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6816612,
+          "topicality": 0.008543956
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5886157,
+          "topicality": 0.07412473
+        }
+      ]
+    }
+  ]
+}

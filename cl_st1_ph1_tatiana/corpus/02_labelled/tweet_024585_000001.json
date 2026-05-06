@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.51861256,
+          "topicality": 0.034358356
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5071062,
+          "topicality": 0.009207116
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5060767,
+          "topicality": 0.002629704
+        }
+      ]
+    }
+  ]
+}

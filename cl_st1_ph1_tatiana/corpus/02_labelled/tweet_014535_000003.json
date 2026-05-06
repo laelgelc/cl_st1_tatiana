@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zfyk",
+          "description": "Bucket",
+          "score": 0.87218636,
+          "topicality": 0.25935674
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.83947855,
+          "topicality": 0.33402827
+        },
+        {
+          "mid": "/m/03h_4m",
+          "description": "Cylinder",
+          "score": 0.8005312,
+          "topicality": 0.002586734
+        },
+        {
+          "mid": "/m/0bjyj5",
+          "description": "Waste container",
+          "score": 0.61332834,
+          "topicality": 0.20026521
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5607454,
+          "topicality": 0.006266806
+        },
+        {
+          "mid": "/m/074cq5",
+          "description": "Lid",
+          "score": 0.5428326,
+          "topicality": 0.00997025
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9170305,
+          "topicality": 0.015853036
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.911904,
+          "topicality": 0.77727884
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9108708,
+          "topicality": 0.2392039
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.887278,
+          "topicality": 0.00867185
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.8229621,
+          "topicality": 0.10498577
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.7286747,
+          "topicality": 0.043402955
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.6963242,
+          "topicality": 0.005232413
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6689728,
+          "topicality": 0.22006336
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52836114,
+          "topicality": 0.008796664
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5164845,
+          "topicality": 0.009074861
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.5032888,
+          "topicality": 0.030246384
+        }
+      ]
+    }
+  ]
+}

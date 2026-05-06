@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j0ry",
+          "description": "Traffic congestion",
+          "score": 0.97220254,
+          "topicality": 0.8919344
+        },
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.97003317,
+          "topicality": 0.018593881
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9253066,
+          "topicality": 0.034078915
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.887706,
+          "topicality": 0.53850603
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.84940434,
+          "topicality": 0.01050361
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.8141965,
+          "topicality": 0.008883931
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7480405,
+          "topicality": 0.018182954
+        },
+        {
+          "mid": "/m/0h8lk4b",
+          "description": "Automotive Mirror",
+          "score": 0.72040826,
+          "topicality": 0.00027809406
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.7053366,
+          "topicality": 6.878275e-05
+        },
+        {
+          "mid": "/m/01jp76",
+          "description": "Parking",
+          "score": 0.5874549,
+          "topicality": 0.0074835313
+        },
+        {
+          "mid": "/m/0cz_0",
+          "description": "Highway",
+          "score": 0.5310525,
+          "topicality": 0.025556551
+        },
+        {
+          "mid": "/m/05j11x",
+          "description": "Rear-view mirror",
+          "score": 0.52595973,
+          "topicality": 0.00035732245
+        },
+        {
+          "mid": "/m/0kw6d",
+          "description": "Driving",
+          "score": 0.52430254,
+          "topicality": 0.015979279
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.85105664,
+          "topicality": 0.06882424
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.78998464,
+          "topicality": 0.016880533
+        },
+        {
+          "mid": "/m/01bsxb",
+          "description": "Collage",
+          "score": 0.68174136,
+          "topicality": 0.0065178666
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.67989075,
+          "topicality": 0.00029943694
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.6455982,
+          "topicality": 0.1390794
+        }
+      ]
+    }
+  ]
+}

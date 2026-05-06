@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.74227506,
+          "topicality": 1.602555e-05
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6828208,
+          "topicality": 0.006346414
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.672896,
+          "topicality": 0.011419946
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6431113,
+          "topicality": 0.0011812777
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.58807236,
+          "topicality": 0.01600927
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5394447,
+          "topicality": 0.00018989982
+        }
+      ]
+    }
+  ]
+}

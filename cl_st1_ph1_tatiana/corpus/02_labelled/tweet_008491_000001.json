@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.6297784,
+          "topicality": 0.26509702
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5567811,
+          "topicality": 0.09663484
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.54739755,
+          "topicality": 0.038795818
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.534716,
+          "topicality": 0.07814313
+        }
+      ]
+    }
+  ]
+}

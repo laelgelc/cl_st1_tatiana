@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.87759376,
+          "topicality": 0.00043507933
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8435719,
+          "topicality": 0.05104361
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7927522,
+          "topicality": 0.037137914
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.73713374,
+          "topicality": 0.0005419608
+        },
+        {
+          "mid": "/m/01mxf",
+          "description": "Concrete",
+          "score": 0.73174554,
+          "topicality": 0.0030292529
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5840032,
+          "topicality": 0.028598867
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5563419,
+          "topicality": 0.005055786
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.54780996,
+          "topicality": 0.0071352767
+        }
+      ]
+    }
+  ]
+}

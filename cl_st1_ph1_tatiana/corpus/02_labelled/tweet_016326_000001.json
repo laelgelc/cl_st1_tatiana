@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ch_cf",
+          "description": "Fish",
+          "score": 0.96550053,
+          "topicality": 0.4601415
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.9448183,
+          "topicality": 0.09942405
+        },
+        {
+          "mid": "/m/09y4pm",
+          "description": "Market",
+          "score": 0.9350031,
+          "topicality": 0.562328
+        },
+        {
+          "mid": "/m/06nwz",
+          "description": "Seafood",
+          "score": 0.85285354,
+          "topicality": 0.11868615
+        },
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.8328381,
+          "topicality": 0.00060225534
+        },
+        {
+          "mid": "/m/03ylp97",
+          "description": "Fish products",
+          "score": 0.7618251,
+          "topicality": 0.054542974
+        },
+        {
+          "mid": "/m/02prwx",
+          "description": "Bazaar",
+          "score": 0.6962268,
+          "topicality": 0.021239897
+        },
+        {
+          "mid": "/m/0ckdlq",
+          "description": "Animal product",
+          "score": 0.5943675,
+          "topicality": 0.0011905209
+        },
+        {
+          "mid": "/m/06ts_6",
+          "description": "Shopkeeper",
+          "score": 0.5618986,
+          "topicality": 0.0074270656
+        },
+        {
+          "mid": "/m/07pbfj",
+          "description": "Fish",
+          "score": 0.5553915,
+          "topicality": 0.08727703
+        },
+        {
+          "mid": "/m/02kj24",
+          "description": "Flea market",
+          "score": 0.50470394,
+          "topicality": 0.0020389997
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.50014603,
+          "topicality": 0.00558107
+        }
+      ]
+    }
+  ]
+}

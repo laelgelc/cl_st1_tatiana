@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.96155906,
+          "topicality": 0.15640202
+        },
+        {
+          "mid": "/m/04scj",
+          "description": "Meat",
+          "score": 0.8762827,
+          "topicality": 0.18765877
+        },
+        {
+          "mid": "/m/01_bhs",
+          "description": "Fast food",
+          "score": 0.7667991,
+          "topicality": 0.06040914
+        },
+        {
+          "mid": "/m/05xnqg",
+          "description": "Street food",
+          "score": 0.6773334,
+          "topicality": 0.030745607
+        },
+        {
+          "mid": "/m/0b3dyl",
+          "description": "Finger food",
+          "score": 0.66025156,
+          "topicality": 1.0010913e-05
+        },
+        {
+          "mid": "/m/0h55b",
+          "description": "Junk food",
+          "score": 0.6139328,
+          "topicality": 0.000720697
+        },
+        {
+          "mid": "/m/04q6ng",
+          "description": "Comfort food",
+          "score": 0.56404924,
+          "topicality": 0.00051931385
+        },
+        {
+          "mid": "/m/01z1jf2",
+          "description": "American cuisine",
+          "score": 0.5579578,
+          "topicality": 0.0004768978
+        },
+        {
+          "mid": "/m/03k_qs",
+          "description": "Doner kebab",
+          "score": 0.5484713,
+          "topicality": 0.39716402
+        },
+        {
+          "mid": "/m/022tld",
+          "description": "Staple food",
+          "score": 0.54722387,
+          "topicality": 0.00025098812
+        },
+        {
+          "mid": "/m/051zk",
+          "description": "Mexican cuisine",
+          "score": 0.5219337,
+          "topicality": 0.012114071
+        },
+        {
+          "mid": "/m/01mtb",
+          "description": "Cooking",
+          "score": 0.5038584,
+          "topicality": 0.0067914897
+        },
+        {
+          "mid": "/m/07qr6",
+          "description": "Turkish cuisine",
+          "score": 0.5025664,
+          "topicality": 0.010058135
+        },
+        {
+          "mid": "/m/04v5by",
+          "description": "Mediterranean cuisine",
+          "score": 0.50146645,
+          "topicality": 0.00076409633
+        }
+      ]
+    }
+  ]
+}

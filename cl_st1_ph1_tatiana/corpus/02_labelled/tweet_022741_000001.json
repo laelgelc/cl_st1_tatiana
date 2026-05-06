@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.78111476,
+          "topicality": 0.00419169
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.623839,
+          "topicality": 0.0048173587
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.59309673,
+          "topicality": 0.050120153
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.59121954,
+          "topicality": 0.1331864
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5804783,
+          "topicality": 0.036997322
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.5703183,
+          "topicality": 0.0036012118
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5122614,
+          "topicality": 0.0059416657
+        }
+      ]
+    }
+  ]
+}

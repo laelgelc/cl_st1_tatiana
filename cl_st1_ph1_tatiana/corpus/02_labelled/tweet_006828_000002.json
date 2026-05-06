@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944843,
+          "topicality": 0.0001675386
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7694173,
+          "topicality": 0.0002836212
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.73691666,
+          "topicality": 0.023612244
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7046454,
+          "topicality": 0.000107941654
+        },
+        {
+          "mid": "/m/0463cq4",
+          "description": "Crying",
+          "score": 0.5901445,
+          "topicality": 0.00046346628
+        }
+      ]
+    }
+  ]
+}

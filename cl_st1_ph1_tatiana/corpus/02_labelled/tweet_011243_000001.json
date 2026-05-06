@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.9072645,
+          "topicality": 0.00836214
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.73150086,
+          "topicality": 0.0013253654
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.6132649,
+          "topicality": 0.44259214
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.60537344,
+          "topicality": 1.754919e-05
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5590063,
+          "topicality": 0.022428187
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.54293317,
+          "topicality": 0.030414442
+        }
+      ]
+    }
+  ]
+}

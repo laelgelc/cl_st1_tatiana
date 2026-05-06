@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.7991901,
+          "topicality": 0.0011891791
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.76102906,
+          "topicality": 0.00030494365
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5177521,
+          "topicality": 0.0042528175
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5033045,
+          "topicality": 0.06515843
+        }
+      ]
+    }
+  ]
+}

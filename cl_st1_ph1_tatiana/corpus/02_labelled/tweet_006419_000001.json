@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.74009526,
+          "topicality": 0.0055568973
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.712685,
+          "topicality": 0.021983093
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.671271,
+          "topicality": 0.0031482105
+        },
+        {
+          "mid": "/m/07jx7",
+          "description": "Triangle",
+          "score": 0.6629017,
+          "topicality": 0.018332412
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.63659036,
+          "topicality": 0.07993373
+        }
+      ]
+    }
+  ]
+}

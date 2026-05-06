@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.91391355,
+          "topicality": 0.0059683593
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.8876949,
+          "topicality": 0.0052699554
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.65577507,
+          "topicality": 0.0026126136
+        },
+        {
+          "mid": "/m/07j2f",
+          "description": "Tattoo",
+          "score": 0.5137988,
+          "topicality": 0.08975664
+        },
+        {
+          "mid": "/m/02qbx9l",
+          "description": "Temporary tattoo",
+          "score": 0.5116379,
+          "topicality": 0.0041468875
+        }
+      ]
+    }
+  ]
+}

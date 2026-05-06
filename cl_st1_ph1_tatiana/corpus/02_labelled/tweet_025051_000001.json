@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9014809,
+          "topicality": 0.00045887797
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.82434684,
+          "topicality": 0.00031250616
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8128053,
+          "topicality": 3.045479e-05
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7618041,
+          "topicality": 0.0030518332
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7358249,
+          "topicality": 0.00039832247
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.73110944,
+          "topicality": 0.00046818683
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.71648866,
+          "topicality": 0.00037962385
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6228158,
+          "topicality": 0.035676364
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.6210578,
+          "topicality": 0.0016744232
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6068465,
+          "topicality": 0.01056235
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.603292,
+          "topicality": 0.0035611806
+        },
+        {
+          "mid": "/m/01xq3w",
+          "description": "Debate",
+          "score": 0.5882601,
+          "topicality": 0.18049328
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.5812171,
+          "topicality": 0.047942664
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.53795195,
+          "topicality": 0.00021280511
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.51435477,
+          "topicality": 0.01888172
+        }
+      ]
+    }
+  ]
+}

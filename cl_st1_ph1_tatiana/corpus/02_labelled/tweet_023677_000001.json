@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9655127,
+          "topicality": 0.020115172
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9161494,
+          "topicality": 0.0006764288
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.851084,
+          "topicality": 0.0022653383
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.83054775,
+          "topicality": 0.072320834
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5487058,
+          "topicality": 0.0012996779
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.50769913,
+          "topicality": 0.0033542435
+        }
+      ]
+    }
+  ]
+}

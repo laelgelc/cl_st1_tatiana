@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.98479325,
+          "topicality": 0.0045152563
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.89261097,
+          "topicality": 0.00031264414
+        },
+        {
+          "mid": "/m/02fbqn",
+          "description": "Headpiece",
+          "score": 0.6721192,
+          "topicality": 0.014412263
+        },
+        {
+          "mid": "/m/06c7f7",
+          "description": "Lipstick",
+          "score": 0.64839345,
+          "topicality": 0.00080912607
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.60872066,
+          "topicality": 0.0012683595
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5693493,
+          "topicality": 0.11475845
+        }
+      ]
+    }
+  ]
+}

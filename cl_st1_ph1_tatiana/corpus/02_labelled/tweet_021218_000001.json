@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.98477983,
+          "topicality": 0.0010436265
+        },
+        {
+          "mid": "/m/0fc1fy",
+          "description": "Black hair",
+          "score": 0.96339387,
+          "topicality": 0.00069321145
+        },
+        {
+          "mid": "/m/09spj9",
+          "description": "Layered hair",
+          "score": 0.63050354,
+          "topicality": 0.0001225296
+        },
+        {
+          "mid": "/m/02h19r",
+          "description": "Scarf",
+          "score": 0.6099919,
+          "topicality": 0.0014011089
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.56791747,
+          "topicality": 0.00017058085
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.5208585,
+          "topicality": 0.00033569505
+        }
+      ]
+    }
+  ]
+}

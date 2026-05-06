@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7509989,
+          "topicality": 0.0022468148
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5899036,
+          "topicality": 0.0051467395
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.57665205,
+          "topicality": 0.0034790274
+        },
+        {
+          "mid": "/m/05y1k_",
+          "description": "Shack",
+          "score": 0.5634347,
+          "topicality": 0.2493525
+        }
+      ]
+    }
+  ]
+}

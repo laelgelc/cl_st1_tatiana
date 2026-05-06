@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.58074313,
+          "topicality": 0.0010102075
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5746264,
+          "topicality": 0.02538479
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.57278806,
+          "topicality": 0.0011294229
+        }
+      ]
+    }
+  ]
+}

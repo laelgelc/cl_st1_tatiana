@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.77598035,
+          "topicality": 0.010014396
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.77280545,
+          "topicality": 0.0036340046
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7060869,
+          "topicality": 0.00091366
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.70357937,
+          "topicality": 0.024045821
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.63875425,
+          "topicality": 0.010898032
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.52739435,
+          "topicality": 0.075154185
+        }
+      ]
+    }
+  ]
+}

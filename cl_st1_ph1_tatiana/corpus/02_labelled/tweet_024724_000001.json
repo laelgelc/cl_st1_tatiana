@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.902944,
+          "topicality": 0.00022911449
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.78473645,
+          "topicality": 0.0061290064
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.7313453,
+          "topicality": 0.028841088
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.70708716,
+          "topicality": 0.033323627
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5346229,
+          "topicality": 0.01163679
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5343162,
+          "topicality": 1.9700241e-05
+        }
+      ]
+    }
+  ]
+}

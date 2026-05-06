@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6587041,
+          "topicality": 0.06398324
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.521621,
+          "topicality": 0.016227243
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5041348,
+          "topicality": 0.61894315
+        }
+      ]
+    }
+  ]
+}

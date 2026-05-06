@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9712946,
+          "topicality": 0.018671561
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.92140085,
+          "topicality": 0.005390459
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.91660804,
+          "topicality": 0.0022629567
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8863071,
+          "topicality": 0.001332681
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.78780586,
+          "topicality": 0.07436288
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.74498874,
+          "topicality": 0.00012076751
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.73878187,
+          "topicality": 0.006547505
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7043395,
+          "topicality": 0.00037344458
+        },
+        {
+          "mid": "/m/05hsx3",
+          "description": "Glucose meter",
+          "score": 0.6159776,
+          "topicality": 0.08628998
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5005432,
+          "topicality": 0.18319629
+        }
+      ]
+    }
+  ]
+}

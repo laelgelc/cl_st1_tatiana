@@ -1,0 +1,242 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9176326,
+          "topicality": 0.0009954604
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.91635495,
+          "topicality": 0.04639195
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.91168725,
+          "topicality": 0.00048510145
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.87110996,
+          "topicality": 0.02693895
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.8621212,
+          "topicality": 0.0012232919
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.83097553,
+          "topicality": 0.02397232
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.82633173,
+          "topicality": 0.001045685
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.82209647,
+          "topicality": 0.001668305
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8007168,
+          "topicality": 0.08326019
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.7979294,
+          "topicality": 0.0004286476
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.77490664,
+          "topicality": 0.0761044
+        },
+        {
+          "mid": "/m/017clw",
+          "description": "Laboratory",
+          "score": 0.76590997,
+          "topicality": 0.31464556
+        },
+        {
+          "mid": "/m/01m3v",
+          "description": "Computer",
+          "score": 0.745152,
+          "topicality": 0.0024214783
+        },
+        {
+          "mid": "/m/014cnc",
+          "description": "Student",
+          "score": 0.7362572,
+          "topicality": 0.034544032
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.72941774,
+          "topicality": 0.00056682416
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.7137423,
+          "topicality": 0.021880286
+        },
+        {
+          "mid": "/m/02522",
+          "description": "Computer monitor",
+          "score": 0.70530033,
+          "topicality": 0.0011178931
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.68410456,
+          "topicality": 0.014739234
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.6805976,
+          "topicality": 0.08666284
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.65795237,
+          "topicality": 0.002671089
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6578894,
+          "topicality": 0.0031468524
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.65391344,
+          "topicality": 0.0018208384
+        },
+        {
+          "mid": "/m/029bm2",
+          "description": "Computer desk",
+          "score": 0.6499529,
+          "topicality": 3.2245666e-06
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6475178,
+          "topicality": 0.005041437
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6227234,
+          "topicality": 0.031211607
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6080455,
+          "topicality": 0.00055736146
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.60746235,
+          "topicality": 1.5182496e-05
+        },
+        {
+          "mid": "/m/0643t",
+          "description": "Personal computer",
+          "score": 0.60101616,
+          "topicality": 0.0007485062
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.5980567,
+          "topicality": 0.0010668477
+        },
+        {
+          "mid": "/m/05bdxm",
+          "description": "Dental hygienist",
+          "score": 0.5963722,
+          "topicality": 0.1408569
+        },
+        {
+          "mid": "/m/0277g",
+          "description": "Dentistry",
+          "score": 0.58093756,
+          "topicality": 0.20993504
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.57054317,
+          "topicality": 0.00018854269
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.56497455,
+          "topicality": 0.046645068
+        },
+        {
+          "mid": "/m/02h661t",
+          "description": "Dentist",
+          "score": 0.54220766,
+          "topicality": 0.08186963
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.53733003,
+          "topicality": 0.014488442
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.5362853,
+          "topicality": 0.0036251026
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5312589,
+          "topicality": 0.029286755
+        },
+        {
+          "mid": "/m/03bx017",
+          "description": "Researcher",
+          "score": 0.51155704,
+          "topicality": 0.11021612
+        },
+        {
+          "mid": "/m/0bk3m1",
+          "description": "Dental assistant",
+          "score": 0.5107035,
+          "topicality": 0.089072175
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.8039655,
+          "topicality": 0.036258947
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7509813,
+          "topicality": 0.0095198415
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.75052726,
+          "topicality": 0.023983914
+        },
+        {
+          "mid": "/m/074ft",
+          "description": "Song",
+          "score": 0.54097754,
+          "topicality": 0.006026789
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.52811456,
+          "topicality": 0.019294735
+        }
+      ]
+    }
+  ]
+}

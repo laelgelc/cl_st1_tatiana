@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.90608865,
+          "topicality": 0.0003234355
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8513357,
+          "topicality": 0.030969141
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8299977,
+          "topicality": 0.00050111883
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7948151,
+          "topicality": 6.401384e-05
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.758341,
+          "topicality": 0.0007124601
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.70640457,
+          "topicality": 0.00032331035
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6742168,
+          "topicality": 0.0009897995
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6579611,
+          "topicality": 0.026149107
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.56913286,
+          "topicality": 0.0011742716
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5300308,
+          "topicality": 0.02249217
+        }
+      ]
+    }
+  ]
+}

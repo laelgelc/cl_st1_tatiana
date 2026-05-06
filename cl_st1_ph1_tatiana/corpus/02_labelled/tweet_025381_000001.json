@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9341845,
+          "topicality": 0.005546569
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.90452486,
+          "topicality": 0.06965245
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.86172414,
+          "topicality": 0.2353863
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.80478525,
+          "topicality": 0.00041674258
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.7269655,
+          "topicality": 3.309608e-05
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.6913955,
+          "topicality": 0.24216527
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.6773973,
+          "topicality": 0.0643105
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6771072,
+          "topicality": 7.724481e-05
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.6372509,
+          "topicality": 0.0022101416
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58549035,
+          "topicality": 0.047682222
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.58398706,
+          "topicality": 0.017638134
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.5669537,
+          "topicality": 0.15958807
+        }
+      ]
+    }
+  ]
+}

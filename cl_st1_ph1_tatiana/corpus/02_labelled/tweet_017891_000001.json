@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01_v7j",
+          "description": "Identity document",
+          "score": 0.77872527,
+          "topicality": 0.079217285
+        },
+        {
+          "mid": "/m/05sv1",
+          "description": "Passport",
+          "score": 0.6531504,
+          "topicality": 0.67456657
+        }
+      ]
+    }
+  ]
+}

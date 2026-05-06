@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.7582565,
+          "topicality": 0.0031420263
+        },
+        {
+          "mid": "/m/02_n6y",
+          "description": "Goggles",
+          "score": 0.7336445,
+          "topicality": 0.0025788902
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.53701913,
+          "topicality": 0.0011562613
+        },
+        {
+          "mid": "/m/0bk_y7",
+          "description": "Bermuda shorts",
+          "score": 0.5124067,
+          "topicality": 0.00028726872
+        }
+      ]
+    }
+  ]
+}

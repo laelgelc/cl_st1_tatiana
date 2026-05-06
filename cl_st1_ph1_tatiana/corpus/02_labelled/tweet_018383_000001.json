@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9581416,
+          "topicality": 0.080906026
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9107065,
+          "topicality": 0.0026976175
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.9011062,
+          "topicality": 0.015719768
+        },
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.9008969,
+          "topicality": 0.21031103
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.89173466,
+          "topicality": 0.00049912214
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.884638,
+          "topicality": 0.0042054616
+        },
+        {
+          "mid": "/m/081rb",
+          "description": "Writing",
+          "score": 0.80820566,
+          "topicality": 0.07768639
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.69887954,
+          "topicality": 0.048665207
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.696727,
+          "topicality": 3.1570755e-05
+        },
+        {
+          "mid": "/m/01cndb",
+          "description": "Stationery",
+          "score": 0.60916644,
+          "topicality": 0.00047525004
+        },
+        {
+          "mid": "/m/03yhk",
+          "description": "Ink",
+          "score": 0.55433124,
+          "topicality": 0.00021955275
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.5219586,
+          "topicality": 6.3059146e-05
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.5191087,
+          "topicality": 3.5964455e-05
+        }
+      ]
+    }
+  ]
+}

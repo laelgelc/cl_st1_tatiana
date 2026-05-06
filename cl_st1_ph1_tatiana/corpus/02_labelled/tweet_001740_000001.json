@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.7779061,
+          "topicality": 0.027135143
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.69899666,
+          "topicality": 0.0005112731
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.6796753,
+          "topicality": 0.00067216856
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5513802,
+          "topicality": 0.0072829355
+        }
+      ]
+    }
+  ]
+}

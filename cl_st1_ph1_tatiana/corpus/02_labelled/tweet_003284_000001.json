@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449491,
+          "topicality": 0.0127347335
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.93056345,
+          "topicality": 0.004049909
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9225061,
+          "topicality": 0.00330082
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7932219,
+          "topicality": 0.0007106225
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.76269287,
+          "topicality": 0.0021231738
+        },
+        {
+          "mid": "/m/0gjxqj",
+          "description": "Bangs",
+          "score": 0.75383365,
+          "topicality": 0.0012598016
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.6868521,
+          "topicality": 0.010157922
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.62436354,
+          "topicality": 0.0051570283
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.6121884,
+          "topicality": 0.0039607934
+        },
+        {
+          "mid": "/m/0fjkt",
+          "description": "Tongue",
+          "score": 0.5547936,
+          "topicality": 0.0044770576
+        },
+        {
+          "mid": "/m/03_03q",
+          "description": "Bowl cut",
+          "score": 0.5391435,
+          "topicality": 0.21611911
+        }
+      ]
+    }
+  ]
+}

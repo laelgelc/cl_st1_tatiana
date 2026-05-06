@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9229868,
+          "topicality": 0.0026334887
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.8474689,
+          "topicality": 0.0079594385
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.843577,
+          "topicality": 0.0028330705
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7424478,
+          "topicality": 0.11341516
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.50225943,
+          "topicality": 0.051425844
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.5021098,
+          "topicality": 0.037705228
+        }
+      ]
+    }
+  ]
+}

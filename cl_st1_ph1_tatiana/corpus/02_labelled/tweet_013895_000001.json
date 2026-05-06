@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9774242,
+          "topicality": 0.098745234
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.96576536,
+          "topicality": 0.0063039134
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449484,
+          "topicality": 0.00020603389
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.90333843,
+          "topicality": 8.149274e-05
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.89658916,
+          "topicality": 0.00036548183
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8787892,
+          "topicality": 0.0021294868
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8221449,
+          "topicality": 0.0018788564
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.7341949,
+          "topicality": 0.01458791
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.73331404,
+          "topicality": 0.0061946777
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.71796185,
+          "topicality": 0.00029070635
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.6816876,
+          "topicality": 0.00027638415
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6399675,
+          "topicality": 0.00032519386
+        }
+      ]
+    }
+  ]
+}

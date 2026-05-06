@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.8120809,
+          "topicality": 0.0010519857
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.81006205,
+          "topicality": 0.00060780585
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.71999717,
+          "topicality": 0.0004401091
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.69252354,
+          "topicality": 0.018534375
+        },
+        {
+          "mid": "/m/0bt_c3",
+          "description": "Book",
+          "score": 0.6209754,
+          "topicality": 0.20375809
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5307481,
+          "topicality": 0.002405886
+        }
+      ]
+    }
+  ]
+}

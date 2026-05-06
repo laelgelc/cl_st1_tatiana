@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97809833,
+          "topicality": 0.23663044
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.83904284,
+          "topicality": 0.51946235
+        },
+        {
+          "mid": "/m/01y8r2",
+          "description": "Red flag",
+          "score": 0.8323984,
+          "topicality": 0.94512796
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.7649163,
+          "topicality": 0.0006689033
+        },
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.7604663,
+          "topicality": 0.002390631
+        }
+      ]
+    }
+  ]
+}

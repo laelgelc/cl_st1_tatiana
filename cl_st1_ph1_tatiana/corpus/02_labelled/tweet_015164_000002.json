@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447393,
+          "topicality": 0.00054063275
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.78696424,
+          "topicality": 0.00084711635
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.74280274,
+          "topicality": 0.0014954373
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.7202988,
+          "topicality": 0.40572762
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.70655364,
+          "topicality": 0.009208556
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6639401,
+          "topicality": 0.0025476625
+        },
+        {
+          "mid": "/m/0463cq4",
+          "description": "Crying",
+          "score": 0.5331181,
+          "topicality": 0.0042918907
+        }
+      ]
+    }
+  ]
+}

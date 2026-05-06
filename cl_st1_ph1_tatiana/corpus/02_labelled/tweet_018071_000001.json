@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hgr6",
+          "description": "Denim",
+          "score": 0.9664466,
+          "topicality": 0.007831049
+        },
+        {
+          "mid": "/m/025rhd",
+          "description": "Pocket",
+          "score": 0.7699172,
+          "topicality": 0.0044051455
+        },
+        {
+          "mid": "/m/04gvstg",
+          "description": "Tobacco products",
+          "score": 0.7258902,
+          "topicality": 0.004136366
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.70751363,
+          "topicality": 0.012713115
+        },
+        {
+          "mid": "/m/09k76",
+          "description": "Cigarette",
+          "score": 0.5462644,
+          "topicality": 0.04485523
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.74803346,
+          "topicality": 0.0064352644
+        },
+        {
+          "mid": "/m/09y4pm",
+          "description": "Market",
+          "score": 0.71080273,
+          "topicality": 0.13355117
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.6358883,
+          "topicality": 0.00792464
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6112939,
+          "topicality": 0.0098436065
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944939,
+          "topicality": 0.0006824449
+        },
+        {
+          "mid": "/m/01sfl",
+          "description": "Clown",
+          "score": 0.9392688,
+          "topicality": 0.5740859
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.905952,
+          "topicality": 0.015900837
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.87498003,
+          "topicality": 0.042207874
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.8373225,
+          "topicality": 0.0046406765
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.8361297,
+          "topicality": 0.030028654
+        },
+        {
+          "mid": "/m/02jjt",
+          "description": "Entertainment",
+          "score": 0.8329712,
+          "topicality": 0.0006304007
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5342073,
+          "topicality": 0.0007743099
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.5295064,
+          "topicality": 0.16235389
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.5287061,
+          "topicality": 0.013767859
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.5001089,
+          "topicality": 0.00027297577
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019jd",
+          "description": "Boat",
+          "score": 0.97054064,
+          "topicality": 0.027885811
+        },
+        {
+          "mid": "/m/01rzcn",
+          "description": "Watercraft",
+          "score": 0.96219176,
+          "topicality": 0.03538928
+        },
+        {
+          "mid": "/m/01tq2l",
+          "description": "Cruise ship",
+          "score": 0.9577019,
+          "topicality": 0.88251746
+        },
+        {
+          "mid": "/m/020dwk",
+          "description": "Passenger ship",
+          "score": 0.9353504,
+          "topicality": 0.23639794
+        },
+        {
+          "mid": "/m/06q74",
+          "description": "Ship",
+          "score": 0.9315645,
+          "topicality": 0.56430256
+        },
+        {
+          "mid": "/m/0k5qm",
+          "description": "Naval architecture",
+          "score": 0.91306216,
+          "topicality": 0.01288541
+        },
+        {
+          "mid": "/m/09_j3b",
+          "description": "Cruiseferry",
+          "score": 0.8958321,
+          "topicality": 0.004096238
+        },
+        {
+          "mid": "/m/06npx",
+          "description": "Sea",
+          "score": 0.836572,
+          "topicality": 0.17714696
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.76355624,
+          "topicality": 0.08748748
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.7481053,
+          "topicality": 4.2540185e-05
+        },
+        {
+          "mid": "/m/01vbb5",
+          "description": "Ocean liner",
+          "score": 0.7395196,
+          "topicality": 0.6479574
+        },
+        {
+          "mid": "/m/08rrcl",
+          "description": "Water transportation",
+          "score": 0.7053743,
+          "topicality": 0.0053775385
+        }
+      ]
+    }
+  ]
+}

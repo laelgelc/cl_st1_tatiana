@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9523662,
+          "topicality": 0.0014440061
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.72799206,
+          "topicality": 0.0018418467
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.63314664,
+          "topicality": 0.11577285
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6232914,
+          "topicality": 0.11262854
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.52526414,
+          "topicality": 3.5386278e-05
+        }
+      ]
+    }
+  ]
+}

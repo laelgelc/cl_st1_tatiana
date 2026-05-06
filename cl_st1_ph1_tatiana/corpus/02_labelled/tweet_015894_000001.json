@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8435209,
+          "topicality": 0.013066159
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8389607,
+          "topicality": 0.001901225
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.77118796,
+          "topicality": 0.28644776
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7172953,
+          "topicality": 0.000284983
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.69479454,
+          "topicality": 0.022077015
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6867018,
+          "topicality": 0.11860618
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6338392,
+          "topicality": 0.008307507
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.6237232,
+          "topicality": 0.00220194
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.564424,
+          "topicality": 0.0012496051
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54885036,
+          "topicality": 0.0070621944
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5204151,
+          "topicality": 0.04105441
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5147016,
+          "topicality": 0.014812703
+        }
+      ]
+    }
+  ]
+}

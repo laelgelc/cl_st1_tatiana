@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.86699533,
+          "topicality": 0.023774065
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7067347,
+          "topicality": 0.0008676886
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6116625,
+          "topicality": 0.091039814
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.59074533,
+          "topicality": 0.014924832
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5752262,
+          "topicality": 0.3815923
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5422427,
+          "topicality": 0.07273947
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.95053124,
+          "topicality": 0.063266136
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90718794,
+          "topicality": 0.00043880937
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.70569927,
+          "topicality": 0.0012630087
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.69949555,
+          "topicality": 0.00590988
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.64739156,
+          "topicality": 0.007722946
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6203883,
+          "topicality": 0.0009598914
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.59839004,
+          "topicality": 0.00535327
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9088205,
+          "topicality": 0.00022081826
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.90152943,
+          "topicality": 0.0024452365
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.8293616,
+          "topicality": 0.00046421305
+        },
+        {
+          "mid": "/m/02fbcn",
+          "description": "Bartender",
+          "score": 0.56239384,
+          "topicality": 0.0049873097
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.56093055,
+          "topicality": 0.010160473
+        },
+        {
+          "mid": "/m/04shl0",
+          "description": "Liquor",
+          "score": 0.5564456,
+          "topicality": 0.0022550437
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5545204,
+          "topicality": 0.027783684
+        }
+      ]
+    }
+  ]
+}

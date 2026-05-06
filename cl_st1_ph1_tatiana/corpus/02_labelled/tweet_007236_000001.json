@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.9857495,
+          "topicality": 0.0017529776
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.97561604,
+          "topicality": 0.0032469723
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9609086,
+          "topicality": 0.0016502223
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.9433584,
+          "topicality": 0.057472795
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9110093,
+          "topicality": 0.00026152498
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.87853545,
+          "topicality": 0.08455893
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7399614,
+          "topicality": 0.044061042
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.7171953,
+          "topicality": 0.07920869
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.6766249,
+          "topicality": 0.0009425383
+        },
+        {
+          "mid": "/m/05b1rx",
+          "description": "Online advertising",
+          "score": 0.66414046,
+          "topicality": 0.025358362
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5852164,
+          "topicality": 0.00396294
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.8295248,
+          "topicality": 0.21338509
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.74737585,
+          "topicality": 0.0022615532
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55539614,
+          "topicality": 0.0075564086
+        }
+      ]
+    }
+  ]
+}

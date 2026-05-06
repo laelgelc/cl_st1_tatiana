@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7411023,
+          "topicality": 0.0002629727
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.6944622,
+          "topicality": 0.0032579869
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.69418555,
+          "topicality": 0.023057599
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.671188,
+          "topicality": 0.009167146
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "Portrait",
+          "score": 0.63378096,
+          "topicality": 0.006342774
+        },
+        {
+          "mid": "/m/09xbm8",
+          "description": "Book cover",
+          "score": 0.5406542,
+          "topicality": 0.008906042
+        },
+        {
+          "mid": "/m/0bt_c3",
+          "description": "Book",
+          "score": 0.5020193,
+          "topicality": 0.14643705
+        }
+      ]
+    }
+  ]
+}

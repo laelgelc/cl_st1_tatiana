@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.74994093,
+          "topicality": 0.028571365
+        },
+        {
+          "mid": "/m/06w1j5",
+          "description": "Shrubland",
+          "score": 0.6433362,
+          "topicality": 0.036140203
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.5361332,
+          "topicality": 0.0005662297
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.51554936,
+          "topicality": 0.011756637
+        },
+        {
+          "mid": "/m/011yvr",
+          "description": "Plantation",
+          "score": 0.5064827,
+          "topicality": 0.0047666663
+        }
+      ]
+    }
+  ]
+}

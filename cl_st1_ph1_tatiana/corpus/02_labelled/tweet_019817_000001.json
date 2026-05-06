@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07zm1k",
+          "description": "Gear shift",
+          "score": 0.8533957,
+          "topicality": 0.0030604352
+        },
+        {
+          "mid": "/m/0fy8r0",
+          "description": "Center console",
+          "score": 0.759614,
+          "topicality": 0.015313443
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.68563735,
+          "topicality": 0.00043763392
+        },
+        {
+          "mid": "/m/05kc0j",
+          "description": "Gauge",
+          "score": 0.6676419,
+          "topicality": 0.000599383
+        },
+        {
+          "mid": "/m/03b6_4",
+          "description": "Steering wheel",
+          "score": 0.6663086,
+          "topicality": 0.0101365615
+        },
+        {
+          "mid": "/m/01d1dj",
+          "description": "Coupé",
+          "score": 0.53301555,
+          "topicality": 0.085795514
+        },
+        {
+          "mid": "/m/02rs44",
+          "description": "Speedometer",
+          "score": 0.5288662,
+          "topicality": 3.5088353e-05
+        },
+        {
+          "mid": "/m/012mq4",
+          "description": "Sports car",
+          "score": 0.52880305,
+          "topicality": 0.0011464105
+        }
+      ]
+    }
+  ]
+}

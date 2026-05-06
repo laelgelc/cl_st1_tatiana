@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.70438254,
+          "topicality": 0.0038435443
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.6641528,
+          "topicality": 0.0026671086
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6401667,
+          "topicality": 0.009878801
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.5539307,
+          "topicality": 0.0858549
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.50704694,
+          "topicality": 0.026075326
+        }
+      ]
+    }
+  ]
+}

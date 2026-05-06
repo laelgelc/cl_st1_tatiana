@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8098816,
+          "topicality": 0.0031300795
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7274679,
+          "topicality": 0.008987885
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6053925,
+          "topicality": 0.013627563
+        },
+        {
+          "mid": "/m/06z37_",
+          "description": "Picture frame",
+          "score": 0.5617237,
+          "topicality": 0.00074710196
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5020393,
+          "topicality": 0.024300152
+        }
+      ]
+    }
+  ]
+}

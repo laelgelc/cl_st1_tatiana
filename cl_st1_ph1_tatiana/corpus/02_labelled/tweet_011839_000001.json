@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.9003756,
+          "topicality": 0.40364695
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.850869,
+          "topicality": 0.0033530386
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.8299071,
+          "topicality": 0.027937617
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.81226975,
+          "topicality": 0.04122517
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.75421476,
+          "topicality": 0.0027732535
+        },
+        {
+          "mid": "/m/0y09",
+          "description": "Analgesic",
+          "score": 0.6098015,
+          "topicality": 0.2082168
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.55195284,
+          "topicality": 0.0004546431
+        },
+        {
+          "mid": "/m/0hk26",
+          "description": "Stimulant",
+          "score": 0.54270685,
+          "topicality": 0.11772872
+        }
+      ]
+    }
+  ]
+}

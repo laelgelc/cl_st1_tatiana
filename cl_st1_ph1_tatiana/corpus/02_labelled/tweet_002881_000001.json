@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01t2ln",
+          "description": "Police officer",
+          "score": 0.7955447,
+          "topicality": 0.18112215
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.7951765,
+          "topicality": 0.07415825
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.7829589,
+          "topicality": 0.021988587
+        },
+        {
+          "mid": "/m/05ws7",
+          "description": "Police",
+          "score": 0.7759322,
+          "topicality": 0.35878846
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7462908,
+          "topicality": 0.0042256606
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.5706624,
+          "topicality": 0.0022989018
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.52808076,
+          "topicality": 0.0015331694
+        },
+        {
+          "mid": "/m/012qcd",
+          "description": "SWAT",
+          "score": 0.51171446,
+          "topicality": 0.1333262
+        }
+      ]
+    }
+  ]
+}

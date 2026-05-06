@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.87269634,
+          "topicality": 0.011135071
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7133576,
+          "topicality": 0.004133404
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.6792884,
+          "topicality": 0.021401994
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5813453,
+          "topicality": 0.24027705
+        },
+        {
+          "mid": "/m/0gjxqj",
+          "description": "Bangs",
+          "score": 0.5789568,
+          "topicality": 0.01142942
+        }
+      ]
+    }
+  ]
+}

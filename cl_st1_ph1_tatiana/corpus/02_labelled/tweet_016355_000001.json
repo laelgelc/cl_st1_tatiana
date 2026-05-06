@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7744207,
+          "topicality": 0.049512796
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.60589296,
+          "topicality": 0.0008170401
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.54886746,
+          "topicality": 0.04002001
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5110821,
+          "topicality": 0.0015606114
+        }
+      ]
+    }
+  ]
+}

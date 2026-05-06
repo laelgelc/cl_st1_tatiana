@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9753298,
+          "topicality": 0.022549162
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.97007865,
+          "topicality": 0.0020955394
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.92745763,
+          "topicality": 0.0014297232
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9164213,
+          "topicality": 0.004014208
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8677085,
+          "topicality": 0.0009429928
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7423747,
+          "topicality": 0.00021367695
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.69542944,
+          "topicality": 0.019514017
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.6659015,
+          "topicality": 0.010824633
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6497127,
+          "topicality": 0.0009862642
+        },
+        {
+          "mid": "/m/031n1",
+          "description": "Foot",
+          "score": 0.57624793,
+          "topicality": 0.01085574
+        },
+        {
+          "mid": "/m/01p2q5",
+          "description": "Bandage",
+          "score": 0.5732246,
+          "topicality": 0.03372424
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5338893,
+          "topicality": 0.00015290242
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.53069985,
+          "topicality": 0.0009500169
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.5069666,
+          "topicality": 0.010583022
+        }
+      ]
+    }
+  ]
+}

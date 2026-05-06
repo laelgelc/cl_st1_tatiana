@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94473654,
+          "topicality": 0.0019340217
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.91572666,
+          "topicality": 0.0027098858
+        },
+        {
+          "mid": "/m/03qc9zr",
+          "description": "Screaming",
+          "score": 0.74969405,
+          "topicality": 0.0052432287
+        },
+        {
+          "mid": "/m/0fjkt",
+          "description": "Tongue",
+          "score": 0.5776198,
+          "topicality": 0.008758127
+        }
+      ]
+    }
+  ]
+}

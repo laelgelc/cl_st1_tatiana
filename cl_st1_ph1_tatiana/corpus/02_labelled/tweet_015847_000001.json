@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.83112335,
+          "topicality": 0.038849097
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.6185239,
+          "topicality": 0.02532089
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.61664265,
+          "topicality": 0.0039745383
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.604582,
+          "topicality": 0.0008018144
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.57147115,
+          "topicality": 0.0012434343
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.5495005,
+          "topicality": 0.00073561375
+        }
+      ]
+    }
+  ]
+}

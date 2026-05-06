@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94478893,
+          "topicality": 0.00078309275
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9295479,
+          "topicality": 0.0018327488
+        },
+        {
+          "mid": "/m/01b92",
+          "description": "Bone",
+          "score": 0.9092679,
+          "topicality": 0.0028002255
+        },
+        {
+          "mid": "/m/038_l",
+          "description": "Ghost",
+          "score": 0.790899,
+          "topicality": 0.1570034
+        },
+        {
+          "mid": "/m/016m2d",
+          "description": "Skull",
+          "score": 0.74792075,
+          "topicality": 0.003500583
+        },
+        {
+          "mid": "/m/06w6h",
+          "description": "Skeleton",
+          "score": 0.63090134,
+          "topicality": 0.011911384
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.6066716,
+          "topicality": 0.00014146019
+        },
+        {
+          "mid": "/g/1196b301f",
+          "description": "Supernatural creature",
+          "score": 0.51548433,
+          "topicality": 5.8196507e-05
+        }
+      ]
+    }
+  ]
+}

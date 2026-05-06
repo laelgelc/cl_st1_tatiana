@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98836595,
+          "topicality": 0.002743338
+        },
+        {
+          "mid": "/m/06npx",
+          "description": "Sea",
+          "score": 0.89890206,
+          "topicality": 0.104936354
+        },
+        {
+          "mid": "/m/05kq4",
+          "description": "Ocean",
+          "score": 0.8805997,
+          "topicality": 0.070828944
+        },
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.6464992,
+          "topicality": 0.0019163258
+        },
+        {
+          "mid": "/m/034srq",
+          "description": "Wind wave",
+          "score": 0.58763236,
+          "topicality": 0.0023065098
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5712296,
+          "topicality": 0.0048701223
+        },
+        {
+          "mid": "/m/02p0sll",
+          "description": "Wave",
+          "score": 0.56164503,
+          "topicality": 0.0048311283
+        }
+      ]
+    }
+  ]
+}

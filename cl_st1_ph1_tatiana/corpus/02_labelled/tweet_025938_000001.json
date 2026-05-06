@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8440417,
+          "topicality": 0.020107694
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.76343715,
+          "topicality": 0.017000712
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.69809204,
+          "topicality": 0.11383039
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.59037197,
+          "topicality": 0.0017534324
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.58552057,
+          "topicality": 0.0032041685
+        }
+      ]
+    }
+  ]
+}

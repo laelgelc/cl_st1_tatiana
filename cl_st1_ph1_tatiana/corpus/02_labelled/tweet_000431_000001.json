@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8ls87",
+          "description": "Automotive Exterior",
+          "score": 0.95297146,
+          "topicality": 0.00024899002
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.9027306,
+          "topicality": 0.019358529
+        },
+        {
+          "mid": "/m/01lrnl",
+          "description": "Windshield",
+          "score": 0.8738916,
+          "topicality": 0.024921373
+        },
+        {
+          "mid": "/m/02417f",
+          "description": "Windscreen wiper",
+          "score": 0.7579576,
+          "topicality": 0.0006158653
+        },
+        {
+          "mid": "/m/02df64",
+          "description": "Hood",
+          "score": 0.7525592,
+          "topicality": 0.002691587
+        },
+        {
+          "mid": "/m/039jq",
+          "description": "Glass",
+          "score": 0.74849,
+          "topicality": 0.004368712
+        },
+        {
+          "mid": "/m/0h8n616",
+          "description": "Automotive Side-View Mirror",
+          "score": 0.6767447,
+          "topicality": 4.0013783e-05
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.62816393,
+          "topicality": 0.0018433798
+        },
+        {
+          "mid": "/m/0h8nz9n",
+          "description": "Automotive Care",
+          "score": 0.58512324,
+          "topicality": 0.0007506828
+        },
+        {
+          "mid": "/m/05j11x",
+          "description": "Rear-view mirror",
+          "score": 0.56318355,
+          "topicality": 0.00021540569
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.54808146,
+          "topicality": 0.026954012
+        }
+      ]
+    }
+  ]
+}

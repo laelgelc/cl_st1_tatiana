@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.97329503,
+          "topicality": 0.0050390544
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.96436024,
+          "topicality": 0.43567023
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.920081,
+          "topicality": 0.00077309593
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.89466876,
+          "topicality": 0.0015289221
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.83188224,
+          "topicality": 0.3563007
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7594993,
+          "topicality": 0.100382954
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.7482528,
+          "topicality": 0.03951978
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.6880186,
+          "topicality": 0.0011967408
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.6822553,
+          "topicality": 5.0895604e-05
+        }
+      ]
+    }
+  ]
+}

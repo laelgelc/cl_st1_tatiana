@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.80519617,
+          "topicality": 0.0067609437
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.73133737,
+          "topicality": 0.026179647
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6895528,
+          "topicality": 0.22317345
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6852053,
+          "topicality": 0.0016101482
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.67988765,
+          "topicality": 0.0018981682
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.6462291,
+          "topicality": 0.0020293924
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.63176113,
+          "topicality": 0.011904589
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.61937946,
+          "topicality": 0.00031406106
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.6133085,
+          "topicality": 1.2868176e-05
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5907521,
+          "topicality": 2.09151e-06
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5791093,
+          "topicality": 0.123444416
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5765183,
+          "topicality": 0.024414683
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.55316323,
+          "topicality": 0.0006062176
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.55198866,
+          "topicality": 0.09394042
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5519166,
+          "topicality": 0.027171517
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.54818964,
+          "topicality": 0.040236607
+        }
+      ]
+    }
+  ]
+}

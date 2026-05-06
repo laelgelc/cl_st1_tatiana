@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7730617,
+          "topicality": 0.04817375
+        },
+        {
+          "mid": "/m/05hsx3",
+          "description": "Glucose meter",
+          "score": 0.7355667,
+          "topicality": 0.21429831
+        },
+        {
+          "mid": "/m/056hv",
+          "description": "Measuring instrument",
+          "score": 0.56396747,
+          "topicality": 0.022970697
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5297581,
+          "topicality": 0.03827297
+        }
+      ]
+    }
+  ]
+}

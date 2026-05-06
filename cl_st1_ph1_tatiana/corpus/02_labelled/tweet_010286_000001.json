@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.84770006,
+          "topicality": 0.0031773907
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7852356,
+          "topicality": 0.009493794
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.62202376,
+          "topicality": 0.107787736
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5234183,
+          "topicality": 0.0038438435
+        }
+      ]
+    }
+  ]
+}

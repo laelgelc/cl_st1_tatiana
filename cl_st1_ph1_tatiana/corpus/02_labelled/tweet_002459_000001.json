@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99436736,
+          "topicality": 0.11263912
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.95752907,
+          "topicality": 0.3322577
+        },
+        {
+          "mid": "/m/01qls",
+          "description": "Community",
+          "score": 0.9342435,
+          "topicality": 0.026997624
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.85230607,
+          "topicality": 0.30511346
+        }
+      ]
+    }
+  ]
+}

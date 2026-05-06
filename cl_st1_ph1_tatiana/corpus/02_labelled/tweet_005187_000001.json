@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.98854727,
+          "topicality": 0.0062807864
+        },
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.98563963,
+          "topicality": 0.06372046
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9747215,
+          "topicality": 0.030494094
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.9562132,
+          "topicality": 0.0067219906
+        },
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.95495987,
+          "topicality": 0.009015086
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9341255,
+          "topicality": 0.0015954025
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.9188313,
+          "topicality": 0.010570193
+        },
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.9143034,
+          "topicality": 0.009498525
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6805169,
+          "topicality": 0.29835114
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.54942346,
+          "topicality": 5.7662262e-05
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5160211,
+          "topicality": 0.119764104
+        }
+      ]
+    }
+  ]
+}

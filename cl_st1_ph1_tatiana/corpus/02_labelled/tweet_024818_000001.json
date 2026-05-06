@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.97622514,
+          "topicality": 0.03784768
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.974747,
+          "topicality": 0.5346092
+        },
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95272565,
+          "topicality": 0.0031396833
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9398505,
+          "topicality": 0.004235099
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9163922,
+          "topicality": 0.006321849
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8621045,
+          "topicality": 0.013895529
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.85428596,
+          "topicality": 0.0048776204
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.69861287,
+          "topicality": 0.0013721603
+        },
+        {
+          "mid": "/m/0dzb2",
+          "description": "Vein",
+          "score": 0.61294323,
+          "topicality": 0.010283096
+        },
+        {
+          "mid": "/m/0gzznm",
+          "description": "Powder",
+          "score": 0.60029846,
+          "topicality": 0.0004965847
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.59842247,
+          "topicality": 0.00075039366
+        }
+      ]
+    }
+  ]
+}

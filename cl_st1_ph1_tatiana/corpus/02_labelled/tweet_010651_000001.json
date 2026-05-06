@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9811171,
+          "topicality": 0.0013017518
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.9235113,
+          "topicality": 0.046431813
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8784444,
+          "topicality": 0.0019127441
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.73532534,
+          "topicality": 0.18038501
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.72194654,
+          "topicality": 0.0058718864
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.63700354,
+          "topicality": 0.00045695473
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.63555956,
+          "topicality": 0.0001547473
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.51243705,
+          "topicality": 0.021407815
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.9651246,
+          "topicality": 0.0027496526
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.78097844,
+          "topicality": 0.03591837
+        },
+        {
+          "mid": "/m/0bg0t",
+          "description": "Schematic",
+          "score": 0.6538083,
+          "topicality": 0.0385942
+        },
+        {
+          "mid": "/m/0f9tj",
+          "description": "Technical drawing",
+          "score": 0.54634005,
+          "topicality": 0.08622165
+        },
+        {
+          "mid": "/m/018jrr",
+          "description": "Plan",
+          "score": 0.50773907,
+          "topicality": 0.27616045
+        }
+      ]
+    }
+  ]
+}

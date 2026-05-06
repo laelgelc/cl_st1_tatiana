@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73709834,
+          "topicality": 0.015131248
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6097342,
+          "topicality": 0.0035652132
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6047902,
+          "topicality": 0.037472527
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5912736,
+          "topicality": 0.010924829
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.53013605,
+          "topicality": 0.011897309
+        },
+        {
+          "mid": "/m/01c648",
+          "description": "Laptop",
+          "score": 0.52624375,
+          "topicality": 0.013683439
+        }
+      ]
+    }
+  ]
+}

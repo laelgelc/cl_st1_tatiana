@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9937209,
+          "topicality": 0.00064265117
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9855935,
+          "topicality": 0.0043428317
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.98085326,
+          "topicality": 0.00021278748
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7122789,
+          "topicality": 0.020478837
+        }
+      ]
+    }
+  ]
+}

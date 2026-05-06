@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0199g",
+          "description": "Bicycle",
+          "score": 0.72468543,
+          "topicality": 0.24154377
+        },
+        {
+          "mid": "/m/0bpnmk0",
+          "description": "Bicycles--Equipment and supplies",
+          "score": 0.6406582,
+          "topicality": 0.00054749846
+        },
+        {
+          "mid": "/m/0c3vfpc",
+          "description": "Bicycle tire",
+          "score": 0.6215502,
+          "topicality": 4.333138e-05
+        },
+        {
+          "mid": "/m/03hs7k",
+          "description": "Cycling",
+          "score": 0.58369523,
+          "topicality": 0.0277056
+        },
+        {
+          "mid": "/m/01bqk0",
+          "description": "Bicycle wheel",
+          "score": 0.5798711,
+          "topicality": 0.0012213283
+        },
+        {
+          "mid": "/m/01sgl",
+          "description": "Cycling",
+          "score": 0.5522247,
+          "topicality": 0.19689308
+        }
+      ]
+    }
+  ]
+}

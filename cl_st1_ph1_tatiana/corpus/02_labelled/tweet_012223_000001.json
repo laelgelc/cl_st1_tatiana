@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.92370677,
+          "topicality": 0.00021058969
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9071215,
+          "topicality": 0.0022672522
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.8895298,
+          "topicality": 0.00055535696
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8887674,
+          "topicality": 0.001024119
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8805077,
+          "topicality": 1.3115583e-05
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8288496,
+          "topicality": 0.0007197228
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.74685603,
+          "topicality": 0.011521806
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7406111,
+          "topicality": 0.0008411481
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.69293594,
+          "topicality": 0.09067362
+        }
+      ]
+    }
+  ]
+}

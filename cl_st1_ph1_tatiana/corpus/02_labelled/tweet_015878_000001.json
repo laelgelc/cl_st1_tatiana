@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03154",
+          "description": "Fungus",
+          "score": 0.6655627,
+          "topicality": 0.03057416
+        },
+        {
+          "mid": "/m/03rbf6",
+          "description": "Macro photography",
+          "score": 0.6349409,
+          "topicality": 0.024900269
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5508766,
+          "topicality": 0.08555079
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.5213201,
+          "topicality": 0.0013501676
+        },
+        {
+          "mid": "/m/0cnq0",
+          "description": "Pollen",
+          "score": 0.51686865,
+          "topicality": 0.05891969
+        }
+      ]
+    }
+  ]
+}

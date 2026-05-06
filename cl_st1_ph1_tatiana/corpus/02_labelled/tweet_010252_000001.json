@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.90433395,
+          "topicality": 0.0013179728
+        },
+        {
+          "mid": "/m/02_n6y",
+          "description": "Goggles",
+          "score": 0.65527403,
+          "topicality": 0.00042284632
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6449413,
+          "topicality": 0.00045197454
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.50193614,
+          "topicality": 0.00016878158
+        }
+      ]
+    }
+  ]
+}

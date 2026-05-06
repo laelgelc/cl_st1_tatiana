@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.9815963,
+          "topicality": 0.08221608
+        },
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.98067605,
+          "topicality": 0.013439117
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9646263,
+          "topicality": 0.027663026
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.95684785,
+          "topicality": 0.035843
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9161491,
+          "topicality": 0.013090254
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.90018713,
+          "topicality": 0.014136686
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.8933611,
+          "topicality": 0.0004251774
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8047696,
+          "topicality": 0.0067474
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.785592,
+          "topicality": 0.017998267
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.7751113,
+          "topicality": 0.011752559
+        },
+        {
+          "mid": "/m/0dzdr",
+          "description": "Thorax",
+          "score": 0.75039995,
+          "topicality": 0.008836191
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.54484516,
+          "topicality": 0.010516042
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.5275084,
+          "topicality": 0.001971797
+        }
+      ]
+    }
+  ]
+}

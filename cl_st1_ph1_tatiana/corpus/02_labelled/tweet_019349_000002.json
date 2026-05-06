@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.91044426,
+          "topicality": 0.0051296526
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.90878105,
+          "topicality": 0.0007156322
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.79867357,
+          "topicality": 0.0003131742
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7697012,
+          "topicality": 0.009701117
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7448966,
+          "topicality": 0.0007397328
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7314726,
+          "topicality": 0.0013479255
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6065584,
+          "topicality": 0.00063981453
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5998215,
+          "topicality": 0.045298535
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.5441794,
+          "topicality": 0.008318537
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5059459,
+          "topicality": 0.008570646
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.5033474,
+          "topicality": 0.0068173986
+        }
+      ]
+    }
+  ]
+}

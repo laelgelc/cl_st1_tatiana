@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73810416,
+          "topicality": 0.00042394036
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.734542,
+          "topicality": 0.0014410072
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.55597305,
+          "topicality": 0.001244701
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.5519932,
+          "topicality": 5.158998e-05
+        }
+      ]
+    }
+  ]
+}

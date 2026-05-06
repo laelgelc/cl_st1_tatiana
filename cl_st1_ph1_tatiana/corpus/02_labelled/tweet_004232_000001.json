@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8544007,
+          "topicality": 0.0011017559
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7691635,
+          "topicality": 0.05997267
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.76765025,
+          "topicality": 0.07897062
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7362102,
+          "topicality": 0.0008461915
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.59600496,
+          "topicality": 0.00053057994
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5488912,
+          "topicality": 0.0011252718
+        },
+        {
+          "mid": "/m/04hyxm",
+          "description": "Classroom",
+          "score": 0.5068443,
+          "topicality": 0.0019249107
+        }
+      ]
+    }
+  ]
+}

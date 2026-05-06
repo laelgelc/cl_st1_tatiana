@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8636234,
+          "topicality": 0.014437853
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.59708226,
+          "topicality": 0.0039191977
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.5849234,
+          "topicality": 0.000207087
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5287597,
+          "topicality": 0.0037659805
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5170596,
+          "topicality": 0.005537503
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5059357,
+          "topicality": 0.0014821317
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5051395,
+          "topicality": 0.00070226024
+        }
+      ]
+    }
+  ]
+}

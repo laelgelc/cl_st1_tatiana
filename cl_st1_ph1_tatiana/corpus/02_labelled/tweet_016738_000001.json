@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447445,
+          "topicality": 0.00024056877
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.90120995,
+          "topicality": 0.00062592624
+        },
+        {
+          "mid": "/m/01kr8f",
+          "description": "Illustration",
+          "score": 0.7834318,
+          "topicality": 0.10017782
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.63893735,
+          "topicality": 0.0040746564
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.6163082,
+          "topicality": 0.0009631284
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.55831546,
+          "topicality": 0.0018753044
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5315536,
+          "topicality": 0.001953255
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.51754767,
+          "topicality": 0.003260673
+        }
+      ]
+    }
+  ]
+}

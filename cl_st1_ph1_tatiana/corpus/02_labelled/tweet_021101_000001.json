@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.95682913,
+          "topicality": 0.10452612
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9151642,
+          "topicality": 0.0014757552
+        },
+        {
+          "mid": "/m/0w7s",
+          "description": "Aerospace Engineering",
+          "score": 0.7706771,
+          "topicality": 0.011691993
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.59148246,
+          "topicality": 0.0005260598
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5857164,
+          "topicality": 0.030371891
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5590958,
+          "topicality": 0.0007717324
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.55620944,
+          "topicality": 0.012340235
+        }
+      ]
+    }
+  ]
+}

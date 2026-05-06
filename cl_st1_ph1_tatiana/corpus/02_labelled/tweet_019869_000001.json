@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8367876,
+          "topicality": 0.005491959
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.65115964,
+          "topicality": 0.0052728085
+        },
+        {
+          "mid": "/m/02_784",
+          "description": "Display advertising",
+          "score": 0.57412416,
+          "topicality": 0.00027733704
+        },
+        {
+          "mid": "/m/05b1rx",
+          "description": "Online advertising",
+          "score": 0.51293755,
+          "topicality": 0.0050173774
+        }
+      ]
+    }
+  ]
+}

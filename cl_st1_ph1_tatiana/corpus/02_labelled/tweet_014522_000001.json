@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.83333296,
+          "topicality": 0.0057337545
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.74294406,
+          "topicality": 0.053985197
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6091133,
+          "topicality": 0.01342106
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.60433036,
+          "topicality": 0.013796978
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5225969,
+          "topicality": 0.0023768253
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8031287,
+          "topicality": 0.0015193
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.53890455,
+          "topicality": 0.0009347306
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.52997655,
+          "topicality": 4.4033204e-05
+        }
+      ]
+    }
+  ]
+}

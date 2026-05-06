@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9640347,
+          "topicality": 0.0026541355
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.84949124,
+          "topicality": 0.00068199163
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8342553,
+          "topicality": 0.068084896
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8331648,
+          "topicality": 0.00023184443
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8152718,
+          "topicality": 0.001399954
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.76507705,
+          "topicality": 0.00023306183
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.68804955,
+          "topicality": 0.09820006
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5270133,
+          "topicality": 0.020702094
+        }
+      ]
+    }
+  ]
+}

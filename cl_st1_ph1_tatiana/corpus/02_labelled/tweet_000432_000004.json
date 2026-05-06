@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.94424504,
+          "topicality": 0.013653482
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.89212537,
+          "topicality": 0.2012592
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8559181,
+          "topicality": 0.06928587
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7888905,
+          "topicality": 0.048586026
+        },
+        {
+          "mid": "/m/01lwf0",
+          "description": "Alley",
+          "score": 0.7367955,
+          "topicality": 0.024219308
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.6487265,
+          "topicality": 0.007910734
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6117189,
+          "topicality": 0.0032389727
+        },
+        {
+          "mid": "/m/083kv",
+          "description": "Wire",
+          "score": 0.5191623,
+          "topicality": 0.00013102758
+        }
+      ]
+    }
+  ]
+}

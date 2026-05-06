@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.81161225,
+          "topicality": 0.0033986385
+        },
+        {
+          "mid": "/m/01lrnl",
+          "description": "Windshield",
+          "score": 0.7584951,
+          "topicality": 0.024010679
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.73759466,
+          "topicality": 0.21518183
+        },
+        {
+          "mid": "/m/0h8n616",
+          "description": "Automotive Side-View Mirror",
+          "score": 0.69488347,
+          "topicality": 7.2846145e-05
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.6251206,
+          "topicality": 0.0019968494
+        },
+        {
+          "mid": "/m/05j11x",
+          "description": "Rear-view mirror",
+          "score": 0.60387784,
+          "topicality": 0.0006044213
+        }
+      ]
+    }
+  ]
+}

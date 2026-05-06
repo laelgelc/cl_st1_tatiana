@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98882794,
+          "topicality": 0.018912973
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.8945114,
+          "topicality": 0.00060979906
+        },
+        {
+          "mid": "/m/050vn",
+          "description": "Marine biology",
+          "score": 0.73987776,
+          "topicality": 0.0202222
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.61946285,
+          "topicality": 0.0013923241
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.59390724,
+          "topicality": 0.022863032
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.52211934,
+          "topicality": 0.0003556264
+        }
+      ]
+    }
+  ]
+}

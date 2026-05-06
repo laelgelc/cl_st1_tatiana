@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02csf",
+          "description": "Drawing",
+          "score": 0.8391013,
+          "topicality": 0.069966376
+        },
+        {
+          "mid": "/m/01kr8f",
+          "description": "Illustration",
+          "score": 0.8009634,
+          "topicality": 0.06169457
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5834405,
+          "topicality": 0.006227932
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.5608309,
+          "topicality": 0.00080986
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.5169567,
+          "topicality": 0.00024337601
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5087405,
+          "topicality": 0.031420972
+        }
+      ]
+    }
+  ]
+}

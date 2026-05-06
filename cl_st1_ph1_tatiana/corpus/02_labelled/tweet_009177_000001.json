@@ -1,0 +1,43 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.9602791,
+          "topicality": 0.00044298728
+        },
+        {
+          "mid": "/m/02wzbmj",
+          "description": "Standing",
+          "score": 0.9542566
+        },
+        {
+          "mid": "/m/01mxf",
+          "description": "Concrete",
+          "score": 0.79986805,
+          "topicality": 0.0012905612
+        },
+        {
+          "mid": "/m/01lwf0",
+          "description": "Alley",
+          "score": 0.7448196,
+          "topicality": 0.018573804
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.59916806,
+          "topicality": 0.022254355
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.54919213,
+          "topicality": 0.006727659
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.94041926,
+          "topicality": 0.0721877
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8963432,
+          "topicality": 0.01370379
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8428105,
+          "topicality": 0.00056172506
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.81178766,
+          "topicality": 0.010691471
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7343678,
+          "topicality": 0.0004781749
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.71858233,
+          "topicality": 0.01254825
+        },
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.6176931,
+          "topicality": 0.41081196
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5830866,
+          "topicality": 0.05263105
+        }
+      ]
+    }
+  ]
+}

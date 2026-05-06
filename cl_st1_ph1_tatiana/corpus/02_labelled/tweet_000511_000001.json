@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.8247264,
+          "topicality": 0.025153132
+        },
+        {
+          "mid": "/m/03154",
+          "description": "Fungus",
+          "score": 0.8085073,
+          "topicality": 0.044980917
+        },
+        {
+          "mid": "/m/03rbf6",
+          "description": "Macro photography",
+          "score": 0.5865947,
+          "topicality": 0.01939685
+        },
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.58515584,
+          "topicality": 0.17752686
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5755697,
+          "topicality": 0.049592983
+        }
+      ]
+    }
+  ]
+}

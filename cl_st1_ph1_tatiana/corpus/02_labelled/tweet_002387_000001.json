@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.79712385,
+          "topicality": 0.0035053387
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.64654714,
+          "topicality": 0.0010510295
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.54329634,
+          "topicality": 0.0073924446
+        }
+      ]
+    }
+  ]
+}

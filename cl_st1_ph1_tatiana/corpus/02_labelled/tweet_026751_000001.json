@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.98708695,
+          "topicality": 0.0014785597
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9778582,
+          "topicality": 0.00074732
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.9624235,
+          "topicality": 0.03694213
+        },
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.9536777,
+          "topicality": 0.0012990659
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.94629633,
+          "topicality": 0.81595427
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.9451437,
+          "topicality": 0.05024203
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.8079004,
+          "topicality": 0.00077078945
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.80292094,
+          "topicality": 0.004730139
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.80237776,
+          "topicality": 0.006042436
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.78907675,
+          "topicality": 5.7671776e-05
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.787809,
+          "topicality": 0.0011545395
+        },
+        {
+          "mid": "/m/028mzr",
+          "description": "Hair coloring",
+          "score": 0.66587204,
+          "topicality": 5.0674855e-05
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6241324,
+          "topicality": 0.015779568
+        },
+        {
+          "mid": "/m/07mbq",
+          "description": "Tabloid",
+          "score": 0.5932705,
+          "topicality": 0.07042085
+        }
+      ]
+    }
+  ]
+}

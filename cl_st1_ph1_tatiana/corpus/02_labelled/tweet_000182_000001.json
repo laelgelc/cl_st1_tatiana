@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9843214,
+          "topicality": 0.00015310387
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9792595,
+          "topicality": 0.0021496217
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9680217,
+          "topicality": 5.6630146e-05
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.6210376,
+          "topicality": 0.0024799386
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.54795533,
+          "topicality": 0.0053364597
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.5302609,
+          "topicality": 0.00026389066
+        }
+      ]
+    }
+  ]
+}

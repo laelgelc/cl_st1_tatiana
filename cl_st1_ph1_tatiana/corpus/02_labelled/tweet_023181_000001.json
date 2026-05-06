@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.83593374,
+          "topicality": 0.010325436
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.55807436,
+          "topicality": 0.006389157
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5358335,
+          "topicality": 0.00071911054
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51717216,
+          "topicality": 0.024035785
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9312826,
+          "topicality": 0.0031819025
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.8629683,
+          "topicality": 0.0048813922
+        },
+        {
+          "mid": "/m/04hyxm",
+          "description": "Classroom",
+          "score": 0.64562964,
+          "topicality": 0.010432297
+        },
+        {
+          "mid": "/m/0191f8",
+          "description": "Learning",
+          "score": 0.60970396,
+          "topicality": 0.01963727
+        },
+        {
+          "mid": "/m/014jg3",
+          "description": "Training",
+          "score": 0.5570319,
+          "topicality": 0.0058432724
+        },
+        {
+          "mid": "/m/014cnc",
+          "description": "Student",
+          "score": 0.54787385,
+          "topicality": 0.062438495
+        },
+        {
+          "mid": "/m/07hs4p",
+          "description": "Course",
+          "score": 0.5263394,
+          "topicality": 0.05987905
+        }
+      ]
+    }
+  ]
+}

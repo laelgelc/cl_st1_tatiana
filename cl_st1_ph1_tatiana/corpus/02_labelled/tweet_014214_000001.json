@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02nfxt",
+          "description": "Residential area",
+          "score": 0.9305395,
+          "topicality": 0.04756956
+        },
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.90013456,
+          "topicality": 0.06829669
+        },
+        {
+          "mid": "/m/0fpdgl",
+          "description": "Human settlement",
+          "score": 0.8852115,
+          "topicality": 0.0032897443
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8523591,
+          "topicality": 0.06711506
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.8365849,
+          "topicality": 0.12852664
+        },
+        {
+          "mid": "/m/0c1vxg",
+          "description": "Mixed-use",
+          "score": 0.79903644,
+          "topicality": 0.00458093
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7510795,
+          "topicality": 0.03290148
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.6951847,
+          "topicality": 0.0018156897
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6155062,
+          "topicality": 0.031581108
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5452224,
+          "topicality": 0.006414465
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.5389088,
+          "topicality": 0.02617377
+        }
+      ]
+    }
+  ]
+}

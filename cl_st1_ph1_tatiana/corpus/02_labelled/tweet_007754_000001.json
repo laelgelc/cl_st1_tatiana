@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.8406602,
+          "topicality": 0.5372477
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8201835,
+          "topicality": 0.0010167375
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.594738,
+          "topicality": 0.012430285
+        },
+        {
+          "mid": "/m/03gg9",
+          "description": "Human anatomy",
+          "score": 0.5881535,
+          "topicality": 0.029742824
+        },
+        {
+          "mid": "/m/01j3br",
+          "description": "Medical imaging",
+          "score": 0.5633368,
+          "topicality": 0.016529053
+        }
+      ]
+    }
+  ]
+}

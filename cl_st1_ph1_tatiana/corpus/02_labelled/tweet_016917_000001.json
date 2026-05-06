@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.91595197,
+          "topicality": 0.052979082
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.81636816,
+          "topicality": 0.0030751824
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.66128975,
+          "topicality": 0.011856979
+        },
+        {
+          "mid": "/m/0cjkt",
+          "description": "Father's Day",
+          "score": 0.62891096,
+          "topicality": 0.40858737
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.6091658,
+          "topicality": 0.025628325
+        },
+        {
+          "mid": "/m/0cjjt",
+          "description": "Mother's Day",
+          "score": 0.50937456,
+          "topicality": 0.05544181
+        }
+      ]
+    }
+  ]
+}

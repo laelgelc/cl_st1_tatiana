@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.98767203,
+          "topicality": 0.00047527763
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.98538136,
+          "topicality": 0.0049300967
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.97282314,
+          "topicality": 0.00031566733
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.79941237,
+          "topicality": 0.0012038138
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7545446,
+          "topicality": 0.0015096038
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5965053,
+          "topicality": 0.01144159
+        }
+      ]
+    }
+  ]
+}

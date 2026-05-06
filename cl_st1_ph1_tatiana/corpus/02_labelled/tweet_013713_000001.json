@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9699912,
+          "topicality": 0.02187402
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.87842023,
+          "topicality": 0.0032410629
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.87143725,
+          "topicality": 0.0020668458
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8509028,
+          "topicality": 0.0057635466
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7696021,
+          "topicality": 0.00478642
+        },
+        {
+          "mid": "/m/04gvstg",
+          "description": "Tobacco products",
+          "score": 0.6698076,
+          "topicality": 0.017842526
+        },
+        {
+          "mid": "/m/09k76",
+          "description": "Cigarette",
+          "score": 0.5595548,
+          "topicality": 0.07334757
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5402847,
+          "topicality": 0.00019856797
+        },
+        {
+          "mid": "/m/07ly_",
+          "description": "Tobacco",
+          "score": 0.5276136,
+          "topicality": 0.022906188
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5131582,
+          "topicality": 0.013679927
+        }
+      ]
+    }
+  ]
+}

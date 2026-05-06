@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k0mv",
+          "description": "Road surface",
+          "score": 0.97500914,
+          "topicality": 0.040323634
+        },
+        {
+          "mid": "/m/06gfj",
+          "description": "Road",
+          "score": 0.9601066,
+          "topicality": 0.13763653
+        },
+        {
+          "mid": "/m/0hr8",
+          "description": "Asphalt",
+          "score": 0.95520765,
+          "topicality": 0.026327202
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.93707204,
+          "topicality": 0.0062636286
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.93099385,
+          "topicality": 0.11802598
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.92501277,
+          "topicality": 0.18375918
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9208398,
+          "topicality": 0.13874875
+        },
+        {
+          "mid": "/m/033j3c",
+          "description": "Lane",
+          "score": 0.8834755,
+          "topicality": 0.029654978
+        },
+        {
+          "mid": "/m/01mxf",
+          "description": "Concrete",
+          "score": 0.826112,
+          "topicality": 0.0035387904
+        },
+        {
+          "mid": "/m/05by2s",
+          "description": "Tar",
+          "score": 0.8229671,
+          "topicality": 0.02759217
+        },
+        {
+          "mid": "/m/0hgr6",
+          "description": "Denim",
+          "score": 0.7619206,
+          "topicality": 5.26472e-06
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.72849315,
+          "topicality": 0.026902528
+        },
+        {
+          "mid": "/m/05y4t",
+          "description": "Paint",
+          "score": 0.63676363,
+          "topicality": 0.00036055097
+        },
+        {
+          "mid": "/m/0hgs9bq",
+          "description": "Walking Shoe",
+          "score": 0.56762147,
+          "topicality": 5.6329114e-05
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.53254604,
+          "topicality": 0.042243067
+        },
+        {
+          "mid": "/m/02zh30",
+          "description": "Path",
+          "score": 0.5043995,
+          "topicality": 0.00010708459
+        }
+      ]
+    }
+  ]
+}

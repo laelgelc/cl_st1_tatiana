@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.87055486,
+          "topicality": 0.007959921
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.7649074,
+          "topicality": 0.021741731
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7580758,
+          "topicality": 0.0033729607
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.59007317,
+          "topicality": 0.0006140018
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.58187,
+          "topicality": 0.0137569485
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5427058,
+          "topicality": 0.0022565254
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5335659,
+          "topicality": 0.07132164
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.51991826,
+          "topicality": 0.00022988053
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.51873237,
+          "topicality": 0.008082059
+        }
+      ]
+    }
+  ]
+}

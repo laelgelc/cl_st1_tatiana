@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9790283,
+          "topicality": 0.051354915
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97572273,
+          "topicality": 0.24126135
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.94432694,
+          "topicality": 0.0060640196
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9158321,
+          "topicality": 0.008522621
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.89626056,
+          "topicality": 0.020894416
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.84313136,
+          "topicality": 0.00097149983
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.68720996,
+          "topicality": 0.0002669017
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6130665,
+          "topicality": 0.004386793
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.60318863,
+          "topicality": 0.00015607757
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.58398664,
+          "topicality": 0.021193767
+        }
+      ]
+    }
+  ]
+}

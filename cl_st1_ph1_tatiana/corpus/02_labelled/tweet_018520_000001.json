@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02d46y",
+          "description": "Cap",
+          "score": 0.85155493,
+          "topicality": 0.00028111754
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.6772419,
+          "topicality": 9.845074e-05
+        },
+        {
+          "mid": "/m/03gt5g4",
+          "description": "Cricket cap",
+          "score": 0.5729739,
+          "topicality": 2.2225146e-05
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.5206339,
+          "topicality": 0.03136086
+        }
+      ]
+    }
+  ]
+}

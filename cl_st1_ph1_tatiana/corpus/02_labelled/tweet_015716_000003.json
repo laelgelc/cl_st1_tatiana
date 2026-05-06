@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9421036,
+          "topicality": 0.13978133
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.9325171,
+          "topicality": 0.21721332
+        },
+        {
+          "mid": "/m/08863x",
+          "description": "Bird's-eye view",
+          "score": 0.87498134,
+          "topicality": 0.08643616
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.7248929,
+          "topicality": 0.0013921285
+        }
+      ]
+    }
+  ]
+}

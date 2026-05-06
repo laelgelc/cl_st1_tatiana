@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.8684112,
+          "topicality": 0.047525145
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.70863485,
+          "topicality": 0.043722495
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.67128056,
+          "topicality": 0.0021175097
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.5298574,
+          "topicality": 0.073365964
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.7758851,
+          "topicality": 0.008321363
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.756344,
+          "topicality": 0.00047851432
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6814621,
+          "topicality": 0.0051928544
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.67193365,
+          "topicality": 0.007256868
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6147011,
+          "topicality": 0.009908419
+        }
+      ]
+    }
+  ]
+}

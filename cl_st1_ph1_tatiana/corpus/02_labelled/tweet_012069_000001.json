@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.93417054,
+          "topicality": 0.09517135
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8745194,
+          "topicality": 0.10198214
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8633573,
+          "topicality": 0.0010209656
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.86022186,
+          "topicality": 0.005715575
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.84853935,
+          "topicality": 0.18914965
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.8187624,
+          "topicality": 0.09505602
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.77319175,
+          "topicality": 0.047474507
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.65422314,
+          "topicality": 0.0011972482
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6431733,
+          "topicality": 0.056897793
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.58792776,
+          "topicality": 0.009804344
+        },
+        {
+          "mid": "/m/0305b",
+          "description": "First aid",
+          "score": 0.5256668,
+          "topicality": 0.022743642
+        }
+      ]
+    }
+  ]
+}

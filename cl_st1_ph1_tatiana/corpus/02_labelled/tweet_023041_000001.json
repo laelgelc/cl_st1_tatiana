@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8563821,
+          "topicality": 0.06904147
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.74224037,
+          "topicality": 0.014534186
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.66333514,
+          "topicality": 0.018347356
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.57838035,
+          "topicality": 0.06383783
+        }
+      ]
+    }
+  ]
+}

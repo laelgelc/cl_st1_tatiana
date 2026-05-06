@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.8978541,
+          "topicality": 0.00043355368
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.7387799,
+          "topicality": 0.009325674
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.73494554,
+          "topicality": 0.037953544
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.72658885,
+          "topicality": 9.140521e-05
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6830867,
+          "topicality": 0.000213239
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.58851236,
+          "topicality": 0.19585119
+        },
+        {
+          "mid": "/m/09cjl",
+          "description": "Airport",
+          "score": 0.5041068,
+          "topicality": 0.64529324
+        }
+      ]
+    }
+  ]
+}

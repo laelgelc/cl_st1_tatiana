@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0987_ns",
+          "description": "Video Game Software",
+          "score": 0.6281491,
+          "topicality": 3.5378453e-05
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.569946,
+          "topicality": 0.009342402
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.51893795,
+          "topicality": 0.022770489
+        }
+      ]
+    }
+  ]
+}

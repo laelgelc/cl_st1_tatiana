@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.8996369,
+          "topicality": 0.003040372
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.8847695,
+          "topicality": 0.0020212643
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.84594166,
+          "topicality": 0.0039846348
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.60908514,
+          "topicality": 0.0040462515
+        },
+        {
+          "mid": "/m/0583b1",
+          "description": "Barricade",
+          "score": 0.56901234,
+          "topicality": 0.036151074
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.5596201,
+          "topicality": 0.0026559525
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.55936396,
+          "topicality": 0.013341664
+        },
+        {
+          "mid": "/m/0blz9",
+          "description": "Fence",
+          "score": 0.5187348,
+          "topicality": 0.0038735913
+        }
+      ]
+    }
+  ]
+}

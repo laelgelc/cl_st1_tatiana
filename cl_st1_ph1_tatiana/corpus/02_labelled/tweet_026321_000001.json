@@ -1,0 +1,206 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9944628,
+          "topicality": 0.00087904907
+        },
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.9886089,
+          "topicality": 0.00015879858
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9876083,
+          "topicality": 0.006346134
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9856283,
+          "topicality": 3.499251e-05
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9848325,
+          "topicality": 0.0005216451
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9838911,
+          "topicality": 0.00017067198
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.97761136,
+          "topicality": 0.0011012285
+        },
+        {
+          "mid": "/m/01yttv",
+          "description": "Audio equipment",
+          "score": 0.9605333,
+          "topicality": 8.2356615e-05
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9542151,
+          "topicality": 0.00010911053
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.951054,
+          "topicality": 1.5699909e-05
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.95061743,
+          "topicality": 0.003949745
+        },
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.9457075,
+          "topicality": 0.004584708
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.9445187,
+          "topicality": 0.45412531
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.93939626,
+          "topicality": 6.869963e-05
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.9368358,
+          "topicality": 1.246807e-05
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.93640316,
+          "topicality": 0.00013172963
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.93394154,
+          "topicality": 0.008695169
+        },
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.9169971,
+          "topicality": 0.0001606369
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.9103364,
+          "topicality": 1.7990465e-05
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.91029435,
+          "topicality": 0.0010912691
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.8935808,
+          "topicality": 0.00047528447
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.87504256,
+          "topicality": 0.00035385598
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.82379323,
+          "topicality": 0.00069311436
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.80407375,
+          "topicality": 0.1920362
+        },
+        {
+          "mid": "/m/02jf2p",
+          "description": "Public address system",
+          "score": 0.7960992,
+          "topicality": 7.4760195e-05
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.79159045,
+          "topicality": 0.004393888
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.7606494,
+          "topicality": 0.058587343
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.6885739,
+          "topicality": 0.08325686
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.64739364,
+          "topicality": 0.0010631446
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.6322001,
+          "topicality": 0.28876832
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.60714424,
+          "topicality": 1.6960254e-05
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.59840566,
+          "topicality": 0.005176126
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.5432243,
+          "topicality": 0.046377487
+        }
+      ]
+    }
+  ]
+}

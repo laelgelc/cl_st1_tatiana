@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8415509,
+          "topicality": 0.01770712
+        },
+        {
+          "mid": "/m/03h_4m",
+          "description": "Cylinder",
+          "score": 0.6765163,
+          "topicality": 0.0106332945
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5667949,
+          "topicality": 0.030420346
+        },
+        {
+          "mid": "/m/0gmc028",
+          "description": "Spray",
+          "score": 0.5178602,
+          "topicality": 0.12205148
+        }
+      ]
+    }
+  ]
+}

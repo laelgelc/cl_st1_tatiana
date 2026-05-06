@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9543993,
+          "topicality": 0.00393061
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9443865,
+          "topicality": 0.00044279132
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.69723594,
+          "topicality": 0.2001901
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.64666533,
+          "topicality": 0.027616749
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6463918,
+          "topicality": 0.09658908
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.62723285,
+          "topicality": 0.004071002
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.6036857,
+          "topicality": 0.014078723
+        }
+      ]
+    }
+  ]
+}

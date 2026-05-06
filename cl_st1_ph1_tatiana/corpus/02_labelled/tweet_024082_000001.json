@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.8575435,
+          "topicality": 0.056777313
+        },
+        {
+          "mid": "/m/06bm2",
+          "description": "Recreation",
+          "score": 0.81480235,
+          "topicality": 0.0012113483
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.7602225,
+          "topicality": 0.11304867
+        },
+        {
+          "mid": "/m/099fz",
+          "description": "Sand",
+          "score": 0.51538604,
+          "topicality": 0.005555633
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.51272446,
+          "topicality": 0.0017898367
+        },
+        {
+          "mid": "/m/0cl6l",
+          "description": "Straw",
+          "score": 0.50199497,
+          "topicality": 0.041892946
+        }
+      ]
+    }
+  ]
+}

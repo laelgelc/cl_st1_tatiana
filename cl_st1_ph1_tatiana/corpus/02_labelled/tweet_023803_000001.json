@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7060237,
+          "topicality": 0.0114674475
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5243379,
+          "topicality": 0.0010497931
+        },
+        {
+          "mid": "/m/01z8xy",
+          "description": "Transparency",
+          "score": 0.5061294,
+          "topicality": 0.00016893649
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.50353324,
+          "topicality": 0.04943967
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.5012611,
+          "topicality": 0.005307318
+        }
+      ]
+    }
+  ]
+}

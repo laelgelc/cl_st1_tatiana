@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9114169,
+          "topicality": 0.0012281646
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7460037,
+          "topicality": 0.008507849
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7344254,
+          "topicality": 0.01385085
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.7315508,
+          "topicality": 0.0025199072
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.65742403,
+          "topicality": 0.0012668634
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.60765547,
+          "topicality": 0.0056335777
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.59879416,
+          "topicality": 0.0021768073
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.85304856,
+          "topicality": 0.21532173
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.85228413,
+          "topicality": 0.037715342
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.84141785,
+          "topicality": 0.0046094996
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.79317576,
+          "topicality": 0.020748425
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.758628,
+          "topicality": 0.02456409
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.7301171,
+          "topicality": 0.0050244117
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.716299,
+          "topicality": 0.011651037
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7016126,
+          "topicality": 0.0051518325
+        },
+        {
+          "mid": "/m/0q593",
+          "description": "Dietary supplement",
+          "score": 0.65353703,
+          "topicality": 0.3228744
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.63968915,
+          "topicality": 0.00030592264
+        }
+      ]
+    }
+  ]
+}

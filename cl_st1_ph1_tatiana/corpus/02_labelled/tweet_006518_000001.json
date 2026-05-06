@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bt9lr",
+          "description": "Dog",
+          "score": 0.9722902,
+          "topicality": 0.38015303
+        },
+        {
+          "mid": "/m/01lrl",
+          "description": "Carnivores",
+          "score": 0.83403087,
+          "topicality": 0.0025537321
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.735514,
+          "topicality": 0.20310928
+        },
+        {
+          "mid": "/m/01z5f",
+          "description": "Canidae",
+          "score": 0.70885235,
+          "topicality": 0.0068113026
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6929678,
+          "topicality": 0.0011393463
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.671937,
+          "topicality": 0.04194757
+        },
+        {
+          "mid": "/m/0h8ks17",
+          "description": "Pet Supply",
+          "score": 0.6521263,
+          "topicality": 0.0006813391
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6492936,
+          "topicality": 0.0010355505
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.55702627,
+          "topicality": 0.031610243
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5440947,
+          "topicality": 0.010321168
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5145373,
+          "topicality": 0.0064119664
+        }
+      ]
+    }
+  ]
+}

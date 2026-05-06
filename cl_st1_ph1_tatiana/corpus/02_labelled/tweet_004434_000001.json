@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.85181355,
+          "topicality": 0.0021864169
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.680533,
+          "topicality": 0.010241981
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.61904734,
+          "topicality": 0.0083866995
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53872055,
+          "topicality": 0.018465424
+        }
+      ]
+    }
+  ]
+}

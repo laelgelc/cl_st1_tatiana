@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8236817,
+          "topicality": 0.0049123415
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.73302233,
+          "topicality": 0.0030848177
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7304931,
+          "topicality": 0.00160245
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.63576055,
+          "topicality": 0.00092053023
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.5425707,
+          "topicality": 0.0041267797
+        }
+      ]
+    }
+  ]
+}

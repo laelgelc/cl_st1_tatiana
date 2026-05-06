@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.84546655,
+          "topicality": 0.00014041507
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.8377624,
+          "topicality": 0.18975055
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.80819297,
+          "topicality": 0.03316884
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.70938796,
+          "topicality": 0.14300583
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.6472649,
+          "topicality": 0.0017766985
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6151211,
+          "topicality": 6.242673e-05
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5966218,
+          "topicality": 0.06330806
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5879498,
+          "topicality": 0.055877224
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.771067,
+          "topicality": 0.0010524985
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7088311,
+          "topicality": 0.02837195
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.67917013,
+          "topicality": 0.02300228
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6088702,
+          "topicality": 0.0011451604
+        },
+        {
+          "mid": "/m/03gkl",
+          "description": "Holiday",
+          "score": 0.55349475,
+          "topicality": 0.0029541047
+        },
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.55248123,
+          "topicality": 0.000958342
+        }
+      ]
+    }
+  ]
+}

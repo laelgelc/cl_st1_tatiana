@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.892024,
+          "topicality": 0.011762753
+        },
+        {
+          "mid": "/m/088l6h",
+          "description": "Family car",
+          "score": 0.7637152,
+          "topicality": 0.00027005575
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7358373,
+          "topicality": 0.0028345538
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7315565,
+          "topicality": 0.008856267
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.7054136,
+          "topicality": 0.029829241
+        },
+        {
+          "mid": "/m/01lcwm",
+          "description": "Luxury vehicle",
+          "score": 0.70367277,
+          "topicality": 0.00035629421
+        },
+        {
+          "mid": "/m/0369ss",
+          "description": "City car",
+          "score": 0.63194495,
+          "topicality": 0.0002679581
+        }
+      ]
+    }
+  ]
+}

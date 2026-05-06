@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9485113,
+          "topicality": 0.0020872843
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9102708,
+          "topicality": 0.00026748254
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.75955296,
+          "topicality": 0.011746147
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.6675199,
+          "topicality": 0.022170791
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5962111,
+          "topicality": 0.031155214
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.58033687,
+          "topicality": 0.088186674
+        },
+        {
+          "mid": "/m/01r9v",
+          "description": "Computer program",
+          "score": 0.5767045,
+          "topicality": 0.018846951
+        }
+      ]
+    }
+  ]
+}

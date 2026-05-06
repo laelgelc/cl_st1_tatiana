@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.972566,
+          "topicality": 0.003774271
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9538779,
+          "topicality": 0.070998915
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9512024,
+          "topicality": 0.029985195
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449494,
+          "topicality": 0.04264322
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.72704947,
+          "topicality": 0.0012852607
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.62546057,
+          "topicality": 0.0054827826
+        },
+        {
+          "mid": "/m/0919rx",
+          "description": "Line art",
+          "score": 0.622528,
+          "topicality": 7.25591e-05
+        }
+      ]
+    }
+  ]
+}

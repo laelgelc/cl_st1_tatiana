@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9941914,
+          "topicality": 0.0003474421
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9866942,
+          "topicality": 0.0035946285
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.983726,
+          "topicality": 0.00038120357
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447359,
+          "topicality": 0.00284492
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8337471,
+          "topicality": 0.0013129582
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.77090746,
+          "topicality": 0.0017576716
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7467961,
+          "topicality": 0.0006074148
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6452031,
+          "topicality": 0.011045713
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.62930053,
+          "topicality": 0.013279515
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5381919,
+          "topicality": 0.01344913
+        }
+      ]
+    }
+  ]
+}

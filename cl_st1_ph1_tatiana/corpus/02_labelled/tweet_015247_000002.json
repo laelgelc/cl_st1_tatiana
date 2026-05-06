@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9519438,
+          "topicality": 0.055216257
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.93637055,
+          "topicality": 2.9678149e-05
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9047147,
+          "topicality": 0.00021862672
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.89344585,
+          "topicality": 0.0018973192
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8035255,
+          "topicality": 2.2343003e-05
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.67664117,
+          "topicality": 0.029621936
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.66221195,
+          "topicality": 0.00035032193
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6617589,
+          "topicality": 0.008198574
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5921488,
+          "topicality": 0.00093517825
+        }
+      ]
+    }
+  ]
+}

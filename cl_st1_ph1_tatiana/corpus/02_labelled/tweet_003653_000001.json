@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01__sk",
+          "description": "Brickwork",
+          "score": 0.75454646,
+          "topicality": 0.00014231485
+        },
+        {
+          "mid": "/m/01g0g",
+          "description": "Brick",
+          "score": 0.6827316,
+          "topicality": 0.0006951541
+        },
+        {
+          "mid": "/m/037cyw",
+          "description": "Siding",
+          "score": 0.5640754,
+          "topicality": 0.0001486582
+        },
+        {
+          "mid": "/m/03txxp",
+          "description": "Subcompact car",
+          "score": 0.52703345,
+          "topicality": 1.4537072e-05
+        },
+        {
+          "mid": "/m/0crtnw",
+          "description": "Executive car",
+          "score": 0.5218724,
+          "topicality": 5.057343e-05
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.5154626,
+          "topicality": 0.00016775058
+        },
+        {
+          "mid": "/m/03thq",
+          "description": "Inn",
+          "score": 0.50115484,
+          "topicality": 0.049429867
+        }
+      ]
+    }
+  ]
+}

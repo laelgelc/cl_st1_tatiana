@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.85224307,
+          "topicality": 0.12524168
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.78482133,
+          "topicality": 0.0013146504
+        },
+        {
+          "mid": "/m/03gg9",
+          "description": "Human anatomy",
+          "score": 0.776483,
+          "topicality": 0.15443304
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.7590877,
+          "topicality": 0.01301402
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.66654617,
+          "topicality": 0.001897911
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.6343078,
+          "topicality": 0.0007690198
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.59268194,
+          "topicality": 0.021781169
+        },
+        {
+          "mid": "/m/01j3br",
+          "description": "Medical imaging",
+          "score": 0.53722215,
+          "topicality": 0.00957218
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01fnck",
+          "description": "Waste",
+          "score": 0.78784716
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.70469433,
+          "topicality": 0.07746779
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.70107096,
+          "topicality": 0.025813496
+        },
+        {
+          "mid": "/m/08qrwn",
+          "description": "Rubble",
+          "score": 0.63730514,
+          "topicality": 0.009163054
+        },
+        {
+          "mid": "/m/043520",
+          "description": "Scrap",
+          "score": 0.6124224,
+          "topicality": 0.006840335
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.61232406,
+          "topicality": 0.005359194
+        },
+        {
+          "mid": "/m/02r97",
+          "description": "Earthquake",
+          "score": 0.5900026,
+          "topicality": 0.03452922
+        },
+        {
+          "mid": "/m/03ns2k",
+          "description": "Litter",
+          "score": 0.5215633,
+          "topicality": 0.036261305
+        }
+      ]
+    }
+  ]
+}

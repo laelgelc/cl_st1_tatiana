@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.96331245,
+          "topicality": 0.019735197
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.95629734,
+          "topicality": 0.058845874
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9544,
+          "topicality": 0.023330357
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9168104,
+          "topicality": 0.01273914
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8935466,
+          "topicality": 0.04567435
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.89060044,
+          "topicality": 0.004839453
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.87933224,
+          "topicality": 0.00036103406
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.6054317,
+          "topicality": 0.05003317
+        },
+        {
+          "mid": "/m/02m1vq",
+          "description": "Personal grooming",
+          "score": 0.5272901,
+          "topicality": 0.012391455
+        }
+      ]
+    }
+  ]
+}

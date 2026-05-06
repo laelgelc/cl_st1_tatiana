@@ -1,0 +1,61 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032tl",
+          "description": "Fashion",
+          "score": 0.9552833
+        },
+        {
+          "mid": "/m/0hgr6",
+          "description": "Denim",
+          "score": 0.92596817,
+          "topicality": 0.026340352
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.7786287,
+          "topicality": 0.013216008
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.7637465,
+          "topicality": 0.00503526
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7415131,
+          "topicality": 0.08222158
+        },
+        {
+          "mid": "/m/02_n6y",
+          "description": "Goggles",
+          "score": 0.6612204,
+          "topicality": 0.00060291524
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.64071745,
+          "topicality": 0.014291625
+        },
+        {
+          "mid": "/m/02h19r",
+          "description": "Scarf",
+          "score": 0.6122632,
+          "topicality": 0.016516734
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.57653934,
+          "topicality": 0.0076635163
+        }
+      ]
+    }
+  ]
+}

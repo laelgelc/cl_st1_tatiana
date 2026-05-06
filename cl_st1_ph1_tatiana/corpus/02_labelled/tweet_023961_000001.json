@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.9472362,
+          "topicality": 0.30901864
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7930816,
+          "topicality": 0.010083219
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.6605233,
+          "topicality": 7.781683e-05
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.61793387,
+          "topicality": 0.005325411
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.5770681,
+          "topicality": 0.00512482
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.5681394,
+          "topicality": 0.3864966
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52848995,
+          "topicality": 0.050928727
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.50387245,
+          "topicality": 0.019059759
+        }
+      ]
+    }
+  ]
+}

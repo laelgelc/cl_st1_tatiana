@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08xgn7",
+          "description": "Comfort",
+          "score": 0.785105,
+          "topicality": 0.0006849642
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.64079297,
+          "topicality": 0.080060035
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.59799284,
+          "topicality": 0.009825387
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5652297,
+          "topicality": 0.05783409
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.5421854,
+          "topicality": 0.00050600956
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.50813806,
+          "topicality": 0.03191606
+        }
+      ]
+    }
+  ]
+}

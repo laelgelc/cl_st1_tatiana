@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7939929,
+          "topicality": 0.077203415
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7359357,
+          "topicality": 0.011621286
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6319336,
+          "topicality": 0.0012588232
+        }
+      ]
+    }
+  ]
+}

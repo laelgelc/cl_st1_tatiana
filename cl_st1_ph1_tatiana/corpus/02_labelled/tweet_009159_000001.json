@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.826095,
+          "topicality": 0.012034991
+        },
+        {
+          "mid": "/m/02h66g5",
+          "description": "Military Person",
+          "score": 0.79132843,
+          "topicality": 0.0011967806
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.721006,
+          "topicality": 0.003884148
+        },
+        {
+          "mid": "/m/013bml",
+          "description": "Military rank",
+          "score": 0.6238575,
+          "topicality": 0.016757235
+        },
+        {
+          "mid": "/m/0gjwxv",
+          "description": "Military organization",
+          "score": 0.61796254,
+          "topicality": 0.004414445
+        },
+        {
+          "mid": "/m/0pd7",
+          "description": "Army",
+          "score": 0.5368491,
+          "topicality": 0.010370358
+        },
+        {
+          "mid": "/m/01h6rj",
+          "description": "Military",
+          "score": 0.5292809,
+          "topicality": 0.007851965
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.51799244,
+          "topicality": 0.002022835
+        },
+        {
+          "mid": "/m/099md",
+          "description": "Soldier",
+          "score": 0.5128581,
+          "topicality": 0.008543553
+        },
+        {
+          "mid": "/m/012qdp",
+          "description": "Military Officer",
+          "score": 0.5114105,
+          "topicality": 0.009770769
+        }
+      ]
+    }
+  ]
+}

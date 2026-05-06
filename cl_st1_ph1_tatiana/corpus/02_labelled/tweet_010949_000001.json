@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.89150834,
+          "topicality": 0.0055369255
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.73761326,
+          "topicality": 0.0077333893
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.71171653,
+          "topicality": 0.065947495
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6375522,
+          "topicality": 0.016741358
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.62060016,
+          "topicality": 0.0014965612
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.577049,
+          "topicality": 0.0012613575
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5313642,
+          "topicality": 0.005417536
+        }
+      ]
+    }
+  ]
+}

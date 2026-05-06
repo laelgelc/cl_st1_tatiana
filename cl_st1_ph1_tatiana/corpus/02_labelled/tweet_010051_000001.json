@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mwkf",
+          "description": "Monochrome",
+          "score": 0.79636014,
+          "topicality": 0.028523654
+        },
+        {
+          "mid": "/m/01lynh",
+          "description": "Stairs",
+          "score": 0.77057606,
+          "topicality": 0.031418588
+        },
+        {
+          "mid": "/m/01ft8k",
+          "description": "Shadow",
+          "score": 0.5558546,
+          "topicality": 0.015295988
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.53072155,
+          "topicality": 0.010282266
+        }
+      ]
+    }
+  ]
+}

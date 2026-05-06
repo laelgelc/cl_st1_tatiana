@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.9568377,
+          "topicality": 0.1371113
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.93345326,
+          "topicality": 0.0030242896
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.8816715,
+          "topicality": 0.0037356082
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8681996,
+          "topicality": 0.0016704205
+        },
+        {
+          "mid": "/m/0dzdr",
+          "description": "Thorax",
+          "score": 0.7238342,
+          "topicality": 0.01341798
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6342432,
+          "topicality": 0.012847577
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.62292767,
+          "topicality": 0.14873526
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.60921067,
+          "topicality": 0.00039442367
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.60575,
+          "topicality": 0.00012805645
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.566541,
+          "topicality": 0.040655307
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.5382532,
+          "topicality": 0.02115009
+        }
+      ]
+    }
+  ]
+}

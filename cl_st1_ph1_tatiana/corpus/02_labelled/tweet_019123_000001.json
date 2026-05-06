@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9721661,
+          "topicality": 0.1052654
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9662768,
+          "topicality": 0.008654588
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9238472,
+          "topicality": 0.013335532
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.91718984,
+          "topicality": 0.002593002
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8473982,
+          "topicality": 0.004980282
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8471478,
+          "topicality": 0.0062924633
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.80191594,
+          "topicality": 0.08066213
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7844194,
+          "topicality": 0.015552627
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7768662,
+          "topicality": 0.0006441578
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.75321823,
+          "topicality": 0.126586
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.74609464,
+          "topicality": 0.0823463
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.66851807,
+          "topicality": 0.104103476
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.58932143,
+          "topicality": 0.14483891
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5139641,
+          "topicality": 0.029743992
+        }
+      ]
+    }
+  ]
+}

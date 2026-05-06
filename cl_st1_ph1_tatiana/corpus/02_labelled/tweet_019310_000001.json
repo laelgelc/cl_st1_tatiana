@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.7984747,
+          "topicality": 0.012032666
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.70747656,
+          "topicality": 0.00066477753
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6873517,
+          "topicality": 0.0035697846
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.64183724,
+          "topicality": 0.0025351485
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.6041136,
+          "topicality": 0.027058136
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5601357,
+          "topicality": 0.010220966
+        }
+      ]
+    }
+  ]
+}

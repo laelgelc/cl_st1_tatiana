@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.9490846,
+          "topicality": 0.023649517
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94435906,
+          "topicality": 0.0053569754
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.8839925,
+          "topicality": 0.30483708
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6312494,
+          "topicality": 0.0040170774
+        },
+        {
+          "mid": "/m/0jyt6",
+          "description": "Masque",
+          "score": 0.6041888,
+          "topicality": 0.0027640797
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5803981,
+          "topicality": 0.060940105
+        },
+        {
+          "mid": "/m/02h19r",
+          "description": "Scarf",
+          "score": 0.52944005,
+          "topicality": 0.0011655976
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.85084474,
+          "topicality": 0.0099404855
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7598735,
+          "topicality": 0.25279093
+        },
+        {
+          "mid": "/m/01kv7h",
+          "description": "Midnight",
+          "score": 0.7362465,
+          "topicality": 0.0010537313
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.56599844,
+          "topicality": 0.0118350405
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.56588644,
+          "topicality": 0.104293965
+        },
+        {
+          "mid": "/m/02l7rx",
+          "description": "Convention center",
+          "score": 0.5601044,
+          "topicality": 0.20065647
+        }
+      ]
+    }
+  ]
+}

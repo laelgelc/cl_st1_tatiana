@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449495,
+          "topicality": 0.17901802
+        },
+        {
+          "mid": "/m/02ngh",
+          "description": "Emoticon",
+          "score": 0.9320356,
+          "topicality": 0.8675655
+        },
+        {
+          "mid": "/m/06n05",
+          "description": "Smiley",
+          "score": 0.8455188,
+          "topicality": 0.7242252
+        },
+        {
+          "mid": "/m/03g09t",
+          "description": "Clip art",
+          "score": 0.7964218,
+          "topicality": 0.053329628
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6533943,
+          "topicality": 0.0008500066
+        },
+        {
+          "mid": "/m/03tqj",
+          "description": "Icon",
+          "score": 0.51976585,
+          "topicality": 0.0003724372
+        }
+      ]
+    }
+  ]
+}

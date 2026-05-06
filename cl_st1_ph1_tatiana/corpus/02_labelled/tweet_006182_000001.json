@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9466171,
+          "topicality": 0.55215335
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9304857,
+          "topicality": 0.2675811
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.926985,
+          "topicality": 0.0041760984
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.92632115,
+          "topicality": 0.114463426
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.8792499,
+          "topicality": 0.012263896
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.85004073,
+          "topicality": 0.006193953
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8439738,
+          "topicality": 0.18977028
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.821053,
+          "topicality": 0.0027481979
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.81489915,
+          "topicality": 0.0046079312
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7357416,
+          "topicality": 0.03717707
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.73295695,
+          "topicality": 0.0048714536
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.72401476,
+          "topicality": 0.14447221
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6607288,
+          "topicality": 0.008175692
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.6068946,
+          "topicality": 0.030816019
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5614452,
+          "topicality": 0.011175784
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5466773,
+          "topicality": 0.1024074
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5213535,
+          "topicality": 0.0012056589
+        }
+      ]
+    }
+  ]
+}

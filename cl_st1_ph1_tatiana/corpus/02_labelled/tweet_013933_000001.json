@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.928272,
+          "topicality": 0.002139955
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.8183696,
+          "topicality": 0.0031323303
+        },
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.8099923,
+          "topicality": 0.0003453526
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.7855367,
+          "topicality": 0.03890729
+        },
+        {
+          "mid": "/m/02q60ls",
+          "description": "Conference hall",
+          "score": 0.7803637,
+          "topicality": 0.008968645
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.7123994,
+          "topicality": 0.40518716
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.69535094,
+          "topicality": 0.013987985
+        },
+        {
+          "mid": "/m/0632_",
+          "description": "Parliament",
+          "score": 0.63452595,
+          "topicality": 0.7143905
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.6288502,
+          "topicality": 3.1900768e-06
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7224566,
+          "topicality": 0.0017083117
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.66998655,
+          "topicality": 0.0031376083
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.57120353,
+          "topicality": 0.00031865382
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.55402714,
+          "topicality": 0.0008904968
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5511285,
+          "topicality": 0.010831037
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6971154,
+          "topicality": 0.0544657
+        },
+        {
+          "mid": "/m/0dw9f6",
+          "description": "Creative arts",
+          "score": 0.6876938,
+          "topicality": 0.0006340226
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6819753,
+          "topicality": 0.010158594
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.58425534,
+          "topicality": 0.00043702527
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5751146,
+          "topicality": 0.009839402
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5015184,
+          "topicality": 0.0016858205
+        }
+      ]
+    }
+  ]
+}

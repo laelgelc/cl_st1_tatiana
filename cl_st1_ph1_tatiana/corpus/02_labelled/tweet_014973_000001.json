@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.79172146,
+          "topicality": 0.00028518573
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7022492,
+          "topicality": 9.626449e-05
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.68675613,
+          "topicality": 0.006301752
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.66940045,
+          "topicality": 0.002055095
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.63624436,
+          "topicality": 0.00076519814
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.60379535,
+          "topicality": 0.0003801563
+        },
+        {
+          "mid": "/m/029m8",
+          "description": "Demon",
+          "score": 0.57559097,
+          "topicality": 0.095045425
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.52786237,
+          "topicality": 0.00029957402
+        },
+        {
+          "mid": "/m/03kll",
+          "description": "Hero",
+          "score": 0.51829773,
+          "topicality": 0.005128548
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.5126409,
+          "topicality": 0.00034420754
+        },
+        {
+          "mid": "/m/0jyt6",
+          "description": "Masque",
+          "score": 0.50892943,
+          "topicality": 0.0023324175
+        },
+        {
+          "mid": "/m/0hr5k",
+          "description": "Festival",
+          "score": 0.5036547,
+          "topicality": 0.0067048324
+        }
+      ]
+    }
+  ]
+}

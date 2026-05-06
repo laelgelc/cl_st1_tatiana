@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.81475735,
+          "topicality": 0.0015345723
+        },
+        {
+          "mid": "/m/01bsxb",
+          "description": "Collage",
+          "score": 0.78321505,
+          "topicality": 0.037713345
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.7707191,
+          "topicality": 0.00063614896
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.73185164,
+          "topicality": 0.0040832227
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.5525457,
+          "topicality": 0.00091197056
+        }
+      ]
+    }
+  ]
+}

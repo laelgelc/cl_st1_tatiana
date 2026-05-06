@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8851812,
+          "topicality": 0.3959728
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.8624472,
+          "topicality": 0.17405269
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.85937196,
+          "topicality": 0.005929391
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8379648,
+          "topicality": 0.023549462
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.8309387,
+          "topicality": 0.07952641
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.80422705,
+          "topicality": 0.008003317
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7469483,
+          "topicality": 0.051485833
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.74194765,
+          "topicality": 0.0008341068
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.73854524,
+          "topicality": 0.15169905
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.6742562,
+          "topicality": 0.011930277
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.56835926,
+          "topicality": 0.1441223
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5314753,
+          "topicality": 0.010488465
+        }
+      ]
+    }
+  ]
+}

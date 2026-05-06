@@ -1,0 +1,122 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9720353,
+          "topicality": 0.046025142
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9625899,
+          "topicality": 0.002582229
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9009504,
+          "topicality": 0.0017834824
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.88706416,
+          "topicality": 0.0041389694
+        },
+        {
+          "mid": "/m/02m1vq",
+          "description": "Personal grooming",
+          "score": 0.8414639,
+          "topicality": 0.0032027431
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.8103681,
+          "topicality": 0.08761129
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8093491,
+          "topicality": 0.001042175
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.7877766,
+          "topicality": 0.0016039595
+        },
+        {
+          "mid": "/m/09zzb8",
+          "description": "Make-up artist",
+          "score": 0.75767624,
+          "topicality": 0.009942536
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.739829,
+          "topicality": 0.054048527
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6989925,
+          "topicality": 0.01948853
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.69662064,
+          "topicality": 0.013305346
+        },
+        {
+          "mid": "/m/0569zg",
+          "description": "Beauty salon",
+          "score": 0.6835883,
+          "topicality": 0.009067691
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.6814052,
+          "topicality": 5.040587e-05
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6693191,
+          "topicality": 0.0039925817
+        },
+        {
+          "mid": "/m/0149qc",
+          "description": "Hair removal",
+          "score": 0.64951646,
+          "topicality": 0.0065859095
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.63541967,
+          "topicality": 0.00012009947
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.6338682,
+          "topicality": 0.0009859398
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.5446785,
+          "topicality": 0.000306114
+        }
+      ]
+    }
+  ]
+}

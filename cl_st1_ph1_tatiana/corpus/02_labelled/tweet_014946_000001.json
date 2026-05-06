@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.94662684,
+          "topicality": 0.02509839
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9033654,
+          "topicality": 0.00036068802
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.66001946,
+          "topicality": 0.002390986
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6132096,
+          "topicality": 0.0018588055
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.55262554,
+          "topicality": 0.0015497592
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5149398,
+          "topicality": 0.029500937
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.51426375,
+          "topicality": 0.02167459
+        }
+      ]
+    }
+  ]
+}

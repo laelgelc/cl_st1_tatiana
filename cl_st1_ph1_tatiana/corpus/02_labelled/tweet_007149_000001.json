@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.9526437,
+          "topicality": 0.013191483
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448006,
+          "topicality": 0.0034984497
+        },
+        {
+          "mid": "/m/0fc1fy",
+          "description": "Black hair",
+          "score": 0.94103146,
+          "topicality": 0.03000435
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8323311,
+          "topicality": 0.005815731
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.6846446,
+          "topicality": 0.012403259
+        },
+        {
+          "mid": "/m/021swn",
+          "description": "Buzz cut",
+          "score": 0.63746446,
+          "topicality": 0.34053746
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.5408717,
+          "topicality": 0.000627915
+        }
+      ]
+    }
+  ]
+}

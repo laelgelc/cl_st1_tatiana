@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9544831,
+          "topicality": 0.01372691
+        },
+        {
+          "mid": "/m/04k94",
+          "description": "Liquid",
+          "score": 0.918386,
+          "topicality": 0.07739151
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.7588086,
+          "topicality": 0.0045860503
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.60929227,
+          "topicality": 0.08256337
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5145838,
+          "topicality": 0.010901929
+        }
+      ]
+    }
+  ]
+}

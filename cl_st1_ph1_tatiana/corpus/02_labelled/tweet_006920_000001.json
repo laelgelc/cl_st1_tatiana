@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.9886149,
+          "topicality": 0.00032028696
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9858057,
+          "topicality": 0.00013831849
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9846932,
+          "topicality": 0.0017644902
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.96463066,
+          "topicality": 0.0005262108
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.96104646,
+          "topicality": 0.0005891622
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.9559265,
+          "topicality": 0.0001189106
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9312427,
+          "topicality": 1.0173643e-05
+        },
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.89091754,
+          "topicality": 0.00025903105
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8808358,
+          "topicality": 0.008531457
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.86456984,
+          "topicality": 0.00069291284
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.70129335,
+          "topicality": 0.00022349818
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.70078117,
+          "topicality": 0.00023205296
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.67780703,
+          "topicality": 0.0052796453
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.61532444,
+          "topicality": 0.0022214795
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.5969651,
+          "topicality": 1.4537987e-05
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.5069845,
+          "topicality": 0.049286608
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06rrc",
+          "description": "Shoe",
+          "score": 0.95860136,
+          "topicality": 0.11676085
+        },
+        {
+          "mid": "/m/0hgr6",
+          "description": "Denim",
+          "score": 0.7382356,
+          "topicality": 0.00092427153
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.59824157,
+          "topicality": 0.00014082147
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.52810866,
+          "topicality": 0.107018776
+        },
+        {
+          "mid": "/m/0hgs9bq",
+          "description": "Walking Shoe",
+          "score": 0.5058131,
+          "topicality": 8.6037806e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.9682377,
+          "topicality": 0.97013813
+        },
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.88583,
+          "topicality": 0.012157871
+        },
+        {
+          "mid": "/m/02x8n4r",
+          "description": "Fertility monitor",
+          "score": 0.82291025,
+          "topicality": 0.017465051
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6560465,
+          "topicality": 0.0045325626
+        }
+      ]
+    }
+  ]
+}

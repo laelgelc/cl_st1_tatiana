@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/081pkj",
+          "description": "Event",
+          "score": 0.9297171,
+          "topicality": 0.0025866956
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.8999921,
+          "topicality": 0.000185816
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8266639,
+          "topicality": 0.0043039834
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8265258,
+          "topicality": 0.01632784
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.81009,
+          "topicality": 0.20041305
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.8075905,
+          "topicality": 0.10571473
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.796546,
+          "topicality": 0.011727422
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.79356676,
+          "topicality": 0.011811984
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.7932625,
+          "topicality": 0.005052658
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6756303,
+          "topicality": 0.010392152
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.63701737,
+          "topicality": 0.013842424
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.530664,
+          "topicality": 0.029781288
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06msq",
+          "description": "Sculpture",
+          "score": 0.93872017,
+          "topicality": 0.1281582
+        },
+        {
+          "mid": "/m/013_1c",
+          "description": "Statue",
+          "score": 0.88207704,
+          "topicality": 0.11855909
+        },
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.8794142,
+          "topicality": 0.001064463
+        },
+        {
+          "mid": "/m/02ljgl",
+          "description": "Monument",
+          "score": 0.7903264,
+          "topicality": 0.05196382
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06gfj",
+          "description": "Road",
+          "score": 0.94852626,
+          "topicality": 0.29676276
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.91226923,
+          "topicality": 0.0054577105
+        },
+        {
+          "mid": "/m/0hr8",
+          "description": "Asphalt",
+          "score": 0.90724164,
+          "topicality": 0.042448156
+        },
+        {
+          "mid": "/m/033j3c",
+          "description": "Lane",
+          "score": 0.8878729,
+          "topicality": 0.3978075
+        },
+        {
+          "mid": "/m/0bm8qyq",
+          "description": "Thoroughfare",
+          "score": 0.8787231,
+          "topicality": 0.02802303
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.85331804,
+          "topicality": 0.037858777
+        },
+        {
+          "mid": "/m/0199g",
+          "description": "Bicycle",
+          "score": 0.83189726,
+          "topicality": 0.29915887
+        },
+        {
+          "mid": "/m/05by2s",
+          "description": "Tar",
+          "score": 0.7027131,
+          "topicality": 0.000979802
+        },
+        {
+          "mid": "/m/0cz_0",
+          "description": "Highway",
+          "score": 0.69439447,
+          "topicality": 0.03419127
+        },
+        {
+          "mid": "/m/014mpm",
+          "description": "Intersection",
+          "score": 0.65751624,
+          "topicality": 0.01708751
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.644372,
+          "topicality": 0.020468185
+        },
+        {
+          "mid": "/m/01mqdt",
+          "description": "Traffic sign",
+          "score": 0.60828924,
+          "topicality": 0.026525585
+        },
+        {
+          "mid": "/m/0bpnmk0",
+          "description": "Bicycles--Equipment and supplies",
+          "score": 0.6005897,
+          "topicality": 0.00027308747
+        },
+        {
+          "mid": "/m/0c3vfpc",
+          "description": "Bicycle tire",
+          "score": 0.5666925,
+          "topicality": 0.00040746757
+        },
+        {
+          "mid": "/m/02mgm6",
+          "description": "Shoulder",
+          "score": 0.54143685,
+          "topicality": 0.0040182495
+        },
+        {
+          "mid": "/m/01bqk0",
+          "description": "Bicycle wheel",
+          "score": 0.5373549,
+          "topicality": 0.0036876868
+        },
+        {
+          "mid": "/m/02zh30",
+          "description": "Path",
+          "score": 0.5358855,
+          "topicality": 0.0007800314
+        },
+        {
+          "mid": "/m/01sgl",
+          "description": "Cycling",
+          "score": 0.50779283,
+          "topicality": 0.18563889
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.89507926,
+          "topicality": 9.924942e-05
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8173395,
+          "topicality": 0.008769938
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5899988,
+          "topicality": 0.0003834967
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.5861866,
+          "topicality": 0.047211673
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51092637,
+          "topicality": 0.02645577
+        }
+      ]
+    }
+  ]
+}

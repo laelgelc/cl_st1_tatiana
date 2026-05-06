@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr8f",
+          "description": "Illustration",
+          "score": 0.7685082,
+          "topicality": 0.08509582
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.7430179,
+          "topicality": 0.013602692
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.65698385,
+          "topicality": 0.00789353
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.6002398,
+          "topicality": 0.0007819109
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.5416135,
+          "topicality": 0.00024577827
+        }
+      ]
+    }
+  ]
+}

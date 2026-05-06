@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.95889384,
+          "topicality": 0.0024799693
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.93118083,
+          "topicality": 0.0027489336
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.81149155,
+          "topicality": 0.0015431466
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7801685,
+          "topicality": 0.0022832043
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.66589546,
+          "topicality": 4.7788435e-05
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.6543295,
+          "topicality": 0.36357373
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5635391,
+          "topicality": 0.0031031123
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.54918575,
+          "topicality": 0.010622528
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5475767,
+          "topicality": 0.0070119384
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5041139,
+          "topicality": 6.740263e-05
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.5006067,
+          "topicality": 8.6750835e-05
+        }
+      ]
+    }
+  ]
+}

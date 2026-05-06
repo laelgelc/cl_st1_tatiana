@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7571073,
+          "topicality": 0.094588295
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.69900626,
+          "topicality": 0.046849556
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.6390592,
+          "topicality": 0.025611252
+        }
+      ]
+    }
+  ]
+}

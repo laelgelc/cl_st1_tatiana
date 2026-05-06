@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.95850444,
+          "topicality": 0.0005092207
+        },
+        {
+          "mid": "/m/01llwg",
+          "description": "Necklace",
+          "score": 0.71609724,
+          "topicality": 5.8980648e-05
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.70287037,
+          "topicality": 0.02075025
+        },
+        {
+          "mid": "/m/01r546",
+          "description": "Earring",
+          "score": 0.6127316,
+          "topicality": 2.7032442e-05
+        },
+        {
+          "mid": "/m/01jtn",
+          "description": "Body piercing",
+          "score": 0.6099883,
+          "topicality": 0.00040902395
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5339894,
+          "topicality": 0.21642609
+        }
+      ]
+    }
+  ]
+}

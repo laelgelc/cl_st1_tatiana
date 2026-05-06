@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447237,
+          "topicality": 0.00048402546
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7763844,
+          "topicality": 0.0020066558
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7307392,
+          "topicality": 0.00053634116
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.71251845,
+          "topicality": 0.000901126
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6681677,
+          "topicality": 0.0049946476
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.65538484,
+          "topicality": 0.372309
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.61266965,
+          "topicality": 0.0023405713
+        }
+      ]
+    }
+  ]
+}

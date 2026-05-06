@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7427121,
+          "topicality": 0.11182677
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.69215524,
+          "topicality": 0.07288624
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.67993355,
+          "topicality": 0.09050366
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6321331,
+          "topicality": 0.00052192365
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.6044906,
+          "topicality": 0.00052692374
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.57494074,
+          "topicality": 0.0052808174
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.5546078,
+          "topicality": 0.0002919955
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.54412603,
+          "topicality": 0.042349484
+        }
+      ]
+    }
+  ]
+}

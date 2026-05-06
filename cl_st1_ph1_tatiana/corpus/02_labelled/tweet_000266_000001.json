@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9001116,
+          "topicality": 0.008357574
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7403801,
+          "topicality": 0.16499744
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5960168,
+          "topicality": 0.010197756
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.59103185,
+          "topicality": 0.055948373
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.545524,
+          "topicality": 0.003865084
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.51312774,
+          "topicality": 0.0030583714
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5091584,
+          "topicality": 0.04346341
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.5034443,
+          "topicality": 0.009348579
+        }
+      ]
+    }
+  ]
+}

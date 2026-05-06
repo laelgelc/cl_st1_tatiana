@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/088fh",
+          "description": "Yellow",
+          "score": 0.95357966,
+          "topicality": 0.024526035
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.8229075,
+          "topicality": 0.11957207
+        },
+        {
+          "mid": "/m/01z8xy",
+          "description": "Transparency",
+          "score": 0.69227666,
+          "topicality": 0.0005037695
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.690722,
+          "topicality": 0.006464777
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.6382124,
+          "topicality": 0.03912572
+        },
+        {
+          "mid": "/m/02rlncx",
+          "description": "Plastic bottle",
+          "score": 0.5276854,
+          "topicality": 0.0069684973
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94487023,
+          "topicality": 0.002097116
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9132332,
+          "topicality": 0.00032215533
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8900865,
+          "topicality": 0.010151878
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6609234,
+          "topicality": 0.03040736
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.5942415,
+          "topicality": 0.0023889574
+        }
+      ]
+    }
+  ]
+}

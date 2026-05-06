@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.91235197,
+          "topicality": 0.43013293
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.717226,
+          "topicality": 0.0073681273
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.70458794,
+          "topicality": 0.09850678
+        },
+        {
+          "mid": "/m/01n5_8",
+          "description": "Hard hat",
+          "score": 0.55743307,
+          "topicality": 0.098686285
+        }
+      ]
+    }
+  ]
+}

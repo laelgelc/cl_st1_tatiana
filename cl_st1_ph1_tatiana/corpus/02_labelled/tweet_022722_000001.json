@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01fnns",
+          "description": "Vegetation",
+          "score": 0.95637846,
+          "topicality": 0.104209416
+        },
+        {
+          "mid": "/m/02zr8",
+          "description": "Forest",
+          "score": 0.9181403,
+          "topicality": 0.2390289
+        },
+        {
+          "mid": "/m/01y3fy",
+          "description": "Jungle",
+          "score": 0.8820299,
+          "topicality": 0.1252572
+        },
+        {
+          "mid": "/m/0swq_",
+          "description": "Nature reserve",
+          "score": 0.83213127,
+          "topicality": 0.020364909
+        },
+        {
+          "mid": "/m/0d8cn",
+          "description": "Rainforest",
+          "score": 0.8246472,
+          "topicality": 0.21537209
+        },
+        {
+          "mid": "/m/011yvr",
+          "description": "Plantation",
+          "score": 0.7033088,
+          "topicality": 0.015940187
+        },
+        {
+          "mid": "/m/042g2h",
+          "description": "Old-growth forest",
+          "score": 0.661916,
+          "topicality": 0.0588616
+        },
+        {
+          "mid": "/m/02jvk3",
+          "description": "Valdivian temperate rain forest",
+          "score": 0.6608467,
+          "topicality": 0.0031780933
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.65410584,
+          "topicality": 0.015639726
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.65251994,
+          "topicality": 0.00990862
+        },
+        {
+          "mid": "/m/01cv9m",
+          "description": "Tropical and subtropical coniferous forests",
+          "score": 0.65128225,
+          "topicality": 0.0018100742
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6354664,
+          "topicality": 0.006668954
+        },
+        {
+          "mid": "/m/01cv98",
+          "description": "Temperate broadleaf and mixed forest",
+          "score": 0.61941415,
+          "topicality": 0.005423055
+        },
+        {
+          "mid": "/m/05gz5",
+          "description": "National park",
+          "score": 0.5316252,
+          "topicality": 0.046875775
+        }
+      ]
+    }
+  ]
+}

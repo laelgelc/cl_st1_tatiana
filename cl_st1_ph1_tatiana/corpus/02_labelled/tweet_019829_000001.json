@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06l8d",
+          "description": "Restaurant",
+          "score": 0.86035794,
+          "topicality": 0.08937607
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7758521,
+          "topicality": 0.001075249
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.73952895,
+          "topicality": 0.003514797
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.6478796,
+          "topicality": 0.008245808
+        },
+        {
+          "mid": "/m/01nz0z",
+          "description": "Bar",
+          "score": 0.5361386,
+          "topicality": 0.5605578
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99437004,
+          "topicality": 0.13985285
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9515711,
+          "topicality": 0.6588896
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.87642604,
+          "topicality": 0.14714624
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.8087714,
+          "topicality": 0.008823019
+        },
+        {
+          "mid": "/m/027qw1p",
+          "description": "Feathered hair",
+          "score": 0.58804697,
+          "topicality": 1.5542253e-05
+        }
+      ]
+    }
+  ]
+}

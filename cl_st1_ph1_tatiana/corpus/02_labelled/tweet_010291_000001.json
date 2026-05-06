@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.90090984,
+          "topicality": 0.10100389
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9001943,
+          "topicality": 0.022956276
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.76495796,
+          "topicality": 0.000723735
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.7405821,
+          "topicality": 0.011738009
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.6805885,
+          "topicality": 0.025573146
+        },
+        {
+          "mid": "/m/025s53m",
+          "description": "Rolling stock",
+          "score": 0.6238837,
+          "topicality": 3.3821434e-05
+        },
+        {
+          "mid": "/m/07jdr",
+          "description": "Train",
+          "score": 0.6219721,
+          "topicality": 0.024559425
+        }
+      ]
+    }
+  ]
+}

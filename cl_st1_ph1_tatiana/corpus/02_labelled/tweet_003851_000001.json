@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.9504554,
+          "topicality": 0.13634133
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.94894975,
+          "topicality": 0.15102525
+        },
+        {
+          "mid": "/m/07jdr",
+          "description": "Train",
+          "score": 0.88846844,
+          "topicality": 0.27370453
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.857759,
+          "topicality": 0.48069793
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.76519173,
+          "topicality": 0.021827282
+        },
+        {
+          "mid": "/m/025s53m",
+          "description": "Rolling stock",
+          "score": 0.7373469,
+          "topicality": 0.0007416545
+        },
+        {
+          "mid": "/m/06d_3",
+          "description": "Rail transport",
+          "score": 0.65421885,
+          "topicality": 0.025040748
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.6112998,
+          "topicality": 0.006093605
+        }
+      ]
+    }
+  ]
+}

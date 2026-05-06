@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.954695,
+          "topicality": 0.8198351
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.94431776,
+          "topicality": 0.0046302984
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9365837,
+          "topicality": 0.08775705
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8959461,
+          "topicality": 0.40760815
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.8598105,
+          "topicality": 0.0017550407
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.61796105,
+          "topicality": 0.00013298272
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5839204,
+          "topicality": 0.02299247
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.56256205,
+          "topicality": 0.04302827
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.55613405,
+          "topicality": 0.036094073
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.5495711,
+          "topicality": 2.0339563e-05
+        },
+        {
+          "mid": "/m/06wybl",
+          "description": "Writing implement",
+          "score": 0.5052439,
+          "topicality": 0.00020865613
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.9015978,
+          "topicality": 0.0011987755
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.86958545,
+          "topicality": 0.0352407
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6695433,
+          "topicality": 0.0012327812
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.5787808,
+          "topicality": 7.340147e-05
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.527052,
+          "topicality": 0.00027403346
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.51829183,
+          "topicality": 0.005990713
+        },
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.51198053,
+          "topicality": 0.022013688
+        }
+      ]
+    }
+  ]
+}

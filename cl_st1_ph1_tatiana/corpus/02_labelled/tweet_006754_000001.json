@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.84204215,
+          "topicality": 0.0078864265
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.792444,
+          "topicality": 0.03373954
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.62628603,
+          "topicality": 0.007394834
+        },
+        {
+          "mid": "/m/01jp3p",
+          "description": "Tradesman",
+          "score": 0.57380694,
+          "topicality": 0.003685315
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5440413,
+          "topicality": 0.005138952
+        }
+      ]
+    }
+  ]
+}

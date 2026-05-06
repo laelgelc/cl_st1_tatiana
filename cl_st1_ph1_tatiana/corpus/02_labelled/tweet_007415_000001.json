@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.75676596,
+          "topicality": 0.06666947
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7068433,
+          "topicality": 0.0023180943
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6570002,
+          "topicality": 0.0020002087
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.61174405,
+          "topicality": 2.9558194e-05
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.54753375,
+          "topicality": 0.03171898
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5230544,
+          "topicality": 0.026235765
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.5117153,
+          "topicality": 0.038952794
+        }
+      ]
+    }
+  ]
+}

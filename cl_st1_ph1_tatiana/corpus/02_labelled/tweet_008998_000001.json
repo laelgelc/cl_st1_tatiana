@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9448653,
+          "topicality": 0.121757895
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.9266993,
+          "topicality": 0.06860385
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9155992,
+          "topicality": 0.14740193
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.8571081,
+          "topicality": 0.003314123
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.8098459,
+          "topicality": 0.00031156518
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.77652425,
+          "topicality": 0.054624252
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.76919407,
+          "topicality": 0.037916303
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7234242,
+          "topicality": 0.015035865
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.66730255,
+          "topicality": 0.027482273
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.6307537,
+          "topicality": 0.00078252103
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.608179,
+          "topicality": 0.0002733454
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.5807158,
+          "topicality": 0.0025780883
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.5685804,
+          "topicality": 0.0032352076
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.5351637,
+          "topicality": 0.0030161748
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.5143195,
+          "topicality": 0.001360941
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.513782,
+          "topicality": 0.012665343
+        }
+      ]
+    }
+  ]
+}

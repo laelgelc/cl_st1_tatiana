@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9080044,
+          "topicality": 0.0019030509
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8655286,
+          "topicality": 0.016690368
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.8276442,
+          "topicality": 0.124651566
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.82134813,
+          "topicality": 0.12658739
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8083684,
+          "topicality": 0.030662274
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7960659,
+          "topicality": 0.24058156
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.79174244,
+          "topicality": 0.019576756
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.7229789,
+          "topicality": 0.114532374
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.72074145,
+          "topicality": 0.003551545
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.707932,
+          "topicality": 0.0111631695
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5698523,
+          "topicality": 0.0041718367
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5062743,
+          "topicality": 0.001909852
+        }
+      ]
+    }
+  ]
+}

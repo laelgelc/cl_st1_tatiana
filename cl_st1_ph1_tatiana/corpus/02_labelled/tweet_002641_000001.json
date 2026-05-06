@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7697787,
+          "topicality": 0.00083696865
+        },
+        {
+          "mid": "/m/02hcw1",
+          "description": "Floristry",
+          "score": 0.6515246,
+          "topicality": 0.0004861105
+        },
+        {
+          "mid": "/m/0ggjrhd",
+          "description": "Flower Arranging",
+          "score": 0.57557,
+          "topicality": 2.3533112e-05
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.55905795,
+          "topicality": 0.001054607
+        },
+        {
+          "mid": "/m/03gkl",
+          "description": "Holiday",
+          "score": 0.5059758,
+          "topicality": 0.0053592063
+        }
+      ]
+    }
+  ]
+}

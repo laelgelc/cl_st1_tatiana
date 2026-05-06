@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9577689,
+          "topicality": 0.12363774
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91210806,
+          "topicality": 0.0008038234
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.72373766,
+          "topicality": 0.0015701057
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6715676,
+          "topicality": 0.009190308
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6326845,
+          "topicality": 0.03744868
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5542426,
+          "topicality": 0.0009983459
+        }
+      ]
+    }
+  ]
+}

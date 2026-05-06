@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.71039945,
+          "topicality": 0.010497819
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.67474,
+          "topicality": 0.0018969092
+        },
+        {
+          "mid": "/m/08863x",
+          "description": "Bird's-eye view",
+          "score": 0.6422658,
+          "topicality": 0.00524601
+        },
+        {
+          "mid": "/m/0bmgjqz",
+          "description": "Sports venue",
+          "score": 0.5863727,
+          "topicality": 0.0026564451
+        },
+        {
+          "mid": "/m/019cfy",
+          "description": "Stadium",
+          "score": 0.548493,
+          "topicality": 0.03787266
+        }
+      ]
+    }
+  ]
+}

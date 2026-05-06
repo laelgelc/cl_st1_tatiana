@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.98595,
+          "topicality": 0.0026787487
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.98378164,
+          "topicality": 0.014357975
+        },
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.98255837,
+          "topicality": 6.2156214e-05
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9804533,
+          "topicality": 0.00060392893
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9793089,
+          "topicality": 0.0024124105
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9700992,
+          "topicality": 4.261595e-05
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.9671859,
+          "topicality": 0.002914128
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.7748576,
+          "topicality": 0.0007427207
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5216055,
+          "topicality": 0.016233752
+        }
+      ]
+    }
+  ]
+}

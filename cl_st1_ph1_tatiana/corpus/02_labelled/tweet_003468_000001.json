@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/015p6",
+          "description": "Bird",
+          "score": 0.8647292,
+          "topicality": 0.25686187
+        },
+        {
+          "mid": "/m/0f6x8",
+          "description": "Bird of prey",
+          "score": 0.8334336,
+          "topicality": 0.023561506
+        },
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.81961614,
+          "topicality": 0.014686256
+        },
+        {
+          "mid": "/m/07_4p",
+          "description": "Vulture",
+          "score": 0.7050919,
+          "topicality": 0.07321903
+        },
+        {
+          "mid": "/m/0m15h",
+          "description": "Accipitridae",
+          "score": 0.70018345,
+          "topicality": 0.0017367288
+        },
+        {
+          "mid": "/m/01d64p",
+          "description": "Accipitriformes",
+          "score": 0.68890303,
+          "topicality": 0.005301734
+        },
+        {
+          "mid": "/m/02w98",
+          "description": "Falconiformes",
+          "score": 0.5132881,
+          "topicality": 0.0016616131
+        }
+      ]
+    }
+  ]
+}

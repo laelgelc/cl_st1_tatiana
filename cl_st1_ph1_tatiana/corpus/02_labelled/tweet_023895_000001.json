@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.75781673,
+          "topicality": 0.002591329
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.71100587,
+          "topicality": 0.0034621335
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6235634,
+          "topicality": 0.0020963144
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5387165,
+          "topicality": 0.008552234
+        }
+      ]
+    }
+  ]
+}

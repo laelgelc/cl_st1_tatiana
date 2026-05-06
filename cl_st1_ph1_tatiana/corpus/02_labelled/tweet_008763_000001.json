@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/015p6",
+          "description": "Bird",
+          "score": 0.9569833,
+          "topicality": 0.023910016
+        },
+        {
+          "mid": "/m/05s0c",
+          "description": "Poultry",
+          "score": 0.9060622,
+          "topicality": 0.62901956
+        },
+        {
+          "mid": "/m/01295w",
+          "description": "Landfowl",
+          "score": 0.8961802,
+          "topicality": 0.007881422
+        },
+        {
+          "mid": "/m/01dy62",
+          "description": "Phasianidae",
+          "score": 0.89477605,
+          "topicality": 0.0005106241
+        },
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.8847755,
+          "topicality": 0.0010863355
+        },
+        {
+          "mid": "/m/09b5t",
+          "description": "Chicken",
+          "score": 0.8635013,
+          "topicality": 0.64256096
+        },
+        {
+          "mid": "/m/025rv6n",
+          "description": "Fowl",
+          "score": 0.82894856,
+          "topicality": 0.010681524
+        },
+        {
+          "mid": "/m/0ch8v",
+          "description": "Livestock",
+          "score": 0.7461076,
+          "topicality": 0.21957365
+        },
+        {
+          "mid": "/m/025ryqs",
+          "description": "Comb",
+          "score": 0.65806437,
+          "topicality": 0.0019529405
+        },
+        {
+          "mid": "/m/03qqnt",
+          "description": "Flightless bird",
+          "score": 0.56843716,
+          "topicality": 5.580217e-05
+        },
+        {
+          "mid": "/m/0g8p9",
+          "description": "Farm",
+          "score": 0.54047984,
+          "topicality": 0.05889048
+        },
+        {
+          "mid": "/m/0dfgf",
+          "description": "Feather",
+          "score": 0.5392194,
+          "topicality": 0.00011071999
+        }
+      ]
+    }
+  ]
+}

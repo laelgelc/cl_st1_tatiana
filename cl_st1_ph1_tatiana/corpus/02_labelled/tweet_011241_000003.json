@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.87100196,
+          "topicality": 0.0876622
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.8626556,
+          "topicality": 0.097680636
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.82314247,
+          "topicality": 0.009779957
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6789137,
+          "topicality": 0.024665184
+        },
+        {
+          "mid": "/m/0bt_c3",
+          "description": "Book",
+          "score": 0.6377758,
+          "topicality": 0.23493509
+        },
+        {
+          "mid": "/m/09xbm8",
+          "description": "Book cover",
+          "score": 0.61807644,
+          "topicality": 0.005042437
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.50194544,
+          "topicality": 0.0029836935
+        }
+      ]
+    }
+  ]
+}

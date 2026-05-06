@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494545,
+          "topicality": 0.0063698455
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9428198,
+          "topicality": 0.007568659
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9338502,
+          "topicality": 0.010005092
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9313826,
+          "topicality": 0.0032051904
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.775106,
+          "topicality": 0.0034567611
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6927676,
+          "topicality": 0.00855231
+        },
+        {
+          "mid": "/m/0fjkt",
+          "description": "Tongue",
+          "score": 0.65465015,
+          "topicality": 0.028302303
+        },
+        {
+          "mid": "/m/01f5gx",
+          "description": "Eating",
+          "score": 0.6051934,
+          "topicality": 0.005247177
+        },
+        {
+          "mid": "/m/0463cq4",
+          "description": "Crying",
+          "score": 0.59639925,
+          "topicality": 0.082854785
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.58415526,
+          "topicality": 0.041459236
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5556896,
+          "topicality": 0.011496592
+        },
+        {
+          "mid": "/m/019brn",
+          "description": "Dreadlocks",
+          "score": 0.52467763,
+          "topicality": 0.076287456
+        },
+        {
+          "mid": "/m/03qc9zr",
+          "description": "Screaming",
+          "score": 0.5218224,
+          "topicality": 0.0132158175
+        }
+      ]
+    }
+  ]
+}

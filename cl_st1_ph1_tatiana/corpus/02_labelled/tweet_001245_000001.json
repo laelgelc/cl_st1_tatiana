@@ -1,0 +1,128 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.95912063,
+          "topicality": 0.13167806
+        },
+        {
+          "mid": "/m/01k0mv",
+          "description": "Road surface",
+          "score": 0.9551609,
+          "topicality": 0.00089268736
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.9509048,
+          "topicality": 0.09215557
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.9493413,
+          "topicality": 0.05463466
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.94494104,
+          "topicality": 0.011726497
+        },
+        {
+          "mid": "/m/0dx1j",
+          "description": "Town",
+          "score": 0.9290304,
+          "topicality": 0.010233172
+        },
+        {
+          "mid": "/m/019sc6",
+          "description": "Lighting",
+          "score": 0.9224195,
+          "topicality": 0.01988973
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.92096114,
+          "topicality": 0.120635234
+        },
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.9156153,
+          "topicality": 0.012742456
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9115706,
+          "topicality": 0.20348457
+        },
+        {
+          "mid": "/m/033rq4",
+          "description": "Street light",
+          "score": 0.8784303,
+          "topicality": 0.05046682
+        },
+        {
+          "mid": "/m/01kv7h",
+          "description": "Midnight",
+          "score": 0.8564817,
+          "topicality": 0.013237773
+        },
+        {
+          "mid": "/m/056mk",
+          "description": "Metropolis",
+          "score": 0.8445954,
+          "topicality": 0.011186053
+        },
+        {
+          "mid": "/m/02lts",
+          "description": "Electricity",
+          "score": 0.8392073,
+          "topicality": 0.00029435873
+        },
+        {
+          "mid": "/m/07jb1c",
+          "description": "Security lighting",
+          "score": 0.75354576,
+          "topicality": 0.0016232082
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7434876,
+          "topicality": 0.016627349
+        },
+        {
+          "mid": "/m/08jpwt",
+          "description": "Light fixture",
+          "score": 0.7237834,
+          "topicality": 0.0015912943
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.67229885,
+          "topicality": 0.036947183
+        },
+        {
+          "mid": "/m/01wkk9",
+          "description": "Town square",
+          "score": 0.6714689,
+          "topicality": 0.1749206
+        },
+        {
+          "mid": "/m/01klb9",
+          "description": "Plaza",
+          "score": 0.6012035,
+          "topicality": 0.090489976
+        }
+      ]
+    }
+  ]
+}

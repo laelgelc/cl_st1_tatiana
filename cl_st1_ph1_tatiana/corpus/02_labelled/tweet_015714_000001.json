@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/015p6",
+          "description": "Bird",
+          "score": 0.99249035,
+          "topicality": 0.14380424
+        },
+        {
+          "mid": "/m/09b5t",
+          "description": "Chicken",
+          "score": 0.9740891,
+          "topicality": 0.9027481
+        },
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.9740199,
+          "topicality": 0.016956473
+        },
+        {
+          "mid": "/m/09686",
+          "description": "Vertebrate",
+          "score": 0.96160847,
+          "topicality": 0.0050839423
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.9570752,
+          "topicality": 0.00013383185
+        },
+        {
+          "mid": "/m/01dy62",
+          "description": "Phasianidae",
+          "score": 0.9550883,
+          "topicality": 0.0028670216
+        },
+        {
+          "mid": "/m/01295w",
+          "description": "Landfowl",
+          "score": 0.9532686,
+          "topicality": 0.028942194
+        },
+        {
+          "mid": "/m/025rv6n",
+          "description": "Fowl",
+          "score": 0.9076104,
+          "topicality": 0.052539162
+        },
+        {
+          "mid": "/m/05s0c",
+          "description": "Poultry",
+          "score": 0.90190953,
+          "topicality": 0.44039822
+        },
+        {
+          "mid": "/m/025ryqs",
+          "description": "Comb",
+          "score": 0.8611061,
+          "topicality": 0.056409176
+        },
+        {
+          "mid": "/m/0ch8v",
+          "description": "Livestock",
+          "score": 0.8311202,
+          "topicality": 0.12870458
+        },
+        {
+          "mid": "/m/0dfgf",
+          "description": "Feather",
+          "score": 0.80362844,
+          "topicality": 0.00058921135
+        },
+        {
+          "mid": "/m/03qqnt",
+          "description": "Flightless bird",
+          "score": 0.7554787,
+          "topicality": 0.00022115202
+        },
+        {
+          "mid": "/m/06z_nw",
+          "description": "Tail",
+          "score": 0.5901209,
+          "topicality": 0.0041190046
+        }
+      ]
+    }
+  ]
+}

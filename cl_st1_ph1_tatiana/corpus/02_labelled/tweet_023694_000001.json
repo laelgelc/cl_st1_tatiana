@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9535574,
+          "topicality": 0.007214327
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.7515282,
+          "topicality": 0.0005645846
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.69134194,
+          "topicality": 0.00026980304
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.5983913,
+          "topicality": 0.033987824
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.59753746,
+          "topicality": 0.10937314
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5894828,
+          "topicality": 0.16018079
+        }
+      ]
+    }
+  ]
+}

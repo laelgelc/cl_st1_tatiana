@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.79523647,
+          "topicality": 0.07607961
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.6659436,
+          "topicality": 0.095008925
+        },
+        {
+          "mid": "/m/05b086",
+          "description": "Television studio",
+          "score": 0.6273893,
+          "topicality": 0.05311221
+        },
+        {
+          "mid": "/m/07z226",
+          "description": "Broadcasting",
+          "score": 0.54292196,
+          "topicality": 0.0015009078
+        }
+      ]
+    }
+  ]
+}

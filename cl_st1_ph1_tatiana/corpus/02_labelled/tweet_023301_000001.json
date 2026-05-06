@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "Building",
+          "score": 0.97493917,
+          "topicality": 0.04938964
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.9583147,
+          "topicality": 0.0014529027
+        },
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.94513136,
+          "topicality": 0.015463515
+        },
+        {
+          "mid": "/m/0dx1j",
+          "description": "Town",
+          "score": 0.9263059,
+          "topicality": 0.0029766278
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.91657263,
+          "topicality": 0.00071664696
+        },
+        {
+          "mid": "/m/06bdpk",
+          "description": "Academic institution",
+          "score": 0.7179505,
+          "topicality": 0.0015296342
+        },
+        {
+          "mid": "/m/014cnc",
+          "description": "Student",
+          "score": 0.6957987,
+          "topicality": 0.03788793
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.6273204,
+          "topicality": 0.20153752
+        },
+        {
+          "mid": "/m/07tf8",
+          "description": "University",
+          "score": 0.5540273,
+          "topicality": 0.18807961
+        }
+      ]
+    }
+  ]
+}

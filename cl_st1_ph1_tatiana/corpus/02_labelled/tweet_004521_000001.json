@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7371483,
+          "topicality": 0.00095919473
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7339951,
+          "topicality": 0.0027555416
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.5034005,
+          "topicality": 0.0010084223
+        }
+      ]
+    }
+  ]
+}

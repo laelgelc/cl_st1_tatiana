@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.70762634,
+          "topicality": 0.0039910898
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.69837266,
+          "topicality": 0.0004511281
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6413838,
+          "topicality": 0.00028674415
+        },
+        {
+          "mid": "/m/01dqkc",
+          "description": "Pest",
+          "score": 0.58686894,
+          "topicality": 0.008408728
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.567845,
+          "topicality": 0.011896341
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.54769456,
+          "topicality": 0.0017980058
+        }
+      ]
+    }
+  ]
+}

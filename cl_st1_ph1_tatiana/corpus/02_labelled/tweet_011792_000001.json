@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449494,
+          "topicality": 0.06462656
+        },
+        {
+          "mid": "/m/0215n",
+          "description": "Cartoon",
+          "score": 0.92509943,
+          "topicality": 0.6023006
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.8815721,
+          "topicality": 0.08384692
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.87148136,
+          "topicality": 0.1617529
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.77410096,
+          "topicality": 0.0032198646
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7443034,
+          "topicality": 0.0036362216
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.6992607,
+          "topicality": 0.006073434
+        },
+        {
+          "mid": "/m/03g09t",
+          "description": "Clip art",
+          "score": 0.67960757,
+          "topicality": 0.07984895
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.65888774,
+          "topicality": 0.0050844923
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.62046885,
+          "topicality": 0.0014006903
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.6084131,
+          "topicality": 0.0019063642
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.51258767,
+          "topicality": 0.013834602
+        }
+      ]
+    }
+  ]
+}

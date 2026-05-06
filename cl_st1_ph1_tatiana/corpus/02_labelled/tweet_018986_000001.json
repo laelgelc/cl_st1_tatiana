@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.86590064,
+          "topicality": 0.00837773
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8491175,
+          "topicality": 0.017952299
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.7785417,
+          "topicality": 4.4867615e-05
+        },
+        {
+          "mid": "/m/03cvmmd",
+          "description": "Suit trousers",
+          "score": 0.6539448,
+          "topicality": 0.00019087808
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.64589006,
+          "topicality": 4.2156051e-07
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5650939,
+          "topicality": 0.0014555064
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.55423796,
+          "topicality": 6.6374225e-05
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5411794,
+          "topicality": 0.00038052176
+        }
+      ]
+    }
+  ]
+}

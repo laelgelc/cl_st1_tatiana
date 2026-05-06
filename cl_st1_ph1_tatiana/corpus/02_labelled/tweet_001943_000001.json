@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.92786497,
+          "topicality": 0.0003257403
+        },
+        {
+          "mid": "/m/0ggjh_8",
+          "description": "Cameras & optics",
+          "score": 0.8401764,
+          "topicality": 0.0001253123
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.7533648,
+          "topicality": 0.0008712814
+        },
+        {
+          "mid": "/m/0dv5r",
+          "description": "Camera",
+          "score": 0.7454985,
+          "topicality": 0.026454689
+        },
+        {
+          "mid": "/m/025t6n0",
+          "description": "Video camera",
+          "score": 0.7407259,
+          "topicality": 0.029128494
+        },
+        {
+          "mid": "/m/07z226",
+          "description": "Broadcasting",
+          "score": 0.58875453,
+          "topicality": 0.023665171
+        }
+      ]
+    }
+  ]
+}

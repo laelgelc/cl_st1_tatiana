@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.6514386,
+          "topicality": 1.6505464e-05
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.63799495,
+          "topicality": 0.00016046531
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.6145679,
+          "topicality": 0.0004308105
+        },
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.5845871,
+          "topicality": 0.07058857
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.56530625,
+          "topicality": 0.005878732
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.50638133,
+          "topicality": 0.0007056048
+        }
+      ]
+    }
+  ]
+}

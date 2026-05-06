@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90422386,
+          "topicality": 0.00021415137
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.75045055,
+          "topicality": 0.0008506669
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7047094,
+          "topicality": 0.009838111
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6576935,
+          "topicality": 0.024870055
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.52737004,
+          "topicality": 0.00046969278
+        }
+      ]
+    }
+  ]
+}

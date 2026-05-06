@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.97383034,
+          "topicality": 0.029418707
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97136194,
+          "topicality": 0.104103595
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9313238,
+          "topicality": 0.036326285
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9190576,
+          "topicality": 0.019121867
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.86160785,
+          "topicality": 0.014125408
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6757986,
+          "topicality": 9.3537754e-05
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.65256286,
+          "topicality": 0.0033845904
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.64359426,
+          "topicality": 8.706668e-05
+        },
+        {
+          "mid": "/m/0hgntgw",
+          "description": "Active Tank",
+          "score": 0.63122445,
+          "topicality": 2.9507894e-06
+        }
+      ]
+    }
+  ]
+}

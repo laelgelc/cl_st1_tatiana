@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.9878812,
+          "topicality": 0.0027645251
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.9119261,
+          "topicality": 0.40813497
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.85764635,
+          "topicality": 0.030575296
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.8088126,
+          "topicality": 0.05211227
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.7686085,
+          "topicality": 0.0021091981
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.73850244,
+          "topicality": 0.002644082
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6865453,
+          "topicality": 0.00015799387
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6501271,
+          "topicality": 0.0005638073
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5287112,
+          "topicality": 0.0006585039
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5279175,
+          "topicality": 0.013542019
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.5234092,
+          "topicality": 0.00030648545
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.51343787,
+          "topicality": 0.08396204
+        }
+      ]
+    }
+  ]
+}

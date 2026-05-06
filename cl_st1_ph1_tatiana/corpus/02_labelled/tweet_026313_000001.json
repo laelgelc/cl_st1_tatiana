@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.911602,
+          "topicality": 0.00039717322
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.7723957,
+          "topicality": 0.0041941465
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.74297297,
+          "topicality": 0.21305324
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.71996206,
+          "topicality": 0.00071736344
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.68244356,
+          "topicality": 0.19897756
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.66200227,
+          "topicality": 0.007730156
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5948332,
+          "topicality": 0.001120781
+        }
+      ]
+    }
+  ]
+}

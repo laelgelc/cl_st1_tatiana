@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.83583057,
+          "topicality": 0.0024635503
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.76824856,
+          "topicality": 0.00092958467
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.74602425,
+          "topicality": 0.021634143
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.65670985,
+          "topicality": 0.007239369
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.61041385,
+          "topicality": 0.0033702415
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5245276,
+          "topicality": 0.00017895218
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.514536,
+          "topicality": 0.0061134566
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.512918,
+          "topicality": 0.0055495114
+        }
+      ]
+    }
+  ]
+}

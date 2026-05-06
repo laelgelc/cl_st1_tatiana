@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9581441,
+          "topicality": 0.020084241
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8337318,
+          "topicality": 0.0033856966
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.81322426,
+          "topicality": 0.0044392175
+        },
+        {
+          "mid": "/m/01yh65",
+          "description": "Woolen",
+          "score": 0.65743715,
+          "topicality": 9.836441e-06
+        },
+        {
+          "mid": "/m/09kxp",
+          "description": "Wool",
+          "score": 0.56085724,
+          "topicality": 0.00011577233
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.55770105,
+          "topicality": 0.09757894
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.54194415,
+          "topicality": 0.06978217
+        }
+      ]
+    }
+  ]
+}

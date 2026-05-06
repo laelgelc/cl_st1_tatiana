@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.8480977,
+          "topicality": 0.000780431
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7909591,
+          "topicality": 0.78168327
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.721064,
+          "topicality": 0.0012084139
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6991925,
+          "topicality": 0.009647621
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6858941,
+          "topicality": 0.064538635
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5233142,
+          "topicality": 0.14096446
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5186045,
+          "topicality": 0.009993259
+        }
+      ]
+    }
+  ]
+}

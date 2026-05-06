@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.80487794,
+          "topicality": 0.0016515396
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.66596454,
+          "topicality": 0.006554949
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.65856487,
+          "topicality": 0.03596809
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6220014,
+          "topicality": 0.009807314
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58368444,
+          "topicality": 0.03708662
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.5103431,
+          "topicality": 0.05531371
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.5051397,
+          "topicality": 0.15491883
+        }
+      ]
+    }
+  ]
+}

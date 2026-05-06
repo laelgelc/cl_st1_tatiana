@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9543082,
+          "topicality": 0.07564561
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90921986,
+          "topicality": 0.0016295743
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.83266646,
+          "topicality": 0.007010635
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7322136,
+          "topicality": 0.14795022
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.6910753,
+          "topicality": 0.11111081
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6596018,
+          "topicality": 0.027700825
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5329481,
+          "topicality": 0.024159977
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98911375,
+          "topicality": 0.0017401223
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.94721824,
+          "topicality": 0.0036310377
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.92701757,
+          "topicality": 0.10894111
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.91704285,
+          "topicality": 0.007632011
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.89518774,
+          "topicality": 0.0013651286
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.612088,
+          "topicality": 0.011384464
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.59569967,
+          "topicality": 0.10951008
+        }
+      ]
+    }
+  ]
+}

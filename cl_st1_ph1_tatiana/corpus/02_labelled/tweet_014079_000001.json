@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7418701,
+          "topicality": 0.00086931395
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.72802854,
+          "topicality": 0.026938194
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.660797,
+          "topicality": 0.0017358435
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.54655486,
+          "topicality": 0.0012277862
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.54111314,
+          "topicality": 0.00954156
+        }
+      ]
+    }
+  ]
+}

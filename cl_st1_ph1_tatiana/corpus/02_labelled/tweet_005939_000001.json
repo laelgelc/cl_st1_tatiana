@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.82317185,
+          "topicality": 0.045832366
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.74134475,
+          "topicality": 0.084268
+        },
+        {
+          "mid": "/m/0cl6l",
+          "description": "Straw",
+          "score": 0.58702093,
+          "topicality": 0.06808521
+        }
+      ]
+    }
+  ]
+}

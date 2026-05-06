@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9769964,
+          "topicality": 0.009643065
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9704993,
+          "topicality": 0.119415246
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9364083,
+          "topicality": 0.0037476916
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9276145,
+          "topicality": 0.004642225
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8798939,
+          "topicality": 0.0014493942
+        },
+        {
+          "mid": "/m/01613k",
+          "description": "Holding hands",
+          "score": 0.82536477,
+          "topicality": 0.04339425
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8043084,
+          "topicality": 0.0010039933
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.686572,
+          "topicality": 0.00091452175
+        },
+        {
+          "mid": "/m/0dzb2",
+          "description": "Vein",
+          "score": 0.5923514,
+          "topicality": 0.007976924
+        }
+      ]
+    }
+  ]
+}

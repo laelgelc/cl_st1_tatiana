@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.8792183,
+          "topicality": 0.04414722
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6896071,
+          "topicality": 0.0024383548
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.61983836,
+          "topicality": 0.0048078177
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.59616786,
+          "topicality": 0.35532147
+        },
+        {
+          "mid": "/m/06xzh",
+          "description": "Sleep",
+          "score": 0.517395,
+          "topicality": 0.054200623
+        }
+      ]
+    }
+  ]
+}

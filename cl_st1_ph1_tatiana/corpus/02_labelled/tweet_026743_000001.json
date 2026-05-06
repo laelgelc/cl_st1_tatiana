@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.9259141,
+          "topicality": 0.16603127
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.90554214,
+          "topicality": 0.0038586247
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.90046346,
+          "topicality": 0.00031017544
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9003641,
+          "topicality": 0.23897927
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.88793856,
+          "topicality": 0.13059404
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.84896886,
+          "topicality": 0.02114071
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.84444046,
+          "topicality": 0.0015755825
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.83771646,
+          "topicality": 0.09569296
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.81770366,
+          "topicality": 0.20250906
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.80205774,
+          "topicality": 0.013785895
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.7808712,
+          "topicality": 0.0041986317
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.75751233,
+          "topicality": 0.073921934
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7234338,
+          "topicality": 0.010865037
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7063383,
+          "topicality": 0.05011383
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.5477172,
+          "topicality": 0.023747757
+        },
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.54046506,
+          "topicality": 0.00051668443
+        }
+      ]
+    }
+  ]
+}

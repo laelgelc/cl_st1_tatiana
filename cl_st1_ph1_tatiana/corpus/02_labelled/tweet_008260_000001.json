@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01vw0_",
+          "description": "Grave",
+          "score": 0.9280853,
+          "topicality": 0.5441276
+        },
+        {
+          "mid": "/m/02q3d5",
+          "description": "Memorial",
+          "score": 0.9221535,
+          "topicality": 0.027209954
+        },
+        {
+          "mid": "/m/0h36z",
+          "description": "Cemetery",
+          "score": 0.8763516,
+          "topicality": 0.6534801
+        },
+        {
+          "mid": "/m/02vk6x",
+          "description": "Headstone",
+          "score": 0.8612736,
+          "topicality": 0.11180815
+        },
+        {
+          "mid": "/m/0ggjrhd",
+          "description": "Flower Arranging",
+          "score": 0.7004369,
+          "topicality": 3.938763e-05
+        },
+        {
+          "mid": "/m/02hcw1",
+          "description": "Floristry",
+          "score": 0.6465666,
+          "topicality": 0.00078739005
+        },
+        {
+          "mid": "/m/06gjp9",
+          "description": "Floral design",
+          "score": 0.5429956,
+          "topicality": 7.961058e-05
+        },
+        {
+          "mid": "/m/0ds61d1",
+          "description": "Cut flowers",
+          "score": 0.50731224,
+          "topicality": 0.0001012469
+        }
+      ]
+    }
+  ]
+}

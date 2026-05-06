@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.8334343,
+          "topicality": 0.108052656
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.73606473,
+          "topicality": 0.01915993
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.72803324,
+          "topicality": 0.007139734
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.6017026,
+          "topicality": 0.053999737
+        }
+      ]
+    }
+  ]
+}

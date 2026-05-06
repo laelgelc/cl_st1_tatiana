@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.8592778,
+          "topicality": 0.0031339503
+        },
+        {
+          "mid": "/m/09j9h",
+          "description": "Engineer",
+          "score": 0.8473672,
+          "topicality": 0.06947929
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.8441899,
+          "topicality": 0.015086226
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.83854556,
+          "topicality": 0.08178999
+        },
+        {
+          "mid": "/m/03rnh",
+          "description": "Industry",
+          "score": 0.7317982,
+          "topicality": 0.09671766
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.7092702,
+          "topicality": 0.011445027
+        },
+        {
+          "mid": "/m/01n5_8",
+          "description": "Hard hat",
+          "score": 0.69340855,
+          "topicality": 0.0007669479
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.6434079,
+          "topicality": 0.09207471
+        },
+        {
+          "mid": "/m/047x57",
+          "description": "Construction worker",
+          "score": 0.58822876,
+          "topicality": 0.0070495494
+        },
+        {
+          "mid": "/m/01jp3p",
+          "description": "Tradesman",
+          "score": 0.5799936,
+          "topicality": 0.0067394027
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52747273,
+          "topicality": 0.00782218
+        },
+        {
+          "mid": "/m/0156dy",
+          "description": "Project",
+          "score": 0.5040837,
+          "topicality": 0.06763139
+        }
+      ]
+    }
+  ]
+}

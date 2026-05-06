@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.72926563,
+          "topicality": 0.041247793
+        },
+        {
+          "mid": "/m/0bk_y7",
+          "description": "Bermuda shorts",
+          "score": 0.6840321,
+          "topicality": 2.7432714e-05
+        },
+        {
+          "mid": "/m/031n1",
+          "description": "Foot",
+          "score": 0.67672503,
+          "topicality": 0.008888673
+        },
+        {
+          "mid": "/m/025t3bg",
+          "description": "Air travel",
+          "score": 0.5295728,
+          "topicality": 0.0028060402
+        },
+        {
+          "mid": "/m/03nfch",
+          "description": "Sandal",
+          "score": 0.5290844,
+          "topicality": 0.002708841
+        }
+      ]
+    }
+  ]
+}

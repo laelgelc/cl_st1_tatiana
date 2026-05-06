@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.8149097,
+          "topicality": 0.00046814486
+        },
+        {
+          "mid": "/m/01lrnl",
+          "description": "Windshield",
+          "score": 0.7855927,
+          "topicality": 0.0005804576
+        },
+        {
+          "mid": "/m/0kw6d",
+          "description": "Driving",
+          "score": 0.69871867,
+          "topicality": 0.04271996
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.60883075,
+          "topicality": 7.6843826e-05
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.56651354,
+          "topicality": 0.0095366845
+        },
+        {
+          "mid": "/m/03b6_4",
+          "description": "Steering wheel",
+          "score": 0.51926917,
+          "topicality": 0.0047881557
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.5007977,
+          "topicality": 0.000977959
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9072465,
+          "topicality": 0.0004189291
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.815079,
+          "topicality": 0.010527852
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8068773,
+          "topicality": 0.015747257
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.67051554,
+          "topicality": 0.03126141
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5301857,
+          "topicality": 0.014101285
+        }
+      ]
+    }
+  ]
+}

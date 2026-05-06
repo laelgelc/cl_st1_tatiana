@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9558667,
+          "topicality": 0.10649356
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9496533,
+          "topicality": 0.0011857054
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944895,
+          "topicality": 0.00055263896
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.9269661,
+          "topicality": 0.0018080318
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.9137434,
+          "topicality": 0.0058379625
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7503045,
+          "topicality": 0.003295287
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7313292,
+          "topicality": 0.001098577
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5082601,
+          "topicality": 0.0026634987
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.50739586,
+          "topicality": 0.0021577908
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.5045341,
+          "topicality": 0.021441355
+        }
+      ]
+    }
+  ]
+}

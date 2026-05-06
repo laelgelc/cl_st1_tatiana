@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.9329195,
+          "topicality": 0.2447841
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.9242254,
+          "topicality": 0.1349592
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.79654276,
+          "topicality": 0.2409284
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.7945313,
+          "topicality": 0.002750402
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7479857,
+          "topicality": 0.01807742
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.69213396,
+          "topicality": 0.001758419
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.5958518,
+          "topicality": 0.000118895296
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.5485851,
+          "topicality": 0.0008720383
+        },
+        {
+          "mid": "/m/02q1b85",
+          "description": "Boarding",
+          "score": 0.54030263,
+          "topicality": 0.015115699
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5390687,
+          "topicality": 0.0003346542
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.5034677,
+          "topicality": 0.050758336
+        }
+      ]
+    }
+  ]
+}

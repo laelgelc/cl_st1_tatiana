@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.8414002,
+          "topicality": 0.0004185493
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.76712894,
+          "topicality": 8.94025e-05
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.7620594,
+          "topicality": 0.123994015
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.70446163,
+          "topicality": 0.0006986979
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6358543,
+          "topicality": 0.013053687
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.908129,
+          "topicality": 0.7919891
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.85280275,
+          "topicality": 0.25779974
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.8379323,
+          "topicality": 0.009417369
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7393996,
+          "topicality": 0.1857252
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7391873,
+          "topicality": 0.0026436832
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7215399,
+          "topicality": 0.03266061
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.70127666,
+          "topicality": 0.4127249
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.6906916,
+          "topicality": 0.0012356695
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.6360019,
+          "topicality": 0.001270456
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6308844,
+          "topicality": 0.00024802663
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6080887,
+          "topicality": 0.0024339594
+        },
+        {
+          "mid": "/m/01cndb",
+          "description": "Stationery",
+          "score": 0.54210234,
+          "topicality": 0.0035204026
+        },
+        {
+          "mid": "/m/033rv2",
+          "description": "Cardboard Packaging",
+          "score": 0.5414674,
+          "topicality": 6.875022e-05
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.5062164,
+          "topicality": 0.021638354
+        }
+      ]
+    }
+  ]
+}

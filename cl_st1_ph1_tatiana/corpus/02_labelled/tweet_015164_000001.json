@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7314429,
+          "topicality": 0.08926313
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7160156,
+          "topicality": 0.005895362
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.62891513,
+          "topicality": 0.002790447
+        },
+        {
+          "mid": "/m/01d30f",
+          "description": "Teacher",
+          "score": 0.59148645,
+          "topicality": 0.039659213
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.54203284,
+          "topicality": 0.00095956866
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52987254,
+          "topicality": 0.0030287053
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cjl",
+          "description": "Airport",
+          "score": 0.7605252,
+          "topicality": 0.6454068
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.53429806,
+          "topicality": 0.004888909
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.50411,
+          "topicality": 0.0023627938
+        }
+      ]
+    }
+  ]
+}

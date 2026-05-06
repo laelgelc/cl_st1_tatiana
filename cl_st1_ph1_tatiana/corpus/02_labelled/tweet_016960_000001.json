@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.63521254,
+          "topicality": 0.011987605
+        },
+        {
+          "mid": "/m/0bmgjqz",
+          "description": "Sports venue",
+          "score": 0.61377996,
+          "topicality": 0.0026616564
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.572856,
+          "topicality": 0.0024178836
+        },
+        {
+          "mid": "/m/019cfy",
+          "description": "Stadium",
+          "score": 0.547465,
+          "topicality": 0.009614305
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.5473781,
+          "topicality": 0.010657797
+        },
+        {
+          "mid": "/m/02w3hl",
+          "description": "Award",
+          "score": 0.50031555,
+          "topicality": 0.0070130615
+        }
+      ]
+    }
+  ]
+}

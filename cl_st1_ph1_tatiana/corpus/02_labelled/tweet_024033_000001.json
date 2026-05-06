@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8701829,
+          "topicality": 0.008821682
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.68434834,
+          "topicality": 0.008707536
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6171635,
+          "topicality": 0.030326117
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5196693,
+          "topicality": 0.00061739545
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5105378,
+          "topicality": 0.004968006
+        }
+      ]
+    }
+  ]
+}

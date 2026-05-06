@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9455434,
+          "topicality": 0.123391196
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.92017865,
+          "topicality": 0.07257659
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.91258603,
+          "topicality": 0.13070571
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.874315,
+          "topicality": 0.0030341628
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.85157424,
+          "topicality": 0.00029409307
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.76870763,
+          "topicality": 0.03400908
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.72612,
+          "topicality": 0.0737936
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.67069805,
+          "topicality": 0.02358876
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.66742086,
+          "topicality": 0.0006985
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.65341336,
+          "topicality": 0.010480154
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.6466932,
+          "topicality": 0.0001997979
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.5839352,
+          "topicality": 0.0031306646
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.5505614,
+          "topicality": 0.015417033
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.53856456,
+          "topicality": 0.0031931398
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95258635,
+          "topicality": 0.009546528
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.84107894,
+          "topicality": 0.0021420622
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8142931,
+          "topicality": 0.020366095
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7320943,
+          "topicality": 0.00014109322
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7270647,
+          "topicality": 0.1355549
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.646036,
+          "topicality": 0.18942527
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.6282483,
+          "topicality": 0.16257305
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.567379,
+          "topicality": 4.3485914e-05
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.5567247,
+          "topicality": 0.06238539
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54185164,
+          "topicality": 0.033823125
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.5144109,
+          "topicality": 0.014341215
+        }
+      ]
+    }
+  ]
+}

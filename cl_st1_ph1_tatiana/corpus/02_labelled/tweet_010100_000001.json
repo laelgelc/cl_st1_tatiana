@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.95140594,
+          "topicality": 0.0066177193
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.93946594,
+          "topicality": 0.41536427
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.9356688,
+          "topicality": 0.15578662
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.92722285,
+          "topicality": 0.06893301
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.8981809,
+          "topicality": 0.25085205
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8909536,
+          "topicality": 0.0062268754
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.8484544,
+          "topicality": 0.34780252
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.73209524,
+          "topicality": 9.921328e-05
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6926202,
+          "topicality": 0.041775897
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.62288016,
+          "topicality": 0.0028787185
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.61453956,
+          "topicality": 0.11591015
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.541757,
+          "topicality": 0.00068264257
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.9426502,
+          "topicality": 0.017619593
+        },
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.8671538,
+          "topicality": 0.025866047
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.86546826,
+          "topicality": 0.02308807
+        },
+        {
+          "mid": "/m/0c1vxg",
+          "description": "Mixed-use",
+          "score": 0.81235945,
+          "topicality": 0.0026020706
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.798972,
+          "topicality": 0.056784306
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7615768,
+          "topicality": 0.04257813
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.7405115,
+          "topicality": 0.0018206703
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.6211344,
+          "topicality": 0.04468306
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.61466205,
+          "topicality": 0.015704412
+        },
+        {
+          "mid": "/m/047q30j",
+          "description": "Eco hotel",
+          "score": 0.589387,
+          "topicality": 0.0023838778
+        },
+        {
+          "mid": "/m/05zdsq",
+          "description": "California palm",
+          "score": 0.5609184,
+          "topicality": 0.00017630126
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5498423,
+          "topicality": 0.0034252992
+        }
+      ]
+    }
+  ]
+}

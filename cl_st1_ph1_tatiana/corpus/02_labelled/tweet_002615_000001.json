@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.98435986,
+          "topicality": 0.011997905
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.97874856,
+          "topicality": 0.03975805
+        },
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9780514,
+          "topicality": 0.0006396567
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.97486115,
+          "topicality": 0.027070994
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9680391,
+          "topicality": 0.00064062
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.9624525,
+          "topicality": 0.020108655
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8695511,
+          "topicality": 0.00047123362
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.7315571,
+          "topicality": 0.001164687
+        }
+      ]
+    }
+  ]
+}

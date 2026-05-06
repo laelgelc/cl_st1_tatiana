@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.6909516,
+          "topicality": 0.00022680128
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6410376,
+          "topicality": 0.01669324
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6232696,
+          "topicality": 0.004193027
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.6165377,
+          "topicality": 0.0007674243
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.53942305,
+          "topicality": 0.00019250059
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.5090025,
+          "topicality": 0.00034545895
+        }
+      ]
+    }
+  ]
+}

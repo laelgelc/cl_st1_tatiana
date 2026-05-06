@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07jdr",
+          "description": "Train",
+          "score": 0.94923484,
+          "topicality": 0.36894903
+        },
+        {
+          "mid": "/m/025s53m",
+          "description": "Rolling stock",
+          "score": 0.92484295,
+          "topicality": 0.028183162
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.896454,
+          "topicality": 0.08816827
+        },
+        {
+          "mid": "/m/0467y7",
+          "description": "Passenger car",
+          "score": 0.8468279,
+          "topicality": 0.009480522
+        },
+        {
+          "mid": "/m/06d_3",
+          "description": "Rail transport",
+          "score": 0.807132,
+          "topicality": 0.06648027
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.69607186,
+          "topicality": 0.2259946
+        },
+        {
+          "mid": "/m/01g50p",
+          "description": "Railroad car",
+          "score": 0.6931226,
+          "topicality": 0.026503883
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5595185,
+          "topicality": 0.03387998
+        },
+        {
+          "mid": "/m/01pmdg",
+          "description": "Electric vehicle",
+          "score": 0.5368131,
+          "topicality": 1.7459799e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9734212,
+          "topicality": 0.008903009
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.87864,
+          "topicality": 0.00028807396
+        },
+        {
+          "mid": "/m/02jjt",
+          "description": "Entertainment",
+          "score": 0.79816115,
+          "topicality": 0.0030485892
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.57632947,
+          "topicality": 0.0007924847
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.53971153,
+          "topicality": 3.2072618e-05
+        },
+        {
+          "mid": "/m/05qjc",
+          "description": "Performing Arts",
+          "score": 0.53317493,
+          "topicality": 0.0014518946
+        }
+      ]
+    }
+  ]
+}

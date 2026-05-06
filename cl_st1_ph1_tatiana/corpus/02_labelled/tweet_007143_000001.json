@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8619834,
+          "topicality": 0.0034659652
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7213189,
+          "topicality": 0.004575981
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6097755,
+          "topicality": 0.038184654
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6018629,
+          "topicality": 0.011651691
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.59136915,
+          "topicality": 7.6172175e-05
+        },
+        {
+          "mid": "/m/05gqfk",
+          "description": "Plastic bag",
+          "score": 0.5806525,
+          "topicality": 0.027787345
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5726982,
+          "topicality": 0.002365485
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.5282386,
+          "topicality": 0.43110764
+        }
+      ]
+    }
+  ]
+}

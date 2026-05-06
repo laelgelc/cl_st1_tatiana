@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.7137301,
+          "topicality": 0.002088869
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.6382832,
+          "topicality": 0.20366646
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6302352,
+          "topicality": 0.012660143
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5925475,
+          "topicality": 0.0020563696
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5469294,
+          "topicality": 0.038784854
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.533533,
+          "topicality": 0.01244988
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.52008265,
+          "topicality": 0.025249058
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9793267,
+          "topicality": 0.0044972524
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.72582847,
+          "topicality": 0.00030947186
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.63003963,
+          "topicality": 0.01260613
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.557919,
+          "topicality": 0.00032491316
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.5414772,
+          "topicality": 0.00042955932
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5015224,
+          "topicality": 0.006554559
+        }
+      ]
+    }
+  ]
+}

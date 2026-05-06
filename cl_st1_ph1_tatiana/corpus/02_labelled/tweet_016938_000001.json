@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.80120826,
+          "topicality": 0.20655511
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.77612334,
+          "topicality": 0.13931097
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.69401973,
+          "topicality": 0.0005324222
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.66619015,
+          "topicality": 0.006775971
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.60415924,
+          "topicality": 0.011875099
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.54659647,
+          "topicality": 0.0009835473
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52592224,
+          "topicality": 0.00534645
+        }
+      ]
+    }
+  ]
+}

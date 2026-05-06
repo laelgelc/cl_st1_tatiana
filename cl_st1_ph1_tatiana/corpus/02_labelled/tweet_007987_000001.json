@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.9257467,
+          "topicality": 0.12907021
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.87668765,
+          "topicality": 0.29047906
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.87575525,
+          "topicality": 0.019336741
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.8743237,
+          "topicality": 0.06336503
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.873156,
+          "topicality": 0.0019794716
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.8355849,
+          "topicality": 0.0020194014
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.82103735,
+          "topicality": 0.0010086797
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.80930656,
+          "topicality": 0.027883114
+        },
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.8015537,
+          "topicality": 0.03154966
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.75098914,
+          "topicality": 0.0016282996
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.7309812,
+          "topicality": 0.0039019794
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6047012,
+          "topicality": 0.043244906
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58867866,
+          "topicality": 0.009715622
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5736671,
+          "topicality": 0.00063678256
+        }
+      ]
+    }
+  ]
+}

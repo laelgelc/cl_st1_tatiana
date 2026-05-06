@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.8853672,
+          "topicality": 0.0015561039
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7690535,
+          "topicality": 0.03154566
+        },
+        {
+          "mid": "/m/02h19r",
+          "description": "Scarf",
+          "score": 0.7436318,
+          "topicality": 0.0007888511
+        },
+        {
+          "mid": "/m/027qw1p",
+          "description": "Feathered hair",
+          "score": 0.5480337,
+          "topicality": 1.1973737e-05
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.51773834,
+          "topicality": 0.1069202
+        }
+      ]
+    }
+  ]
+}

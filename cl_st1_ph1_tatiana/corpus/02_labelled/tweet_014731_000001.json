@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.9273914,
+          "topicality": 0.3529837
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.8808205,
+          "topicality": 0.17342545
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.85373026,
+          "topicality": 0.15569729
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.7513438,
+          "topicality": 0.006301283
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.74835545,
+          "topicality": 0.04604448
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.74440944,
+          "topicality": 0.0013448448
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.7040561,
+          "topicality": 0.001075765
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.68481797,
+          "topicality": 0.000656623
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.6661791,
+          "topicality": 0.31060562
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.6661534,
+          "topicality": 0.0004519108
+        },
+        {
+          "mid": "/m/0q593",
+          "description": "Dietary supplement",
+          "score": 0.5410592,
+          "topicality": 0.009603685
+        },
+        {
+          "mid": "/m/0129f4",
+          "description": "Chemical compound",
+          "score": 0.52598405,
+          "topicality": 0.007400916
+        },
+        {
+          "mid": "/m/0hk26",
+          "description": "Stimulant",
+          "score": 0.5195529,
+          "topicality": 0.042873435
+        }
+      ]
+    }
+  ]
+}

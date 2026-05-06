@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9533671,
+          "topicality": 0.052259352
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9445146,
+          "topicality": 0.000740408
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.518994,
+          "topicality": 0.0015005588
+        },
+        {
+          "mid": "/m/09kqc",
+          "description": "Humour",
+          "score": 0.5108964,
+          "topicality": 0.117237836
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5054907,
+          "topicality": 0.0009761137
+        }
+      ]
+    }
+  ]
+}

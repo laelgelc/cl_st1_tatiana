@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.8676571,
+          "topicality": 0.026680384
+        },
+        {
+          "mid": "/j/3gbwgn",
+          "description": "People in nature",
+          "score": 0.8313615,
+          "topicality": 0.00020709784
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.6262955,
+          "topicality": 0.012525407
+        },
+        {
+          "mid": "/m/0w2h",
+          "description": "Arbor Day",
+          "score": 0.5419754,
+          "topicality": 0.019685246
+        }
+      ]
+    }
+  ]
+}

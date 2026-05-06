@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9047561,
+          "topicality": 0.0012767644
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.8195621,
+          "topicality": 0.001292318
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.7672035,
+          "topicality": 0.0071462872
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7143803,
+          "topicality": 0.00027513294
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7084964,
+          "topicality": 0.0010730799
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.63921237,
+          "topicality": 0.0016194116
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.63249457,
+          "topicality": 0.003582016
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.62213206,
+          "topicality": 0.019419396
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.5821726,
+          "topicality": 0.0040769647
+        },
+        {
+          "mid": "/m/01xq3w",
+          "description": "Debate",
+          "score": 0.54375666,
+          "topicality": 0.084593266
+        },
+        {
+          "mid": "/m/044_87",
+          "description": "Output device",
+          "score": 0.5256401,
+          "topicality": 1.270976e-05
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.50328344,
+          "topicality": 0.00047277467
+        }
+      ]
+    }
+  ]
+}

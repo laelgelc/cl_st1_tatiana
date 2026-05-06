@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.9749679,
+          "topicality": 0.0007337101
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.96956015,
+          "topicality": 0.0006356496
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9163704,
+          "topicality": 1.0408815e-05
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.82551086,
+          "topicality": 0.76670384
+        },
+        {
+          "mid": "/m/078hm",
+          "description": "Slope",
+          "score": 0.8152133,
+          "topicality": 0.07489245
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.7093948,
+          "topicality": 0.018972933
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.54817486,
+          "topicality": 0.015647616
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.5261447,
+          "topicality": 0.00029350264
+        }
+      ]
+    }
+  ]
+}

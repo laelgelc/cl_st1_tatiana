@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.8810853,
+          "topicality": 0.005262174
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8496518,
+          "topicality": 0.005366245
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.76284754,
+          "topicality": 0.003491818
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7475328,
+          "topicality": 0.008576397
+        },
+        {
+          "mid": "/m/026y56",
+          "description": "Brutalist architecture",
+          "score": 0.6779167,
+          "topicality": 0.04394622
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.62117004,
+          "topicality": 0.002430442
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.5596392,
+          "topicality": 9.933672e-05
+        }
+      ]
+    }
+  ]
+}

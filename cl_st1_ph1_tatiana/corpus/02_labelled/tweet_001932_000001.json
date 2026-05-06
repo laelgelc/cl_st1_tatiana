@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04_x4",
+          "description": "Money",
+          "score": 0.9822723,
+          "topicality": 0.24990763
+        },
+        {
+          "mid": "/m/01q7l",
+          "description": "Currency",
+          "score": 0.97969466,
+          "topicality": 0.18589798
+        },
+        {
+          "mid": "/m/01dl3j",
+          "description": "Banknote",
+          "score": 0.9748815,
+          "topicality": 0.32755885
+        },
+        {
+          "mid": "/m/0fd6q",
+          "description": "Cash",
+          "score": 0.9744846,
+          "topicality": 0.112197086
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.96052104,
+          "topicality": 0.00080337963
+        },
+        {
+          "mid": "/m/0285v",
+          "description": "Dollar",
+          "score": 0.9483953,
+          "topicality": 0.8146609
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.94285536,
+          "topicality": 0.00012522582
+        },
+        {
+          "mid": "/m/0h8n2s1",
+          "description": "Money Handling",
+          "score": 0.8844488,
+          "topicality": 0.009766701
+        },
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.830663,
+          "topicality": 0.004332082
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8119966,
+          "topicality": 0.014637888
+        },
+        {
+          "mid": "/m/06n0n",
+          "description": "Signature",
+          "score": 0.73375505,
+          "topicality": 0.0018158022
+        },
+        {
+          "mid": "/m/0hbm6",
+          "description": "Saving",
+          "score": 0.6819382,
+          "topicality": 0.0058378153
+        }
+      ]
+    }
+  ]
+}

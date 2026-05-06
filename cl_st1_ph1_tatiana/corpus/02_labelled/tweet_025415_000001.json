@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.91226476,
+          "topicality": 0.0015714789
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7880003,
+          "topicality": 0.14957538
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.75933546,
+          "topicality": 0.023828724
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6999252,
+          "topicality": 0.09690253
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6594244,
+          "topicality": 0.11018973
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.65361154,
+          "topicality": 0.0012982824
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.57415926,
+          "topicality": 0.03770189
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5704921,
+          "topicality": 0.0013943125
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.56714207,
+          "topicality": 0.006424261
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.55752146,
+          "topicality": 0.0054292525
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54670477,
+          "topicality": 0.0032095434
+        }
+      ]
+    }
+  ]
+}

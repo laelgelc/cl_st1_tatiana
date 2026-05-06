@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.853723,
+          "topicality": 0.005280095
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.8148095,
+          "topicality": 0.00024543615
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.8013727,
+          "topicality": 0.34678507
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7712514,
+          "topicality": 0.0012303932
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.73376125,
+          "topicality": 8.758342e-06
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.68927133,
+          "topicality": 0.2794265
+        },
+        {
+          "mid": "/m/03bx017",
+          "description": "Researcher",
+          "score": 0.6489531,
+          "topicality": 0.22557989
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.64007074,
+          "topicality": 0.29468426
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.5728234,
+          "topicality": 0.039635364
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.5570349,
+          "topicality": 0.0100748325
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5042923,
+          "topicality": 0.02169081
+        }
+      ]
+    }
+  ]
+}

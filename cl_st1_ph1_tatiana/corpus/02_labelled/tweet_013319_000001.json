@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8459312,
+          "topicality": 0.013599375
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.78330684,
+          "topicality": 0.026046436
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7670853,
+          "topicality": 0.02922107
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.6958451,
+          "topicality": 0.007339537
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.63402903,
+          "topicality": 0.13060065
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5982256,
+          "topicality": 0.0034704478
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5883949,
+          "topicality": 0.005457998
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5698059,
+          "topicality": 0.2097606
+        },
+        {
+          "mid": "/m/06bdpk",
+          "description": "Academic institution",
+          "score": 0.5542157,
+          "topicality": 0.0011472021
+        },
+        {
+          "mid": "/m/07tf8",
+          "description": "University",
+          "score": 0.502961,
+          "topicality": 0.20835547
+        }
+      ]
+    }
+  ]
+}

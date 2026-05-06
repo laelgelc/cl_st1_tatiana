@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01cbzq",
+          "description": "Rock",
+          "score": 0.9619437,
+          "topicality": 0.32216904
+        },
+        {
+          "mid": "/m/07pw27b",
+          "description": "atmospheric phenomenon",
+          "score": 0.8965411,
+          "topicality": 4.0218974e-06
+        },
+        {
+          "mid": "/m/03k5cs",
+          "description": "Geological formation",
+          "score": 0.88866615,
+          "topicality": 0.057160173
+        },
+        {
+          "mid": "/m/036hv",
+          "description": "Geology",
+          "score": 0.85680026,
+          "topicality": 0.03350575
+        },
+        {
+          "mid": "/m/07cwvn",
+          "description": "Outcrop",
+          "score": 0.85531837,
+          "topicality": 0.036467373
+        },
+        {
+          "mid": "/m/0308t8",
+          "description": "Bedrock",
+          "score": 0.8420717,
+          "topicality": 0.008993447
+        },
+        {
+          "mid": "/m/018zp5",
+          "description": "Fault",
+          "score": 0.6108605,
+          "topicality": 0.005623741
+        },
+        {
+          "mid": "/m/0ghpy",
+          "description": "Boulder",
+          "score": 0.6053666,
+          "topicality": 0.3700983
+        },
+        {
+          "mid": "/m/03gs8b2",
+          "description": "Balance",
+          "score": 0.56466573,
+          "topicality": 0.00021349879
+        }
+      ]
+    }
+  ]
+}

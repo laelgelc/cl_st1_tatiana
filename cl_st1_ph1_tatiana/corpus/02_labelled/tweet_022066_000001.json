@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dzf4",
+          "description": "Arm",
+          "score": 0.97351134,
+          "topicality": 0.004254635
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.969908,
+          "topicality": 0.0053017754
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8984177,
+          "topicality": 0.00082384236
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.80001456,
+          "topicality": 0.0012348905
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6765059,
+          "topicality": 0.012333561
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.6487223,
+          "topicality": 0.019596146
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5823228,
+          "topicality": 0.00030222908
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5056604,
+          "topicality": 0.0005303152
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9595341,
+          "topicality": 0.00015769918
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.8805567,
+          "topicality": 0.02315297
+        },
+        {
+          "mid": "/m/08xgn7",
+          "description": "Comfort",
+          "score": 0.83563775,
+          "topicality": 0.003317366
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.7843377,
+          "topicality": 0.0068251556
+        },
+        {
+          "mid": "/m/019w6h",
+          "description": "Exercise",
+          "score": 0.65620255,
+          "topicality": 0.2849942
+        },
+        {
+          "mid": "/m/03gs8b2",
+          "description": "Balance",
+          "score": 0.58338064,
+          "topicality": 0.07800126
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.5321598,
+          "topicality": 0.019027974
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.88375825,
+          "topicality": 0.021078913
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8682472,
+          "topicality": 0.00311768
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6639063,
+          "topicality": 0.012240281
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.62204665,
+          "topicality": 0.0006271585
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.59923,
+          "topicality": 0.004542325
+        }
+      ]
+    }
+  ]
+}

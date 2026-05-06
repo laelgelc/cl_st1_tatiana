@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943408,
+          "topicality": 0.029414738
+        },
+        {
+          "mid": "/m/01ckgp",
+          "description": "Interaction",
+          "score": 0.90748185,
+          "topicality": 0.002921462
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.85643864,
+          "topicality": 0.01287882
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.83327615,
+          "topicality": 0.0002847079
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.818954,
+          "topicality": 0.0021685166
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.70478696,
+          "topicality": 0.016012935
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.66034067,
+          "topicality": 0.00015098361
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.60863423,
+          "topicality": 0.00046013703
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.52713585,
+          "topicality": 0.003569149
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.92872226,
+          "topicality": 0.00016482543
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8464193,
+          "topicality": 0.003904108
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8204739,
+          "topicality": 0.0009700061
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.81276125,
+          "topicality": 0.016981777
+        },
+        {
+          "mid": "/m/05hsx3",
+          "description": "Glucose meter",
+          "score": 0.71508753,
+          "topicality": 0.24676962
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.6289574,
+          "topicality": 0.005614669
+        },
+        {
+          "mid": "/m/07gr_",
+          "description": "Temperature",
+          "score": 0.52747864,
+          "topicality": 0.015505488
+        }
+      ]
+    }
+  ]
+}

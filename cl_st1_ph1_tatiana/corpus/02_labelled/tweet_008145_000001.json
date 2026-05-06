@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01lynh",
+          "description": "Stairs",
+          "score": 0.9821817,
+          "topicality": 0.2070408
+        },
+        {
+          "mid": "/m/02r1p",
+          "description": "Escalator",
+          "score": 0.96494097,
+          "topicality": 0.86871374
+        },
+        {
+          "mid": "/m/07p_zw",
+          "description": "Handrail",
+          "score": 0.936519,
+          "topicality": 0.004130917
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.63753283,
+          "topicality": 4.8724563e-05
+        }
+      ]
+    }
+  ]
+}

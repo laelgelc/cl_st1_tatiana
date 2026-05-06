@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9853929,
+          "topicality": 0.0006183761
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.94186467,
+          "topicality": 1.5430309e-05
+        },
+        {
+          "mid": "/m/02ksmb",
+          "description": "Brown hair",
+          "score": 0.7786522,
+          "topicality": 5.8245e-06
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.74343723,
+          "topicality": 0.040870614
+        },
+        {
+          "mid": "/m/01r546",
+          "description": "Earring",
+          "score": 0.59790516,
+          "topicality": 0.0001299524
+        },
+        {
+          "mid": "/m/027qw1p",
+          "description": "Feathered hair",
+          "score": 0.5827661,
+          "topicality": 2.0322055e-05
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.5554873,
+          "topicality": 3.1334486e-05
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.5506742,
+          "topicality": 0.0036536928
+        }
+      ]
+    }
+  ]
+}

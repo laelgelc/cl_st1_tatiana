@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.8659704,
+          "topicality": 0.010624915
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.85403156,
+          "topicality": 0.043618634
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.81557477,
+          "topicality": 0.019600447
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7368391,
+          "topicality": 0.00042253293
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.6729773,
+          "topicality": 0.0935559
+        },
+        {
+          "mid": "/m/01jnzj",
+          "description": "Construction",
+          "score": 0.6418188,
+          "topicality": 0.0023413163
+        },
+        {
+          "mid": "/m/0475mb",
+          "description": "Agricultural machinery",
+          "score": 0.5887753,
+          "topicality": 0.011938451
+        },
+        {
+          "mid": "/m/025tnyc",
+          "description": "Lumber",
+          "score": 0.5678786,
+          "topicality": 0.00092846534
+        },
+        {
+          "mid": "/m/01zpz",
+          "description": "Crew",
+          "score": 0.5522046,
+          "topicality": 0.0049999887
+        },
+        {
+          "mid": "/m/047x57",
+          "description": "Construction worker",
+          "score": 0.518353,
+          "topicality": 0.007738824
+        },
+        {
+          "mid": "/m/0156dy",
+          "description": "Project",
+          "score": 0.51469576,
+          "topicality": 0.011844319
+        },
+        {
+          "mid": "/m/01jp3p",
+          "description": "Tradesman",
+          "score": 0.50665176,
+          "topicality": 0.0010335423
+        }
+      ]
+    }
+  ]
+}

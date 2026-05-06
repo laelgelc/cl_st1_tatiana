@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6268082,
+          "topicality": 0.008309015
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5951755,
+          "topicality": 0.028612157
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.5887018,
+          "topicality": 0.014828653
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.52990234,
+          "topicality": 8.666774e-05
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.5102871,
+          "topicality": 0.0018803056
+        }
+      ]
+    }
+  ]
+}

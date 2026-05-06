@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9035923,
+          "topicality": 0.009350469
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8789472,
+          "topicality": 0.0017961366
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8554707,
+          "topicality": 0.044494893
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.83445215,
+          "topicality": 0.0010765069
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.810933,
+          "topicality": 0.0014377991
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.73338425,
+          "topicality": 0.046895128
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6932543,
+          "topicality": 0.014316418
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5861558,
+          "topicality": 0.06477412
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5533441,
+          "topicality": 0.07467006
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.85997254,
+          "topicality": 0.0064115273
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.558247,
+          "topicality": 0.0038376898
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5112264,
+          "topicality": 0.010017263
+        },
+        {
+          "mid": "/m/02_784",
+          "description": "Display advertising",
+          "score": 0.5050379,
+          "topicality": 0.0021196406
+        }
+      ]
+    }
+  ]
+}

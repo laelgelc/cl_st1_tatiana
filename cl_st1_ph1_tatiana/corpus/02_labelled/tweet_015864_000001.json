@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944909,
+          "topicality": 0.024211105
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.85189867,
+          "topicality": 0.29357857
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.64580584,
+          "topicality": 0.06678125
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.52020365,
+          "topicality": 0.307349
+        }
+      ]
+    }
+  ]
+}

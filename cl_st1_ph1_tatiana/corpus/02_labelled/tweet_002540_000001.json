@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9666842,
+          "topicality": 0.010801905
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944941,
+          "topicality": 0.000825574
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9127984,
+          "topicality": 0.009049528
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.89917886,
+          "topicality": 0.0062624593
+        },
+        {
+          "mid": "/m/0294jb",
+          "description": "Blond",
+          "score": 0.8510982,
+          "topicality": 0.0027708123
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.7592858,
+          "topicality": 0.018171329
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.6386371,
+          "topicality": 0.04567329
+        },
+        {
+          "mid": "/m/0nb89bq",
+          "description": "Photobombing",
+          "score": 0.55611664,
+          "topicality": 0.0066765617
+        }
+      ]
+    }
+  ]
+}

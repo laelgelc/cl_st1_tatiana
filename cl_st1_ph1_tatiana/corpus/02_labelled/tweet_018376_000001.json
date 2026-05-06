@@ -1,0 +1,116 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9495238,
+          "topicality": 0.003581864
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.94621587,
+          "topicality": 0.1447776
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9290366,
+          "topicality": 0.5524253
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8989382,
+          "topicality": 0.025473204
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.88224715,
+          "topicality": 0.0030864547
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.868566,
+          "topicality": 0.44743973
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8454276,
+          "topicality": 0.28539175
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.7946453,
+          "topicality": 0.002892474
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.76067036,
+          "topicality": 0.04483524
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.75361574,
+          "topicality": 0.15885815
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.71335715,
+          "topicality": 0.0011844266
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.7067559,
+          "topicality": 0.00023456999
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.68601084,
+          "topicality": 0.0002157839
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.66742194,
+          "topicality": 9.6035634e-05
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6132013,
+          "topicality": 0.020976286
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.61173755,
+          "topicality": 0.08920178
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.59329796,
+          "topicality": 0.06240853
+        },
+        {
+          "mid": "/m/06dc32",
+          "description": "Hospital gown",
+          "score": 0.5255788,
+          "topicality": 0.0009806666
+        }
+      ]
+    }
+  ]
+}

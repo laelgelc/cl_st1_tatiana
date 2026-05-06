@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.97155625,
+          "topicality": 0.034157805
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.8967348,
+          "topicality": 0.012730982
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8952484,
+          "topicality": 0.0024920423
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.86497444,
+          "topicality": 0.014316533
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8648124,
+          "topicality": 0.007463229
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.63552207,
+          "topicality": 0.0073529
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.53521657,
+          "topicality": 0.0029881352
+        }
+      ]
+    }
+  ]
+}

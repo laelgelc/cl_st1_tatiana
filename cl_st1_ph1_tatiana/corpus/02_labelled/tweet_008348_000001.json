@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9446581,
+          "topicality": 0.0005815514
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.89675045,
+          "topicality": 0.00027409772
+        },
+        {
+          "mid": "/m/03gt5g4",
+          "description": "Cricket cap",
+          "score": 0.6835563,
+          "topicality": 5.2230844e-05
+        }
+      ]
+    }
+  ]
+}

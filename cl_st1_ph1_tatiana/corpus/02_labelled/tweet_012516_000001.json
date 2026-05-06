@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8732155,
+          "topicality": 0.0009591477
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8639378,
+          "topicality": 0.42679116
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.85374606,
+          "topicality": 0.13962625
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8385634,
+          "topicality": 0.01682706
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8054889,
+          "topicality": 0.0022979614
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.80436146,
+          "topicality": 0.02461216
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.6820504,
+          "topicality": 0.0015985594
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.67539185,
+          "topicality": 0.003932057
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5699771,
+          "topicality": 0.057619244
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.54113024,
+          "topicality": 0.0027893768
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5091856,
+          "topicality": 0.006837956
+        }
+      ]
+    }
+  ]
+}

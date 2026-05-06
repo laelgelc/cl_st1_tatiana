@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j04m",
+          "description": "Thigh",
+          "score": 0.9111421,
+          "topicality": 0.001730546
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.78487104,
+          "topicality": 0.00051293883
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.76781577,
+          "topicality": 0.005374711
+        },
+        {
+          "mid": "/m/077p0h",
+          "description": "Sleeveless shirt",
+          "score": 0.69550115,
+          "topicality": 0.0003064659
+        },
+        {
+          "mid": "/m/09j1x",
+          "description": "Undergarment",
+          "score": 0.6139483,
+          "topicality": 0.00029765913
+        },
+        {
+          "mid": "/m/09x8z",
+          "description": "Stomach",
+          "score": 0.55290186,
+          "topicality": 0.0019006107
+        }
+      ]
+    }
+  ]
+}

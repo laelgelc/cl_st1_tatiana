@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/087gx",
+          "description": "X-ray",
+          "score": 0.97389364,
+          "topicality": 0.73655134
+        },
+        {
+          "mid": "/m/0nqm4",
+          "description": "Radiography",
+          "score": 0.95617765,
+          "topicality": 0.5684303
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9357701,
+          "topicality": 0.0008709577
+        },
+        {
+          "mid": "/m/013x4m",
+          "description": "Radiology",
+          "score": 0.9305964,
+          "topicality": 0.2842899
+        },
+        {
+          "mid": "/m/01j3br",
+          "description": "Medical imaging",
+          "score": 0.90377915,
+          "topicality": 0.038073596
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.7971951,
+          "topicality": 0.0031365883
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.61072487,
+          "topicality": 0.0023196365
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.57547146,
+          "topicality": 0.020656167
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5736231,
+          "topicality": 0.017709492
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.51191926,
+          "topicality": 0.0003209637
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.50903034,
+          "topicality": 0.008612858
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.81081843,
+          "topicality": 0.015182689
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7254937,
+          "topicality": 0.008370595
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.58589125,
+          "topicality": 0.029299641
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5470247,
+          "topicality": 0.007636419
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.5333793,
+          "topicality": 0.0003452871
+        }
+      ]
+    }
+  ]
+}

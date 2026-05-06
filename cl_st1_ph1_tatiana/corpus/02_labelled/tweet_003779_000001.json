@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8087812,
+          "topicality": 0.007911744
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7451522,
+          "topicality": 0.00059392944
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.573306,
+          "topicality": 0.0011162114
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.53504187,
+          "topicality": 0.002894412
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9042023,
+          "topicality": 0.012973829
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.72620076,
+          "topicality": 0.0011840841
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.69201535,
+          "topicality": 0.007935749
+        },
+        {
+          "mid": "/m/0p57p",
+          "description": "Recipe",
+          "score": 0.6583947,
+          "topicality": 0.0035501092
+        },
+        {
+          "mid": "/m/01pn0r",
+          "description": "Chef",
+          "score": 0.5791269,
+          "topicality": 0.0018448306
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5509828,
+          "topicality": 2.1140084e-05
+        },
+        {
+          "mid": "/m/01z1jf2",
+          "description": "American cuisine",
+          "score": 0.54477626,
+          "topicality": 0.0015895368
+        },
+        {
+          "mid": "/m/0h55b",
+          "description": "Junk food",
+          "score": 0.52726346,
+          "topicality": 0.003159738
+        },
+        {
+          "mid": "/m/0b3dyl",
+          "description": "Finger food",
+          "score": 0.5077392,
+          "topicality": 4.085867e-05
+        }
+      ]
+    }
+  ]
+}

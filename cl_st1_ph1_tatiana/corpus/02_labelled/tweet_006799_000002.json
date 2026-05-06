@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.8111905,
+          "topicality": 0.0016843703
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.75058216,
+          "topicality": 0.00031894044
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.65330696,
+          "topicality": 0.052957002
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.52441895,
+          "topicality": 0.00025294936
+        }
+      ]
+    }
+  ]
+}

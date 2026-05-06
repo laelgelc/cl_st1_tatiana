@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9723024,
+          "topicality": 0.0021306446
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.85766286,
+          "topicality": 0.003983956
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.7506488,
+          "topicality": 6.1643965e-05
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6539853,
+          "topicality": 0.024713807
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.5465942,
+          "topicality": 7.4489275e-05
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.5330674,
+          "topicality": 0.010654257
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.50978905,
+          "topicality": 0.0027463739
+        }
+      ]
+    }
+  ]
+}

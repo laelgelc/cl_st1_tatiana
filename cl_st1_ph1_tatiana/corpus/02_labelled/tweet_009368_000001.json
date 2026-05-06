@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9527202,
+          "topicality": 0.009519456
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.9349917,
+          "topicality": 0.0067524253
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.8934597,
+          "topicality": 0.00050057843
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.8168941,
+          "topicality": 0.05077732
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.58851814,
+          "topicality": 0.0064797574
+        }
+      ]
+    }
+  ]
+}

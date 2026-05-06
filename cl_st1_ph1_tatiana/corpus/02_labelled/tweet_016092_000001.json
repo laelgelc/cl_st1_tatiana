@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7010296,
+          "topicality": 0.0013665517
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.6068926,
+          "topicality": 0.082083
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5657943,
+          "topicality": 0.023097983
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.53955877,
+          "topicality": 0.00034899442
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.52202576,
+          "topicality": 0.004299976
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5092202,
+          "topicality": 0.012829133
+        }
+      ]
+    }
+  ]
+}

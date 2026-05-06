@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9726019,
+          "topicality": 0.03193099
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.53018564,
+          "topicality": 0.021342373
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.5255632,
+          "topicality": 0.013941197
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5146452,
+          "topicality": 0.078001566
+        }
+      ]
+    }
+  ]
+}

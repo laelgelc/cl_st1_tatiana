@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8ls87",
+          "description": "Automotive Exterior",
+          "score": 0.94066197,
+          "topicality": 0.0034388436
+        },
+        {
+          "mid": "/m/01jfm_",
+          "description": "Vehicle registration plate",
+          "score": 0.8601532,
+          "topicality": 0.7792758
+        },
+        {
+          "mid": "/m/02mnkq",
+          "description": "Bumper",
+          "score": 0.72106004,
+          "topicality": 0.0070351814
+        },
+        {
+          "mid": "/m/0h8m331",
+          "description": "Automotive Tail & Brake Light",
+          "score": 0.70427674,
+          "topicality": 0.0018636849
+        },
+        {
+          "mid": "/m/0gm56",
+          "description": "Kit car",
+          "score": 0.5183116,
+          "topicality": 0.00019944043
+        }
+      ]
+    }
+  ]
+}

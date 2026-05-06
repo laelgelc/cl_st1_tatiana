@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.93450373,
+          "topicality": 0.0010374952
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.8725946,
+          "topicality": 0.12279313
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8388023,
+          "topicality": 0.0014080274
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7589063,
+          "topicality": 0.0020239565
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.71844923,
+          "topicality": 0.01740459
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6940873,
+          "topicality": 0.009160767
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.6107574,
+          "topicality": 0.00017955259
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.54885507,
+          "topicality": 0.00084912946
+        }
+      ]
+    }
+  ]
+}

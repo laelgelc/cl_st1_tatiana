@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8509042,
+          "topicality": 0.011655401
+        },
+        {
+          "mid": "/m/02pd__z",
+          "description": "Long hair",
+          "score": 0.8175565,
+          "topicality": 0.0040672515
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.72932184,
+          "topicality": 0.00064336264
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.72400695,
+          "topicality": 0.0036317606
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.64600146,
+          "topicality": 0.002477913
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6229781,
+          "topicality": 0.0023500468
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.6151062,
+          "topicality": 0.003516661
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.5761575,
+          "topicality": 0.0058287643
+        }
+      ]
+    }
+  ]
+}

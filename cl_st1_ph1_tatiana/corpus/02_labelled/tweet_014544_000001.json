@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/079bkr",
+          "description": "Mode of transport",
+          "score": 0.9798322,
+          "topicality": 0.00081309455
+        },
+        {
+          "mid": "/m/07bsy",
+          "description": "Transport",
+          "score": 0.9688222,
+          "topicality": 0.008399623
+        },
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.9687488,
+          "topicality": 0.0011950502
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.8197752,
+          "topicality": 0.0016310402
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.8100108,
+          "topicality": 0.0006478981
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.7826535,
+          "topicality": 0.040947676
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.73541045,
+          "topicality": 0.017878879
+        },
+        {
+          "mid": "/m/03j1ly",
+          "description": "Emergency vehicle",
+          "score": 0.6899297,
+          "topicality": 0.005102792
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.67444897,
+          "topicality": 0.0008726335
+        },
+        {
+          "mid": "/m/012n7d",
+          "description": "Ambulance",
+          "score": 0.56858385,
+          "topicality": 0.5186669
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.5226202,
+          "topicality": 0.0005490005
+        }
+      ]
+    }
+  ]
+}

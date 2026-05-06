@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.941928,
+          "topicality": 0.09243435
+        },
+        {
+          "mid": "/m/07xgrh",
+          "description": "Ingredient",
+          "score": 0.89124614,
+          "topicality": 0.0038909656
+        },
+        {
+          "mid": "/m/0270h",
+          "description": "Dessert",
+          "score": 0.816094,
+          "topicality": 0.022483554
+        },
+        {
+          "mid": "/m/0b3dyl",
+          "description": "Finger food",
+          "score": 0.76031834,
+          "topicality": 5.9671525e-05
+        },
+        {
+          "mid": "/m/0p57p",
+          "description": "Recipe",
+          "score": 0.6763868,
+          "topicality": 0.03931817
+        },
+        {
+          "mid": "/m/020vl",
+          "description": "Chocolate",
+          "score": 0.63675034,
+          "topicality": 0.2585591
+        },
+        {
+          "mid": "/m/0dv34",
+          "description": "Baking",
+          "score": 0.5279469,
+          "topicality": 0.015830891
+        },
+        {
+          "mid": "/m/01_bhs",
+          "description": "Fast food",
+          "score": 0.5009494,
+          "topicality": 0.01079106
+        }
+      ]
+    }
+  ]
+}

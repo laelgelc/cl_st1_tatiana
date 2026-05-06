@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8899617,
+          "topicality": 0.0055330936
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.87858534,
+          "topicality": 0.0011356068
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8682302,
+          "topicality": 0.0011847226
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.86217093,
+          "topicality": 0.025943508
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.7889013,
+          "topicality": 0.6147723
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.75505203,
+          "topicality": 0.032518882
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.74702746,
+          "topicality": 0.0026537718
+        },
+        {
+          "mid": "/m/01hnnm",
+          "description": "Navel",
+          "score": 0.71453315,
+          "topicality": 0.10226654
+        },
+        {
+          "mid": "/m/09x8z",
+          "description": "Stomach",
+          "score": 0.5311462,
+          "topicality": 0.274239
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5141504,
+          "topicality": 0.016955853
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.51082325,
+          "topicality": 0.002391811
+        }
+      ]
+    }
+  ]
+}

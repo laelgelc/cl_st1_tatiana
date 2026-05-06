@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.97127384,
+          "topicality": 0.02471768
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.94202065,
+          "topicality": 0.25911352
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.8966234,
+          "topicality": 0.025520425
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.8809245,
+          "topicality": 0.038095392
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8801502,
+          "topicality": 0.0072672595
+        },
+        {
+          "mid": "/m/04_fs",
+          "description": "Muscle",
+          "score": 0.8800096,
+          "topicality": 0.11826014
+        },
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.8742535,
+          "topicality": 0.02593103
+        },
+        {
+          "mid": "/m/01hnnm",
+          "description": "Navel",
+          "score": 0.855614,
+          "topicality": 0.037007883
+        },
+        {
+          "mid": "/m/0dzdr",
+          "description": "Thorax",
+          "score": 0.8480921,
+          "topicality": 0.041997906
+        },
+        {
+          "mid": "/m/09x8z",
+          "description": "Stomach",
+          "score": 0.83488923,
+          "topicality": 0.071048334
+        },
+        {
+          "mid": "/m/0dm6dl",
+          "description": "Barechestedness",
+          "score": 0.8039608,
+          "topicality": 0.05994833
+        },
+        {
+          "mid": "/m/04tmrv",
+          "description": "Trunks",
+          "score": 0.67294943,
+          "topicality": 0.00018089845
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.62829906,
+          "topicality": 0.0017541728
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.62342227,
+          "topicality": 0.035407353
+        },
+        {
+          "mid": "/m/06_kbr",
+          "description": "Hip",
+          "score": 0.60849565,
+          "topicality": 0.01580836
+        },
+        {
+          "mid": "/m/02h6dmm",
+          "description": "Bodybuilder",
+          "score": 0.51739645,
+          "topicality": 0.014656594
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.97131187,
+          "topicality": 0.00022541764
+        },
+        {
+          "mid": "/m/03j1ly",
+          "description": "Emergency vehicle",
+          "score": 0.9638219,
+          "topicality": 0.004710522
+        },
+        {
+          "mid": "/m/012n7d",
+          "description": "Ambulance",
+          "score": 0.9621326,
+          "topicality": 0.27343997
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.9515908,
+          "topicality": 0.0032222634
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.9382361,
+          "topicality": 0.2265159
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.9358547,
+          "topicality": 0.05317158
+        },
+        {
+          "mid": "/m/0jzbb",
+          "description": "Paramedic",
+          "score": 0.90419513,
+          "topicality": 0.24690808
+        },
+        {
+          "mid": "/m/02pz5g2",
+          "description": "Light commercial vehicle",
+          "score": 0.7816849,
+          "topicality": 0.0010328627
+        },
+        {
+          "mid": "/m/0fmnf5",
+          "description": "Compact van",
+          "score": 0.7662498,
+          "topicality": 0.000117945056
+        },
+        {
+          "mid": "/m/0bh6t6c",
+          "description": "Rescuer",
+          "score": 0.740258,
+          "topicality": 0.22502494
+        },
+        {
+          "mid": "/m/01_p8q",
+          "description": "Rescue",
+          "score": 0.6784616,
+          "topicality": 0.018380402
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.6318472,
+          "topicality": 5.5083234e-05
+        },
+        {
+          "mid": "/m/07r04",
+          "description": "Truck",
+          "score": 0.6027805,
+          "topicality": 0.00016403788
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.5884811,
+          "topicality": 0.00056543876
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.57204694,
+          "topicality": 0.0020553437
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.55197054,
+          "topicality": 0.00039419052
+        },
+        {
+          "mid": "/m/0by8vb",
+          "description": "American Red Cross",
+          "score": 0.54130316,
+          "topicality": 0.031083995
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.5385031,
+          "topicality": 0.005019847
+        },
+        {
+          "mid": "/m/057gn",
+          "description": "Minivan",
+          "score": 0.5126663,
+          "topicality": 2.1476015e-05
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.5060406,
+          "topicality": 5.111979e-05
+        }
+      ]
+    }
+  ]
+}

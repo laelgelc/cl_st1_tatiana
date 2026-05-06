@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03rnh",
+          "description": "Industry",
+          "score": 0.9027917,
+          "topicality": 0.19958876
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.8370143,
+          "topicality": 0.53660154
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.81059325,
+          "topicality": 0.0117598055
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7465409,
+          "topicality": 6.59163e-05
+        },
+        {
+          "mid": "/m/02vjn0",
+          "description": "Food processing",
+          "score": 0.688907,
+          "topicality": 0.48507175
+        },
+        {
+          "mid": "/m/0mfz",
+          "description": "Assembly line",
+          "score": 0.6765446,
+          "topicality": 0.3254302
+        },
+        {
+          "mid": "/m/0g_k0",
+          "description": "Mass production",
+          "score": 0.6406362,
+          "topicality": 0.18570474
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.5797204,
+          "topicality": 0.00070639874
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.50494576,
+          "topicality": 0.056657344
+        }
+      ]
+    }
+  ]
+}

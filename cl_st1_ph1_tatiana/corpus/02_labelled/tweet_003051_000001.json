@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03q69",
+          "description": "Hair",
+          "score": 0.9908892,
+          "topicality": 0.010497406
+        },
+        {
+          "mid": "/m/0dzct",
+          "description": "Face",
+          "score": 0.9799026,
+          "topicality": 0.035338294
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9760756,
+          "topicality": 0.0036852187
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8337144,
+          "topicality": 0.0009021122
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7433615,
+          "topicality": 0.0022082157
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6077141,
+          "topicality": 0.04218654
+        }
+      ]
+    }
+  ]
+}

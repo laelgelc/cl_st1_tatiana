@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6030501,
+          "topicality": 0.10029319
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.54558474,
+          "topicality": 0.13842183
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.50401217,
+          "topicality": 0.03436867
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.50088966,
+          "topicality": 0.0117426
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9131903,
+          "topicality": 0.007154294
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8732155,
+          "topicality": 0.0018280884
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.81210244,
+          "topicality": 0.24830408
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8106687,
+          "topicality": 0.010350999
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7370656,
+          "topicality": 0.007522882
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6889369,
+          "topicality": 0.021283856
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6813154,
+          "topicality": 0.00055475254
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.64057237,
+          "topicality": 0.035276346
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6367228,
+          "topicality": 0.04441801
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5877252,
+          "topicality": 0.14966418
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.51518846,
+          "topicality": 0.019173313
+        }
+      ]
+    }
+  ]
+}

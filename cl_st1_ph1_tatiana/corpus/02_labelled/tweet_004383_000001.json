@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8787728,
+          "topicality": 0.001665794
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8787616,
+          "topicality": 0.11634296
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8165941,
+          "topicality": 0.000537486
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7613116,
+          "topicality": 0.18808796
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.75256133,
+          "topicality": 2.3516013e-05
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6375157,
+          "topicality": 0.10282606
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.5756561,
+          "topicality": 0.00025255056
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5726453,
+          "topicality": 0.020743968
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5650129,
+          "topicality": 0.09234092
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.55731905,
+          "topicality": 1.2744253e-05
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.5468401,
+          "topicality": 0.0007635763
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.53410083,
+          "topicality": 0.0010798764
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5312637,
+          "topicality": 0.035286296
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.527738,
+          "topicality": 0.004496373
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.8810355,
+          "topicality": 0.0015256555
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.7482809,
+          "topicality": 0.33202207
+        },
+        {
+          "mid": "/m/01v229",
+          "description": "Raincoat",
+          "score": 0.6498003,
+          "topicality": 0.0055876505
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.63964856,
+          "topicality": 0.032825924
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5391428,
+          "topicality": 0.002984027
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5184927,
+          "topicality": 0.025977528
+        }
+      ]
+    }
+  ]
+}

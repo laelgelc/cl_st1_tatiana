@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.8809201,
+          "topicality": 0.003304419
+        },
+        {
+          "mid": "/m/0qlzq",
+          "description": "Test tube",
+          "score": 0.8767461,
+          "topicality": 0.44751295
+        },
+        {
+          "mid": "/m/017clw",
+          "description": "Laboratory",
+          "score": 0.8608745,
+          "topicality": 0.37803674
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.84993213,
+          "topicality": 0.081280075
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.73340523,
+          "topicality": 0.029701682
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.7314387,
+          "topicality": 0.12443812
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.67421967,
+          "topicality": 2.1449057e-05
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6307537,
+          "topicality": 0.11756945
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6174838,
+          "topicality": 0.008157229
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.61022764,
+          "topicality": 0.004035771
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.57461494,
+          "topicality": 0.0006375806
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.56088156,
+          "topicality": 0.0262519
+        }
+      ]
+    }
+  ]
+}

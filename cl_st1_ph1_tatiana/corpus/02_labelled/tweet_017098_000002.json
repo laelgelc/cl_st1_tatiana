@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8981339,
+          "topicality": 0.0018051487
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.85962194,
+          "topicality": 0.0015242128
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.8273282,
+          "topicality": 0.0017376408
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.8203668,
+          "topicality": 0.65160763
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8190226,
+          "topicality": 0.0011559438
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7950047,
+          "topicality": 0.0035241148
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.69774395,
+          "topicality": 0.0020768358
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6791593,
+          "topicality": 0.009716378
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.6293423,
+          "topicality": 0.014304185
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.5159536,
+          "topicality": 0.0061392384
+        }
+      ]
+    }
+  ]
+}

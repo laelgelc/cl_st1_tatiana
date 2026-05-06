@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03h_4m",
+          "description": "Cylinder",
+          "score": 0.62873214,
+          "topicality": 0.007004884
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6098857,
+          "topicality": 0.01287725
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5564518,
+          "topicality": 0.032301128
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.5106847,
+          "topicality": 0.03223864
+        }
+      ]
+    }
+  ]
+}

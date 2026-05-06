@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07j7r",
+          "description": "Tree",
+          "score": 0.97836554,
+          "topicality": 0.06687065
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.7570934,
+          "topicality": 0.029599953
+        },
+        {
+          "mid": "/m/0hndl",
+          "description": "Shade",
+          "score": 0.73620814,
+          "topicality": 0.0015761274
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.67264456,
+          "topicality": 0.017035268
+        },
+        {
+          "mid": "/m/01jm2n",
+          "description": "Walkway",
+          "score": 0.65779096,
+          "topicality": 0.027629932
+        },
+        {
+          "mid": "/m/0blz9",
+          "description": "Fence",
+          "score": 0.5000576,
+          "topicality": 0.028092878
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.62314016,
+          "topicality": 0.10335219
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6063838,
+          "topicality": 0.03661437
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5623869,
+          "topicality": 0.0012569039
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.54406935,
+          "topicality": 0.0069319364
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.5238767,
+          "topicality": 0.00032018858
+        }
+      ]
+    }
+  ]
+}

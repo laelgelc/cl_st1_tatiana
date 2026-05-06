@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7816837,
+          "topicality": 0.05454916
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.77238894,
+          "topicality": 0.0015670898
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5937066,
+          "topicality": 0.12495088
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.59193546,
+          "topicality": 0.00035602952
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5824009,
+          "topicality": 0.08769354
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5623023,
+          "topicality": 0.002201589
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.52670413,
+          "topicality": 0.005901301
+        }
+      ]
+    }
+  ]
+}

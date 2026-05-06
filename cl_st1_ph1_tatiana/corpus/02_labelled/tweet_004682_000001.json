@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.96823955,
+          "topicality": 0.00061753276
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.9264421,
+          "topicality": 0.0016938277
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91937137,
+          "topicality": 0.00025222448
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.9145016,
+          "topicality": 0.46038112
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.85111433,
+          "topicality": 0.05716693
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.76989853,
+          "topicality": 0.029779946
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.6831266,
+          "topicality": 0.012189635
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.6644941,
+          "topicality": 0.0006158603
+        },
+        {
+          "mid": "/m/01r9v",
+          "description": "Computer program",
+          "score": 0.5998811,
+          "topicality": 0.002518539
+        }
+      ]
+    }
+  ]
+}

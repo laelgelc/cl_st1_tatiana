@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9958269,
+          "topicality": 0.0021986214
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.98774856,
+          "topicality": 0.02939695
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.98603743,
+          "topicality": 0.00084953575
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9821484,
+          "topicality": 0.0006661537
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.97468114,
+          "topicality": 0.0025609888
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9072644,
+          "topicality": 0.0009676094
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.833727,
+          "topicality": 0.00039546663
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.82595015,
+          "topicality": 8.4305975e-06
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.77172786,
+          "topicality": 0.00068131706
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.767908,
+          "topicality": 0.018481875
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7436719,
+          "topicality": 0.00071833795
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.68128335,
+          "topicality": 0.014244391
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.67032033,
+          "topicality": 0.0022323716
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.6188512,
+          "topicality": 0.00019578796
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5487998,
+          "topicality": 0.001060117
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.53302467,
+          "topicality": 0.06117466
+        }
+      ]
+    }
+  ]
+}

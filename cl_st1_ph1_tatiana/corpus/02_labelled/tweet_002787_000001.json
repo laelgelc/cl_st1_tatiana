@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9945138,
+          "topicality": 0.0016269411
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9870599,
+          "topicality": 0.010798013
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9839905,
+          "topicality": 0.0007739596
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.982063,
+          "topicality": 0.0011123456
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.90590686,
+          "topicality": 0.0089563485
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.8859726,
+          "topicality": 0.0024047089
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8444658,
+          "topicality": 0.0068452857
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.84418887,
+          "topicality": 0.0047913315
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.833218,
+          "topicality": 8.82827e-05
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8130414,
+          "topicality": 5.0582017e-05
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7667056,
+          "topicality": 0.0065463325
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.75883967,
+          "topicality": 0.022117166
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.72922647,
+          "topicality": 0.05739608
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.590077,
+          "topicality": 0.24066831
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.52836126,
+          "topicality": 0.009800469
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5144047,
+          "topicality": 0.01766896
+        }
+      ]
+    }
+  ]
+}

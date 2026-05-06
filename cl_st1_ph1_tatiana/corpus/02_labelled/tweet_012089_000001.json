@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.954932,
+          "topicality": 0.015907852
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.909486,
+          "topicality": 0.0005954397
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7017555,
+          "topicality": 0.023303324
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.7008135,
+          "topicality": 0.0015898782
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.6501073,
+          "topicality": 0.00089666125
+        }
+      ]
+    }
+  ]
+}

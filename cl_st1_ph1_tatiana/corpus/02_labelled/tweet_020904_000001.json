@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8327726,
+          "topicality": 0.0016695355
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.760627,
+          "topicality": 0.00037879313
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6605511,
+          "topicality": 4.953172e-05
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.59187275,
+          "topicality": 0.023111807
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5882958,
+          "topicality": 0.021291371
+        }
+      ]
+    }
+  ]
+}

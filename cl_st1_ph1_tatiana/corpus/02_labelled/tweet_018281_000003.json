@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0gm3m",
+          "description": "Filling station",
+          "score": 0.88653207,
+          "topicality": 0.7566286
+        },
+        {
+          "mid": "/m/02ywd",
+          "description": "Fuel",
+          "score": 0.8618582,
+          "topicality": 0.33214268
+        },
+        {
+          "mid": "/m/05wy2",
+          "description": "Gasoline",
+          "score": 0.810334,
+          "topicality": 0.36378494
+        },
+        {
+          "mid": "/m/08p43d",
+          "description": "Fuel dispenser",
+          "score": 0.79819024,
+          "topicality": 0.054808583
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.55729026,
+          "topicality": 0.011262269
+        }
+      ]
+    }
+  ]
+}

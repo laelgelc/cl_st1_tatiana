@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9223136,
+          "topicality": 0.005186675
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9190457,
+          "topicality": 0.19057505
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9154204,
+          "topicality": 0.67238754
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.87866706,
+          "topicality": 0.0048977216
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.8389912,
+          "topicality": 0.31607825
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8333745,
+          "topicality": 0.011999877
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.78304476,
+          "topicality": 0.0010363341
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6916914,
+          "topicality": 0.18914974
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.597627,
+          "topicality": 0.10684363
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.58961296,
+          "topicality": 0.002753447
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.5723373,
+          "topicality": 0.00055493705
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.56942105,
+          "topicality": 0.009758002
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5019127,
+          "topicality": 0.011554258
+        }
+      ]
+    }
+  ]
+}

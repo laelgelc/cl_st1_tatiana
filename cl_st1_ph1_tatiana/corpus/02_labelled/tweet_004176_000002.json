@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9571384,
+          "topicality": 0.00036338583
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.87474537,
+          "topicality": 0.0074275434
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.7162898,
+          "topicality": 0.0015328025
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7119695,
+          "topicality": 0.022189891
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.63079923,
+          "topicality": 0.031696524
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6062838,
+          "topicality": 0.0008282779
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.55777043,
+          "topicality": 0.06774281
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5419549,
+          "topicality": 0.00059170165
+        },
+        {
+          "mid": "/m/0118n_9r",
+          "description": "Water bottle",
+          "score": 0.5105334,
+          "topicality": 4.8916754e-05
+        }
+      ]
+    }
+  ]
+}

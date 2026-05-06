@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.941805,
+          "topicality": 0.009482192
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.93377984,
+          "topicality": 0.014819223
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9035106,
+          "topicality": 0.00026341234
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8352577,
+          "topicality": 0.011202605
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.765334,
+          "topicality": 0.00017375522
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.75999683,
+          "topicality": 0.014098666
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.75509286,
+          "topicality": 0.06700928
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.68267226,
+          "topicality": 0.0051542744
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.63327986,
+          "topicality": 0.0006735517
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6140286,
+          "topicality": 0.02588453
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5092576,
+          "topicality": 0.020114541
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5086351,
+          "topicality": 0.017933005
+        }
+      ]
+    }
+  ]
+}

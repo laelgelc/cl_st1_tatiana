@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8261574,
+          "topicality": 0.0010370091
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.82481414,
+          "topicality": 0.0014495247
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.79139006,
+          "topicality": 0.05068684
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7695165,
+          "topicality": 0.1008106
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.59549874,
+          "topicality": 0.10341427
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.55495393,
+          "topicality": 4.1632808e-05
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.53974,
+          "topicality": 0.0020305854
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.53823775,
+          "topicality": 0.012428202
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5286723,
+          "topicality": 0.00015736376
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.5245244,
+          "topicality": 0.039240252
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5232582,
+          "topicality": 0.031886663
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5155728,
+          "topicality": 0.0072741886
+        }
+      ]
+    }
+  ]
+}

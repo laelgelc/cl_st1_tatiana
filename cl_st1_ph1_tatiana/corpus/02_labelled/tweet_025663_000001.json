@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.7658659,
+          "topicality": 0.0004901194
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6268022,
+          "topicality": 0.008088473
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.61751187,
+          "topicality": 0.031292602
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5888342,
+          "topicality": 0.00014997362
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5639242,
+          "topicality": 0.0015679814
+        }
+      ]
+    }
+  ]
+}

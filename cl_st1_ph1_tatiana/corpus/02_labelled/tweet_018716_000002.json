@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.88975716,
+          "topicality": 0.00046725795
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.80652356,
+          "topicality": 0.00020600269
+        },
+        {
+          "mid": "/m/02dwgb",
+          "description": "Input device",
+          "score": 0.6463799,
+          "topicality": 0.001493925
+        },
+        {
+          "mid": "/m/01m3v",
+          "description": "Computer",
+          "score": 0.60023224,
+          "topicality": 0.043440644
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.5384804,
+          "topicality": 0.0065783574
+        },
+        {
+          "mid": "/m/0643t",
+          "description": "Personal computer",
+          "score": 0.52783376,
+          "topicality": 0.027124269
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.5258761,
+          "topicality": 0.0005626065
+        }
+      ]
+    }
+  ]
+}

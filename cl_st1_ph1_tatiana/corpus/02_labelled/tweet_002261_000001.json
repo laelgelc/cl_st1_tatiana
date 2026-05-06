@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9026203,
+          "topicality": 0.00082450255
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.87430936,
+          "topicality": 0.058280032
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.83882976,
+          "topicality": 0.18931696
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.835549,
+          "topicality": 0.04439832
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.8020685,
+          "topicality": 0.01750203
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.76670057,
+          "topicality": 0.4499228
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7245132,
+          "topicality": 0.026487129
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7014504,
+          "topicality": 0.101112954
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.6709971,
+          "topicality": 0.06407885
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6528672,
+          "topicality": 0.19982593
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.54118943,
+          "topicality": 0.09819717
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5052829,
+          "topicality": 0.009979371
+        }
+      ]
+    }
+  ]
+}

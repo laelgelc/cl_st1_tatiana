@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.97395515,
+          "topicality": 0.6624193
+        },
+        {
+          "mid": "/m/01443y",
+          "description": "Headgear",
+          "score": 0.94137394,
+          "topicality": 0.000818401
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.9129914,
+          "topicality": 0.0033546754
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.90196896,
+          "topicality": 0.22209717
+        },
+        {
+          "mid": "/m/02_n6y",
+          "description": "Goggles",
+          "score": 0.8291215,
+          "topicality": 0.024829982
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.8098677,
+          "topicality": 0.5135761
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.7161254,
+          "topicality": 8.048965e-05
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.70245206,
+          "topicality": 0.0010892091
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.66602284,
+          "topicality": 0.004589023
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.59443897,
+          "topicality": 0.008203373
+        }
+      ]
+    }
+  ]
+}

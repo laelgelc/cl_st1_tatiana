@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.9342954,
+          "topicality": 0.10897998
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6866137,
+          "topicality": 0.24173939
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.67313457,
+          "topicality": 0.034875914
+        },
+        {
+          "mid": "/m/028mzr",
+          "description": "Hair coloring",
+          "score": 0.53042555,
+          "topicality": 0.00790234
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.98165166,
+          "topicality": 0.0023435762
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.97542316,
+          "topicality": 0.01184009
+        },
+        {
+          "mid": "/m/01n4qj",
+          "description": "Shirt",
+          "score": 0.954332,
+          "topicality": 0.011836452
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.9372895,
+          "topicality": 0.0018915172
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.9357813,
+          "topicality": 0.0054171435
+        },
+        {
+          "mid": "/m/01ckgp",
+          "description": "Interaction",
+          "score": 0.90866655,
+          "topicality": 0.009666453
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.88912964,
+          "topicality": 0.016252434
+        },
+        {
+          "mid": "/m/02y3rj",
+          "description": "Presentation",
+          "score": 0.8819235,
+          "topicality": 0.07638471
+        },
+        {
+          "mid": "/m/044_87",
+          "description": "Output device",
+          "score": 0.8704299,
+          "topicality": 0.0002751054
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.84307516,
+          "topicality": 0.0048101563
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.83950025,
+          "topicality": 0.0023948422
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.81300336,
+          "topicality": 0.01127048
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.8100569,
+          "topicality": 0.003437826
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.80954814,
+          "topicality": 0.0702909
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.8093467,
+          "topicality": 0.03130448
+        },
+        {
+          "mid": "/m/01h8n0",
+          "description": "Conversation",
+          "score": 0.77988154,
+          "topicality": 0.0037920934
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.76434916,
+          "topicality": 0.033246204
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.7527299,
+          "topicality": 0.027912972
+        },
+        {
+          "mid": "/m/05p37dx",
+          "description": "LED-backlit LCD",
+          "score": 0.71126187,
+          "topicality": 0.00055878377
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.6935139,
+          "topicality": 0.00012065515
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.6771552,
+          "topicality": 0.0010186072
+        },
+        {
+          "mid": "/m/01m3v",
+          "description": "Computer",
+          "score": 0.6714445,
+          "topicality": 0.08222213
+        },
+        {
+          "mid": "/m/0191f8",
+          "description": "Learning",
+          "score": 0.66614515,
+          "topicality": 0.0027014008
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.6616659,
+          "topicality": 0.0001672218
+        },
+        {
+          "mid": "/m/03233l",
+          "description": "Seminar",
+          "score": 0.6551297,
+          "topicality": 0.036992617
+        },
+        {
+          "mid": "/m/07c52",
+          "description": "Television",
+          "score": 0.6517769,
+          "topicality": 0.0041966545
+        },
+        {
+          "mid": "/m/014jg3",
+          "description": "Training",
+          "score": 0.64181525,
+          "topicality": 0.014402656
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.63273716,
+          "topicality": 0.013358207
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.62405777,
+          "topicality": 0.0011101415
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.623956,
+          "topicality": 0.0029187659
+        },
+        {
+          "mid": "/m/02q60ls",
+          "description": "Conference hall",
+          "score": 0.5941221,
+          "topicality": 0.0010971011
+        },
+        {
+          "mid": "/m/06ycgh",
+          "description": "Projection screen",
+          "score": 0.56112033,
+          "topicality": 0.000974359
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.52525204,
+          "topicality": 2.2497441e-05
+        },
+        {
+          "mid": "/m/09dx1f8",
+          "description": "LCD television",
+          "score": 0.5238627,
+          "topicality": 0.00019960801
+        },
+        {
+          "mid": "/m/01qwsw",
+          "description": "Flat-panel display",
+          "score": 0.50592357,
+          "topicality": 0.0010223279
+        }
+      ]
+    }
+  ]
+}

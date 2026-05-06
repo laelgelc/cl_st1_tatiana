@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.8129596,
+          "topicality": 0.05081481
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.6792278,
+          "topicality": 0.020898072
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6737234,
+          "topicality": 0.008921216
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.64255446,
+          "topicality": 0.0019801718
+        },
+        {
+          "mid": "/m/033rv2",
+          "description": "Cardboard Packaging",
+          "score": 0.6006265,
+          "topicality": 0.0024895284
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9077566,
+          "topicality": 0.019964326
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.75844103,
+          "topicality": 0.0012036469
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7122163,
+          "topicality": 0.00029229766
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6366182,
+          "topicality": 0.0025699458
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.53937995,
+          "topicality": 0.004539784
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5029536,
+          "topicality": 0.0033428287
+        }
+      ]
+    }
+  ]
+}

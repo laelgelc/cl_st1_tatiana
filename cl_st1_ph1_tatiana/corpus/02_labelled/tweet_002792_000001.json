@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6631651,
+          "topicality": 0.036511373
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.66074765,
+          "topicality": 0.048152324
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6360521,
+          "topicality": 0.00024477695
+        },
+        {
+          "mid": "/m/01p2q5",
+          "description": "Bandage",
+          "score": 0.60864455,
+          "topicality": 0.06773462
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5669337,
+          "topicality": 0.0003164384
+        }
+      ]
+    }
+  ]
+}

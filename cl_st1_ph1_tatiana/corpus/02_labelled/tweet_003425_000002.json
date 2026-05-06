@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.9004586,
+          "topicality": 0.0110768685
+        },
+        {
+          "mid": "/m/01r546",
+          "description": "Earring",
+          "score": 0.71952814,
+          "topicality": 0.03735506
+        },
+        {
+          "mid": "/m/01jtn",
+          "description": "Body piercing",
+          "score": 0.70755213,
+          "topicality": 0.13655078
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.6289213,
+          "topicality": 0.053108856
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.5023126,
+          "topicality": 0.01306785
+        }
+      ]
+    }
+  ]
+}

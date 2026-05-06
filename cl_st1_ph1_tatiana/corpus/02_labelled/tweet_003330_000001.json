@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0d5nn",
+          "description": "Fortune cookie",
+          "score": 0.9218078,
+          "topicality": 0.99811167
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.81551296,
+          "topicality": 0.015312126
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.79809415,
+          "topicality": 0.11127781
+        },
+        {
+          "mid": "/m/0b3dyl",
+          "description": "Finger food",
+          "score": 0.7364003,
+          "topicality": 0.0013717727
+        },
+        {
+          "mid": "/m/07jx7",
+          "description": "Triangle",
+          "score": 0.57187444,
+          "topicality": 0.0011637748
+        },
+        {
+          "mid": "/m/01_bhs",
+          "description": "Fast food",
+          "score": 0.50976956,
+          "topicality": 0.009416485
+        }
+      ]
+    }
+  ]
+}

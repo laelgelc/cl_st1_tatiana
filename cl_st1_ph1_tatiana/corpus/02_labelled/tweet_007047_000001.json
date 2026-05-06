@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.79677534,
+          "topicality": 0.0057767974
+        },
+        {
+          "mid": "/m/0fbf1m",
+          "description": "Terrestrial animal",
+          "score": 0.7929599,
+          "topicality": 0.0012862062
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.76230997,
+          "topicality": 0.0019675083
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.710438,
+          "topicality": 0.042679854
+        },
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.6784221,
+          "topicality": 0.0009419575
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51979566,
+          "topicality": 0.026105136
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.50139546,
+          "topicality": 0.0002395987
+        }
+      ]
+    }
+  ]
+}

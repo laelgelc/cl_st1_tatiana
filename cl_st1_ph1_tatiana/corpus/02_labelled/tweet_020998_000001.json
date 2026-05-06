@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8888758,
+          "topicality": 0.10599715
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.775288,
+          "topicality": 0.01094312
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6353087,
+          "topicality": 0.0036696086
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.62356555,
+          "topicality": 0.18579897
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.59786963,
+          "topicality": 0.00478344
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5621229,
+          "topicality": 0.30565128
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5215694,
+          "topicality": 0.0025855578
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5052013,
+          "topicality": 0.029783754
+        },
+        {
+          "mid": "/m/03thq",
+          "description": "Inn",
+          "score": 0.5011181,
+          "topicality": 0.02244282
+        }
+      ]
+    }
+  ]
+}

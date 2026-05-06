@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.91117173,
+          "topicality": 0.0036463644
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.77670646,
+          "topicality": 0.0019026208
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.72982585,
+          "topicality": 0.00047040344
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.70539576,
+          "topicality": 0.0502243
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.6886809,
+          "topicality": 0.009564213
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6614476,
+          "topicality": 0.0070724837
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5862954,
+          "topicality": 0.00060991413
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5785944,
+          "topicality": 0.031081779
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5759721,
+          "topicality": 0.056553427
+        }
+      ]
+    }
+  ]
+}

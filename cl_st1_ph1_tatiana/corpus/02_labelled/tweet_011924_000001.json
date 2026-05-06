@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.9649856,
+          "topicality": 0.0012571702
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.95886505,
+          "topicality": 0.058022417
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9158233,
+          "topicality": 0.010309633
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.57508737,
+          "topicality": 0.4864582
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.56376666,
+          "topicality": 0.011362891
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.54150236,
+          "topicality": 0.07774697
+        }
+      ]
+    }
+  ]
+}

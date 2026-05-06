@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8596413,
+          "topicality": 0.00027480078
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8338506,
+          "topicality": 0.025552925
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7647062,
+          "topicality": 0.0005318567
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7038541,
+          "topicality": 0.023403782
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6692336,
+          "topicality": 0.000499924
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6511033,
+          "topicality": 8.550674e-05
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5628054,
+          "topicality": 0.00017766409
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.5460228,
+          "topicality": 0.005120144
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.53925675,
+          "topicality": 0.014704843
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5384194,
+          "topicality": 0.007074306
+        }
+      ]
+    }
+  ]
+}

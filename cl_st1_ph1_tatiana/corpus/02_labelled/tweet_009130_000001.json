@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9566237,
+          "topicality": 0.019524958
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8424596,
+          "topicality": 0.0019661335
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8330075,
+          "topicality": 0.009699778
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.72276264,
+          "topicality": 0.000552005
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.60273445,
+          "topicality": 0.04059981
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.50614667,
+          "topicality": 0.053669684
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.90991384,
+          "topicality": 0.00043376136
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.87228554,
+          "topicality": 0.005217766
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8434185,
+          "topicality": 0.0029523652
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7855149,
+          "topicality": 0.6737796
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7809416,
+          "topicality": 0.0008747426
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.7751826,
+          "topicality": 5.282911e-05
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.6724353,
+          "topicality": 0.040271927
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.638685,
+          "topicality": 0.00048843614
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.600574,
+          "topicality": 0.05508298
+        }
+      ]
+    }
+  ]
+}

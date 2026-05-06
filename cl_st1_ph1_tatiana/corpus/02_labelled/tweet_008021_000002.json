@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9731773,
+          "topicality": 0.014190137
+        },
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.9656948,
+          "topicality": 0.00018682829
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.94568264,
+          "topicality": 0.0027966145
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9209958,
+          "topicality": 0.0022830046
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.9043122,
+          "topicality": 0.00086049415
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.8547646,
+          "topicality": 0.14751361
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.83664876,
+          "topicality": 0.6590918
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.80011296,
+          "topicality": 0.033897843
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7988178,
+          "topicality": 0.07122817
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.77390766,
+          "topicality": 0.00040815602
+        },
+        {
+          "mid": "/m/078hm",
+          "description": "Slope",
+          "score": 0.77304906,
+          "topicality": 6.616757e-05
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.552866,
+          "topicality": 0.012177044
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.8131801,
+          "topicality": 0.032394502
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.7696707,
+          "topicality": 0.21982522
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.72528464,
+          "topicality": 0.032859113
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.6960279,
+          "topicality": 0.09149339
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6312322,
+          "topicality": 0.002760797
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.58248526,
+          "topicality": 0.00022834574
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.5812403,
+          "topicality": 0.001669283
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5755394,
+          "topicality": 0.0016432437
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.5752974,
+          "topicality": 0.121952206
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55583864,
+          "topicality": 0.018191908
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9391507,
+          "topicality": 0.0018656313
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.90810287,
+          "topicality": 0.13577239
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9023018,
+          "topicality": 0.020526133
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.875172,
+          "topicality": 0.018840073
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.8696736,
+          "topicality": 0.0024866606
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8668151,
+          "topicality": 0.120844275
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.85177183,
+          "topicality": 0.267006
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.79182893,
+          "topicality": 0.004519342
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.65390515,
+          "topicality": 0.12522563
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.60897607,
+          "topicality": 0.024299594
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.57799786,
+          "topicality": 0.0018322975
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.51607233,
+          "topicality": 0.08065359
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.5102094,
+          "topicality": 9.352569e-06
+        }
+      ]
+    }
+  ]
+}

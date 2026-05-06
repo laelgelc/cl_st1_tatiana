@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.9857621,
+          "topicality": 0.004905549
+        },
+        {
+          "mid": "/m/0283dt1",
+          "description": "Mouth",
+          "score": 0.95568544,
+          "topicality": 0.001970619
+        },
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.95474046,
+          "topicality": 0.00712544
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.95411026,
+          "topicality": 0.0026819264
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449457,
+          "topicality": 0.0016973144
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9431796,
+          "topicality": 0.01699328
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9245716,
+          "topicality": 0.0044762436
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8686136,
+          "topicality": 0.00042501956
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.6824521,
+          "topicality": 0.0031430535
+        },
+        {
+          "mid": "/m/02fcct",
+          "description": "Clay animation",
+          "score": 0.6803479,
+          "topicality": 0.10105315
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.63288057,
+          "topicality": 0.00582519
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.5743525,
+          "topicality": 6.0168648e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.70822364,
+          "topicality": 0.0029116974
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.685669,
+          "topicality": 1.1556091e-05
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6467302,
+          "topicality": 0.0006598937
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6088685,
+          "topicality": 0.43215656
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.5478202,
+          "topicality": 0.00045905315
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.98005563,
+          "topicality": 0.045830503
+        },
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.97989315,
+          "topicality": 0.0036124657
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.96241635,
+          "topicality": 0.00052058656
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.67825896,
+          "topicality": 0.047951974
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.61227775,
+          "topicality": 0.0012767649
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.6045845,
+          "topicality": 9.714181e-05
+        }
+      ]
+    }
+  ]
+}

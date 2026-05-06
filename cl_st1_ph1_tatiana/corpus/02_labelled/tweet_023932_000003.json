@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.98245794,
+          "topicality": 0.0015417131
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7771434,
+          "topicality": 0.021845326
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.65555316,
+          "topicality": 0.0037723894
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.60832334,
+          "topicality": 0.0006073575
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.51347375,
+          "topicality": 0.000106388994
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.50332564,
+          "topicality": 0.091746174
+        }
+      ]
+    }
+  ]
+}

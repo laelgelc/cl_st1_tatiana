@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.8139569,
+          "topicality": 0.33994302
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.7984676,
+          "topicality": 0.00022394421
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.62604433,
+          "topicality": 0.046304744
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54308593,
+          "topicality": 0.016368808
+        },
+        {
+          "mid": "/m/0k2n5",
+          "description": "Daylighting",
+          "score": 0.5422093,
+          "topicality": 0.00013820232
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05t06b",
+          "description": "Wood stain",
+          "score": 0.77751523,
+          "topicality": 0.0028924213
+        },
+        {
+          "mid": "/m/020g49",
+          "description": "Hardwood",
+          "score": 0.7697393,
+          "topicality": 0.00033381835
+        },
+        {
+          "mid": "/m/0jh8w",
+          "description": "Plywood",
+          "score": 0.62919676,
+          "topicality": 0.0005662149
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.62916124,
+          "topicality": 0.013617895
+        },
+        {
+          "mid": "/m/0fq0fnf",
+          "description": "Plank",
+          "score": 0.619705,
+          "topicality": 0.00029877023
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.5944062,
+          "topicality": 0.011830548
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.5414715,
+          "topicality": 0.017178109
+        },
+        {
+          "mid": "/m/09xbm8",
+          "description": "Book cover",
+          "score": 0.501936,
+          "topicality": 0.0042555337
+        }
+      ]
+    }
+  ]
+}

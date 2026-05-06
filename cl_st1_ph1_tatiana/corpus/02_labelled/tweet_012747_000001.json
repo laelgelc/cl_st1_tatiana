@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94472516,
+          "topicality": 0.0018127228
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.8658887,
+          "topicality": 0.0013834474
+        },
+        {
+          "mid": "/m/0404d",
+          "description": "Jewellery",
+          "score": 0.8582988,
+          "topicality": 0.003702411
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.83203816,
+          "topicality": 0.005510596
+        },
+        {
+          "mid": "/m/0h8kxbv",
+          "description": "Body Jewelry",
+          "score": 0.7896502,
+          "topicality": 0.0006790635
+        },
+        {
+          "mid": "/m/01llwg",
+          "description": "Necklace",
+          "score": 0.7756841,
+          "topicality": 0.0012916689
+        },
+        {
+          "mid": "/m/01r546",
+          "description": "Earring",
+          "score": 0.7260992,
+          "topicality": 0.0049126656
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.5606676,
+          "topicality": 0.00071149017
+        },
+        {
+          "mid": "/m/06c7f7",
+          "description": "Lipstick",
+          "score": 0.5285385,
+          "topicality": 3.694747e-05
+        },
+        {
+          "mid": "/m/026mhtg",
+          "description": "Step cutting",
+          "score": 0.5159207,
+          "topicality": 4.6882895e-05
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.5107689,
+          "topicality": 0.0007260337
+        }
+      ]
+    }
+  ]
+}

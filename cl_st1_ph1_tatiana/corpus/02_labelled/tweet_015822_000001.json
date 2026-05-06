@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.90016454,
+          "topicality": 0.0041157007
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.729506,
+          "topicality": 0.00065329287
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.7231674,
+          "topicality": 0.00020127147
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6500725,
+          "topicality": 0.003690545
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5500871,
+          "topicality": 0.026532203
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.53446895,
+          "topicality": 0.0003543373
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8787914,
+          "topicality": 0.0020535453
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.87443477,
+          "topicality": 0.010042094
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.8645696,
+          "topicality": 0.0028650798
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.8567781,
+          "topicality": 0.033543505
+        },
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.8381119,
+          "topicality": 0.001595913
+        },
+        {
+          "mid": "/m/050h26",
+          "description": "Drinkware",
+          "score": 0.8181952,
+          "topicality": 2.6371095e-05
+        },
+        {
+          "mid": "/m/02rlncx",
+          "description": "Plastic bottle",
+          "score": 0.6706744,
+          "topicality": 0.0026706574
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.6685524,
+          "topicality": 0.014108994
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6113352,
+          "topicality": 0.00084552006
+        },
+        {
+          "mid": "/m/0118n_9r",
+          "description": "Water bottle",
+          "score": 0.59652936,
+          "topicality": 0.011464492
+        },
+        {
+          "mid": "/m/0hjbz",
+          "description": "Drinking",
+          "score": 0.57339877,
+          "topicality": 0.053934254
+        },
+        {
+          "mid": "/m/0h8nrxj",
+          "description": "Skin Care",
+          "score": 0.5443162,
+          "topicality": 3.9789775e-05
+        }
+      ]
+    }
+  ]
+}

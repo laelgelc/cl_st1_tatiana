@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.82456964,
+          "topicality": 0.0024985203
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.77461994,
+          "topicality": 0.00027418107
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.686444,
+          "topicality": 0.0021179663
+        },
+        {
+          "mid": "/m/06wybl",
+          "description": "Writing implement",
+          "score": 0.56916696,
+          "topicality": 0.001130522
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.55472136,
+          "topicality": 0.00091370393
+        },
+        {
+          "mid": "/m/01cndb",
+          "description": "Stationery",
+          "score": 0.5232896,
+          "topicality": 0.0014770366
+        }
+      ]
+    }
+  ]
+}

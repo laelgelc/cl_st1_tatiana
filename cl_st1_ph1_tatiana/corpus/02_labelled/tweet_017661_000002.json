@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dzf4",
+          "description": "Arm",
+          "score": 0.97426474,
+          "topicality": 0.001572684
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9692289,
+          "topicality": 0.0007304802
+        },
+        {
+          "mid": "/m/01n4qj",
+          "description": "Shirt",
+          "score": 0.95245975,
+          "topicality": 0.0013684349
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.8352303,
+          "topicality": 0.0019552552
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.8215949,
+          "topicality": 0.020879246
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7773323,
+          "topicality": 0.026672041
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.7493891,
+          "topicality": 0.014340077
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7076205,
+          "topicality": 0.00034307453
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6763322,
+          "topicality": 0.09248618
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6020991,
+          "topicality": 0.0009355231
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5675355,
+          "topicality": 0.03460472
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.56031054,
+          "topicality": 0.003895868
+        }
+      ]
+    }
+  ]
+}

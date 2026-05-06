@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9130866,
+          "topicality": 0.0018546487
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6056263,
+          "topicality": 0.00022360092
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.58960825,
+          "topicality": 0.0002771116
+        },
+        {
+          "mid": "/m/09zzb8",
+          "description": "Make-up artist",
+          "score": 0.5422937,
+          "topicality": 0.0029300281
+        }
+      ]
+    }
+  ]
+}

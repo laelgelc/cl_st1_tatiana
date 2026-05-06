@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/031n1",
+          "description": "Foot",
+          "score": 0.60558707,
+          "topicality": 0.0008745273
+        },
+        {
+          "mid": "/m/09j1x",
+          "description": "Undergarment",
+          "score": 0.5648006,
+          "topicality": 0.00036591306
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.55148053,
+          "topicality": 0.0046189865
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.50770223,
+          "topicality": 0.008710377
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9580032,
+          "topicality": 0.0067994874
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9166964,
+          "topicality": 0.0015371925
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.82174295,
+          "topicality": 0.0053059496
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.80693233,
+          "topicality": 0.0033491242
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.6704474,
+          "topicality": 0.0043805293
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.60986555,
+          "topicality": 0.038181204
+        }
+      ]
+    }
+  ]
+}

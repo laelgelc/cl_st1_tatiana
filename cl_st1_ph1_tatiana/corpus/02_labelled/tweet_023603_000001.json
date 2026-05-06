@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025s3q0",
+          "description": "Landscape",
+          "score": 0.93020666,
+          "topicality": 0.0031169234
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.9136763,
+          "topicality": 0.06534827
+        },
+        {
+          "mid": "/m/08863x",
+          "description": "Bird's-eye view",
+          "score": 0.8307256,
+          "topicality": 0.0387259
+        },
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.82368726,
+          "topicality": 0.027277222
+        },
+        {
+          "mid": "/m/07sn5gn",
+          "description": "geological phenomenon",
+          "score": 0.8051982,
+          "topicality": 0.00058989716
+        }
+      ]
+    }
+  ]
+}

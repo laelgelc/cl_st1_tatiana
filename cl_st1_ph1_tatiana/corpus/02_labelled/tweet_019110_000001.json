@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.7704006,
+          "topicality": 0.0010194057
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.7381764,
+          "topicality": 0.044496752
+        },
+        {
+          "mid": "/m/016nmn",
+          "description": "Typesetting",
+          "score": 0.5258563,
+          "topicality": 8.449359e-06
+        },
+        {
+          "mid": "/m/04jjh",
+          "description": "Letter",
+          "score": 0.5077072,
+          "topicality": 0.095263496
+        }
+      ]
+    }
+  ]
+}

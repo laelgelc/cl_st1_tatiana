@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.74902534,
+          "topicality": 0.019726984
+        },
+        {
+          "mid": "/m/01hnnm",
+          "description": "Navel",
+          "score": 0.71965694,
+          "topicality": 0.0092045255
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.59698266,
+          "topicality": 0.000816638
+        },
+        {
+          "mid": "/m/0dm6dl",
+          "description": "Barechestedness",
+          "score": 0.56498027,
+          "topicality": 0.00019425811
+        }
+      ]
+    }
+  ]
+}

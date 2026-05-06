@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.9304106,
+          "topicality": 0.0007574805
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.76549286,
+          "topicality": 5.742033e-05
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.72241473,
+          "topicality": 0.0037162951
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.62164164,
+          "topicality": 0.004877266
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5107683,
+          "topicality": 0.0043255626
+        }
+      ]
+    }
+  ]
+}

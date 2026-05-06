@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.89175224,
+          "topicality": 0.0035046735
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8911063,
+          "topicality": 0.82921135
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.73305637,
+          "topicality": 0.00051075703
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.67617035,
+          "topicality": 0.024724828
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.5838682,
+          "topicality": 0.015935984
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.53174084,
+          "topicality": 0.0053387233
+        }
+      ]
+    }
+  ]
+}

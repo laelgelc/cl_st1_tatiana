@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/062581",
+          "description": "Sleeve",
+          "score": 0.9845944,
+          "topicality": 0.0007033637
+        },
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.97596294,
+          "topicality": 0.0008266899
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.90134746,
+          "topicality": 0.00011401765
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.88327473,
+          "topicality": 0.00082399073
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.6913035,
+          "topicality": 0.0013889312
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.56098205,
+          "topicality": 0.1598073
+        }
+      ]
+    }
+  ]
+}

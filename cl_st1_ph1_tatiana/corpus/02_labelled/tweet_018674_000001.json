@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9080517,
+          "topicality": 0.00046846675
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.81355935,
+          "topicality": 0.0069926623
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.68965214,
+          "topicality": 0.0022869774
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6551791,
+          "topicality": 0.020088574
+        }
+      ]
+    }
+  ]
+}

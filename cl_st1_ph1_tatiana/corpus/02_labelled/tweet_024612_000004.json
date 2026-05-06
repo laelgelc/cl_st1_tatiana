@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7476105,
+          "topicality": 0.0012814262
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.66780055,
+          "topicality": 0.0063408865
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.63694537,
+          "topicality": 0.2071176
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6206831,
+          "topicality": 0.00056242605
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5398138,
+          "topicality": 0.007920994
+        }
+      ]
+    }
+  ]
+}

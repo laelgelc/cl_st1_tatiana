@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.994369,
+          "topicality": 0.07423092
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.96737754,
+          "topicality": 0.15362732
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.93357885,
+          "topicality": 0.0003769811
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.891952,
+          "topicality": 0.014249688
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.6854078,
+          "topicality": 4.1532283e-05
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.63037294,
+          "topicality": 0.004869124
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.62737423,
+          "topicality": 0.0033682175
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5566699,
+          "topicality": 0.0036417365
+        }
+      ]
+    }
+  ]
+}

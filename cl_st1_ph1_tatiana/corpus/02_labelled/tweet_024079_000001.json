@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9446278,
+          "topicality": 0.006213997
+        },
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.87920356,
+          "topicality": 0.03528962
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.8146342,
+          "topicality": 0.24757832
+        },
+        {
+          "mid": "/m/0jyt6",
+          "description": "Masque",
+          "score": 0.73746663,
+          "topicality": 0.031375874
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.64963543,
+          "topicality": 0.010860533
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.62469673,
+          "topicality": 0.0016429472
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.5405651,
+          "topicality": 0.011615489
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.5397863,
+          "topicality": 0.00018560706
+        },
+        {
+          "mid": "/m/0413y3",
+          "description": "Mesh",
+          "score": 0.5229247,
+          "topicality": 0.0013063074
+        }
+      ]
+    }
+  ]
+}

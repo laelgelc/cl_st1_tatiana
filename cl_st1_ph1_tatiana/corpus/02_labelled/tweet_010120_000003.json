@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/079bkr",
+          "description": "Mode of transport",
+          "score": 0.98025024,
+          "topicality": 0.0151897855
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.9734626,
+          "topicality": 0.5107913
+        },
+        {
+          "mid": "/m/07bsy",
+          "description": "Transport",
+          "score": 0.9731774,
+          "topicality": 0.27469802
+        },
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.96966964,
+          "topicality": 0.0031886748
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.96177065,
+          "topicality": 0.4135285
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.8759358,
+          "topicality": 0.0010312053
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.8137627,
+          "topicality": 0.0012430109
+        },
+        {
+          "mid": "/m/0h8lk4b",
+          "description": "Automotive Mirror",
+          "score": 0.73096573,
+          "topicality": 0.00024316239
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.72074986,
+          "topicality": 0.014663889
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6820434,
+          "topicality": 0.001858918
+        },
+        {
+          "mid": "/m/02607v9",
+          "description": "Transport hub",
+          "score": 0.6709288,
+          "topicality": 0.0035256303
+        },
+        {
+          "mid": "/m/05j11x",
+          "description": "Rear-view mirror",
+          "score": 0.5716348,
+          "topicality": 2.186755e-05
+        },
+        {
+          "mid": "/m/02417f",
+          "description": "Windscreen wiper",
+          "score": 0.5677823,
+          "topicality": 1.2671564e-05
+        }
+      ]
+    }
+  ]
+}

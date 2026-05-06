@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9743291,
+          "topicality": 0.11022006
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9729466,
+          "topicality": 0.022849383
+        },
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95233375,
+          "topicality": 0.0018692015
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9200704,
+          "topicality": 0.004683436
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9171244,
+          "topicality": 0.0057079066
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.88812566,
+          "topicality": 0.0014215978
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.88360506,
+          "topicality": 0.010745344
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.86070824,
+          "topicality": 0.00032879857
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.8328033,
+          "topicality": 0.16438207
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.83079934,
+          "topicality": 8.142927e-05
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.8065853,
+          "topicality": 0.03692607
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.76308894,
+          "topicality": 0.012783945
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.71819127,
+          "topicality": 3.9481685e-05
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6442376,
+          "topicality": 0.026075346
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.6007467,
+          "topicality": 0.08291231
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5403588,
+          "topicality": 0.021743832
+        }
+      ]
+    }
+  ]
+}

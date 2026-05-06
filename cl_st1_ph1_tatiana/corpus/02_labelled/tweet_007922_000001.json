@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.89345294,
+          "topicality": 0.006059346
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7388288,
+          "topicality": 0.0083763115
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.6693659,
+          "topicality": 0.060141128
+        },
+        {
+          "mid": "/m/03tvvb",
+          "description": "Overcoat",
+          "score": 0.6624401,
+          "topicality": 0.0041290573
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5929744,
+          "topicality": 0.008774506
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.5025576,
+          "topicality": 0.0019544968
+        }
+      ]
+    }
+  ]
+}

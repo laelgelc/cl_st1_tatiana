@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7501476,
+          "topicality": 0.0012867954
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7392407,
+          "topicality": 0.035659093
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.5470969,
+          "topicality": 0.00011655302
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5466482,
+          "topicality": 0.0052470574
+        }
+      ]
+    }
+  ]
+}

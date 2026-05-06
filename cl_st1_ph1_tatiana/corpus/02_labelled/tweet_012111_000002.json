@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.69622433,
+          "topicality": 0.19030511
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.61716145,
+          "topicality": 0.12035525
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.611181,
+          "topicality": 0.00016293435
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.6047941,
+          "topicality": 0.01328317
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.60395324,
+          "topicality": 0.042781897
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.60038364,
+          "topicality": 0.0004124292
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.59226996,
+          "topicality": 0.003931316
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.513045,
+          "topicality": 0.0048872856
+        }
+      ]
+    }
+  ]
+}

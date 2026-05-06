@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.9559182,
+          "topicality": 0.015363487
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94466966,
+          "topicality": 0.003737941
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.83649063,
+          "topicality": 0.10060806
+        },
+        {
+          "mid": "/m/08xgn7",
+          "description": "Comfort",
+          "score": 0.79628617,
+          "topicality": 0.002875423
+        },
+        {
+          "mid": "/m/01pxgq",
+          "description": "Romance",
+          "score": 0.73403096,
+          "topicality": 0.029771434
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.618314,
+          "topicality": 0.010950714
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.53394735,
+          "topicality": 0.010807889
+        }
+      ]
+    }
+  ]
+}

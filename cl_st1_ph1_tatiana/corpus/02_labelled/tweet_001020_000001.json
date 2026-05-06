@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9808838,
+          "topicality": 0.0044582114
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448763,
+          "topicality": 0.00077894056
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.86711335,
+          "topicality": 0.0010096701
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.79045135,
+          "topicality": 0.018404491
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.71422017,
+          "topicality": 0.0011616716
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.642824,
+          "topicality": 0.003957591
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.61857414,
+          "topicality": 0.00021806441
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5527518,
+          "topicality": 0.0021377273
+        }
+      ]
+    }
+  ]
+}

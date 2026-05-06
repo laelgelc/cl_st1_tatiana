@@ -1,0 +1,170 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02q7ylj",
+          "description": "Daytime",
+          "score": 0.98120636,
+          "topicality": 0.003445118
+        },
+        {
+          "mid": "/m/09j5n",
+          "description": "Footwear",
+          "score": 0.97357464,
+          "topicality": 0.022048429
+        },
+        {
+          "mid": "/m/01k0mv",
+          "description": "Road surface",
+          "score": 0.972393,
+          "topicality": 0.0014769996
+        },
+        {
+          "mid": "/m/01c34b",
+          "description": "Flooring",
+          "score": 0.97005314,
+          "topicality": 3.1880052e-05
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9626517,
+          "topicality": 0.4261678
+        },
+        {
+          "mid": "/m/06gfj",
+          "description": "Road",
+          "score": 0.9575481,
+          "topicality": 0.014819803
+        },
+        {
+          "mid": "/m/035r7c",
+          "description": "Leg",
+          "score": 0.9564584,
+          "topicality": 0.0012247015
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.95609164,
+          "topicality": 0.08683481
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.9543936,
+          "topicality": 0.06293698
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.95137614,
+          "topicality": 0.31439367
+        },
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.947127,
+          "topicality": 0.1430835
+        },
+        {
+          "mid": "/m/0180xr",
+          "description": "Neighbourhood",
+          "score": 0.9418467,
+          "topicality": 0.016817728
+        },
+        {
+          "mid": "/m/0dx1j",
+          "description": "Town",
+          "score": 0.9400611,
+          "topicality": 0.015875094
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.93427765,
+          "topicality": 0.14088129
+        },
+        {
+          "mid": "/m/02t2zd",
+          "description": "Cobblestone",
+          "score": 0.9230029,
+          "topicality": 0.004414629
+        },
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.90896785,
+          "topicality": 0.0003898433
+        },
+        {
+          "mid": "/m/01lwf0",
+          "description": "Alley",
+          "score": 0.8819563,
+          "topicality": 0.08287027
+        },
+        {
+          "mid": "/m/01mxf",
+          "description": "Concrete",
+          "score": 0.8422129,
+          "topicality": 0.00032090643
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.8379819,
+          "topicality": 0.016384287
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7953598,
+          "topicality": 0.009799418
+        },
+        {
+          "mid": "/m/056mk",
+          "description": "Metropolis",
+          "score": 0.7907819,
+          "topicality": 0.03608621
+        },
+        {
+          "mid": "/m/01jm2n",
+          "description": "Walkway",
+          "score": 0.7611066,
+          "topicality": 0.0066742245
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.7445875,
+          "topicality": 0.00014054794
+        },
+        {
+          "mid": "/m/03nsfg",
+          "description": "Flagstone",
+          "score": 0.5943496,
+          "topicality": 5.8750607e-05
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.58789474,
+          "topicality": 0.00030370997
+        },
+        {
+          "mid": "/m/0hnnb",
+          "description": "Umbrella",
+          "score": 0.52596,
+          "topicality": 0.00090161304
+        },
+        {
+          "mid": "/m/0hhdb",
+          "description": "Shopping",
+          "score": 0.515196,
+          "topicality": 0.01520537
+        }
+      ]
+    }
+  ]
+}

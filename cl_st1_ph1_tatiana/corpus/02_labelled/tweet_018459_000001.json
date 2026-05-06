@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.7825154,
+          "topicality": 0.0056639295
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7781928,
+          "topicality": 0.005388734
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7716308,
+          "topicality": 0.0051498287
+        },
+        {
+          "mid": "/m/07djv",
+          "description": "Tradition",
+          "score": 0.64571327,
+          "topicality": 0.0035138282
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8922692,
+          "topicality": 0.003366673
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.88885146,
+          "topicality": 0.0011966047
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.8602308,
+          "topicality": 0.14443545
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.85389835,
+          "topicality": 0.011911618
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6394294,
+          "topicality": 0.14341697
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5438627,
+          "topicality": 0.0029346454
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5283951,
+          "topicality": 0.010695789
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5266661,
+          "topicality": 0.0064758705
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5034968,
+          "topicality": 0.008697751
+        }
+      ]
+    }
+  ]
+}

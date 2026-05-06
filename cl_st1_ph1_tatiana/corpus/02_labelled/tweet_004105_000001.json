@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.9540433,
+          "topicality": 0.00085803185
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.9452329,
+          "topicality": 0.0011929304
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.91395026,
+          "topicality": 0.0002165655
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.90970665,
+          "topicality": 0.000554036
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8834054,
+          "topicality": 9.701286e-06
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8699262,
+          "topicality": 0.0003701517
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8061002,
+          "topicality": 0.002997775
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7356072,
+          "topicality": 0.0003549028
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7160658,
+          "topicality": 0.0011793614
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7142085,
+          "topicality": 0.00022936368
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.70706856,
+          "topicality": 0.004795656
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.637388,
+          "topicality": 0.0057605
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.5494838,
+          "topicality": 0.0006893308
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.52024055,
+          "topicality": 0.0011833789
+        }
+      ]
+    }
+  ]
+}

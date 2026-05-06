@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94493115,
+          "topicality": 0.004044545
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9285897,
+          "topicality": 0.030912638
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9208677,
+          "topicality": 0.005709089
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9160283,
+          "topicality": 0.014739247
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.91252345,
+          "topicality": 0.007023839
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.76151925,
+          "topicality": 0.31367016
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.67012995,
+          "topicality": 0.038631387
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.54359716,
+          "topicality": 0.0001250386
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.8655399,
+          "topicality": 0.097186334
+        },
+        {
+          "mid": "/m/089mxq",
+          "description": "Glass bottle",
+          "score": 0.62651235,
+          "topicality": 0.015222732
+        },
+        {
+          "mid": "/m/02b389",
+          "description": "Bottle cap",
+          "score": 0.6048839,
+          "topicality": 0.012769641
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.59602594,
+          "topicality": 0.008645986
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9525391,
+          "topicality": 0.00020695121
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9017918,
+          "topicality": 7.565234e-06
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.89621836,
+          "topicality": 0.87918127
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.8761661,
+          "topicality": 0.01778053
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.67514676,
+          "topicality": 0.0069651455
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5381034,
+          "topicality": 0.042990725
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.51819927,
+          "topicality": 9.117748e-05
+        }
+      ]
+    }
+  ]
+}

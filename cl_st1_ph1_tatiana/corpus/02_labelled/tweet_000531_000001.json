@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94493294,
+          "topicality": 8.604354e-05
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.91715515,
+          "topicality": 0.040504947
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9063597,
+          "topicality": 0.008179064
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8932373,
+          "topicality": 0.0004610791
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8778884,
+          "topicality": 0.018781485
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.86008877,
+          "topicality": 0.036001526
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.84950393,
+          "topicality": 0.0013845939
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.82246655,
+          "topicality": 0.14498414
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7337606,
+          "topicality": 0.002391013
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.72399276,
+          "topicality": 0.008759824
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6641378,
+          "topicality": 0.0035471944
+        }
+      ]
+    }
+  ]
+}

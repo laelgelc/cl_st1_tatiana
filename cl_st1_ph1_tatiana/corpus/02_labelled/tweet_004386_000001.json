@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8426136,
+          "topicality": 0.01816626
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.83823115,
+          "topicality": 0.09680062
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.77284586,
+          "topicality": 0.03281013
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.62171894,
+          "topicality": 0.011246827
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.55739075,
+          "topicality": 0.016235542
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94490415,
+          "topicality": 0.0022235664
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.8259268,
+          "topicality": 0.008577484
+        },
+        {
+          "mid": "/m/01qwsw",
+          "description": "Flat-panel display",
+          "score": 0.6010332,
+          "topicality": 0.009815834
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.84835696,
+          "topicality": 0.003082682
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.84010565,
+          "topicality": 0.04824474
+        },
+        {
+          "mid": "/m/03gg9",
+          "description": "Human anatomy",
+          "score": 0.6803194,
+          "topicality": 0.071063824
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5314046,
+          "topicality": 0.0017337195
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51358664,
+          "topicality": 0.009625007
+        }
+      ]
+    }
+  ]
+}

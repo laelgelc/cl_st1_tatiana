@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9516289,
+          "topicality": 0.06081719
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90249896,
+          "topicality": 0.0010804532
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.775429,
+          "topicality": 0.017623615
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.60831493,
+          "topicality": 0.001597654
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5348249,
+          "topicality": 0.005042382
+        },
+        {
+          "mid": "/m/08tlbj",
+          "description": "Natural foods",
+          "score": 0.5109486,
+          "topicality": 0.00017378968
+        }
+      ]
+    }
+  ]
+}

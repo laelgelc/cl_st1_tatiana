@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.9857585,
+          "topicality": 0.0022732674
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9834065,
+          "topicality": 0.00026154195
+        },
+        {
+          "mid": "/m/0dzct",
+          "description": "Face",
+          "score": 0.98040664,
+          "topicality": 0.0041846856
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9803094,
+          "topicality": 0.0016650092
+        },
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.9499262,
+          "topicality": 0.0013788956
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.9227667,
+          "topicality": 0.17796819
+        },
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.8988395,
+          "topicality": 0.00069435657
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.8137136,
+          "topicality": 0.0007820547
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.8030276,
+          "topicality": 0.06970994
+        },
+        {
+          "mid": "/m/02h19r",
+          "description": "Scarf",
+          "score": 0.7235855,
+          "topicality": 0.0001439197
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.67266333,
+          "topicality": 0.07103077
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.6077372,
+          "topicality": 0.023560936
+        },
+        {
+          "mid": "/m/0670sh",
+          "description": "Stole",
+          "score": 0.5099353,
+          "topicality": 1.2152463e-05
+        }
+      ]
+    }
+  ]
+}

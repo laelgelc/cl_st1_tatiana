@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.9659838,
+          "topicality": 0.45165777
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.8432752,
+          "topicality": 0.0059675253
+        },
+        {
+          "mid": "/m/078hm",
+          "description": "Slope",
+          "score": 0.7777831,
+          "topicality": 0.009724883
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5933376,
+          "topicality": 0.006945374
+        }
+      ]
+    }
+  ]
+}

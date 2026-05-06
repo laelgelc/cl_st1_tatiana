@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jzz1",
+          "description": "Bovinae",
+          "score": 0.8760309,
+          "topicality": 0.824834
+        },
+        {
+          "mid": "/m/01hbsc",
+          "description": "Veterinary physician",
+          "score": 0.846999,
+          "topicality": 0.3810762
+        },
+        {
+          "mid": "/m/0ch8v",
+          "description": "Livestock",
+          "score": 0.70640975,
+          "topicality": 0.09903058
+        },
+        {
+          "mid": "/m/03vcw7",
+          "description": "Dairy cattle",
+          "score": 0.6913387,
+          "topicality": 0.064276606
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5600286,
+          "topicality": 0.018639758
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5405852,
+          "topicality": 0.00015081988
+        },
+        {
+          "mid": "/m/0fktr",
+          "description": "Dairy",
+          "score": 0.51125073,
+          "topicality": 0.014458082
+        },
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.5037429,
+          "topicality": 0.00012984526
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5002152,
+          "topicality": 3.248324e-05
+        }
+      ]
+    }
+  ]
+}

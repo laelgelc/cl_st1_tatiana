@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.95403934,
+          "topicality": 0.0046891286
+        },
+        {
+          "mid": "/m/02dl1y",
+          "description": "Hat",
+          "score": 0.8811194,
+          "topicality": 0.0008133209
+        },
+        {
+          "mid": "/m/02d46y",
+          "description": "Cap",
+          "score": 0.8114289,
+          "topicality": 0.0004903709
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.7130426,
+          "topicality": 0.0018949881
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.5660508,
+          "topicality": 0.022488505
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.5340676,
+          "topicality": 0.0004145566
+        }
+      ]
+    }
+  ]
+}

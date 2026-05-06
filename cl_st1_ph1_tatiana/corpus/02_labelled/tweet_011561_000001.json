@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01q_cy",
+          "description": "Globe",
+          "score": 0.63382846,
+          "topicality": 0.058858685
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6243224,
+          "topicality": 0.13377814
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.55114615,
+          "topicality": 0.0021034162
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.55070114,
+          "topicality": 0.0086018145
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.51132256,
+          "topicality": 0.0031703804
+        },
+        {
+          "mid": "/m/02j71",
+          "description": "Earth",
+          "score": 0.5018703,
+          "topicality": 0.13374828
+        }
+      ]
+    }
+  ]
+}

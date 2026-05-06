@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8614729,
+          "topicality": 0.049768213
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.85926723,
+          "topicality": 0.0018243084
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.81780446,
+          "topicality": 0.00062961783
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.60444784,
+          "topicality": 0.007935951
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.57768136,
+          "topicality": 0.0020209001
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.5728232,
+          "topicality": 0.00044306606
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.5406271,
+          "topicality": 0.00096119964
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.5200991,
+          "topicality": 0.0011619494
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083s2",
+          "description": "Wing",
+          "score": 0.91297525,
+          "topicality": 0.012061014
+        },
+        {
+          "mid": "/m/015p6",
+          "description": "Bird",
+          "score": 0.8056034,
+          "topicality": 0.22424859
+        },
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.72615707,
+          "topicality": 0.0074205277
+        },
+        {
+          "mid": "/m/0dfgf",
+          "description": "Feather",
+          "score": 0.5947553,
+          "topicality": 0.001062548
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.59237635,
+          "topicality": 0.00084577984
+        }
+      ]
+    }
+  ]
+}

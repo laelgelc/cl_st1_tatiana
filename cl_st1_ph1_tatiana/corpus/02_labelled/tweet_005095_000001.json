@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.96678543,
+          "topicality": 0.000638738
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9595208,
+          "topicality": 0.015526933
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91898996,
+          "topicality": 0.0029889364
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8957625,
+          "topicality": 0.037760235
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.8721022,
+          "topicality": 0.0008228848
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.69594514,
+          "topicality": 0.0089655295
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6684542,
+          "topicality": 0.004220499
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.6656983,
+          "topicality": 0.28983298
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5510864,
+          "topicality": 0.020334557
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.5019976,
+          "topicality": 0.0014849682
+        }
+      ]
+    }
+  ]
+}

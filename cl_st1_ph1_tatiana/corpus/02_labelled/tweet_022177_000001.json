@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "Clothing",
+          "score": 0.99414724,
+          "topicality": 0.07491319
+        },
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.9591984,
+          "topicality": 0.021945842
+        },
+        {
+          "mid": "/m/01n4qj",
+          "description": "Shirt",
+          "score": 0.9590475,
+          "topicality": 0.033325102
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9175623,
+          "topicality": 0.057896163
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.910681,
+          "topicality": 0.034961153
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.88797253,
+          "topicality": 0.0011159382
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8753275,
+          "topicality": 0.005508651
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.874516,
+          "topicality": 0.00026403187
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.87305903,
+          "topicality": 0.049605012
+        },
+        {
+          "mid": "/m/01h8n0",
+          "description": "Conversation",
+          "score": 0.7419681,
+          "topicality": 0.0037185184
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.662604,
+          "topicality": 0.07530417
+        },
+        {
+          "mid": "/m/03cvmmd",
+          "description": "Suit trousers",
+          "score": 0.65531135,
+          "topicality": 0.00020241197
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6018535,
+          "topicality": 0.00084721076
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.55430627,
+          "topicality": 0.0012431932
+        }
+      ]
+    }
+  ]
+}

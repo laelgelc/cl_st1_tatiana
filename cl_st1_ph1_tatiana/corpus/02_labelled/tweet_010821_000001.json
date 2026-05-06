@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09q2t",
+          "description": "Brown",
+          "score": 0.9226232,
+          "topicality": 0.004308485
+        },
+        {
+          "mid": "/m/03k5cs",
+          "description": "Geological formation",
+          "score": 0.8463675,
+          "topicality": 0.0051337234
+        },
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.82868963,
+          "topicality": 0.1305427
+        },
+        {
+          "mid": "/m/02n1k",
+          "description": "Erosion",
+          "score": 0.6982226,
+          "topicality": 0.06758001
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.6146051,
+          "topicality": 0.004726316
+        },
+        {
+          "mid": "/m/01jnvt",
+          "description": "Badlands",
+          "score": 0.52684194,
+          "topicality": 0.00077987334
+        },
+        {
+          "mid": "/m/046j6d",
+          "description": "Intrusive rock",
+          "score": 0.5258603,
+          "topicality": 0.00022545783
+        },
+        {
+          "mid": "/m/06lml",
+          "description": "Rust",
+          "score": 0.5213051,
+          "topicality": 0.005387201
+        }
+      ]
+    }
+  ]
+}

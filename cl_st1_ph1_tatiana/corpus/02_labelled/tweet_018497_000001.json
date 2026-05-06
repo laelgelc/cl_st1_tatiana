@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9211091,
+          "topicality": 0.00066153466
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.90268755,
+          "topicality": 0.018085755
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8756407,
+          "topicality": 0.0032826096
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.83761644,
+          "topicality": 0.0036812325
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.79456526,
+          "topicality": 0.0012640213
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7427225,
+          "topicality": 0.14289275
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.7347,
+          "topicality": 0.0013062657
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.618108,
+          "topicality": 0.0009804122
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.60215575,
+          "topicality": 0.052882593
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.53796184,
+          "topicality": 0.035555977
+        }
+      ]
+    }
+  ]
+}

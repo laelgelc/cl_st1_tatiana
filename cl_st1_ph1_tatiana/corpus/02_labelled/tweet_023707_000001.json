@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.9579469,
+          "topicality": 0.15311012
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.91407675,
+          "topicality": 0.001234639
+        },
+        {
+          "mid": "/m/09jfs",
+          "description": "Uniform",
+          "score": 0.8568644,
+          "topicality": 0.00032909992
+        },
+        {
+          "mid": "/m/0zvk5",
+          "description": "Helmet",
+          "score": 0.82734346,
+          "topicality": 0.00015173468
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.7689654,
+          "topicality": 0.23414023
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.66981965,
+          "topicality": 2.1106543e-05
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.65229243,
+          "topicality": 0.004912379
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.64703774,
+          "topicality": 0.01950181
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5979053,
+          "topicality": 0.005569763
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5700818,
+          "topicality": 0.00032045855
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.566838,
+          "topicality": 0.10255281
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.56358576,
+          "topicality": 0.013037026
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.5339888,
+          "topicality": 0.031320162
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.507123,
+          "topicality": 0.40656784
+        }
+      ]
+    }
+  ]
+}

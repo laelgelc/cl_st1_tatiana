@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.9886846,
+          "topicality": 0.01738695
+        },
+        {
+          "mid": "/m/022ch",
+          "description": "Cross",
+          "score": 0.90465564,
+          "topicality": 0.14657807
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.85824215,
+          "topicality": 0.03183468
+        },
+        {
+          "mid": "/m/01ft8k",
+          "description": "Shadow",
+          "score": 0.5053631,
+          "topicality": 0.0041641505
+        }
+      ]
+    }
+  ]
+}

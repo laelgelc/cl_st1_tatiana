@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449344,
+          "topicality": 0.004207902
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.87059784,
+          "topicality": 0.005271718
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.770389,
+          "topicality": 0.00015914254
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7549776,
+          "topicality": 0.00094466633
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.68088645,
+          "topicality": 0.004544549
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.659368,
+          "topicality": 0.0013749026
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.62669677,
+          "topicality": 0.0018734578
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.56516546,
+          "topicality": 0.029654495
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.5478264,
+          "topicality": 0.07206167
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.54565364,
+          "topicality": 0.0006458304
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.52552855,
+          "topicality": 0.17149031
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.5123384,
+          "topicality": 0.011948227
+        }
+      ]
+    }
+  ]
+}

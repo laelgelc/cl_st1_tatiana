@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9508652,
+          "topicality": 0.060419615
+        },
+        {
+          "mid": "/m/019_nn",
+          "description": "Friendship",
+          "score": 0.84764254,
+          "topicality": 0.12787697
+        },
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.75836265,
+          "topicality": 0.004424028
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.75637966,
+          "topicality": 0.08684449
+        }
+      ]
+    }
+  ]
+}

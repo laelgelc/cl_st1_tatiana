@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8612531,
+          "topicality": 0.0018198143
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.79150176,
+          "topicality": 0.039838906
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6374899,
+          "topicality": 0.07580256
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.63639635,
+          "topicality": 0.09476254
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6318056,
+          "topicality": 0.023573939
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.62088555,
+          "topicality": 0.0443216
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5948592,
+          "topicality": 1.4466389e-06
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.53993785,
+          "topicality": 0.01140406
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5253949,
+          "topicality": 0.21619639
+        }
+      ]
+    }
+  ]
+}

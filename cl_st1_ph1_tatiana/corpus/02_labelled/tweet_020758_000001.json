@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9350749,
+          "topicality": 0.0068837753
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9334363,
+          "topicality": 0.0006785492
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.88752186,
+          "topicality": 0.025459038
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.8573098,
+          "topicality": 0.00056039804
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.8083994,
+          "topicality": 0.13762088
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.77068377,
+          "topicality": 0.052406725
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.7643875,
+          "topicality": 0.00015185685
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.76273865,
+          "topicality": 0.010789771
+        },
+        {
+          "mid": "/m/04n4dpy",
+          "description": "Scientific instrument",
+          "score": 0.6842661,
+          "topicality": 0.0014604141
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.671446,
+          "topicality": 0.0018611118
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58914363,
+          "topicality": 0.077880695
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.52495307,
+          "topicality": 0.008699692
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.82832,
+          "topicality": 0.008732251
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.8238062,
+          "topicality": 0.027162867
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7312973,
+          "topicality": 0.0077549154
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.58040285,
+          "topicality": 0.5153192
+        }
+      ]
+    }
+  ]
+}

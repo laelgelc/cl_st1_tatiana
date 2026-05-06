@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.9884496,
+          "topicality": 0.021026604
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.67953634,
+          "topicality": 0.059494868
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5929591,
+          "topicality": 0.1367353
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.59109885,
+          "topicality": 0.00851568
+        }
+      ]
+    }
+  ]
+}

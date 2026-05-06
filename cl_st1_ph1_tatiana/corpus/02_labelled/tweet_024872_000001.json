@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.8863697,
+          "topicality": 0.008320792
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.8451493,
+          "topicality": 0.00019053096
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7538705,
+          "topicality": 0.10161415
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.6397998,
+          "topicality": 0.015852751
+        }
+      ]
+    }
+  ]
+}

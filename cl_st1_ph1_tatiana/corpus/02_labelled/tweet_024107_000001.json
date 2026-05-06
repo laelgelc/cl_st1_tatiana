@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.94894093,
+          "topicality": 0.73562884
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9441251,
+          "topicality": 0.08705621
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.9331935,
+          "topicality": 0.0063569266
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.93242615,
+          "topicality": 0.0029684454
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9297241,
+          "topicality": 0.40255016
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9289634,
+          "topicality": 0.007601278
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.89784867,
+          "topicality": 0.013011962
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.7414342,
+          "topicality": 0.011751485
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7196787,
+          "topicality": 0.11146112
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.71296656,
+          "topicality": 0.08284532
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.64576435,
+          "topicality": 0.046130296
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6328024,
+          "topicality": 0.021746147
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.55899435,
+          "topicality": 0.15661314
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5252318,
+          "topicality": 0.011960504
+        }
+      ]
+    }
+  ]
+}

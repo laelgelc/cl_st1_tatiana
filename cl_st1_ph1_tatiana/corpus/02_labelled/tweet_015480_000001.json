@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dm6dl",
+          "description": "Barechestedness",
+          "score": 0.7686902,
+          "topicality": 0.042279046
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.74576825,
+          "topicality": 0.0003492384
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.69653255,
+          "topicality": 0.096923515
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.6388377,
+          "topicality": 0.079813406
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.56087106,
+          "topicality": 0.0022916193
+        },
+        {
+          "mid": "/m/0b0fq",
+          "description": "Photomontage",
+          "score": 0.5541027,
+          "topicality": 0.0018840125
+        }
+      ]
+    }
+  ]
+}

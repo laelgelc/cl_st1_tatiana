@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.77262586,
+          "topicality": 0.004025066
+        },
+        {
+          "mid": "/m/01h8n0",
+          "description": "Conversation",
+          "score": 0.75780314,
+          "topicality": 0.017464252
+        },
+        {
+          "mid": "/m/01xq3w",
+          "description": "Debate",
+          "score": 0.66037977,
+          "topicality": 0.09653247
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.58521897,
+          "topicality": 0.000793227
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5723649,
+          "topicality": 0.0058156503
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5152054,
+          "topicality": 5.8956975e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9558693,
+          "topicality": 0.019564351
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.952818,
+          "topicality": 0.017282033
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.92833287,
+          "topicality": 0.28722066
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.91420037,
+          "topicality": 0.094771266
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.9101966,
+          "topicality": 0.24526855
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8424176,
+          "topicality": 0.0016750157
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7416967,
+          "topicality": 0.17319505
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7286586,
+          "topicality": 0.061179243
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.728649,
+          "topicality": 0.0019431356
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.723122,
+          "topicality": 0.088881016
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.7080127,
+          "topicality": 0.0004223261
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.5412158,
+          "topicality": 9.505358e-05
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.5109968,
+          "topicality": 0.0030172989
+        },
+        {
+          "mid": "/m/056hv",
+          "description": "Measuring instrument",
+          "score": 0.502436,
+          "topicality": 0.0017035968
+        }
+      ]
+    }
+  ]
+}

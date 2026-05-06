@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.9727229,
+          "topicality": 0.0011940687
+        },
+        {
+          "mid": "/m/0dzf4",
+          "description": "Arm",
+          "score": 0.97165716,
+          "topicality": 0.0076310546
+        },
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.85171056,
+          "topicality": 0.00041176492
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.70418066,
+          "topicality": 0.00020999959
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.6014025,
+          "topicality": 0.0009839424
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.58934516,
+          "topicality": 0.00024612792
+        },
+        {
+          "mid": "/m/03n0sf",
+          "description": "Afro",
+          "score": 0.58518195,
+          "topicality": 0.005707785
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.56200385,
+          "topicality": 0.0040700156
+        }
+      ]
+    }
+  ]
+}

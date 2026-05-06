@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.93099946,
+          "topicality": 0.6376441
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.86427015,
+          "topicality": 0.018630825
+        },
+        {
+          "mid": "/m/01mwkf",
+          "description": "Monochrome",
+          "score": 0.787414,
+          "topicality": 0.00088365865
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "Portrait",
+          "score": 0.5954672,
+          "topicality": 0.0206816
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.59236205,
+          "topicality": 0.0018944409
+        }
+      ]
+    }
+  ]
+}

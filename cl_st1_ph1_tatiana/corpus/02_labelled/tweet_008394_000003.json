@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.91941303,
+          "topicality": 0.017556211
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9012244,
+          "topicality": 0.00040696244
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8344756,
+          "topicality": 0.0006480491
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.577803,
+          "topicality": 2.1774067e-05
+        },
+        {
+          "mid": "/m/02p1fkx",
+          "description": "Text messaging",
+          "score": 0.56933206,
+          "topicality": 0.4412003
+        }
+      ]
+    }
+  ]
+}

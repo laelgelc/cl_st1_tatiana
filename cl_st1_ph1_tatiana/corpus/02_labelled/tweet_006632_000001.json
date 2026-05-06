@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97588176,
+          "topicality": 0.025257
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.85716087,
+          "topicality": 0.045654323
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.74371153,
+          "topicality": 0.114714004
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.6187083,
+          "topicality": 0.0070276516
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.52097225,
+          "topicality": 0.003726946
+        }
+      ]
+    }
+  ]
+}

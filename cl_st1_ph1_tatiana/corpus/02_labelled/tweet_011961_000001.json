@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9550971,
+          "topicality": 0.08463778
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90015805,
+          "topicality": 0.0010837581
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.7884229,
+          "topicality": 0.053137694
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.6535085,
+          "topicality": 0.020909963
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.561639,
+          "topicality": 0.010406209
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.95357305,
+          "topicality": 0.0002390255
+        },
+        {
+          "mid": "/m/01yttv",
+          "description": "Audio equipment",
+          "score": 0.9276828,
+          "topicality": 9.381118e-05
+        },
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.9035122,
+          "topicality": 0.0025905522
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.81850576,
+          "topicality": 0.20267029
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7783938,
+          "topicality": 0.00083922554
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.7732022,
+          "topicality": 0.042365707
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7034276,
+          "topicality": 0.014897846
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.5424062,
+          "topicality": 0.012074595
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.50466686,
+          "topicality": 0.0035478196
+        }
+      ]
+    }
+  ]
+}

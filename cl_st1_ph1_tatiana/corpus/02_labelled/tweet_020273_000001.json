@@ -1,0 +1,116 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.9804857,
+          "topicality": 0.0634347
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9749682,
+          "topicality": 0.09574582
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9733534,
+          "topicality": 0.012514323
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.92895186,
+          "topicality": 0.006976206
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.92735386,
+          "topicality": 0.018555352
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8673039,
+          "topicality": 0.003853421
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7894783,
+          "topicality": 0.113468595
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7849793,
+          "topicality": 0.00016785826
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.75315505,
+          "topicality": 0.01230206
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7524934,
+          "topicality": 0.032568846
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.74847996,
+          "topicality": 0.14306206
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.74138576,
+          "topicality": 0.0012137782
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6991163,
+          "topicality": 0.00086176035
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.64503825,
+          "topicality": 0.00043888265
+        },
+        {
+          "mid": "/m/03c1dkx",
+          "description": "Therapy",
+          "score": 0.62882555,
+          "topicality": 0.3119671
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.60397923,
+          "topicality": 0.010509481
+        },
+        {
+          "mid": "/m/062t2",
+          "description": "Pain",
+          "score": 0.594446,
+          "topicality": 0.17921004
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5523906,
+          "topicality": 0.013131245
+        }
+      ]
+    }
+  ]
+}

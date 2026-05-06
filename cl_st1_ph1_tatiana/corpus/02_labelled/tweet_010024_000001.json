@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.8751346,
+          "topicality": 0.00036544222
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.82426476,
+          "topicality": 0.009578598
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7981778,
+          "topicality": 0.005452198
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.790139,
+          "topicality": 0.1918148
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7265173,
+          "topicality": 0.0055976794
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.7086602,
+          "topicality": 0.0043793456
+        }
+      ]
+    }
+  ]
+}

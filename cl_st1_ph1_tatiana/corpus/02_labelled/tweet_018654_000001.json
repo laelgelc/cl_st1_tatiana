@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943249,
+          "topicality": 0.115888014
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.91405755,
+          "topicality": 0.42198893
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8478398,
+          "topicality": 0.020916903
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.67741376,
+          "topicality": 0.21504115
+        }
+      ]
+    }
+  ]
+}

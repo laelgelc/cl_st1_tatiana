@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0nqm4",
+          "description": "Radiography",
+          "score": 0.8996087,
+          "topicality": 0.2557992
+        },
+        {
+          "mid": "/m/087gx",
+          "description": "X-ray",
+          "score": 0.89341146,
+          "topicality": 0.24257801
+        },
+        {
+          "mid": "/m/013x4m",
+          "description": "Radiology",
+          "score": 0.8162304,
+          "topicality": 0.09057779
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6672334,
+          "topicality": 0.0038035659
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6622047,
+          "topicality": 0.0003831501
+        },
+        {
+          "mid": "/m/01j3br",
+          "description": "Medical imaging",
+          "score": 0.65975624,
+          "topicality": 0.00317923
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5410749,
+          "topicality": 0.0063683344
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03bt1gh",
+          "description": "Game",
+          "score": 0.71891993,
+          "topicality": 0.1865538
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.71583426,
+          "topicality": 0.00095777516
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.5782984,
+          "topicality": 0.0016629989
+        },
+        {
+          "mid": "/m/034dj",
+          "description": "Gambling",
+          "score": 0.5539998,
+          "topicality": 0.07304221
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.53297013,
+          "topicality": 0.0004223551
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.50940734,
+          "topicality": 0.0001322523
+        }
+      ]
+    }
+  ]
+}

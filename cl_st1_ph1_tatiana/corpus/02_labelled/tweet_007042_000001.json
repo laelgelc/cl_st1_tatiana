@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/038hg",
+          "description": "Green",
+          "score": 0.98046345,
+          "topicality": 0.15659128
+        },
+        {
+          "mid": "/m/0hlw",
+          "description": "Algae",
+          "score": 0.86500764,
+          "topicality": 0.23769873
+        },
+        {
+          "mid": "/m/01y24v",
+          "description": "Green algae",
+          "score": 0.7317217,
+          "topicality": 0.11308156
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58551,
+          "topicality": 0.040985532
+        },
+        {
+          "mid": "/m/02057l",
+          "description": "Liverworts",
+          "score": 0.5659567,
+          "topicality": 0.0011512308
+        }
+      ]
+    }
+  ]
+}

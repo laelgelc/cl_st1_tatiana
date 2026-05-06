@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.9023199,
+          "topicality": 5.715565e-05
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.897844,
+          "topicality": 0.0010071723
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7126238,
+          "topicality": 0.06447251
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5437179,
+          "topicality": 0.005627923
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.5011111,
+          "topicality": 0.015843745
+        }
+      ]
+    }
+  ]
+}

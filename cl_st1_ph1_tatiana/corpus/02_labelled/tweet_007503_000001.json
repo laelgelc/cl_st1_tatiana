@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.732718,
+          "topicality": 0.018715162
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.7032783,
+          "topicality": 0.09601216
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.69968414,
+          "topicality": 0.077672005
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5782096,
+          "topicality": 0.00019828303
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52348524,
+          "topicality": 0.0083081825
+        }
+      ]
+    }
+  ]
+}

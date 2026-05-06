@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.9280342,
+          "topicality": 0.008561079
+        },
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.92283595,
+          "topicality": 0.119554736
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.79729193,
+          "topicality": 0.0006492255
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.67818,
+          "topicality": 0.016542125
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.65707654,
+          "topicality": 0.010316027
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.64486504,
+          "topicality": 0.021606034
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.63651395,
+          "topicality": 0.30743027
+        }
+      ]
+    }
+  ]
+}

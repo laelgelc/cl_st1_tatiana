@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07mhn",
+          "description": "Trousers",
+          "score": 0.96214163,
+          "topicality": 0.024546659
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.8947179,
+          "topicality": 0.016225936
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.84635544,
+          "topicality": 0.0017728762
+        },
+        {
+          "mid": "/m/011l78",
+          "description": "Team",
+          "score": 0.8144453,
+          "topicality": 0.001679783
+        },
+        {
+          "mid": "/m/01zpz",
+          "description": "Crew",
+          "score": 0.7667197,
+          "topicality": 0.0054445234
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.52769023,
+          "topicality": 0.007133148
+        }
+      ]
+    }
+  ]
+}

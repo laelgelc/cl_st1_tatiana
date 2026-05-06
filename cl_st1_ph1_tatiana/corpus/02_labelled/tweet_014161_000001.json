@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.84359044,
+          "topicality": 0.20429878
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.7600765,
+          "topicality": 0.28561047
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.5862984,
+          "topicality": 0.11895692
+        },
+        {
+          "mid": "/m/02vjn0",
+          "description": "Food processing",
+          "score": 0.5594577,
+          "topicality": 0.47631878
+        },
+        {
+          "mid": "/m/0d99pf",
+          "description": "Control panel",
+          "score": 0.5486852,
+          "topicality": 0.0029534474
+        }
+      ]
+    }
+  ]
+}

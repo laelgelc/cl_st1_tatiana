@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03vt0",
+          "description": "Insect",
+          "score": 0.6261207,
+          "topicality": 0.037472177
+        },
+        {
+          "mid": "/m/01dqkc",
+          "description": "Pest",
+          "score": 0.5856196,
+          "topicality": 0.03271254
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.58176374,
+          "topicality": 0.0005120036
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.57643294,
+          "topicality": 0.31243643
+        },
+        {
+          "mid": "/m/0zkm",
+          "description": "Arthropod",
+          "score": 0.5431809,
+          "topicality": 0.0015549615
+        },
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.5327558,
+          "topicality": 0.008429663
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7999746,
+          "topicality": 0.0071059675
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.61163926,
+          "topicality": 0.09852811
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.60566455,
+          "topicality": 0.06283299
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.95255935,
+          "topicality": 0.027380887
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9061204,
+          "topicality": 0.00029251984
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53229994,
+          "topicality": 0.0025664181
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.53126186,
+          "topicality": 0.00047238075
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5291525,
+          "topicality": 0.00024633337
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.96839726,
+          "topicality": 0.42760062
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.95945436,
+          "topicality": 0.020758752
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.937963,
+          "topicality": 0.007172803
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.9199663,
+          "topicality": 0.21655494
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.86573863,
+          "topicality": 0.008050363
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8568538,
+          "topicality": 0.017750667
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.82810444,
+          "topicality": 0.0025465323
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8193242,
+          "topicality": 0.0030285083
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7286172,
+          "topicality": 0.0009422424
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.70893645,
+          "topicality": 0.00034416508
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.56159675,
+          "topicality": 0.032151032
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5517922,
+          "topicality": 0.029940104
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.51432776,
+          "topicality": 0.022971608
+        },
+        {
+          "mid": "/m/0hgp5bc",
+          "description": "Formal Gloves",
+          "score": 0.5032727,
+          "topicality": 0.00011815322
+        }
+      ]
+    }
+  ]
+}

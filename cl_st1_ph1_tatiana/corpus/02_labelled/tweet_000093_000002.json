@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.70246375,
+          "topicality": 0.020567695
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.67753017,
+          "topicality": 0.11576962
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.62406677,
+          "topicality": 0.0014667748
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.57276195,
+          "topicality": 0.0041522235
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.56617177,
+          "topicality": 0.032659274
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.5269261,
+          "topicality": 0.006361344
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5026182,
+          "topicality": 0.006624584
+        }
+      ]
+    }
+  ]
+}

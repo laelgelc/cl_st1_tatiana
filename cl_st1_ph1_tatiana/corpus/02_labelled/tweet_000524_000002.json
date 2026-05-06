@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.95600694,
+          "topicality": 0.2791143
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9149085,
+          "topicality": 0.014324564
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.69259936,
+          "topicality": 0.008811872
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.6667255,
+          "topicality": 0.0037534572
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.6208169,
+          "topicality": 0.0048069297
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.58378494,
+          "topicality": 0.017680317
+        }
+      ]
+    }
+  ]
+}

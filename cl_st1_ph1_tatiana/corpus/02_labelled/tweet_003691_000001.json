@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7326759,
+          "topicality": 0.0010040958
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6885528,
+          "topicality": 0.023705712
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.60380197,
+          "topicality": 0.00048879755
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.576427,
+          "topicality": 0.0009820163
+        },
+        {
+          "mid": "/m/0987_ns",
+          "description": "Video Game Software",
+          "score": 0.5642321,
+          "topicality": 4.1680712e-05
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.5521158,
+          "topicality": 0.013348808
+        },
+        {
+          "mid": "/m/02g49",
+          "description": "Digital compositing",
+          "score": 0.5350182,
+          "topicality": 0.00054943154
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019tzr",
+          "description": "Coffin",
+          "score": 0.97211987,
+          "topicality": 0.8643128
+        },
+        {
+          "mid": "/m/02_g0",
+          "description": "Funeral",
+          "score": 0.8859432,
+          "topicality": 0.8702229
+        },
+        {
+          "mid": "/m/03cqpm",
+          "description": "Pallbearer",
+          "score": 0.8004855,
+          "topicality": 0.2591734
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.77716494,
+          "topicality": 0.0144993
+        },
+        {
+          "mid": "/m/0ggjrhd",
+          "description": "Flower Arranging",
+          "score": 0.58047825,
+          "topicality": 0.0002523185
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.8945037,
+          "topicality": 0.00017020246
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.84246355,
+          "topicality": 0.09381778
+        },
+        {
+          "mid": "/m/04_tb",
+          "description": "Map",
+          "score": 0.6164425,
+          "topicality": 0.26672024
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.615796,
+          "topicality": 0.058284856
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5007247,
+          "topicality": 0.011933773
+        }
+      ]
+    }
+  ]
+}

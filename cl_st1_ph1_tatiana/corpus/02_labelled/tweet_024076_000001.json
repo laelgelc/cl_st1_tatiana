@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.973324,
+          "topicality": 0.020271614
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90401757,
+          "topicality": 0.0066427686
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8514216,
+          "topicality": 0.05452334
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.77299637,
+          "topicality": 0.017980557
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.74344385,
+          "topicality": 0.009521092
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.7390879,
+          "topicality": 0.005374451
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.6679001,
+          "topicality": 0.0036627392
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.6337679,
+          "topicality": 0.004063189
+        },
+        {
+          "mid": "/m/01wk9c",
+          "description": "Emblem",
+          "score": 0.61191297,
+          "topicality": 0.0028594453
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.58125645,
+          "topicality": 0.0038267556
+        }
+      ]
+    }
+  ]
+}

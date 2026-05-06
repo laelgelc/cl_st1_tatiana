@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.8980697,
+          "topicality": 0.012087622
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.75315833,
+          "topicality": 0.000122215
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.7416701,
+          "topicality": 0.012507595
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7299141,
+          "topicality": 0.00075610774
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6294561,
+          "topicality": 0.001662277
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5558546,
+          "topicality": 0.0010647607
+        },
+        {
+          "mid": "/m/025s8bs",
+          "description": "Shopping mall",
+          "score": 0.50320023,
+          "topicality": 0.024137368
+        }
+      ]
+    }
+  ]
+}

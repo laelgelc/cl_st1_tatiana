@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.9885737,
+          "topicality": 0.015227779
+        },
+        {
+          "mid": "/m/037p5b",
+          "description": "Cheek",
+          "score": 0.98683405,
+          "topicality": 0.01307399
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9859662,
+          "topicality": 0.023925075
+        },
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.9847878,
+          "topicality": 0.005131627
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98388517,
+          "topicality": 0.02536686
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.9676869,
+          "topicality": 0.0035335412
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9668453,
+          "topicality": 0.006969184
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.95658594,
+          "topicality": 0.016342575
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94489104,
+          "topicality": 0.0038461757
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.87336534,
+          "topicality": 0.062383622
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.6212074,
+          "topicality": 0.00045487177
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.5604596,
+          "topicality": 0.0003643385
+        },
+        {
+          "mid": "/m/01jtn",
+          "description": "Body piercing",
+          "score": 0.5194607,
+          "topicality": 0.03384315
+        }
+      ]
+    }
+  ]
+}

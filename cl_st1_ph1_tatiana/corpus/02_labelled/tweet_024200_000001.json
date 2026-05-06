@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7893782,
+          "topicality": 0.0049715107
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.73009294,
+          "topicality": 0.00031512938
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.69965535,
+          "topicality": 0.47296605
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5312616,
+          "topicality": 0.00040994253
+        }
+      ]
+    }
+  ]
+}

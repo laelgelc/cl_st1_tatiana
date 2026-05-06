@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9745508,
+          "topicality": 0.014697708
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9713487,
+          "topicality": 0.096690856
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9286855,
+          "topicality": 0.009574133
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9202783,
+          "topicality": 0.005953393
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.9193761,
+          "topicality": 0.101680815
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.9111996,
+          "topicality": 0.073234715
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.9054946,
+          "topicality": 0.0025385679
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.88779706,
+          "topicality": 0.008278459
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6857619,
+          "topicality": 0.0016707141
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.68141097,
+          "topicality": 0.001251036
+        },
+        {
+          "mid": "/m/0hgp5bc",
+          "description": "Formal Gloves",
+          "score": 0.57079065,
+          "topicality": 0.00015842488
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.53563684,
+          "topicality": 0.018638266
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51864356,
+          "topicality": 0.0236133
+        }
+      ]
+    }
+  ]
+}

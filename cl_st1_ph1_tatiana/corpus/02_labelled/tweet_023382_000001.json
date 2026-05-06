@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.839463,
+          "topicality": 0.00031658862
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.77143943,
+          "topicality": 0.0049225567
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.74427354,
+          "topicality": 0.0002083158
+        },
+        {
+          "mid": "/m/077p0h",
+          "description": "Sleeveless shirt",
+          "score": 0.5524703,
+          "topicality": 0.0006177777
+        },
+        {
+          "mid": "/m/0hjbz",
+          "description": "Drinking",
+          "score": 0.5463866,
+          "topicality": 0.00480549
+        }
+      ]
+    }
+  ]
+}

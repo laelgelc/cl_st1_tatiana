@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.69379926,
+          "topicality": 0.0005608226
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.6600733,
+          "topicality": 0.0054028183
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.65334445,
+          "topicality": 0.013676221
+        },
+        {
+          "mid": "/m/01cndb",
+          "description": "Stationery",
+          "score": 0.5175063,
+          "topicality": 0.010821953
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06bm2",
+          "description": "Recreation",
+          "score": 0.917347,
+          "topicality": 0.0075129666
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.85952777,
+          "topicality": 0.003558136
+        },
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.85203046,
+          "topicality": 0.0048099053
+        },
+        {
+          "mid": "/m/09kjlm",
+          "description": "Sneakers",
+          "score": 0.79833126,
+          "topicality": 0.011425956
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7301935,
+          "topicality": 0.035539515
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.5529058,
+          "topicality": 0.001507781
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.52540666,
+          "topicality": 0.003452688
+        }
+      ]
+    }
+  ]
+}

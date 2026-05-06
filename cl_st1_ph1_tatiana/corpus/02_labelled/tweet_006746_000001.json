@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.72388834,
+          "topicality": 0.00085601065
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.6453177,
+          "topicality": 0.0025819154
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5935875,
+          "topicality": 0.0025071488
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.5376551,
+          "topicality": 0.00012667736
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5320142,
+          "topicality": 0.0236674
+        },
+        {
+          "mid": "/m/02l7rx",
+          "description": "Convention center",
+          "score": 0.5129693,
+          "topicality": 0.0066969995
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.509876,
+          "topicality": 0.007880893
+        }
+      ]
+    }
+  ]
+}

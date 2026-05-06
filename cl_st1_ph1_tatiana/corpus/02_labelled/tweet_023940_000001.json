@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.97475296,
+          "topicality": 0.003916239
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.89156795,
+          "topicality": 0.010112662
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.7946038,
+          "topicality": 0.0011726692
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7438655,
+          "topicality": 0.013754442
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7143007,
+          "topicality": 0.0012175372
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.67941314,
+          "topicality": 0.007427491
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.66511923,
+          "topicality": 0.002037955
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.6605749,
+          "topicality": 0.08837559
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.527729,
+          "topicality": 0.0009722642
+        }
+      ]
+    }
+  ]
+}

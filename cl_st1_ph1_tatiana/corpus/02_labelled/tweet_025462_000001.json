@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.890344,
+          "topicality": 0.00041168917
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8635275,
+          "topicality": 0.04065035
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.76085544,
+          "topicality": 0.010196975
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.594229,
+          "topicality": 0.0065349895
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.5171011,
+          "topicality": 0.01833744
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.51444733,
+          "topicality": 0.001763355
+        }
+      ]
+    }
+  ]
+}

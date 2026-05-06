@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99437255,
+          "topicality": 0.08368719
+        },
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.9587475,
+          "topicality": 0.0013854237
+        },
+        {
+          "mid": "/m/01qls",
+          "description": "Community",
+          "score": 0.9309865,
+          "topicality": 0.012275586
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.8354884,
+          "topicality": 0.051155068
+        }
+      ]
+    }
+  ]
+}

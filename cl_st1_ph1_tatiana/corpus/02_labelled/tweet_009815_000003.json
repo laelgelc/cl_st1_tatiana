@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.76591873,
+          "topicality": 0.0008123201
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.6172635,
+          "topicality": 0.0032946651
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5717623,
+          "topicality": 0.0054719183
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.5583819,
+          "topicality": 0.011691028
+        }
+      ]
+    }
+  ]
+}

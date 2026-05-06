@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.9560746,
+          "topicality": 0.00360062
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.94352454,
+          "topicality": 0.0036892057
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.7163792,
+          "topicality": 0.0005451915
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.62873024,
+          "topicality": 0.0005538607
+        }
+      ]
+    }
+  ]
+}

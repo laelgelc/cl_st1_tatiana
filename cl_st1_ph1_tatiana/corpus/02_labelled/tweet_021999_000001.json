@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/050vn",
+          "description": "Marine biology",
+          "score": 0.6007118,
+          "topicality": 0.0022390985
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.57798254,
+          "topicality": 0.095033705
+        },
+        {
+          "mid": "/m/0cxwt",
+          "description": "Fractal art",
+          "score": 0.52357334,
+          "topicality": 0.0035619913
+        },
+        {
+          "mid": "/m/02g49",
+          "description": "Digital compositing",
+          "score": 0.51288766,
+          "topicality": 0.00018121321
+        }
+      ]
+    }
+  ]
+}

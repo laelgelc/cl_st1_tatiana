@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02ngh",
+          "description": "Emoticon",
+          "score": 0.95441157,
+          "topicality": 0.5621261
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9500206,
+          "topicality": 0.040165775
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944949,
+          "topicality": 0.06447151
+        },
+        {
+          "mid": "/m/06n05",
+          "description": "Smiley",
+          "score": 0.93912476,
+          "topicality": 0.38844252
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.51252407,
+          "topicality": 0.015054906
+        }
+      ]
+    }
+  ]
+}

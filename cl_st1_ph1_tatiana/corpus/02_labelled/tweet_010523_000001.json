@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.7969563,
+          "topicality": 0.00013961321
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7338018,
+          "topicality": 0.0013964738
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.6730808,
+          "topicality": 0.43657172
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.5464739,
+          "topicality": 0.14303325
+        }
+      ]
+    }
+  ]
+}

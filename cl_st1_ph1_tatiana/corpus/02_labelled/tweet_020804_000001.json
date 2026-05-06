@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.88628954,
+          "topicality": 0.0009937552
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.7517233,
+          "topicality": 0.025704596
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.69071686,
+          "topicality": 0.03753792
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5749336,
+          "topicality": 0.0077010123
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.57305455,
+          "topicality": 0.121306494
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5516662,
+          "topicality": 0.011001228
+        }
+      ]
+    }
+  ]
+}

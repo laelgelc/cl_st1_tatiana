@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.73699236,
+          "topicality": 0.03924541
+        },
+        {
+          "mid": "/m/0bmgjqz",
+          "description": "Sports venue",
+          "score": 0.6185639,
+          "topicality": 0.0027169918
+        },
+        {
+          "mid": "/m/03gt5g4",
+          "description": "Cricket cap",
+          "score": 0.55675375,
+          "topicality": 0.00037693552
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.55625015,
+          "topicality": 7.736276e-05
+        }
+      ]
+    }
+  ]
+}

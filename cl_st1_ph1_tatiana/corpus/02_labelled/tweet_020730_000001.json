@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.86729324,
+          "topicality": 0.0014009142
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.81172127,
+          "topicality": 0.014028034
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.77339566,
+          "topicality": 0.06494859
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.6159055,
+          "topicality": 0.00069729466
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6116687,
+          "topicality": 0.0055596833
+        },
+        {
+          "mid": "/m/04d1p3",
+          "description": "Shawl",
+          "score": 0.5164979,
+          "topicality": 2.2129065e-05
+        }
+      ]
+    }
+  ]
+}

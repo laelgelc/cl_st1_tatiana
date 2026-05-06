@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.73023736,
+          "topicality": 0.0092360275
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.698907,
+          "topicality": 0.0012827986
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.69349295,
+          "topicality": 0.033445764
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.6332514,
+          "topicality": 0.034083646
+        },
+        {
+          "mid": "/m/01vnb",
+          "description": "Comic book",
+          "score": 0.5929592,
+          "topicality": 0.19161308
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5048452,
+          "topicality": 0.00048368695
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bmgjqz",
+          "description": "Sports venue",
+          "score": 0.8763937,
+          "topicality": 0.026268957
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.77055186,
+          "topicality": 0.0011895949
+        },
+        {
+          "mid": "/m/019cfy",
+          "description": "Stadium",
+          "score": 0.59020144,
+          "topicality": 0.1217801
+        },
+        {
+          "mid": "/m/018lrm",
+          "description": "Arena",
+          "score": 0.5268225,
+          "topicality": 0.057066355
+        }
+      ]
+    }
+  ]
+}

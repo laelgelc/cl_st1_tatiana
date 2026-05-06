@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.826064,
+          "topicality": 0.034267507
+        },
+        {
+          "mid": "/m/03h_4m",
+          "description": "Cylinder",
+          "score": 0.77612764,
+          "topicality": 0.00085380435
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.71745914,
+          "topicality": 0.008929332
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.60511917,
+          "topicality": 0.0001267212
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.59133196,
+          "topicality": 0.007037175
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5455349,
+          "topicality": 0.0470897
+        },
+        {
+          "mid": "/m/0129f4",
+          "description": "Chemical compound",
+          "score": 0.5117214,
+          "topicality": 0.043932915
+        }
+      ]
+    }
+  ]
+}

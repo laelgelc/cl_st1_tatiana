@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0159gt",
+          "description": "Brewery",
+          "score": 0.82784444,
+          "topicality": 0.8606362
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.773392,
+          "topicality": 0.0013158475
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.6824656,
+          "topicality": 0.0056523853
+        },
+        {
+          "mid": "/m/027vj2v",
+          "description": "Aluminium",
+          "score": 0.5853884,
+          "topicality": 0.00026700814
+        },
+        {
+          "mid": "/m/06qqb",
+          "description": "Steel",
+          "score": 0.5787047,
+          "topicality": 0.00046178306
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5488389,
+          "topicality": 5.546808e-05
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51785284,
+          "topicality": 0.0025824683
+        }
+      ]
+    }
+  ]
+}

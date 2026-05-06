@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.80729043,
+          "topicality": 0.0360787
+        },
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.8032004,
+          "topicality": 0.028768355
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.7052851,
+          "topicality": 0.0018557038
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5580557,
+          "topicality": 0.025311433
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.54605556,
+          "topicality": 0.026588934
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5169532,
+          "topicality": 0.004253332
+        }
+      ]
+    }
+  ]
+}

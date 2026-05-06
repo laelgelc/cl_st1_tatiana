@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.7086726,
+          "topicality": 0.006806285
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6292261,
+          "topicality": 0.0043208376
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.6234074,
+          "topicality": 0.004774558
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.56507635,
+          "topicality": 0.02536719
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.5209237,
+          "topicality": 0.0058926665
+        }
+      ]
+    }
+  ]
+}

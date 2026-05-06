@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0317s",
+          "description": "Flag of the United States",
+          "score": 0.91574985,
+          "topicality": 0.06826078
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8861469,
+          "topicality": 0.018027114
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.8728844,
+          "topicality": 0.13851787
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7451627,
+          "topicality": 0.018174995
+        },
+        {
+          "mid": "/m/01t_7l",
+          "description": "Flag Day",
+          "score": 0.73284024,
+          "topicality": 0.0051929206
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5947604,
+          "topicality": 0.015410192
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5849687,
+          "topicality": 0.009676131
+        }
+      ]
+    }
+  ]
+}

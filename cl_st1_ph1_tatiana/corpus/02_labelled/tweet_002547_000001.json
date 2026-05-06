@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9640855,
+          "topicality": 0.00948768
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.91455984,
+          "topicality": 0.2745424
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91256654,
+          "topicality": 0.0039958656
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.88304365,
+          "topicality": 0.0066164644
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7979058,
+          "topicality": 0.075433426
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.7858371,
+          "topicality": 0.013031505
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.68697923,
+          "topicality": 0.01986356
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.6365019,
+          "topicality": 6.8558526e-05
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.61833596,
+          "topicality": 0.005353735
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.5797815,
+          "topicality": 0.16509704
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5733155,
+          "topicality": 0.00086044334
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.54526126,
+          "topicality": 0.0019901518
+        }
+      ]
+    }
+  ]
+}

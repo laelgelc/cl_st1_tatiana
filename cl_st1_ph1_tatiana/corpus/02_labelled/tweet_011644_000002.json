@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9810707,
+          "topicality": 0.0027981934
+        },
+        {
+          "mid": "/m/01n4qj",
+          "description": "Shirt",
+          "score": 0.9592465,
+          "topicality": 0.0064361207
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.9562883,
+          "topicality": 0.039579634
+        },
+        {
+          "mid": "/m/02p0tk3",
+          "description": "Human body",
+          "score": 0.9545979,
+          "topicality": 0.0019844302
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.61196345,
+          "topicality": 0.029832654
+        },
+        {
+          "mid": "/m/014jg3",
+          "description": "Training",
+          "score": 0.56773984,
+          "topicality": 0.00318072
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.54745907,
+          "topicality": 0.009945743
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.52811533,
+          "topicality": 0.0073585375
+        },
+        {
+          "mid": "/m/03233l",
+          "description": "Seminar",
+          "score": 0.51307964,
+          "topicality": 0.024637222
+        }
+      ]
+    }
+  ]
+}

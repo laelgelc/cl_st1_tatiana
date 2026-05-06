@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02p0tk3",
+          "description": "Human body",
+          "score": 0.95557684,
+          "topicality": 0.0073419698
+        },
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.95449257,
+          "topicality": 0.0021302982
+        },
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.9270208,
+          "topicality": 0.00050639437
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.8020813,
+          "topicality": 0.045199897
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.7109013,
+          "topicality": 1.22695765e-05
+        },
+        {
+          "mid": "/m/0bk_y7",
+          "description": "Bermuda shorts",
+          "score": 0.6342649,
+          "topicality": 0.00024278523
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.5765887,
+          "topicality": 0.002185773
+        }
+      ]
+    }
+  ]
+}

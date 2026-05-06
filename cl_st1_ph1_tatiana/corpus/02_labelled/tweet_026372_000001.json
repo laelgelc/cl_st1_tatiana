@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.9096434,
+          "topicality": 0.01917053
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.872464,
+          "topicality": 0.03134222
+        },
+        {
+          "mid": "/m/058sv",
+          "description": "Magazine",
+          "score": 0.7467537,
+          "topicality": 0.29157108
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.7174245,
+          "topicality": 0.7240828
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.66999096,
+          "topicality": 0.029097522
+        },
+        {
+          "mid": "/m/07mbq",
+          "description": "Tabloid",
+          "score": 0.6356462,
+          "topicality": 0.13187326
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.58848006,
+          "topicality": 0.00023178893
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.561184,
+          "topicality": 0.002820793
+        }
+      ]
+    }
+  ]
+}

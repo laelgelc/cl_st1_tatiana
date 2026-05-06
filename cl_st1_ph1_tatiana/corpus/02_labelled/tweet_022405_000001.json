@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.961641,
+          "topicality": 0.014222197
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.914974,
+          "topicality": 0.010484577
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9113393,
+          "topicality": 0.009092544
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.82242244,
+          "topicality": 0.000487472
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.81786495,
+          "topicality": 0.00058071327
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8136998,
+          "topicality": 0.027165331
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7840554,
+          "topicality": 0.014989776
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.64217365,
+          "topicality": 0.009683637
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6307978,
+          "topicality": 0.047451098
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.55174255,
+          "topicality": 0.00027633226
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.53290695,
+          "topicality": 0.008766608
+        }
+      ]
+    }
+  ]
+}

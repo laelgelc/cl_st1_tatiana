@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01f0r6",
+          "description": "Megaphone",
+          "score": 0.9900613,
+          "topicality": 0.9919096
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7509482,
+          "topicality": 0.016085936
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6612037,
+          "topicality": 0.032310665
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5054188,
+          "topicality": 0.0049575684
+        }
+      ]
+    }
+  ]
+}

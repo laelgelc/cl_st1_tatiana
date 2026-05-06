@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.9458476,
+          "topicality": 0.011232752
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.9117636,
+          "topicality": 0.058521673
+        },
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.8896454,
+          "topicality": 0.041958865
+        },
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.81939256,
+          "topicality": 0.015420361
+        },
+        {
+          "mid": "/m/0c1vxg",
+          "description": "Mixed-use",
+          "score": 0.80384916,
+          "topicality": 0.004994698
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7520239,
+          "topicality": 0.09845735
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.74611104,
+          "topicality": 0.09323057
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.7404427,
+          "topicality": 0.037873812
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.7238301,
+          "topicality": 0.00021490616
+        },
+        {
+          "mid": "/m/088l6h",
+          "description": "Family car",
+          "score": 0.72275263,
+          "topicality": 5.059837e-05
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.60767615,
+          "topicality": 0.013658152
+        },
+        {
+          "mid": "/m/03txxp",
+          "description": "Subcompact car",
+          "score": 0.56496215,
+          "topicality": 5.7706103e-07
+        },
+        {
+          "mid": "/m/0crtnw",
+          "description": "Executive car",
+          "score": 0.55474985,
+          "topicality": 8.653796e-06
+        },
+        {
+          "mid": "/m/0ctrp",
+          "description": "Sport utility vehicle",
+          "score": 0.5529215,
+          "topicality": 9.6534695e-06
+        },
+        {
+          "mid": "/m/021mp2",
+          "description": "Sedan",
+          "score": 0.54222995,
+          "topicality": 2.3284467e-05
+        },
+        {
+          "mid": "/m/05zdsq",
+          "description": "California palm",
+          "score": 0.52873075,
+          "topicality": 7.317992e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bt9lr",
+          "description": "Dog",
+          "score": 0.94701177,
+          "topicality": 0.51688343
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.90494585,
+          "topicality": 0.012545221
+        },
+        {
+          "mid": "/m/01lrl",
+          "description": "Carnivores",
+          "score": 0.81539434,
+          "topicality": 0.0004014541
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6721684,
+          "topicality": 0.0013803646
+        },
+        {
+          "mid": "/m/01z5f",
+          "description": "Canidae",
+          "score": 0.6430125,
+          "topicality": 0.004714969
+        },
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.61128837,
+          "topicality": 0.00019573924
+        }
+      ]
+    }
+  ]
+}

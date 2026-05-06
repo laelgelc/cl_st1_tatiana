@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5640648,
+          "topicality": 0.0075634955
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5340144,
+          "topicality": 0.0020490445
+        },
+        {
+          "mid": "/m/06bdpk",
+          "description": "Academic institution",
+          "score": 0.53258336,
+          "topicality": 0.00066669233
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5279064,
+          "topicality": 0.0046522073
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5059114,
+          "topicality": 0.09555177
+        }
+      ]
+    }
+  ]
+}

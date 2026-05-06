@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.72904336,
+          "topicality": 0.01145202
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6899248,
+          "topicality": 0.0030723007
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.65752333,
+          "topicality": 0.0067765526
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.621624,
+          "topicality": 0.005654575
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.56544256,
+          "topicality": 0.00047077888
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.64205724,
+          "topicality": 0.006541392
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6119635,
+          "topicality": 0.0017180137
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5271338,
+          "topicality": 0.0029739093
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.50967985,
+          "topicality": 0.006785503
+        }
+      ]
+    }
+  ]
+}

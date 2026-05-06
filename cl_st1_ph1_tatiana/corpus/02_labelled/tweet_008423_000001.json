@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.7903413,
+          "topicality": 0.014341775
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.68389004,
+          "topicality": 0.17326531
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5505656,
+          "topicality": 0.02705864
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.5322152,
+          "topicality": 0.0007574422
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.52174115,
+          "topicality": 0.13683908
+        }
+      ]
+    }
+  ]
+}

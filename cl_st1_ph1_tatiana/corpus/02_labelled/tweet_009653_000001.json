@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.9114949,
+          "topicality": 0.010805788
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.90627325,
+          "topicality": 0.02356979
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.8364345,
+          "topicality": 0.0027720772
+        },
+        {
+          "mid": "/m/01fdzj",
+          "description": "Tower",
+          "score": 0.79952914,
+          "topicality": 0.009005498
+        },
+        {
+          "mid": "/m/079cl",
+          "description": "Skyscraper",
+          "score": 0.78013813,
+          "topicality": 0.030175092
+        },
+        {
+          "mid": "/m/014zdl",
+          "description": "Explosion",
+          "score": 0.5184109,
+          "topicality": 0.12514538
+        },
+        {
+          "mid": "/m/06wzb",
+          "description": "Steam",
+          "score": 0.51110476,
+          "topicality": 0.0004539846
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8068692,
+          "topicality": 0.00020622475
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.67808807,
+          "topicality": 0.0003421166
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.6246088,
+          "topicality": 0.000102565944
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5759579,
+          "topicality": 0.0029323846
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5751936,
+          "topicality": 7.3902025e-05
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5289876,
+          "topicality": 0.123415984
+        }
+      ]
+    }
+  ]
+}

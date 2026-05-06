@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.89962083,
+          "topicality": 0.0080436785
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.79485565,
+          "topicality": 0.0060239932
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.70033854,
+          "topicality": 0.005130633
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.624349,
+          "topicality": 0.007528008
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.5758515,
+          "topicality": 0.17300576
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5755643,
+          "topicality": 0.0026944284
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.5351695,
+          "topicality": 0.0005764061
+        },
+        {
+          "mid": "/m/08tlbj",
+          "description": "Natural foods",
+          "score": 0.515566,
+          "topicality": 0.0029592495
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01rzcn",
+          "description": "Watercraft",
+          "score": 0.71403354,
+          "topicality": 0.0065832245
+        },
+        {
+          "mid": "/m/019jd",
+          "description": "Boat",
+          "score": 0.6921959,
+          "topicality": 0.01343363
+        },
+        {
+          "mid": "/m/0k5qm",
+          "description": "Naval architecture",
+          "score": 0.58610576,
+          "topicality": 0.00020519129
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.5287684,
+          "topicality": 8.6236825e-05
+        }
+      ]
+    }
+  ]
+}

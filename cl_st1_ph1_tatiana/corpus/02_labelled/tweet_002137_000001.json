@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.971142,
+          "topicality": 0.28844893
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.86902446,
+          "topicality": 0.0027993862
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.8038609,
+          "topicality": 5.827359e-05
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.75233513,
+          "topicality": 0.00090034807
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.70559055,
+          "topicality": 0.40325317
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6809763,
+          "topicality": 0.12254626
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.67842406,
+          "topicality": 0.035377137
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.6600891,
+          "topicality": 0.2168991
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.65317065,
+          "topicality": 0.0025182588
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.6029433,
+          "topicality": 0.020029938
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.5827122,
+          "topicality": 0.004492795
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5764176,
+          "topicality": 0.039903317
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.5727998,
+          "topicality": 0.018447163
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.5705854,
+          "topicality": 0.12199305
+        }
+      ]
+    }
+  ]
+}

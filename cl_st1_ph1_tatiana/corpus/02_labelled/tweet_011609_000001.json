@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.952641,
+          "topicality": 0.0023908895
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9012252,
+          "topicality": 0.022644153
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.8757079,
+          "topicality": 0.00024600502
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.83576494,
+          "topicality": 0.0007791213
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.77343935,
+          "topicality": 0.013577154
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.74894285,
+          "topicality": 0.009923253
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7308523,
+          "topicality": 0.045064747
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.5308568,
+          "topicality": 0.00896087
+        }
+      ]
+    }
+  ]
+}

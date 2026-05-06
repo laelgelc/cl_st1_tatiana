@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7405401,
+          "topicality": 0.007757656
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.60138226,
+          "topicality": 0.03429261
+        },
+        {
+          "mid": "/m/02w3fc",
+          "description": "Tarpaulin",
+          "score": 0.5056626,
+          "topicality": 0.005596478
+        },
+        {
+          "mid": "/m/01j61q",
+          "description": "Tent",
+          "score": 0.5015239,
+          "topicality": 0.01312334
+        }
+      ]
+    }
+  ]
+}

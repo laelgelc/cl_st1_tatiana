@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.88740003,
+          "topicality": 0.003679956
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7642213,
+          "topicality": 0.0037365847
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6077079,
+          "topicality": 0.01976266
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.56855553,
+          "topicality": 0.000791064
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.51433134,
+          "topicality": 0.031621568
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5068114,
+          "topicality": 0.021851312
+        }
+      ]
+    }
+  ]
+}

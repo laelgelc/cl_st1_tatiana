@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04k94",
+          "description": "Liquid",
+          "score": 0.915305,
+          "topicality": 0.0038097606
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.7911979,
+          "topicality": 0.020302795
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5595399,
+          "topicality": 0.002145948
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.5518668,
+          "topicality": 0.007467826
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.52552605,
+          "topicality": 0.019793704
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5138448,
+          "topicality": 0.0040094284
+        }
+      ]
+    }
+  ]
+}

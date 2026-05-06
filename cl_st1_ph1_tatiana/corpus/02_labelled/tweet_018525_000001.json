@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.958234,
+          "topicality": 0.02015315
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91699624,
+          "topicality": 0.00023900456
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8951442,
+          "topicality": 0.01417433
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8724572,
+          "topicality": 0.024176031
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.76095355,
+          "topicality": 0.1286406
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7331369,
+          "topicality": 0.002978495
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.6589429,
+          "topicality": 0.00013045249
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.6210635,
+          "topicality": 6.6427296e-05
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5951942,
+          "topicality": 0.0014367662
+        },
+        {
+          "mid": "/m/02_784",
+          "description": "Display advertising",
+          "score": 0.552309,
+          "topicality": 7.7928154e-05
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.5500858,
+          "topicality": 0.06945833
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.5403205,
+          "topicality": 0.009589664
+        }
+      ]
+    }
+  ]
+}

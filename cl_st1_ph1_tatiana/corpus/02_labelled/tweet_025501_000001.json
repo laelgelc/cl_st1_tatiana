@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.8626237,
+          "topicality": 0.059309084
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8112697,
+          "topicality": 0.0057669543
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8054213,
+          "topicality": 0.07092175
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.67876554,
+          "topicality": 0.05060986
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.66112995,
+          "topicality": 0.0058662617
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6333821,
+          "topicality": 0.034325093
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5801396,
+          "topicality": 0.14802594
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5022506,
+          "topicality": 0.032020047
+        }
+      ]
+    }
+  ]
+}

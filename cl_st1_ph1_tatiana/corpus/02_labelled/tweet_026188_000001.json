@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9724962,
+          "topicality": 0.048826773
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.96204877,
+          "topicality": 0.005458691
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9259178,
+          "topicality": 0.007037424
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.91348183,
+          "topicality": 0.0022239226
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.9018173,
+          "topicality": 0.07028712
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.8869591,
+          "topicality": 0.036184944
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.8857479,
+          "topicality": 0.0021498967
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.85071295,
+          "topicality": 0.003821607
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8184197,
+          "topicality": 0.0032711716
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.72035074,
+          "topicality": 0.046560284
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7111004,
+          "topicality": 0.11267911
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6813949,
+          "topicality": 0.0006444982
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6811216,
+          "topicality": 0.0222668
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.61820376,
+          "topicality": 0.057098165
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5746924,
+          "topicality": 0.05322569
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5736431,
+          "topicality": 0.018577797
+        }
+      ]
+    }
+  ]
+}

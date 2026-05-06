@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.87283885,
+          "topicality": 0.007981862
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.72851723,
+          "topicality": 0.0074774493
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.6815115,
+          "topicality": 0.09539877
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.6732029,
+          "topicality": 0.01278817
+        }
+      ]
+    }
+  ]
+}

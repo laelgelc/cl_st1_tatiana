@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9713238,
+          "topicality": 0.2221846
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9443915,
+          "topicality": 2.2608827e-05
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8695821,
+          "topicality": 0.000561007
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.76539046,
+          "topicality": 0.061519664
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.62840337,
+          "topicality": 0.00015683394
+        },
+        {
+          "mid": "/m/0cjjt",
+          "description": "Mother's Day",
+          "score": 0.5268001,
+          "topicality": 0.014289185
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.5167979,
+          "topicality": 0.0041621886
+        }
+      ]
+    }
+  ]
+}

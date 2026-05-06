@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.856285,
+          "topicality": 0.005043863
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.79804546,
+          "topicality": 0.27995208
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.78445584,
+          "topicality": 0.025315396
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.71467465,
+          "topicality": 0.011166298
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.6804143,
+          "topicality": 0.085068546
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6713277,
+          "topicality": 0.07833807
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.66391605,
+          "topicality": 0.00024781085
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6381453,
+          "topicality": 0.025048802
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.62870616,
+          "topicality": 0.0003274453
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6169158,
+          "topicality": 0.009357204
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5924375,
+          "topicality": 0.00036564108
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5860524,
+          "topicality": 0.0037875029
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5088027,
+          "topicality": 0.05665059
+        }
+      ]
+    }
+  ]
+}

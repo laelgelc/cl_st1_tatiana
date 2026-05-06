@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0138tl",
+          "description": "Toy",
+          "score": 0.8264426,
+          "topicality": 0.078598306
+        },
+        {
+          "mid": "/m/0dw9f6",
+          "description": "Creative arts",
+          "score": 0.7395268,
+          "topicality": 0.0009359336
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.72051704,
+          "topicality": 0.043407813
+        },
+        {
+          "mid": "/m/01mrgs",
+          "description": "Craft",
+          "score": 0.6769042,
+          "topicality": 0.10751123
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5294472,
+          "topicality": 0.017786
+        }
+      ]
+    }
+  ]
+}

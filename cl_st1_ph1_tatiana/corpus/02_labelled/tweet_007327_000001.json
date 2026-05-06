@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.9885447,
+          "topicality": 0.0026890396
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.98498553,
+          "topicality": 0.004039815
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.9681497,
+          "topicality": 0.0055157114
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9617569,
+          "topicality": 0.0012905665
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.95249486,
+          "topicality": 0.0012988074
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9090196,
+          "topicality": 0.0007428677
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8359286,
+          "topicality": 2.4797097e-05
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.71579164,
+          "topicality": 0.0006762963
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.70203745,
+          "topicality": 0.23843996
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.6881514,
+          "topicality": 0.0013684472
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.5588754,
+          "topicality": 0.013440014
+        }
+      ]
+    }
+  ]
+}

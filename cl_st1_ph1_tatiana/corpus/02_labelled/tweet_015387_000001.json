@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9406456,
+          "topicality": 0.0088543175
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9288854,
+          "topicality": 0.0975802
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9168634,
+          "topicality": 0.004610531
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.90928584,
+          "topicality": 0.6009542
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9067404,
+          "topicality": 0.48289615
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.89215463,
+          "topicality": 0.16773719
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.8053846,
+          "topicality": 0.043596104
+        },
+        {
+          "mid": "/m/08xgn7",
+          "description": "Comfort",
+          "score": 0.7965662,
+          "topicality": 0.0022926785
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.7390057,
+          "topicality": 0.0036424408
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6713618,
+          "topicality": 0.030635195
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5345091,
+          "topicality": 0.00026729034
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.91353947,
+          "topicality": 0.000571811
+        },
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.8852431,
+          "topicality": 0.6973377
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8563238,
+          "topicality": 0.011952364
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7501697,
+          "topicality": 0.0005370205
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.68278104,
+          "topicality": 0.0032217365
+        },
+        {
+          "mid": "/m/02x8n4r",
+          "description": "Fertility monitor",
+          "score": 0.6587521,
+          "topicality": 0.0048738974
+        },
+        {
+          "mid": "/m/07gr_",
+          "description": "Temperature",
+          "score": 0.64245987,
+          "topicality": 0.0058385786
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.56639904,
+          "topicality": 0.05669548
+        }
+      ]
+    }
+  ]
+}

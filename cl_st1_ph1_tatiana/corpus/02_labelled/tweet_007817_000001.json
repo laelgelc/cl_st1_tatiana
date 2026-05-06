@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02zn54",
+          "description": "Gun barrel",
+          "score": 0.57367224,
+          "topicality": 0.008931192
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53901297,
+          "topicality": 0.010619949
+        },
+        {
+          "mid": "/m/012fyw",
+          "description": "Air gun",
+          "score": 0.52152973,
+          "topicality": 0.0010399646
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.51555973,
+          "topicality": 4.6504007e-05
+        }
+      ]
+    }
+  ]
+}

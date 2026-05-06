@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.86739403,
+          "topicality": 0.007496483
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.69373775,
+          "topicality": 0.0026588717
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.68612224,
+          "topicality": 0.004738102
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.64627427,
+          "topicality": 0.0038951645
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.60717976,
+          "topicality": 0.0056229574
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5428156,
+          "topicality": 0.005443285
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.52372366,
+          "topicality": 0.0043128286
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5132532,
+          "topicality": 0.008565399
+        }
+      ]
+    }
+  ]
+}

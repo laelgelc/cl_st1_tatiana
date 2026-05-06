@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.85413116,
+          "topicality": 0.002521659
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5909606,
+          "topicality": 0.0012674511
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.56273055,
+          "topicality": 0.01915235
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5388741,
+          "topicality": 0.00038055927
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.52510566,
+          "topicality": 0.08609664
+        }
+      ]
+    }
+  ]
+}

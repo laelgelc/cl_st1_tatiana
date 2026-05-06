@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8461179,
+          "topicality": 0.017373187
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6423294,
+          "topicality": 0.08157893
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5877872,
+          "topicality": 0.0021740727
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.52620685,
+          "topicality": 0.001393982
+        },
+        {
+          "mid": "/m/01bsxb",
+          "description": "Collage",
+          "score": 0.5172804,
+          "topicality": 0.0036844977
+        }
+      ]
+    }
+  ]
+}

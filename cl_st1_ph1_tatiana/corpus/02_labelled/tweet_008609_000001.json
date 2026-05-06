@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8138793,
+          "topicality": 0.03631139
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7398031,
+          "topicality": 0.009174425
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5958474,
+          "topicality": 0.013990662
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5807266,
+          "topicality": 0.0048208414
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.5746362,
+          "topicality": 0.017132916
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.562516,
+          "topicality": 0.0023837925
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.53352034,
+          "topicality": 0.033354774
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.5102823,
+          "topicality": 0.0065316423
+        }
+      ]
+    }
+  ]
+}

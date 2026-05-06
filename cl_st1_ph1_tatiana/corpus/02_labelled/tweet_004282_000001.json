@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.98559743,
+          "topicality": 0.005157136
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98111296,
+          "topicality": 0.008579511
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.96723694,
+          "topicality": 0.04172791
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.9560505,
+          "topicality": 0.030271353
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.9347586,
+          "topicality": 0.0017990327
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.912568,
+          "topicality": 0.013546827
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9005959,
+          "topicality": 0.028167022
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.7514428,
+          "topicality": 8.2610975e-05
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.70042634,
+          "topicality": 0.0043161036
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.64424706,
+          "topicality": 0.013649494
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.53585714,
+          "topicality": 1.8776333e-05
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.53521675,
+          "topicality": 0.021190504
+        }
+      ]
+    }
+  ]
+}

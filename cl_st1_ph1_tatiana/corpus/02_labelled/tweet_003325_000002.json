@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7588652,
+          "topicality": 0.00015458404
+        },
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.7553081,
+          "topicality": 0.00030363846
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.65968657,
+          "topicality": 0.0033553343
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.5567261,
+          "topicality": 0.0029170308
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.5238712,
+          "topicality": 0.0074279374
+        }
+      ]
+    }
+  ]
+}

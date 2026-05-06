@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.89068943,
+          "topicality": 0.0055103293
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7862433,
+          "topicality": 0.00617253
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7768791,
+          "topicality": 0.001763528
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6865164,
+          "topicality": 0.013004786
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6344607,
+          "topicality": 0.020554997
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.59567165,
+          "topicality": 0.010101594
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.56039727,
+          "topicality": 0.01745649
+        }
+      ]
+    }
+  ]
+}

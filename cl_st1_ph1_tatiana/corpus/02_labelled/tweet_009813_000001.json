@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6096898,
+          "topicality": 0.08607281
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.58221346,
+          "topicality": 0.0044634463
+        },
+        {
+          "mid": "/m/02g49",
+          "description": "Digital compositing",
+          "score": 0.5295306,
+          "topicality": 0.0004894799
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.51839286,
+          "topicality": 0.0009206548
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.5030672,
+          "topicality": 0.0017347245
+        }
+      ]
+    }
+  ]
+}

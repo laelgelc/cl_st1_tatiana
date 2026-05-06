@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.7319269,
+          "topicality": 0.00035156024
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.70052415,
+          "topicality": 0.024043404
+        },
+        {
+          "mid": "/m/06l8d",
+          "description": "Restaurant",
+          "score": 0.5755507,
+          "topicality": 0.00074582483
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5365453,
+          "topicality": 0.00018977982
+        }
+      ]
+    }
+  ]
+}

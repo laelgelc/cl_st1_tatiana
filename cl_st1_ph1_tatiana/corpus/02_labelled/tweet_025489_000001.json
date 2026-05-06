@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98826176,
+          "topicality": 0.017171923
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.61088955,
+          "topicality": 0.08429019
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.60577583,
+          "topicality": 0.0023283917
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.53743374,
+          "topicality": 0.0023159524
+        },
+        {
+          "mid": "/m/0cxwt",
+          "description": "Fractal art",
+          "score": 0.533834,
+          "topicality": 0.0026668487
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.51995325,
+          "topicality": 0.00055381504
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.84376574,
+          "topicality": 0.17524672
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7930383,
+          "topicality": 0.0016799564
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.77112216,
+          "topicality": 0.047238734
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7261403,
+          "topicality": 0.024219634
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6927782,
+          "topicality": 0.0044771703
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.67778105,
+          "topicality": 0.00094388
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.67205375,
+          "topicality": 0.0004171172
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6169542,
+          "topicality": 0.0012030016
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.58128285,
+          "topicality": 0.0039814445
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.57332313,
+          "topicality": 0.027413448
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.5632199,
+          "topicality": 0.0044869916
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.543556,
+          "topicality": 0.012991322
+        }
+      ]
+    }
+  ]
+}

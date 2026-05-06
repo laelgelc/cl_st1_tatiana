@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.9610155,
+          "topicality": 0.014140403
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.9364253,
+          "topicality": 0.000907133
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.92974794,
+          "topicality": 0.68438786
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.90037346,
+          "topicality": 0.011848869
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8672656,
+          "topicality": 0.001429652
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.85582834,
+          "topicality": 0.0032656854
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.8448617,
+          "topicality": 4.9087546e-05
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.61506116,
+          "topicality": 0.01713392
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.6073128,
+          "topicality": 0.003982975
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.8340962,
+          "topicality": 0.026175935
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.7969811,
+          "topicality": 0.07500354
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7874343,
+          "topicality": 0.0014787194
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.782638,
+          "topicality": 0.015769403
+        },
+        {
+          "mid": "/m/06wzb",
+          "description": "Steam",
+          "score": 0.5576305,
+          "topicality": 0.0025120988
+        },
+        {
+          "mid": "/m/015l_t",
+          "description": "Dust",
+          "score": 0.50497633,
+          "topicality": 0.021375645
+        }
+      ]
+    }
+  ]
+}

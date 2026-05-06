@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9739215,
+          "topicality": 0.027880708
+        },
+        {
+          "mid": "/m/088fh",
+          "description": "Yellow",
+          "score": 0.9547503,
+          "topicality": 0.014780325
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.93873465,
+          "topicality": 0.010489009
+        },
+        {
+          "mid": "/m/0csj6s",
+          "description": "Stain",
+          "score": 0.6700359,
+          "topicality": 0.101546474
+        },
+        {
+          "mid": "/m/03k2v",
+          "description": "Heat",
+          "score": 0.61250734,
+          "topicality": 0.004977412
+        }
+      ]
+    }
+  ]
+}

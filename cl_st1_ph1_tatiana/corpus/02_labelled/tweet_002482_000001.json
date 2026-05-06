@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7166246,
+          "topicality": 0.35522667
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.7077483,
+          "topicality": 0.08834341
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.62832916,
+          "topicality": 0.0018438956
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.58585757,
+          "topicality": 0.00989519
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.576986,
+          "topicality": 0.046820726
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5675131,
+          "topicality": 0.032555982
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5266041,
+          "topicality": 0.15294564
+        }
+      ]
+    }
+  ]
+}

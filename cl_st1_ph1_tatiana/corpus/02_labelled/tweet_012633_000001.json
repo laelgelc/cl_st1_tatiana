@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9126949,
+          "topicality": 0.030487275
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.86379856,
+          "topicality": 0.008751763
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.69461393,
+          "topicality": 0.01063003
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.69410425,
+          "topicality": 0.004873312
+        }
+      ]
+    }
+  ]
+}

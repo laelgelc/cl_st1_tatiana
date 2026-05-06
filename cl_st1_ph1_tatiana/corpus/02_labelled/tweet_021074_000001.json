@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.9722891,
+          "topicality": 0.00144444
+        },
+        {
+          "mid": "/m/0h8ls87",
+          "description": "Automotive Exterior",
+          "score": 0.94218117,
+          "topicality": 3.7779282e-05
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.922007,
+          "topicality": 0.017769974
+        },
+        {
+          "mid": "/m/03j1ly",
+          "description": "Emergency vehicle",
+          "score": 0.91643703,
+          "topicality": 0.012761637
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.8698671,
+          "topicality": 0.0483018
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8414006,
+          "topicality": 0.018019997
+        },
+        {
+          "mid": "/m/012n7d",
+          "description": "Ambulance",
+          "score": 0.8386327,
+          "topicality": 0.45129716
+        },
+        {
+          "mid": "/m/0fmnf5",
+          "description": "Compact van",
+          "score": 0.77790725,
+          "topicality": 0.0016131934
+        },
+        {
+          "mid": "/m/02pz5g2",
+          "description": "Light commercial vehicle",
+          "score": 0.7705228,
+          "topicality": 0.0016980371
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.74250394,
+          "topicality": 0.1685405
+        },
+        {
+          "mid": "/m/0h8m331",
+          "description": "Automotive Tail & Brake Light",
+          "score": 0.6794983,
+          "topicality": 4.121227e-05
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.6722581,
+          "topicality": 0.00013904524
+        },
+        {
+          "mid": "/m/057gn",
+          "description": "Minivan",
+          "score": 0.63400054,
+          "topicality": 0.00028076698
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.5461568,
+          "topicality": 0.003525582
+        }
+      ]
+    }
+  ]
+}

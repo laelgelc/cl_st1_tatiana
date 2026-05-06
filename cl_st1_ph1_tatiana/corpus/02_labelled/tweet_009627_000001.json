@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.9127975,
+          "topicality": 7.468794e-05
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.90741754,
+          "topicality": 0.0026325583
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.83198947,
+          "topicality": 7.786933e-05
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8202456,
+          "topicality": 8.522507e-05
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.7985675,
+          "topicality": 0.0023937004
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.79484636,
+          "topicality": 0.00082282134
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.75340897,
+          "topicality": 0.0013273444
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6083367,
+          "topicality": 0.013684559
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6004216,
+          "topicality": 0.009568822
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5415546,
+          "topicality": 0.017140169
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5278461,
+          "topicality": 0.0030960913
+        }
+      ]
+    }
+  ]
+}

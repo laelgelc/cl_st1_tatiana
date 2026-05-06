@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0b03ql",
+          "description": "Canopy",
+          "score": 0.7484665,
+          "topicality": 0.101052314
+        },
+        {
+          "mid": "/m/02y8mg",
+          "description": "Gazebo",
+          "score": 0.6225334,
+          "topicality": 0.03750322
+        },
+        {
+          "mid": "/m/01j61q",
+          "description": "Tent",
+          "score": 0.5468957,
+          "topicality": 0.24979462
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5367187,
+          "topicality": 0.014165492
+        }
+      ]
+    }
+  ]
+}

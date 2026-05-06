@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9943725,
+          "topicality": 0.00046243457
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.98505586,
+          "topicality": 0.03158375
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9823595,
+          "topicality": 0.0010699395
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944391,
+          "topicality": 0.005323926
+        },
+        {
+          "mid": "/m/0294jb",
+          "description": "Blond",
+          "score": 0.8198211,
+          "topicality": 0.0017813585
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.6348348,
+          "topicality": 0.018528104
+        }
+      ]
+    }
+  ]
+}

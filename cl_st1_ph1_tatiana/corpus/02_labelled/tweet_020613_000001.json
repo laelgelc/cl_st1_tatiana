@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.9177989,
+          "topicality": 0.010403746
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.89019585,
+          "topicality": 0.0076709976
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.7332559,
+          "topicality": 0.0013124287
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.69169366,
+          "topicality": 0.0076194545
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.6789141,
+          "topicality": 0.008158754
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6772973,
+          "topicality": 0.0035067808
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.6055014,
+          "topicality": 0.00060601847
+        }
+      ]
+    }
+  ]
+}

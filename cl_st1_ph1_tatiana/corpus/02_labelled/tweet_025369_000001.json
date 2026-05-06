@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9555678,
+          "topicality": 0.0048317346
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.95213526,
+          "topicality": 0.0019301686
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9419029,
+          "topicality": 0.00042146063
+        },
+        {
+          "mid": "/m/04k94",
+          "description": "Liquid",
+          "score": 0.9179476,
+          "topicality": 0.008880426
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9155943,
+          "topicality": 0.011500312
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.8620948,
+          "topicality": 0.26293012
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7442021,
+          "topicality": 0.110528186
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6458176,
+          "topicality": 3.7247755e-05
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.5649335,
+          "topicality": 0.029173907
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.55465645,
+          "topicality": 0.01069248
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.54408824,
+          "topicality": 0.0021091483
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5367457,
+          "topicality": 0.00474329
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5243888,
+          "topicality": 0.011544813
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5149162,
+          "topicality": 0.10644981
+        }
+      ]
+    }
+  ]
+}

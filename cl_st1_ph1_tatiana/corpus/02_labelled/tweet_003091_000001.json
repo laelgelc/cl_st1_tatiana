@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9850717,
+          "topicality": 0.022205688
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.97819984,
+          "topicality": 0.046975177
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.9639011,
+          "topicality": 0.016985644
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6516734,
+          "topicality": 0.008589999
+        }
+      ]
+    }
+  ]
+}

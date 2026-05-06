@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/015kr",
+          "description": "Bridge",
+          "score": 0.97201484,
+          "topicality": 0.39667967
+        },
+        {
+          "mid": "/m/0df8xq",
+          "description": "List of nonbuilding structure types",
+          "score": 0.8691361,
+          "topicality": 9.642177e-05
+        },
+        {
+          "mid": "/m/05mf2t",
+          "description": "Concrete bridge",
+          "score": 0.861875,
+          "topicality": 0.018302772
+        },
+        {
+          "mid": "/m/051gs3",
+          "description": "Bridge–tunnel",
+          "score": 0.8298712,
+          "topicality": 0.0070199394
+        },
+        {
+          "mid": "/m/054v5h",
+          "description": "Beam bridge",
+          "score": 0.7886928,
+          "topicality": 0.024141606
+        },
+        {
+          "mid": "/m/02500f",
+          "description": "Overpass",
+          "score": 0.78437346,
+          "topicality": 0.025866162
+        },
+        {
+          "mid": "/m/0cz_0",
+          "description": "Highway",
+          "score": 0.7716313,
+          "topicality": 0.08598354
+        },
+        {
+          "mid": "/m/0335j",
+          "description": "Controlled-access highway",
+          "score": 0.7573966,
+          "topicality": 0.079377376
+        },
+        {
+          "mid": "/m/0d0h0h",
+          "description": "Girder bridge",
+          "score": 0.7243502,
+          "topicality": 0.00556002
+        },
+        {
+          "mid": "/m/08p0zr",
+          "description": "Segmental bridge",
+          "score": 0.6590595,
+          "topicality": 0.0010468402
+        },
+        {
+          "mid": "/m/054v5w",
+          "description": "Plate girder bridge",
+          "score": 0.607044,
+          "topicality": 0.00043595524
+        },
+        {
+          "mid": "/m/054v6y",
+          "description": "Box girder bridge",
+          "score": 0.60034895,
+          "topicality": 0.0024322383
+        }
+      ]
+    }
+  ]
+}

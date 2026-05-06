@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9443946,
+          "topicality": 0.0045422567
+        },
+        {
+          "mid": "/m/04mygm",
+          "description": "Bed sheet",
+          "score": 0.9385604,
+          "topicality": 0.010822503
+        },
+        {
+          "mid": "/m/03mcr3",
+          "description": "Bedding",
+          "score": 0.9124754,
+          "topicality": 0.0066588977
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.90108097,
+          "topicality": 0.32295826
+        },
+        {
+          "mid": "/m/06httj",
+          "description": "Linens",
+          "score": 0.89535487,
+          "topicality": 0.00065611413
+        },
+        {
+          "mid": "/m/02_58j",
+          "description": "Bedroom",
+          "score": 0.89223206,
+          "topicality": 0.046467766
+        },
+        {
+          "mid": "/m/08xgn7",
+          "description": "Comfort",
+          "score": 0.8735434,
+          "topicality": 0.01708182
+        },
+        {
+          "mid": "/m/034c16",
+          "description": "Pillow",
+          "score": 0.5910952,
+          "topicality": 0.0067663454
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.5894444,
+          "topicality": 0.0018661852
+        },
+        {
+          "mid": "/m/03f2m2",
+          "description": "Duvet",
+          "score": 0.57832724,
+          "topicality": 0.00445864
+        }
+      ]
+    }
+  ]
+}

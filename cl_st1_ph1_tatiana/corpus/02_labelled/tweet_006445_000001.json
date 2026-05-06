@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.91284865,
+          "topicality": 0.0117691085
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.88692254,
+          "topicality": 0.023528058
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.865995,
+          "topicality": 0.012688719
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.5631906,
+          "topicality": 0.012249832
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.83549416,
+          "topicality": 0.016858162
+        },
+        {
+          "mid": "/m/01dqkc",
+          "description": "Pest",
+          "score": 0.6122496,
+          "topicality": 0.013220648
+        },
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.55645484,
+          "topicality": 0.035328716
+        },
+        {
+          "mid": "/m/04kllm9",
+          "description": "Itch",
+          "score": 0.5148564,
+          "topicality": 0.3450275
+        }
+      ]
+    }
+  ]
+}

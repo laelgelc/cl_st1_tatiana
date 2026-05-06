@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.87872106,
+          "topicality": 0.120193705
+        },
+        {
+          "mid": "/m/04_tb",
+          "description": "Map",
+          "score": 0.65250444,
+          "topicality": 0.08688503
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.55066174,
+          "topicality": 0.0009899238
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5127194,
+          "topicality": 0.028808232
+        }
+      ]
+    }
+  ]
+}

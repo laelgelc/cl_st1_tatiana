@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6617079,
+          "topicality": 0.037354227
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.65916085,
+          "topicality": 0.04575977
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.6031837,
+          "topicality": 0.00028302343
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5364483,
+          "topicality": 0.0066849785
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5296499,
+          "topicality": 0.010604912
+        },
+        {
+          "mid": "/m/02l7rx",
+          "description": "Convention center",
+          "score": 0.5060926,
+          "topicality": 0.026190707
+        }
+      ]
+    }
+  ]
+}

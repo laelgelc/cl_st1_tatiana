@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fc1fy",
+          "description": "Black hair",
+          "score": 0.91507995,
+          "topicality": 0.0005619521
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.69545275,
+          "topicality": 0.0021883303
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.6673054,
+          "topicality": 0.021801414
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.63693696,
+          "topicality": 0.018866058
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.6231012,
+          "topicality": 0.00014508967
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.68731534,
+          "topicality": 0.001407792
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.6588293,
+          "topicality": 0.018176772
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.5667391,
+          "topicality": 0.048059173
+        },
+        {
+          "mid": "/m/06c7f7",
+          "description": "Lipstick",
+          "score": 0.5400891,
+          "topicality": 0.014216671
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.94565606,
+          "topicality": 0.02339557
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.9444211,
+          "topicality": 0.083623335
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9217183,
+          "topicality": 0.018322572
+        },
+        {
+          "mid": "/m/06bm2",
+          "description": "Recreation",
+          "score": 0.884663,
+          "topicality": 0.026491424
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.8406838,
+          "topicality": 0.025528274
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.8347421,
+          "topicality": 0.009184772
+        },
+        {
+          "mid": "/m/0b03ql",
+          "description": "Canopy",
+          "score": 0.7754091,
+          "topicality": 0.0012928692
+        },
+        {
+          "mid": "/m/07pltdk",
+          "description": "pole",
+          "score": 0.7646034,
+          "topicality": 0.00011426244
+        },
+        {
+          "mid": "/m/0hndl",
+          "description": "Shade",
+          "score": 0.6750578,
+          "topicality": 0.0007047903
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.6289746,
+          "topicality": 0.031236859
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.5377193,
+          "topicality": 0.00012519359
+        },
+        {
+          "mid": "/m/01j61q",
+          "description": "Tent",
+          "score": 0.501652,
+          "topicality": 0.00576679
+        }
+      ]
+    }
+  ]
+}

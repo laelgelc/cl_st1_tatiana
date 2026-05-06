@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.92485225,
+          "topicality": 0.0004744726
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.8945018,
+          "topicality": 0.0051304568
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.633308,
+          "topicality": 0.00092762674
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.6133359,
+          "topicality": 0.002724947
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5375571,
+          "topicality": 0.009823426
+        },
+        {
+          "mid": "/m/0191f8",
+          "description": "Learning",
+          "score": 0.5310744,
+          "topicality": 0.012564072
+        },
+        {
+          "mid": "/m/014jg3",
+          "description": "Training",
+          "score": 0.5055366,
+          "topicality": 0.0024562
+        }
+      ]
+    }
+  ]
+}

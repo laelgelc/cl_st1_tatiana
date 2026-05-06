@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7145652,
+          "topicality": 0.012613196
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6946273,
+          "topicality": 0.11136538
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.68321615,
+          "topicality": 0.0014084531
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6604048,
+          "topicality": 0.0010721408
+        },
+        {
+          "mid": "/m/01j61q",
+          "description": "Tent",
+          "score": 0.6223673,
+          "topicality": 0.00041348126
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5704991,
+          "topicality": 0.07313593
+        }
+      ]
+    }
+  ]
+}

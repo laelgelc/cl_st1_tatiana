@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9583079,
+          "topicality": 0.00795643
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9079352,
+          "topicality": 0.00026798286
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7831722,
+          "topicality": 0.05479805
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7608252,
+          "topicality": 0.023672247
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5493104,
+          "topicality": 0.0008923506
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.54350066,
+          "topicality": 0.050352074
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.94706315,
+          "topicality": 0.031434122
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9144224,
+          "topicality": 0.00037762782
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8383004,
+          "topicality": 0.02334324
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8173181,
+          "topicality": 0.002022138
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.7552162,
+          "topicality": 0.09186319
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.74152935,
+          "topicality": 0.01564862
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7328613,
+          "topicality": 0.001901175
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.70023924,
+          "topicality": 0.019404758
+        },
+        {
+          "mid": "/m/02_784",
+          "description": "Display advertising",
+          "score": 0.52517915,
+          "topicality": 0.0003251285
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.5090128,
+          "topicality": 0.0019068089
+        }
+      ]
+    }
+  ]
+}

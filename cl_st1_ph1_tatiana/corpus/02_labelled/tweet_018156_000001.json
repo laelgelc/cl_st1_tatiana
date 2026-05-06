@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9029018,
+          "topicality": 0.7371285
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8510035,
+          "topicality": 0.13383926
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.83885354,
+          "topicality": 0.0014056149
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.83163136,
+          "topicality": 0.0039445315
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.82236534,
+          "topicality": 0.004977208
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.76856595,
+          "topicality": 0.0253553
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7660181,
+          "topicality": 0.23189344
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6298555,
+          "topicality": 0.0229804
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.56606954,
+          "topicality": 0.007392755
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.5599718,
+          "topicality": 0.124621704
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5216989,
+          "topicality": 0.010680794
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5208641,
+          "topicality": 0.23496923
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.500418,
+          "topicality": 0.011111563
+        }
+      ]
+    }
+  ]
+}

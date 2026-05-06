@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.849623,
+          "topicality": 0.05491704
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.7698834,
+          "topicality": 0.002121454
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.730943,
+          "topicality": 0.019498438
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.66126686,
+          "topicality": 0.0014403283
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6186273,
+          "topicality": 0.004632962
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5841278,
+          "topicality": 0.10544317
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.54506564,
+          "topicality": 0.039564542
+        }
+      ]
+    }
+  ]
+}

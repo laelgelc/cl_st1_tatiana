@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9319614,
+          "topicality": 0.0028171889
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8591419,
+          "topicality": 0.013377194
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.85658646,
+          "topicality": 0.0035298245
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.7842187,
+          "topicality": 8.070592e-05
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6282836,
+          "topicality": 0.0006001579
+        }
+      ]
+    }
+  ]
+}

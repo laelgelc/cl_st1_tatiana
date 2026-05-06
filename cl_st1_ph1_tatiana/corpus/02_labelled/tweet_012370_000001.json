@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.855187,
+          "topicality": 0.0017336323
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7854847,
+          "topicality": 0.0018834708
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7125251,
+          "topicality": 0.0009352236
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.691912,
+          "topicality": 0.014688036
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6586309,
+          "topicality": 0.0155006135
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.60190207,
+          "topicality": 0.037574112
+        }
+      ]
+    }
+  ]
+}

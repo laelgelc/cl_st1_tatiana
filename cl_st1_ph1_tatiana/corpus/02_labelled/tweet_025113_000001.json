@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.84089005,
+          "topicality": 0.042067252
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.77386934,
+          "topicality": 0.00669672
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.71483403,
+          "topicality": 0.009913735
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.65198797,
+          "topicality": 0.00068873854
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.5843181,
+          "topicality": 0.0011458029
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5236674,
+          "topicality": 0.0010214214
+        }
+      ]
+    }
+  ]
+}

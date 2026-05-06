@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8403099,
+          "topicality": 0.0018910428
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8372382,
+          "topicality": 0.00048197832
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.82696414,
+          "topicality": 0.003284403
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.70076704,
+          "topicality": 0.0037230044
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.69577736,
+          "topicality": 0.023734985
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.6622565,
+          "topicality": 0.009813568
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.661372,
+          "topicality": 0.00021421492
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.61899835,
+          "topicality": 0.00046965203
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.5956422,
+          "topicality": 0.0033134848
+        },
+        {
+          "mid": "/m/03cvmmd",
+          "description": "Suit trousers",
+          "score": 0.58271366,
+          "topicality": 4.791643e-06
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5708022,
+          "topicality": 6.125772e-05
+        }
+      ]
+    }
+  ]
+}

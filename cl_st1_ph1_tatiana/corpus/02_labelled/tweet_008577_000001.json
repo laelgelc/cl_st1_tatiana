@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.61405915,
+          "topicality": 0.009895634
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.54451054,
+          "topicality": 0.04796093
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51275736,
+          "topicality": 0.018898431
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.50604755,
+          "topicality": 0.06208533
+        },
+        {
+          "mid": "/m/0bhmh",
+          "description": "Telephony",
+          "score": 0.5036209,
+          "topicality": 0.0011032969
+        }
+      ]
+    }
+  ]
+}

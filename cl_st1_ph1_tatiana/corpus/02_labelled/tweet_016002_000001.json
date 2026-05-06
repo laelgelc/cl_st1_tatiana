@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.972688,
+          "topicality": 0.006772225
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90018594,
+          "topicality": 0.00021162104
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.65001935,
+          "topicality": 0.0010983266
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.59517676,
+          "topicality": 0.0019480813
+        }
+      ]
+    }
+  ]
+}

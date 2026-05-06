@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.84424096,
+          "topicality": 0.023239268
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.82514304,
+          "topicality": 0.0038400237
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8061612,
+          "topicality": 0.12575506
+        },
+        {
+          "mid": "/m/0jzbb",
+          "description": "Paramedic",
+          "score": 0.7901327,
+          "topicality": 0.06339343
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.768768,
+          "topicality": 0.23132107
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7552639,
+          "topicality": 0.00025290233
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7389991,
+          "topicality": 0.00034038036
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.68982476,
+          "topicality": 0.041532796
+        },
+        {
+          "mid": "/m/01_p8q",
+          "description": "Rescue",
+          "score": 0.62167776,
+          "topicality": 0.015407145
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6081361,
+          "topicality": 0.00072112575
+        }
+      ]
+    }
+  ]
+}

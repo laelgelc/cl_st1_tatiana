@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98786837,
+          "topicality": 0.0014005742
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.85551184,
+          "topicality": 0.002588043
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.78562295,
+          "topicality": 0.0020336632
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.70001423,
+          "topicality": 0.010302792
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.61780846,
+          "topicality": 0.0072348914
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.59229463,
+          "topicality": 0.0006268943
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5664777,
+          "topicality": 0.00073498726
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.9712452,
+          "topicality": 0.0025832837
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.91100955,
+          "topicality": 0.017342512
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.8965422,
+          "topicality": 0.013432127
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.89074874,
+          "topicality": 0.0020677245
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.86113703,
+          "topicality": 0.0014369498
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.77904606,
+          "topicality": 0.115157045
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7700285,
+          "topicality": 0.0020320711
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7621479,
+          "topicality": 0.08658677
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.73041487,
+          "topicality": 0.008426038
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.69206035,
+          "topicality": 0.013950914
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6423418,
+          "topicality": 0.043304373
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.62034035,
+          "topicality": 3.799796e-06
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5588044,
+          "topicality": 0.07750924
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.54009163,
+          "topicality": 0.02425725
+        }
+      ]
+    }
+  ]
+}

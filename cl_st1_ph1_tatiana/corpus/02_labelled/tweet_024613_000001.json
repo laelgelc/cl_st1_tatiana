@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j04m",
+          "description": "Thigh",
+          "score": 0.89420646,
+          "topicality": 0.0067808707
+        },
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.87611204,
+          "topicality": 0.3737467
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7801744,
+          "topicality": 0.0005310877
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.6833935,
+          "topicality": 0.21108541
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.51231533,
+          "topicality": 0.0007507805
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hr8",
+          "description": "Asphalt",
+          "score": 0.91800237,
+          "topicality": 0.15171286
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.82669926,
+          "topicality": 0.06843622
+        },
+        {
+          "mid": "/m/05by2s",
+          "description": "Tar",
+          "score": 0.73303336,
+          "topicality": 0.0216064
+        },
+        {
+          "mid": "/m/01ft8k",
+          "description": "Shadow",
+          "score": 0.71847194,
+          "topicality": 0.09797505
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.7179778,
+          "topicality": 0.07410422
+        }
+      ]
+    }
+  ]
+}

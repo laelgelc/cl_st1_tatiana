@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01q7l",
+          "description": "Currency",
+          "score": 0.73448306,
+          "topicality": 0.039293297
+        },
+        {
+          "mid": "/m/04_x4",
+          "description": "Money",
+          "score": 0.72367233,
+          "topicality": 0.28893986
+        },
+        {
+          "mid": "/m/07nq4",
+          "description": "Tsunami",
+          "score": 0.6194119,
+          "topicality": 0.5942265
+        },
+        {
+          "mid": "/m/0fd6q",
+          "description": "Cash",
+          "score": 0.5277545,
+          "topicality": 0.07403627
+        }
+      ]
+    }
+  ]
+}

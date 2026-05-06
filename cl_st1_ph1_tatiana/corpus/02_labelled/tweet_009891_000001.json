@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01x314",
+          "description": "Facade",
+          "score": 0.94013137,
+          "topicality": 0.017170366
+        },
+        {
+          "mid": "/m/02dgv",
+          "description": "Door",
+          "score": 0.85231775,
+          "topicality": 0.0024150652
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.66292727,
+          "topicality": 0.007466334
+        }
+      ]
+    }
+  ]
+}

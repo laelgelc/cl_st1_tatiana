@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.9081507,
+          "topicality": 0.13463567
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.87259066,
+          "topicality": 0.000681735
+        },
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.8500403,
+          "topicality": 0.0016516376
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.8181988,
+          "topicality": 0.23531948
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.73435736,
+          "topicality": 0.0013058763
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7215415,
+          "topicality": 0.00063062855
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.71314275,
+          "topicality": 0.05355944
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.68305224,
+          "topicality": 0.016464306
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.62996405,
+          "topicality": 0.00045150117
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.5792073,
+          "topicality": 0.065363064
+        }
+      ]
+    }
+  ]
+}

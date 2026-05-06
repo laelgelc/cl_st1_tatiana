@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.6490807,
+          "topicality": 0.028771637
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.60414296,
+          "topicality": 0.052282866
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6004525,
+          "topicality": 0.00011620289
+        }
+      ]
+    }
+  ]
+}

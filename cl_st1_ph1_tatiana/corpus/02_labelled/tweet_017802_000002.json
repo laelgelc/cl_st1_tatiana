@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7619081,
+          "topicality": 0.005816443
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.73244464,
+          "topicality": 0.01125348
+        },
+        {
+          "mid": "/m/0438n2",
+          "description": "Jheri curl",
+          "score": 0.73013383,
+          "topicality": 0.0008038151
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6733736,
+          "topicality": 0.015480054
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.519486,
+          "topicality": 0.011282029
+        },
+        {
+          "mid": "/m/0dqs43",
+          "description": "Ringlet",
+          "score": 0.5134331,
+          "topicality": 8.08384e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.8761118,
+          "topicality": 0.00036159725
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8538889,
+          "topicality": 0.0028994812
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.848162,
+          "topicality": 0.0015730612
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.6256259,
+          "topicality": 8.714941e-05
+        },
+        {
+          "mid": "/m/02pz5g2",
+          "description": "Light commercial vehicle",
+          "score": 0.5643959,
+          "topicality": 1.7902632e-05
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.55668545,
+          "topicality": 1.7091885e-05
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.51372385,
+          "topicality": 0.0052216733
+        },
+        {
+          "mid": "/m/0hnnb",
+          "description": "Umbrella",
+          "score": 0.5093796,
+          "topicality": 0.00042013565
+        }
+      ]
+    }
+  ]
+}

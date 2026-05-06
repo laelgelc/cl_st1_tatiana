@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04gvstg",
+          "description": "Tobacco products",
+          "score": 0.9858767,
+          "topicality": 0.15395993
+        },
+        {
+          "mid": "/m/02vxs3q",
+          "description": "Smoking",
+          "score": 0.9790114,
+          "topicality": 0.9101314
+        },
+        {
+          "mid": "/m/09k76",
+          "description": "Cigarette",
+          "score": 0.9619704,
+          "topicality": 0.9103906
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.92725617,
+          "topicality": 0.08823176
+        },
+        {
+          "mid": "/m/07ly_",
+          "description": "Tobacco",
+          "score": 0.90539837,
+          "topicality": 0.5015147
+        },
+        {
+          "mid": "/m/04zjxcz",
+          "description": "Ash",
+          "score": 0.83352995,
+          "topicality": 7.915245e-05
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6621066,
+          "topicality": 0.0028802643
+        },
+        {
+          "mid": "/m/01qdq2",
+          "description": "Smoking cessation",
+          "score": 0.65056616,
+          "topicality": 0.47357073
+        }
+      ]
+    }
+  ]
+}

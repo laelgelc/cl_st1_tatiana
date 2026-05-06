@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9528977,
+          "topicality": 0.0009296706
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.906635,
+          "topicality": 0.00093561626
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8006192,
+          "topicality": 0.0011794512
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7300507,
+          "topicality": 0.0004917481
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.7249235,
+          "topicality": 0.0014590562
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.7185204,
+          "topicality": 0.008823679
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.693972,
+          "topicality": 0.0016670807
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.65627295,
+          "topicality": 0.0062549827
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.62092257,
+          "topicality": 0.00093627576
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5668671,
+          "topicality": 0.09919492
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5217825,
+          "topicality": 0.02851312
+        }
+      ]
+    }
+  ]
+}

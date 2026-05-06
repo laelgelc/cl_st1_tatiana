@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.864799,
+          "topicality": 0.016881533
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8473599,
+          "topicality": 0.23653156
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.7853347,
+          "topicality": 0.17917027
+        },
+        {
+          "mid": "/m/0d99pf",
+          "description": "Control panel",
+          "score": 0.7738233,
+          "topicality": 0.005976935
+        },
+        {
+          "mid": "/m/03rnh",
+          "description": "Industry",
+          "score": 0.59019923,
+          "topicality": 0.2002173
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54763883,
+          "topicality": 0.026631882
+        }
+      ]
+    }
+  ]
+}

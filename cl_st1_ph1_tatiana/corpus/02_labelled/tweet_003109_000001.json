@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9321561,
+          "topicality": 0.015396091
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9110942,
+          "topicality": 0.0021868846
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.8196104,
+          "topicality": 0.027781934
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8026228,
+          "topicality": 0.01350563
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.71017706,
+          "topicality": 0.012407237
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6646259,
+          "topicality": 0.0038632737
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5707838,
+          "topicality": 0.004100174
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.52722645,
+          "topicality": 0.1878531
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.50568664,
+          "topicality": 0.016643355
+        }
+      ]
+    }
+  ]
+}

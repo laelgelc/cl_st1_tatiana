@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.95909715,
+          "topicality": 0.0012505297
+        },
+        {
+          "mid": "/m/0404d",
+          "description": "Jewellery",
+          "score": 0.91389483,
+          "topicality": 0.00056214415
+        },
+        {
+          "mid": "/m/07djv",
+          "description": "Tradition",
+          "score": 0.8033961,
+          "topicality": 0.010438069
+        },
+        {
+          "mid": "/m/01llwg",
+          "description": "Necklace",
+          "score": 0.7972515,
+          "topicality": 0.00029013536
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.6378347,
+          "topicality": 0.004397563
+        },
+        {
+          "mid": "/m/01r546",
+          "description": "Earring",
+          "score": 0.5063842,
+          "topicality": 1.4787359e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.994371,
+          "topicality": 0.060312595
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9790223,
+          "topicality": 0.4072458
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.9436986,
+          "topicality": 0.012500683
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.939857,
+          "topicality": 0.031148894
+        },
+        {
+          "mid": "/m/081pkj",
+          "description": "Event",
+          "score": 0.93101674,
+          "topicality": 0.006634059
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.9146359,
+          "topicality": 0.004394858
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7487683,
+          "topicality": 0.0001444417
+        },
+        {
+          "mid": "/m/0hr5k",
+          "description": "Festival",
+          "score": 0.73479825,
+          "topicality": 0.1434714
+        },
+        {
+          "mid": "/m/01j0ry",
+          "description": "Traffic congestion",
+          "score": 0.53385097,
+          "topicality": 0.017590763
+        }
+      ]
+    }
+  ]
+}

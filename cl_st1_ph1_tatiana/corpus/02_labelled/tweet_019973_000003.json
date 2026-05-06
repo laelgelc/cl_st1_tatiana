@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.85687846,
+          "topicality": 0.104402706
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.77106684,
+          "topicality": 0.0012460311
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6846006,
+          "topicality": 0.06529834
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5437881,
+          "topicality": 0.027188275
+        }
+      ]
+    }
+  ]
+}

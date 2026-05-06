@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9327475,
+          "topicality": 0.011367423
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7271682,
+          "topicality": 0.0027987135
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.64126825,
+          "topicality": 0.00075370463
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.5919949,
+          "topicality": 0.004336263
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.51316816,
+          "topicality": 0.00043823398
+        }
+      ]
+    }
+  ]
+}

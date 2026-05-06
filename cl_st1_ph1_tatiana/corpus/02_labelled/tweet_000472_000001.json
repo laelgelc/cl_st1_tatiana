@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98905635,
+          "topicality": 0.019128596
+        },
+        {
+          "mid": "/m/0csby",
+          "description": "Cloud",
+          "score": 0.90756553,
+          "topicality": 0.0671434
+        },
+        {
+          "mid": "/m/04h4w",
+          "description": "Lake",
+          "score": 0.8235602,
+          "topicality": 0.2456948
+        },
+        {
+          "mid": "/m/05kq4",
+          "description": "Ocean",
+          "score": 0.7538184,
+          "topicality": 0.0815943
+        },
+        {
+          "mid": "/m/0csh5",
+          "description": "Cumulus",
+          "score": 0.7368135,
+          "topicality": 0.0024344123
+        },
+        {
+          "mid": "/m/02l215",
+          "description": "Reflection",
+          "score": 0.6693722,
+          "topicality": 0.031701367
+        },
+        {
+          "mid": "/m/0223d3",
+          "description": "Sound",
+          "score": 0.62557316,
+          "topicality": 0.0019271454
+        },
+        {
+          "mid": "/m/04p25",
+          "description": "Loch",
+          "score": 0.5650127,
+          "topicality": 0.00048821853
+        }
+      ]
+    }
+  ]
+}

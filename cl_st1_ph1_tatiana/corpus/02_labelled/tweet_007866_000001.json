@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99434835,
+          "topicality": 0.022120954
+        },
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.95693254,
+          "topicality": 0.005736925
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.95563304,
+          "topicality": 0.004293334
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9146309,
+          "topicality": 0.059067205
+        },
+        {
+          "mid": "/m/01ckgp",
+          "description": "Interaction",
+          "score": 0.90765625,
+          "topicality": 0.004582967
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8625551,
+          "topicality": 0.009064966
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.71890265,
+          "topicality": 0.0015861306
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.7075273,
+          "topicality": 0.18840805
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.69218826,
+          "topicality": 0.0003549341
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.64679986,
+          "topicality": 0.00097421603
+        },
+        {
+          "mid": "/m/027qw1p",
+          "description": "Feathered hair",
+          "score": 0.6123135,
+          "topicality": 1.2002157e-05
+        },
+        {
+          "mid": "/m/02h19r",
+          "description": "Scarf",
+          "score": 0.56254613,
+          "topicality": 8.5543106e-05
+        }
+      ]
+    }
+  ]
+}

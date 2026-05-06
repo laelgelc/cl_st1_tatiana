@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qsj",
+          "description": "Primate",
+          "score": 0.9805153,
+          "topicality": 0.09681202
+        },
+        {
+          "mid": "/m/0267y",
+          "description": "Chimpanzee",
+          "score": 0.83557296,
+          "topicality": 0.7161277
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.8223235,
+          "topicality": 0.0005289855
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.6642507,
+          "topicality": 1.3980374e-05
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.5169131,
+          "topicality": 2.5772018e-05
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.51425695,
+          "topicality": 0.00072568475
+        }
+      ]
+    }
+  ]
+}

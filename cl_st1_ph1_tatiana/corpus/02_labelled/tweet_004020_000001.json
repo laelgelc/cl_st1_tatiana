@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9216969,
+          "topicality": 0.0036627636
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8472712,
+          "topicality": 0.005653655
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.84007037,
+          "topicality": 0.55612516
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.82590985,
+          "topicality": 0.0012210219
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.75091064,
+          "topicality": 0.008185092
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.74775434,
+          "topicality": 0.14739949
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6651876,
+          "topicality": 0.048584435
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5959101,
+          "topicality": 0.019657422
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.56616104,
+          "topicality": 0.0033007055
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.5073242,
+          "topicality": 0.020935033
+        },
+        {
+          "mid": "/m/083kv",
+          "description": "Wire",
+          "score": 0.5010158,
+          "topicality": 3.500693e-05
+        }
+      ]
+    }
+  ]
+}

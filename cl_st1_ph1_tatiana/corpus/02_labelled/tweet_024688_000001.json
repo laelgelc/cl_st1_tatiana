@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8799848,
+          "topicality": 0.027926365
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.79907,
+          "topicality": 0.1155535
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7965575,
+          "topicality": 0.0054863896
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.77820444,
+          "topicality": 0.082492314
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.70853037,
+          "topicality": 0.0010912373
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.7054447,
+          "topicality": 0.18853374
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7048178,
+          "topicality": 0.08784525
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.6707762,
+          "topicality": 0.01713664
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.54849535,
+          "topicality": 0.055383787
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5284862,
+          "topicality": 0.004690766
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5202435,
+          "topicality": 0.010258869
+        },
+        {
+          "mid": "/m/03c1dkx",
+          "description": "Therapy",
+          "score": 0.50932574,
+          "topicality": 0.06880667
+        }
+      ]
+    }
+  ]
+}

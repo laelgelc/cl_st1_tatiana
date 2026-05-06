@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449447,
+          "topicality": 0.0007755627
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.78511137,
+          "topicality": 0.0027679505
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5574244,
+          "topicality": 0.0018307582
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0317s",
+          "description": "Flag of the United States",
+          "score": 0.95853513,
+          "topicality": 0.19393127
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.9490819,
+          "topicality": 0.2826658
+        },
+        {
+          "mid": "/m/01t_7l",
+          "description": "Flag Day",
+          "score": 0.7524979,
+          "topicality": 0.0011621591
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.6476387,
+          "topicality": 0.010422249
+        },
+        {
+          "mid": "/m/03bxns",
+          "description": "Independence Day",
+          "score": 0.58925825,
+          "topicality": 0.0051420373
+        },
+        {
+          "mid": "/m/016jhc",
+          "description": "Veterans Day",
+          "score": 0.5103325,
+          "topicality": 0.002467195
+        }
+      ]
+    }
+  ]
+}

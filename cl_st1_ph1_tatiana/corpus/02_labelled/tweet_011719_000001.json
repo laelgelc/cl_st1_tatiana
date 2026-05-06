@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.9602132,
+          "topicality": 0.000810485
+        },
+        {
+          "mid": "/m/015c4z",
+          "description": "Sitting",
+          "score": 0.8582217,
+          "topicality": 0.008579575
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7784343,
+          "topicality": 0.0027410572
+        },
+        {
+          "mid": "/m/0cp2d4k",
+          "description": "Outdoor furniture",
+          "score": 0.51587427,
+          "topicality": 0.00030232273
+        },
+        {
+          "mid": "/m/0q0d2",
+          "description": "Thatching",
+          "score": 0.5033993,
+          "topicality": 0.010772643
+        }
+      ]
+    }
+  ]
+}

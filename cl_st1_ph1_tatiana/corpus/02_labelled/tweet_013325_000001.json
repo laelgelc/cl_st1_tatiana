@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.83615255,
+          "topicality": 0.01968127
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8341949,
+          "topicality": 0.029376639
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.7803952,
+          "topicality": 0.05848078
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7487775,
+          "topicality": 0.058411263
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.7166608,
+          "topicality": 0.0035026476
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6214163,
+          "topicality": 0.02407135
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.6103694,
+          "topicality": 0.028588613
+        },
+        {
+          "mid": "/m/047q30j",
+          "description": "Eco hotel",
+          "score": 0.5669271,
+          "topicality": 0.0032483616
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.55272657,
+          "topicality": 0.005779563
+        }
+      ]
+    }
+  ]
+}

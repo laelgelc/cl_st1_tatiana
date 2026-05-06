@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.9813527,
+          "topicality": 0.13003902
+        },
+        {
+          "mid": "/m/07j2f",
+          "description": "Tattoo",
+          "score": 0.9731489,
+          "topicality": 0.54803073
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.87198186,
+          "topicality": 0.03494111
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.82400674,
+          "topicality": 0.013182005
+        },
+        {
+          "mid": "/m/02qbx9l",
+          "description": "Temporary tattoo",
+          "score": 0.7499339,
+          "topicality": 0.04450712
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7369466,
+          "topicality": 5.121133e-05
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.67438436,
+          "topicality": 0.0036920053
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.61260945,
+          "topicality": 0.05530556
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9441162,
+          "topicality": 0.0015238588
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.76636994,
+          "topicality": 0.0069833053
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.7609489,
+          "topicality": 0.008133645
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.7292778,
+          "topicality": 0.01042807
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.5873871,
+          "topicality": 0.005209469
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.5815397,
+          "topicality": 0.029107327
+        },
+        {
+          "mid": "/m/0118n_9r",
+          "description": "Water bottle",
+          "score": 0.55138713,
+          "topicality": 0.00049659365
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.525671,
+          "topicality": 0.06282393
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.5192102,
+          "topicality": 0.055401698
+        }
+      ]
+    }
+  ]
+}

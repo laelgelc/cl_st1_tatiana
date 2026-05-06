@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.8848527,
+          "topicality": 0.06118458
+        },
+        {
+          "mid": "/m/01pxgq",
+          "description": "Romance",
+          "score": 0.85257524,
+          "topicality": 0.03368145
+        },
+        {
+          "mid": "/m/025s9qt",
+          "description": "Hug",
+          "score": 0.8031466,
+          "topicality": 0.0472055
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.78201324,
+          "topicality": 0.44129035
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7710617,
+          "topicality": 0.00023499237
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6725346,
+          "topicality": 0.0007465597
+        },
+        {
+          "mid": "/m/03mv4",
+          "description": "Honeymoon",
+          "score": 0.52553254,
+          "topicality": 0.0011064833
+        }
+      ]
+    }
+  ]
+}

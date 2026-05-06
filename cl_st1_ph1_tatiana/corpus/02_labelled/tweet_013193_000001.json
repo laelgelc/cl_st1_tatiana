@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08863x",
+          "description": "Bird's-eye view",
+          "score": 0.86624354,
+          "topicality": 0.059631485
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.8292353,
+          "topicality": 0.011241016
+        },
+        {
+          "mid": "/m/01jnzj",
+          "description": "Construction",
+          "score": 0.7717101,
+          "topicality": 0.10284373
+        },
+        {
+          "mid": "/m/0156dy",
+          "description": "Project",
+          "score": 0.5402753,
+          "topicality": 0.3153489
+        }
+      ]
+    }
+  ]
+}

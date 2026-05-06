@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97116876,
+          "topicality": 0.00752039
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9010445,
+          "topicality": 0.00092440884
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8985578,
+          "topicality": 0.059862353
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.87242645,
+          "topicality": 0.1657748
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.86705625,
+          "topicality": 0.0039120917
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8664535,
+          "topicality": 0.0012707004
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8404351,
+          "topicality": 0.007882921
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.8084102,
+          "topicality": 0.0021882271
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.80638653,
+          "topicality": 0.00076254294
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7843591,
+          "topicality": 0.2077769
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7584645,
+          "topicality": 0.057165053
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6218092,
+          "topicality": 0.088940844
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.57086724,
+          "topicality": 0.0050785285
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.53575736,
+          "topicality": 0.016705763
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.5305887,
+          "topicality": 0.00059690856
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.5168778,
+          "topicality": 0.00043883975
+        },
+        {
+          "mid": "/m/0305b",
+          "description": "First aid",
+          "score": 0.50282276,
+          "topicality": 0.016151085
+        }
+      ]
+    }
+  ]
+}

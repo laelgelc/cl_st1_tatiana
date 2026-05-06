@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.9043114,
+          "topicality": 0.07659575
+        },
+        {
+          "mid": "/m/089mxq",
+          "description": "Glass bottle",
+          "score": 0.69486386,
+          "topicality": 0.0054732747
+        },
+        {
+          "mid": "/m/02b389",
+          "description": "Bottle cap",
+          "score": 0.54252356,
+          "topicality": 0.0036526392
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5151655,
+          "topicality": 0.00013056636
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.50897217,
+          "topicality": 0.00027678604
+        }
+      ]
+    }
+  ]
+}

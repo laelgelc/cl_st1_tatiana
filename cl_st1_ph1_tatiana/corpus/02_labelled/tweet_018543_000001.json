@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.97506505,
+          "topicality": 0.028841244
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.9353769,
+          "topicality": 0.0737082
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.92348677,
+          "topicality": 0.0030968837
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.86900556,
+          "topicality": 0.0038821176
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.74468267,
+          "topicality": 0.012279731
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7357291,
+          "topicality": 0.038941536
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.7139097,
+          "topicality": 0.11107982
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.6972465,
+          "topicality": 0.0007901471
+        },
+        {
+          "mid": "/m/01zrkr",
+          "description": "Icon",
+          "score": 0.5197559,
+          "topicality": 0.001227726
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.50136614,
+          "topicality": 0.0014907724
+        }
+      ]
+    }
+  ]
+}

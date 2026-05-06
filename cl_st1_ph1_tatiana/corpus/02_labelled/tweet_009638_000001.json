@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9857862,
+          "topicality": 0.0031667282
+        },
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.98479474,
+          "topicality": 0.00018510073
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9806646,
+          "topicality": 0.007209038
+        },
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.98003626,
+          "topicality": 0.0008496745
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9750068,
+          "topicality": 0.00058313535
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449496,
+          "topicality": 0.0006352172
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.93497175,
+          "topicality": 0.0015462548
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.92130584,
+          "topicality": 0.033989236
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.8840712,
+          "topicality": 2.5774969e-05
+        },
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.8561369,
+          "topicality": 6.5274566e-05
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.7249331,
+          "topicality": 0.0013060631
+        }
+      ]
+    }
+  ]
+}

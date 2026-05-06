@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.7603035,
+          "topicality": 5.3220945e-05
+        },
+        {
+          "mid": "/m/0687y",
+          "description": "Prayer",
+          "score": 0.6895092,
+          "topicality": 0.059860833
+        },
+        {
+          "mid": "/m/01sqnx",
+          "description": "Byzantine architecture",
+          "score": 0.6306041,
+          "topicality": 0.057230096
+        },
+        {
+          "mid": "/m/04_xn",
+          "description": "Mosque",
+          "score": 0.61286724,
+          "topicality": 0.8350735
+        },
+        {
+          "mid": "/m/01jf71",
+          "description": "Arcade",
+          "score": 0.58060706,
+          "topicality": 0.0008919809
+        },
+        {
+          "mid": "/m/016br2",
+          "description": "Dome",
+          "score": 0.50488013,
+          "topicality": 0.069083005
+        }
+      ]
+    }
+  ]
+}

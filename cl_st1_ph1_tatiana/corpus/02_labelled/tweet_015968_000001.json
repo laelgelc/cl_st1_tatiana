@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8723328,
+          "topicality": 0.0048015635
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.72585654,
+          "topicality": 0.0069202245
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.7126111,
+          "topicality": 0.00091380446
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.6620859,
+          "topicality": 0.0022852537
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.52567625,
+          "topicality": 0.0012082612
+        }
+      ]
+    }
+  ]
+}

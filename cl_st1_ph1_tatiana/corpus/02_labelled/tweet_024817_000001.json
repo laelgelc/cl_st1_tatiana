@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01qls",
+          "description": "Community",
+          "score": 0.9285062,
+          "topicality": 0.015391549
+        },
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.74291927,
+          "topicality": 0.0024630246
+        },
+        {
+          "mid": "/m/019tzr",
+          "description": "Coffin",
+          "score": 0.7330849,
+          "topicality": 0.23278728
+        },
+        {
+          "mid": "/m/02_g0",
+          "description": "Funeral",
+          "score": 0.6624763,
+          "topicality": 0.119592756
+        }
+      ]
+    }
+  ]
+}

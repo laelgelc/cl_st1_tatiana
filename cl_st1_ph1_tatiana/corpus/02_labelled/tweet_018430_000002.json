@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.89968836,
+          "topicality": 0.0026786327
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8221793,
+          "topicality": 0.02075475
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8083344,
+          "topicality": 0.00018480231
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.80672294,
+          "topicality": 0.0010651508
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7725167,
+          "topicality": 0.0011363621
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.69737154,
+          "topicality": 0.0022177438
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.69569886,
+          "topicality": 0.0060610664
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.68799025,
+          "topicality": 0.032030907
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.6366938,
+          "topicality": 0.027383544
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6089633,
+          "topicality": 0.005571168
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.55178154,
+          "topicality": 0.0014253615
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.5384933,
+          "topicality": 0.0011791054
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.50655067,
+          "topicality": 0.0012239014
+        }
+      ]
+    }
+  ]
+}

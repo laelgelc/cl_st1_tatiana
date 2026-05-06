@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7766673,
+          "topicality": 0.21545106
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.56758964,
+          "topicality": 0.012401449
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.56749564,
+          "topicality": 0.023263134
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5465042,
+          "topicality": 0.028469227
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5434839,
+          "topicality": 0.15768093
+        },
+        {
+          "mid": "/m/01wk9c",
+          "description": "Emblem",
+          "score": 0.5226431,
+          "topicality": 0.00032489796
+        }
+      ]
+    }
+  ]
+}

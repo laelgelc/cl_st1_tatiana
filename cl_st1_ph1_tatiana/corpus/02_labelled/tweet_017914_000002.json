@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8528585,
+          "topicality": 0.113948606
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.85021204,
+          "topicality": 0.008569109
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.73306143,
+          "topicality": 0.026759261
+        },
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.69971836,
+          "topicality": 0.072916344
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.66882545,
+          "topicality": 0.046374105
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6664687,
+          "topicality": 0.13171531
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6506711,
+          "topicality": 0.00081332045
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6149361,
+          "topicality": 0.0043711388
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.58466715,
+          "topicality": 0.025073798
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5133192,
+          "topicality": 0.006994554
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9889116,
+          "topicality": 0.00019797076
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9861238,
+          "topicality": 0.0027984236
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9773661,
+          "topicality": 0.0002104297
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8176737,
+          "topicality": 0.0347967
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.644805,
+          "topicality": 0.013167257
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.621763,
+          "topicality": 0.0009183589
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5133399,
+          "topicality": 9.832032e-05
+        }
+      ]
+    }
+  ]
+}

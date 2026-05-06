@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94455624,
+          "topicality": 0.0010614318
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8243534,
+          "topicality": 0.00083753665
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.7591538,
+          "topicality": 0.0027112882
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.73580146,
+          "topicality": 0.005649242
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.63720113,
+          "topicality": 0.00012428069
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.6065326,
+          "topicality": 0.0012761536
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.5161081,
+          "topicality": 0.03602152
+        }
+      ]
+    }
+  ]
+}

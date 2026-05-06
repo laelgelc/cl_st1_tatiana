@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9524935,
+          "topicality": 0.015689643
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94475234,
+          "topicality": 0.0001916446
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.8770679,
+          "topicality": 0.0045264657
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.8144055,
+          "topicality": 0.017982554
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.77323467,
+          "topicality": 0.0006504856
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.76595086,
+          "topicality": 0.00044400487
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.61819106,
+          "topicality": 0.034920473
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.57006633,
+          "topicality": 0.33052972
+        },
+        {
+          "mid": "/m/0nb89bq",
+          "description": "Photobombing",
+          "score": 0.5346473,
+          "topicality": 0.00082916836
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.82157916,
+          "topicality": 0.0024486587
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.73856163,
+          "topicality": 0.0035220676
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.64312047,
+          "topicality": 0.20749238
+        },
+        {
+          "mid": "/m/06z_nw",
+          "description": "Tail",
+          "score": 0.55426824,
+          "topicality": 0.0054715876
+        },
+        {
+          "mid": "/m/05cfj6x",
+          "description": "Mythical creature",
+          "score": 0.5389648,
+          "topicality": 0.0015598361
+        }
+      ]
+    }
+  ]
+}

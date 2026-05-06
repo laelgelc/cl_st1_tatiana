@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.82665455,
+          "topicality": 0.44240597
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.69752616,
+          "topicality": 0.034501236
+        },
+        {
+          "mid": "/m/03rnh",
+          "description": "Industry",
+          "score": 0.6377096,
+          "topicality": 0.032240964
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.60366035,
+          "topicality": 0.00076405995
+        },
+        {
+          "mid": "/m/07k1x",
+          "description": "Tool",
+          "score": 0.54553807,
+          "topicality": 0.008549496
+        }
+      ]
+    }
+  ]
+}

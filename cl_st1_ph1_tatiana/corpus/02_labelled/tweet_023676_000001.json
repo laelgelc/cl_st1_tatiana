@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/031n1",
+          "description": "Foot",
+          "score": 0.7622079,
+          "topicality": 0.035727173
+        },
+        {
+          "mid": "/m/01d_ff",
+          "description": "Toe",
+          "score": 0.709464,
+          "topicality": 0.0040494963
+        },
+        {
+          "mid": "/m/049lwx",
+          "description": "Barefoot",
+          "score": 0.6077743,
+          "topicality": 0.007561892
+        },
+        {
+          "mid": "/m/0715t2",
+          "description": "Calf",
+          "score": 0.516016,
+          "topicality": 0.0019182595
+        },
+        {
+          "mid": "/m/03gs8b2",
+          "description": "Balance",
+          "score": 0.5153832,
+          "topicality": 0.00027190612
+        }
+      ]
+    }
+  ]
+}

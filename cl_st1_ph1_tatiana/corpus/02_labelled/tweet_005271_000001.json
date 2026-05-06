@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8404537,
+          "topicality": 0.008946924
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.82361305,
+          "topicality": 0.008102035
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.80237716,
+          "topicality": 0.0023842754
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.7822992,
+          "topicality": 0.0037489415
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.74364376,
+          "topicality": 0.0018468417
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.6223593,
+          "topicality": 0.051546384
+        },
+        {
+          "mid": "/m/02k88w",
+          "description": "Rebellion",
+          "score": 0.5431401,
+          "topicality": 0.0121649075
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.53200644,
+          "topicality": 0.0015565495
+        }
+      ]
+    }
+  ]
+}

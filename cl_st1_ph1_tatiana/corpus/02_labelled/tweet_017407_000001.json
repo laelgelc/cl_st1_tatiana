@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8007432,
+          "topicality": 0.01768215
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8000672,
+          "topicality": 0.031963482
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.78179574,
+          "topicality": 0.0035462203
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.7590118,
+          "topicality": 0.030044096
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7177556,
+          "topicality": 0.00014646648
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.64560336,
+          "topicality": 0.010050332
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.56619596,
+          "topicality": 0.02660005
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.5302471,
+          "topicality": 0.00085381494
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.51116514,
+          "topicality": 4.610953e-05
+        }
+      ]
+    }
+  ]
+}

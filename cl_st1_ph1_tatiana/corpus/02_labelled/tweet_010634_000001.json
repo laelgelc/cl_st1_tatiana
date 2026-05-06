@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8071356,
+          "topicality": 0.00064546557
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.60953385,
+          "topicality": 0.0003357728
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.59126633,
+          "topicality": 0.0062651
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.58205986,
+          "topicality": 0.004122833
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.5102013,
+          "topicality": 0.028728504
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.503277,
+          "topicality": 6.023249e-05
+        }
+      ]
+    }
+  ]
+}

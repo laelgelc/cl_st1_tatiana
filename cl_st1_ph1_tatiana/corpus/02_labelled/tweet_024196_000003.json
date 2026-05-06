@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/021mh_",
+          "description": "Stuffed toy",
+          "score": 0.8634162,
+          "topicality": 0.00034288672
+        },
+        {
+          "mid": "/m/0138tl",
+          "description": "Toy",
+          "score": 0.7750841,
+          "topicality": 0.00042152868
+        },
+        {
+          "mid": "/m/025rgl",
+          "description": "Plush",
+          "score": 0.7106027,
+          "topicality": 1.663818e-05
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.6346763,
+          "topicality": 0.0038910785
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.58933103,
+          "topicality": 0.017341495
+        }
+      ]
+    }
+  ]
+}

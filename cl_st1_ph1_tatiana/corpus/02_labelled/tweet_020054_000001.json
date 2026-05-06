@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447108,
+          "topicality": 3.780234e-05
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.93965095,
+          "topicality": 0.011089646
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9361179,
+          "topicality": 0.020418627
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.80690855,
+          "topicality": 0.00059667503
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.69031847,
+          "topicality": 0.016367098
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6620031,
+          "topicality": 0.01619914
+        },
+        {
+          "mid": "/m/0h8kwjk",
+          "description": "Jewel Case",
+          "score": 0.5589755,
+          "topicality": 0.00011072379
+        }
+      ]
+    }
+  ]
+}

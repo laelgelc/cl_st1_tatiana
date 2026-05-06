@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94491494,
+          "topicality": 0.0021186795
+        },
+        {
+          "mid": "/m/0294jb",
+          "description": "Blond",
+          "score": 0.8860602,
+          "topicality": 0.0011650055
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.83285666,
+          "topicality": 0.027972668
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6366696,
+          "topicality": 0.005587537
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6364196,
+          "topicality": 0.0034481052
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.5998652,
+          "topicality": 0.121160276
+        }
+      ]
+    }
+  ]
+}

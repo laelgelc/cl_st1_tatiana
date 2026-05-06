@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97499526,
+          "topicality": 0.003981352
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.94852537,
+          "topicality": 0.003918822
+        },
+        {
+          "mid": "/m/03154",
+          "description": "Fungus",
+          "score": 0.7472142,
+          "topicality": 0.12553596
+        },
+        {
+          "mid": "/m/01q0j8",
+          "description": "Mixture",
+          "score": 0.6269942,
+          "topicality": 0.004739487
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5397111,
+          "topicality": 0.082610555
+        },
+        {
+          "mid": "/m/0h90w5d",
+          "description": "Art Paint",
+          "score": 0.530283,
+          "topicality": 7.39272e-05
+        }
+      ]
+    }
+  ]
+}

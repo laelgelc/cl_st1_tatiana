@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9563973,
+          "topicality": 0.16226125
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9070235,
+          "topicality": 0.0035088928
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.9010568,
+          "topicality": 0.00031308617
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8369096,
+          "topicality": 0.13211265
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.80862266,
+          "topicality": 0.0116422605
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.51190746,
+          "topicality": 0.004595274
+        }
+      ]
+    }
+  ]
+}

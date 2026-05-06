@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9707718,
+          "topicality": 0.03113499
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9673617,
+          "topicality": 0.007348366
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.91778183,
+          "topicality": 0.008738175
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.89639986,
+          "topicality": 0.011228362
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8951728,
+          "topicality": 0.0137753775
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.83276784,
+          "topicality": 0.0007434324
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.81667966,
+          "topicality": 0.006221393
+        },
+        {
+          "mid": "/m/02m1vq",
+          "description": "Personal grooming",
+          "score": 0.6362122,
+          "topicality": 0.0011252853
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.5825164,
+          "topicality": 0.0065521654
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.57341594,
+          "topicality": 0.022901444
+        },
+        {
+          "mid": "/m/09zzb8",
+          "description": "Make-up artist",
+          "score": 0.52054137,
+          "topicality": 0.006513713
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.51493824,
+          "topicality": 0.080338664
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5140668,
+          "topicality": 0.021336844
+        }
+      ]
+    }
+  ]
+}

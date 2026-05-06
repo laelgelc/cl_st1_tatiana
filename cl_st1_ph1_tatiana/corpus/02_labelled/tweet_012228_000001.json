@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.87518644,
+          "topicality": 0.028904667
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8378711,
+          "topicality": 0.095449455
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7412886,
+          "topicality": 0.06594466
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.699276,
+          "topicality": 0.025011195
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.5569871,
+          "topicality": 0.08182154
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.5556259,
+          "topicality": 8.070162e-05
+        }
+      ]
+    }
+  ]
+}

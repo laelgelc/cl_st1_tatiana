@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.93630964,
+          "topicality": 0.007501225
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.87466776,
+          "topicality": 0.002675319
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7649739,
+          "topicality": 0.0094812885
+        },
+        {
+          "mid": "/m/077p0h",
+          "description": "Sleeveless shirt",
+          "score": 0.6148361,
+          "topicality": 0.00014444088
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.594098,
+          "topicality": 0.00035509886
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.5255483,
+          "topicality": 0.0047132233
+        }
+      ]
+    }
+  ]
+}

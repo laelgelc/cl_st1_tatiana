@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.9809046,
+          "topicality": 0.37513927
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.97229046,
+          "topicality": 0.03966624
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.969923,
+          "topicality": 0.21752508
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9263663,
+          "topicality": 0.12275687
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.900689,
+          "topicality": 0.013173828
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8391327,
+          "topicality": 0.0055379467
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.73829234,
+          "topicality": 0.0014962164
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.6483996,
+          "topicality": 0.0012920232
+        },
+        {
+          "mid": "/m/02m1vq",
+          "description": "Personal grooming",
+          "score": 0.5652884,
+          "topicality": 0.0037822637
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5463967,
+          "topicality": 0.039282866
+        },
+        {
+          "mid": "/m/0h8nm6p",
+          "description": "Nail Care",
+          "score": 0.5377501,
+          "topicality": 0.0052470006
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.5151027,
+          "topicality": 0.005750693
+        },
+        {
+          "mid": "/m/0dzb2",
+          "description": "Vein",
+          "score": 0.5118709,
+          "topicality": 0.13224563
+        }
+      ]
+    }
+  ]
+}

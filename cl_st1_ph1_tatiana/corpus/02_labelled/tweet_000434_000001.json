@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.89042395,
+          "topicality": 0.00017439375
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.85456485,
+          "topicality": 0.002842717
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.83077776,
+          "topicality": 0.0030976771
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.8072142,
+          "topicality": 0.23147634
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7790369,
+          "topicality": 0.0047696414
+        },
+        {
+          "mid": "/m/0fq22vb",
+          "description": "Exhibition",
+          "score": 0.6339275,
+          "topicality": 0.000805741
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.6251253,
+          "topicality": 0.0009405015
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.59130204,
+          "topicality": 3.5671048e-06
+        },
+        {
+          "mid": "/m/07k55_3",
+          "description": "Hand luggage",
+          "score": 0.59090614,
+          "topicality": 9.389916e-06
+        },
+        {
+          "mid": "/m/08z8jn",
+          "description": "Check-in",
+          "score": 0.55765694,
+          "topicality": 0.6642396
+        },
+        {
+          "mid": "/m/026smn",
+          "description": "Airport terminal",
+          "score": 0.517894,
+          "topicality": 0.6926737
+        }
+      ]
+    }
+  ]
+}

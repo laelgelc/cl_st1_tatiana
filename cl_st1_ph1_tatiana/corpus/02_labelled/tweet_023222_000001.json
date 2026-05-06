@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "Clothing",
+          "score": 0.9938462,
+          "topicality": 0.103140354
+        },
+        {
+          "mid": "/m/06rrc",
+          "description": "Shoe",
+          "score": 0.96509874,
+          "topicality": 0.0103187235
+        },
+        {
+          "mid": "/m/07mhn",
+          "description": "Trousers",
+          "score": 0.9608043,
+          "topicality": 0.021194091
+        },
+        {
+          "mid": "/m/035r7c",
+          "description": "Leg",
+          "score": 0.9568146,
+          "topicality": 0.0028749502
+        },
+        {
+          "mid": "/m/09kjlm",
+          "description": "Sneakers",
+          "score": 0.7969399,
+          "topicality": 0.0017024819
+        },
+        {
+          "mid": "/m/011_dp",
+          "description": "Membranophone",
+          "score": 0.7139448,
+          "topicality": 0.0030759745
+        },
+        {
+          "mid": "/m/0l14md",
+          "description": "Percussion",
+          "score": 0.5991184,
+          "topicality": 0.0056697275
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.56755817,
+          "topicality": 0.0015658641
+        },
+        {
+          "mid": "/m/0fqt361",
+          "description": "Stool",
+          "score": 0.566619,
+          "topicality": 0.0014229901
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.5655807,
+          "topicality": 0.00092442695
+        }
+      ]
+    }
+  ]
+}

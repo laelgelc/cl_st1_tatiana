@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.70365566,
+          "topicality": 0.42740956
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.6964805,
+          "topicality": 0.0007354808
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.593272,
+          "topicality": 0.0035684651
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5910604,
+          "topicality": 0.026132563
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.58754826,
+          "topicality": 0.0014259238
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.53596056,
+          "topicality": 0.25018126
+        }
+      ]
+    }
+  ]
+}

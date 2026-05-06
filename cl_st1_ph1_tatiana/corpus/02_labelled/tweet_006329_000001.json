@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.84521925,
+          "topicality": 9.5169846e-05
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6981747,
+          "topicality": 0.007836263
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.68586683,
+          "topicality": 0.0068953014
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.671445,
+          "topicality": 3.4326193e-05
+        }
+      ]
+    }
+  ]
+}

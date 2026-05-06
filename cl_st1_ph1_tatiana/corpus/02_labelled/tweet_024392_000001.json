@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.90912867,
+          "topicality": 0.026456248
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.88632673,
+          "topicality": 0.03321904
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.81678146,
+          "topicality": 0.059164908
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.7702255,
+          "topicality": 0.732095
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.76023054,
+          "topicality": 0.007092775
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.69444215,
+          "topicality": 0.05836219
+        },
+        {
+          "mid": "/m/058sv",
+          "description": "Magazine",
+          "score": 0.6618546,
+          "topicality": 0.4683977
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.56684643,
+          "topicality": 0.0040449165
+        }
+      ]
+    }
+  ]
+}

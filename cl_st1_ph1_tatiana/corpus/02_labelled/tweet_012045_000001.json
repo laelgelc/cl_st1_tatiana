@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/036k5h",
+          "description": "Grey",
+          "score": 0.8293831,
+          "topicality": 0.003657955
+        },
+        {
+          "mid": "/m/01g0g",
+          "description": "Brick",
+          "score": 0.70464635,
+          "topicality": 0.0082617635
+        },
+        {
+          "mid": "/m/02cr01",
+          "description": "Building material",
+          "score": 0.65874356,
+          "topicality": 0.0015013609
+        },
+        {
+          "mid": "/m/0c1ml",
+          "description": "Slate",
+          "score": 0.5546381,
+          "topicality": 0.043739464
+        },
+        {
+          "mid": "/m/02t2zd",
+          "description": "Cobblestone",
+          "score": 0.5309692,
+          "topicality": 0.002972312
+        },
+        {
+          "mid": "/m/01ft8k",
+          "description": "Shadow",
+          "score": 0.5036165,
+          "topicality": 0.013780963
+        }
+      ]
+    }
+  ]
+}

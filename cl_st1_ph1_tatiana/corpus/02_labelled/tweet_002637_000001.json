@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8549627,
+          "topicality": 0.00084688835
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.84753686,
+          "topicality": 0.00056927465
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8172431,
+          "topicality": 0.00028463762
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7919965,
+          "topicality": 0.0739303
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7424351,
+          "topicality": 0.050934844
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.73424256,
+          "topicality": 0.11904873
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7259102,
+          "topicality": 0.07367273
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.71069473,
+          "topicality": 0.019031517
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.671058,
+          "topicality": 0.00032956965
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.62868726,
+          "topicality": 0.0037653262
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.53839964,
+          "topicality": 0.18585935
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.5344494,
+          "topicality": 0.0027778638
+        }
+      ]
+    }
+  ]
+}

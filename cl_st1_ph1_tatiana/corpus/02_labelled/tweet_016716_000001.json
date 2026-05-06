@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04_tb",
+          "description": "Map",
+          "score": 0.9877348,
+          "topicality": 0.62946296
+        },
+        {
+          "mid": "/m/0crnf",
+          "description": "Atlas",
+          "score": 0.9190285,
+          "topicality": 0.44141373
+        },
+        {
+          "mid": "/m/02j71",
+          "description": "Earth",
+          "score": 0.8037523,
+          "topicality": 0.22163478
+        },
+        {
+          "mid": "/m/01q_cy",
+          "description": "Globe",
+          "score": 0.5223592,
+          "topicality": 0.24477893
+        }
+      ]
+    }
+  ]
+}

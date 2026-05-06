@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02h00q",
+          "description": "Jersey",
+          "score": 0.9096482,
+          "topicality": 0.007422623
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8467929,
+          "topicality": 0.009099541
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.739181,
+          "topicality": 0.00016025871
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.70734775,
+          "topicality": 0.0001779211
+        },
+        {
+          "mid": "/m/01wk9c",
+          "description": "Emblem",
+          "score": 0.61297756,
+          "topicality": 0.0011419681
+        }
+      ]
+    }
+  ]
+}

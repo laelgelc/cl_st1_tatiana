@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.94777143,
+          "topicality": 0.0047949026
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.89440316,
+          "topicality": 0.0109925065
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.8713032,
+          "topicality": 0.006438751
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8571867,
+          "topicality": 0.00025355135
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.63700604,
+          "topicality": 0.0017639813
+        },
+        {
+          "mid": "/m/02fq_6",
+          "description": "Fedora",
+          "score": 0.5989209,
+          "topicality": 0.00014406879
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.54216117,
+          "topicality": 4.2950258e-05
+        }
+      ]
+    }
+  ]
+}

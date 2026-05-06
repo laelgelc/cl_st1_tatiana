@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.75494146,
+          "topicality": 0.0027654993
+        },
+        {
+          "mid": "/m/05f725",
+          "description": "Leaf vegetable",
+          "score": 0.7278243,
+          "topicality": 0.016646406
+        },
+        {
+          "mid": "/m/04ylr2",
+          "description": "Wild cabbage",
+          "score": 0.57951057,
+          "topicality": 0.13107702
+        }
+      ]
+    }
+  ]
+}

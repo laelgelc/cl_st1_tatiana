@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "Clothing",
+          "score": 0.9941375,
+          "topicality": 0.02784254
+        },
+        {
+          "mid": "/m/07mhn",
+          "description": "Trousers",
+          "score": 0.9582668,
+          "topicality": 0.0130627835
+        },
+        {
+          "mid": "/m/04_sv",
+          "description": "Motorcycle",
+          "score": 0.9202434,
+          "topicality": 0.015667848
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9080306,
+          "topicality": 0.012186678
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.87897956,
+          "topicality": 0.0024544718
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.8413643,
+          "topicality": 0.0067453803
+        },
+        {
+          "mid": "/m/01bb9b",
+          "description": "Motorcycle helmet",
+          "score": 0.76203793,
+          "topicality": 0.0008941916
+        },
+        {
+          "mid": "/m/0dmq2",
+          "description": "Scooter",
+          "score": 0.7379995,
+          "topicality": 0.0009805929
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.68068016,
+          "topicality": 0.0030986788
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.60717654,
+          "topicality": 0.02900377
+        },
+        {
+          "mid": "/m/01bqk0",
+          "description": "Bicycle wheel",
+          "score": 0.5675932,
+          "topicality": 0.0011160261
+        },
+        {
+          "mid": "/m/025sn53",
+          "description": "Motorcycling",
+          "score": 0.56527966,
+          "topicality": 0.00031654336
+        }
+      ]
+    }
+  ]
+}

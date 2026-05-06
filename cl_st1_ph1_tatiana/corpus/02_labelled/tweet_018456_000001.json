@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.95888007,
+          "topicality": 0.0050798194
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9077406,
+          "topicality": 0.004903923
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8907123,
+          "topicality": 0.009441951
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8761633,
+          "topicality": 0.33852085
+        },
+        {
+          "mid": "/m/01m3v",
+          "description": "Computer",
+          "score": 0.5647771,
+          "topicality": 0.096982956
+        },
+        {
+          "mid": "/m/0643t",
+          "description": "Personal computer",
+          "score": 0.55141985,
+          "topicality": 0.12122212
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5076468,
+          "topicality": 0.00016007973
+        }
+      ]
+    }
+  ]
+}

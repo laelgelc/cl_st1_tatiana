@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6681758,
+          "topicality": 0.041699413
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.573291,
+          "topicality": 0.00020250521
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5712998,
+          "topicality": 0.0006384095
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5146178,
+          "topicality": 0.008781364
+        }
+      ]
+    }
+  ]
+}

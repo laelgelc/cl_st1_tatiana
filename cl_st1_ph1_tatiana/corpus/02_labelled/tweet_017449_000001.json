@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.90888375,
+          "topicality": 0.0019142677
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.850615,
+          "topicality": 0.001850909
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.84920293,
+          "topicality": 0.00050384126
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7768144,
+          "topicality": 0.004055588
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.74422604,
+          "topicality": 0.0010527461
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.73369193,
+          "topicality": 0.0013963316
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.66002995,
+          "topicality": 0.017413203
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6144592,
+          "topicality": 0.0021977217
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5738144,
+          "topicality": 0.007824049
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.54476887,
+          "topicality": 0.0009030044
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.5117602,
+          "topicality": 0.0017539976
+        }
+      ]
+    }
+  ]
+}

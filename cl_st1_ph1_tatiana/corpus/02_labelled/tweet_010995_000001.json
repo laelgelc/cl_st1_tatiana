@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.88084525,
+          "topicality": 0.0064414414
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.7549354,
+          "topicality": 0.004680845
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.72979563,
+          "topicality": 0.00695457
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.630681,
+          "topicality": 0.0062378766
+        }
+      ]
+    }
+  ]
+}

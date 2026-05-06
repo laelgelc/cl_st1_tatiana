@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6738121,
+          "topicality": 0.00093546236
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.67254746,
+          "topicality": 0.00026215008
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6378499,
+          "topicality": 0.008443477
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5572473,
+          "topicality": 0.00076872774
+        }
+      ]
+    }
+  ]
+}

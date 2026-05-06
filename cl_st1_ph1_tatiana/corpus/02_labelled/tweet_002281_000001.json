@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.91716427,
+          "topicality": 0.1967499
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.8220133,
+          "topicality": 0.061562177
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.80029935,
+          "topicality": 0.103578046
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.67279,
+          "topicality": 0.07256014
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.6671285,
+          "topicality": 0.07078482
+        },
+        {
+          "mid": "/m/01ft8k",
+          "description": "Shadow",
+          "score": 0.6406945,
+          "topicality": 0.031007426
+        },
+        {
+          "mid": "/m/01mqdt",
+          "description": "Traffic sign",
+          "score": 0.50608253,
+          "topicality": 0.021119595
+        }
+      ]
+    }
+  ]
+}

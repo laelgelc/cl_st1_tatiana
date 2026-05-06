@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qsj",
+          "description": "Primate",
+          "score": 0.96417147,
+          "topicality": 0.13414022
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.81483096,
+          "topicality": 0.0009796004
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.802359,
+          "topicality": 0.00031320527
+        },
+        {
+          "mid": "/m/01280g",
+          "description": "Wildlife",
+          "score": 0.6813406,
+          "topicality": 0.0015988896
+        },
+        {
+          "mid": "/m/04hfxj",
+          "description": "Colobines",
+          "score": 0.6252576,
+          "topicality": 0.026896218
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.55259115,
+          "topicality": 0.051767685
+        }
+      ]
+    }
+  ]
+}

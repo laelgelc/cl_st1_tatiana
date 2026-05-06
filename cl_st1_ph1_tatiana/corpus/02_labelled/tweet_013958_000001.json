@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.89907026,
+          "topicality": 0.0027524813
+        },
+        {
+          "mid": "/m/09cjl",
+          "description": "Airport",
+          "score": 0.84928113,
+          "topicality": 0.720299
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.76915836,
+          "topicality": 0.0014167795
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.6632124,
+          "topicality": 0.13891125
+        },
+        {
+          "mid": "/m/08z8jn",
+          "description": "Check-in",
+          "score": 0.605281,
+          "topicality": 0.8143739
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.5918372,
+          "topicality": 0.008363006
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.53642833,
+          "topicality": 5.9038615e-05
+        },
+        {
+          "mid": "/m/02607v9",
+          "description": "Transport hub",
+          "score": 0.53149515,
+          "topicality": 0.0013985862
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.5301159,
+          "topicality": 0.003995222
+        },
+        {
+          "mid": "/m/026smn",
+          "description": "Airport terminal",
+          "score": 0.5281412,
+          "topicality": 0.30630234
+        }
+      ]
+    }
+  ]
+}

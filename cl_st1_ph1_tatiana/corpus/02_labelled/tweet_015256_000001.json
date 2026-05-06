@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.89110184,
+          "topicality": 0.0046409145
+        },
+        {
+          "mid": "/m/03154",
+          "description": "Fungus",
+          "score": 0.79848176,
+          "topicality": 0.18000555
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.59721893,
+          "topicality": 0.119106434
+        },
+        {
+          "mid": "/m/0dkxm",
+          "description": "Mold",
+          "score": 0.5349633,
+          "topicality": 0.5047389
+        }
+      ]
+    }
+  ]
+}

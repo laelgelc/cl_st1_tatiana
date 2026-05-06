@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99436045,
+          "topicality": 0.167879
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9124845,
+          "topicality": 0.1732995
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.7261804,
+          "topicality": 0.0004902371
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.71142715,
+          "topicality": 0.38453677
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.63790107,
+          "topicality": 0.008346361
+        },
+        {
+          "mid": "/m/027qw1p",
+          "description": "Feathered hair",
+          "score": 0.58960867,
+          "topicality": 4.778928e-06
+        },
+        {
+          "mid": "/m/02k88w",
+          "description": "Rebellion",
+          "score": 0.5891501,
+          "topicality": 0.0793031
+        },
+        {
+          "mid": "/m/02h19r",
+          "description": "Scarf",
+          "score": 0.5252305,
+          "topicality": 0.00022606872
+        }
+      ]
+    }
+  ]
+}

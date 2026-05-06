@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9031182,
+          "topicality": 0.00037863216
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.88638794,
+          "topicality": 0.057571817
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.87800723,
+          "topicality": 0.07960647
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8478789,
+          "topicality": 0.3307694
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7970004,
+          "topicality": 0.1348462
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.75655764,
+          "topicality": 0.014824955
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.74891615,
+          "topicality": 0.014590474
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7295631,
+          "topicality": 0.1937139
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.7153865,
+          "topicality": 0.027518539
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.59339005,
+          "topicality": 0.0102192145
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.5922429,
+          "topicality": 0.0028447604
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.576499,
+          "topicality": 0.004806312
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.56046504,
+          "topicality": 0.09802546
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448282,
+          "topicality": 0.001469706
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.7114115,
+          "topicality": 0.15006901
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.5552084,
+          "topicality": 0.0021479202
+        }
+      ]
+    }
+  ]
+}

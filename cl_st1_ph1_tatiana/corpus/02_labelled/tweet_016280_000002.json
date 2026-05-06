@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.8442286,
+          "topicality": 0.04091324
+        },
+        {
+          "mid": "/m/07pltdk",
+          "description": "pole",
+          "score": 0.7950364,
+          "topicality": 0.0015750262
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.79282016,
+          "topicality": 0.0018621911
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5115011,
+          "topicality": 0.007070027
+        }
+      ]
+    }
+  ]
+}

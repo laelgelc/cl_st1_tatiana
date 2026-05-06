@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qpft",
+          "description": "Podium",
+          "score": 0.81926703,
+          "topicality": 0.0025185498
+        },
+        {
+          "mid": "/m/02p4dfn",
+          "description": "Lectern",
+          "score": 0.8149455,
+          "topicality": 0.01440778
+        },
+        {
+          "mid": "/m/0pgkc",
+          "description": "Voting",
+          "score": 0.65843433,
+          "topicality": 0.5841238
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.5623833,
+          "topicality": 0.06945116
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04k94",
+          "description": "Liquid",
+          "score": 0.91682935,
+          "topicality": 0.010700073
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.73866177,
+          "topicality": 0.10332329
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.70807946,
+          "topicality": 0.2941994
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.6700716,
+          "topicality": 0.095158145
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.55491936,
+          "topicality": 0.00042504913
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5473071,
+          "topicality": 0.0007257428
+        },
+        {
+          "mid": "/m/03h_4m",
+          "description": "Cylinder",
+          "score": 0.50940084,
+          "topicality": 0.00034382744
+        }
+      ]
+    }
+  ]
+}

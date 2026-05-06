@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.95617694,
+          "topicality": 0.023677068
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9523116,
+          "topicality": 0.020526426
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9503011,
+          "topicality": 0.01712549
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.87426025,
+          "topicality": 0.045303665
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.8243317,
+          "topicality": 0.016864698
+        },
+        {
+          "mid": "/m/0dm6dl",
+          "description": "Barechestedness",
+          "score": 0.7427472,
+          "topicality": 0.0528026
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6684598,
+          "topicality": 0.07283362
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.63864815,
+          "topicality": 0.012362288
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6090102,
+          "topicality": 0.008427862
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.59838814,
+          "topicality": 0.032722883
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5920581,
+          "topicality": 0.0072144796
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.54769087,
+          "topicality": 0.018264236
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.52177954,
+          "topicality": 0.0014451898
+        }
+      ]
+    }
+  ]
+}

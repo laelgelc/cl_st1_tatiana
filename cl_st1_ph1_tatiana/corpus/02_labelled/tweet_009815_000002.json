@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.82259023,
+          "topicality": 0.023745084
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.76710457,
+          "topicality": 0.0028582509
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.6281721,
+          "topicality": 0.027701126
+        },
+        {
+          "mid": "/m/0p57p",
+          "description": "Recipe",
+          "score": 0.62366635,
+          "topicality": 0.00066642615
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5306132,
+          "topicality": 4.926627e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k0mv",
+          "description": "Road surface",
+          "score": 0.974723,
+          "topicality": 0.011187535
+        },
+        {
+          "mid": "/m/06gfj",
+          "description": "Road",
+          "score": 0.9634339,
+          "topicality": 0.25898495
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9523296,
+          "topicality": 0.24177709
+        },
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.95027125,
+          "topicality": 0.10971798
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.9466464,
+          "topicality": 0.012378786
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.94231045,
+          "topicality": 0.004826399
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9399891,
+          "topicality": 0.12428638
+        },
+        {
+          "mid": "/m/0bm8qyq",
+          "description": "Thoroughfare",
+          "score": 0.91902894,
+          "topicality": 0.013833907
+        },
+        {
+          "mid": "/m/016br2",
+          "description": "Dome",
+          "score": 0.9150574,
+          "topicality": 0.0008673361
+        },
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.9134152,
+          "topicality": 0.012849524
+        },
+        {
+          "mid": "/m/0hr8",
+          "description": "Asphalt",
+          "score": 0.89403695,
+          "topicality": 0.008428838
+        },
+        {
+          "mid": "/m/033j3c",
+          "description": "Lane",
+          "score": 0.8769852,
+          "topicality": 0.07717004
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.8237618,
+          "topicality": 0.017952062
+        },
+        {
+          "mid": "/m/033rq4",
+          "description": "Street light",
+          "score": 0.8124279,
+          "topicality": 0.007387774
+        },
+        {
+          "mid": "/m/056mk",
+          "description": "Metropolis",
+          "score": 0.7974067,
+          "topicality": 0.015079014
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.7791594,
+          "topicality": 0.05447553
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7730859,
+          "topicality": 0.02761051
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.72716933,
+          "topicality": 0.032478735
+        },
+        {
+          "mid": "/m/014xcs",
+          "description": "Pedestrian crossing",
+          "score": 0.72121394,
+          "topicality": 0.09597528
+        },
+        {
+          "mid": "/m/01wkk9",
+          "description": "Town square",
+          "score": 0.64236534,
+          "topicality": 0.006015294
+        },
+        {
+          "mid": "/m/014v7p",
+          "description": "Zebra crossing",
+          "score": 0.63004816,
+          "topicality": 0.04268405
+        },
+        {
+          "mid": "/m/0c85fd",
+          "description": "Dome",
+          "score": 0.6155179,
+          "topicality": 9.848473e-05
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.5397508,
+          "topicality": 0.08240395
+        },
+        {
+          "mid": "/m/01klb9",
+          "description": "Plaza",
+          "score": 0.51010454,
+          "topicality": 0.004686355
+        },
+        {
+          "mid": "/m/04ffvn",
+          "description": "Presidential palace",
+          "score": 0.50172406,
+          "topicality": 0.0035043375
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.89142513,
+          "topicality": 0.00631842
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8442125,
+          "topicality": 0.0041045244
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.81014323,
+          "topicality": 0.00683606
+        },
+        {
+          "mid": "/m/056hv",
+          "description": "Measuring instrument",
+          "score": 0.7958939,
+          "topicality": 0.0037990205
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7908667,
+          "topicality": 0.024948075
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7722961,
+          "topicality": 0.0032652444
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.73967534,
+          "topicality": 0.16681889
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.73059005,
+          "topicality": 0.0023391612
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.658909,
+          "topicality": 0.00038091568
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.58226955,
+          "topicality": 0.018716834
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.54723734,
+          "topicality": 0.004432271
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.50851,
+          "topicality": 0.030507272
+        },
+        {
+          "mid": "/m/0bmz2",
+          "description": "Electrical cable",
+          "score": 0.50444704,
+          "topicality": 7.0983515e-05
+        }
+      ]
+    }
+  ]
+}

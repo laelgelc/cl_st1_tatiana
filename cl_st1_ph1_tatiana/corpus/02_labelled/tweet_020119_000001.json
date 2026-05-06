@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.81777704,
+          "topicality": 0.002130686
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.8057793,
+          "topicality": 0.04262962
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.77296144,
+          "topicality": 0.00078501744
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.72226983,
+          "topicality": 0.0015751963
+        }
+      ]
+    }
+  ]
+}

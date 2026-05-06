@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8557681,
+          "topicality": 0.0025216471
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7911766,
+          "topicality": 0.0023648054
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.665209,
+          "topicality": 0.0010527
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.62377894,
+          "topicality": 0.002538849
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5523358,
+          "topicality": 0.0031594061
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.50125456,
+          "topicality": 0.0033587385
+        }
+      ]
+    }
+  ]
+}

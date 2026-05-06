@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.9447567,
+          "topicality": 0.0012479452
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.90905154,
+          "topicality": 0.06434172
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.88873893,
+          "topicality": 0.035132237
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.88108015,
+          "topicality": 0.0026571096
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8444669,
+          "topicality": 0.0014316174
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.779395,
+          "topicality": 0.0011745531
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.755319,
+          "topicality": 0.0020978448
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.72055835,
+          "topicality": 0.010300358
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.6785598,
+          "topicality": 0.0013440406
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.67370266,
+          "topicality": 0.0058667427
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.59131587,
+          "topicality": 0.0012132729
+        }
+      ]
+    }
+  ]
+}

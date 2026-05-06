@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9547646,
+          "topicality": 0.0050763693
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.86592185,
+          "topicality": 0.009946855
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7441855,
+          "topicality": 0.0043487055
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.645848,
+          "topicality": 0.024010327
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.64486593,
+          "topicality": 0.0010429844
+        }
+      ]
+    }
+  ]
+}

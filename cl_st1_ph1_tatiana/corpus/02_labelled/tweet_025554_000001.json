@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0317s",
+          "description": "Flag of the United States",
+          "score": 0.9498638,
+          "topicality": 0.031066353
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.81265193,
+          "topicality": 0.049850386
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.74534816,
+          "topicality": 0.0021984405
+        },
+        {
+          "mid": "/m/01t_7l",
+          "description": "Flag Day",
+          "score": 0.7030059,
+          "topicality": 0.0015524923
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5502997,
+          "topicality": 0.011838579
+        },
+        {
+          "mid": "/m/016jhc",
+          "description": "Veterans Day",
+          "score": 0.5432659,
+          "topicality": 0.010884317
+        }
+      ]
+    }
+  ]
+}

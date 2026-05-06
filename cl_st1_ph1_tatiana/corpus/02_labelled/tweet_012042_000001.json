@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97798026,
+          "topicality": 0.115423426
+        },
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.9058822,
+          "topicality": 0.009438103
+        },
+        {
+          "mid": "/m/0cxwt",
+          "description": "Fractal art",
+          "score": 0.65554994,
+          "topicality": 0.030493658
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5222063,
+          "topicality": 0.053174302
+        }
+      ]
+    }
+  ]
+}

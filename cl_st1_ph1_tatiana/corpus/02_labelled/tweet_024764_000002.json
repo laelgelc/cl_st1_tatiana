@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9550104,
+          "topicality": 0.09364852
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.84946257,
+          "topicality": 0.13234255
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8243592,
+          "topicality": 0.16213685
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.79545367,
+          "topicality": 0.15211658
+        },
+        {
+          "mid": "/m/06x0q",
+          "description": "Sign language",
+          "score": 0.6985108,
+          "topicality": 0.14052798
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6602903,
+          "topicality": 0.026242744
+        },
+        {
+          "mid": "/m/01zf7q",
+          "description": "V sign",
+          "score": 0.6089231,
+          "topicality": 0.04447324
+        },
+        {
+          "mid": "/m/03g09t",
+          "description": "Clip art",
+          "score": 0.5253695,
+          "topicality": 0.060477108
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9549016,
+          "topicality": 0.004258254
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.93476546,
+          "topicality": 0.0008776033
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.91991097,
+          "topicality": 0.019145815
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.9101577,
+          "topicality": 0.19286178
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.89074945,
+          "topicality": 0.13338105
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.85891044,
+          "topicality": 0.050698224
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.77239716,
+          "topicality": 0.00023029189
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.66983944,
+          "topicality": 0.00050711236
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5684938,
+          "topicality": 0.026593855
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.565504,
+          "topicality": 7.612062e-05
+        },
+        {
+          "mid": "/m/0hk26",
+          "description": "Stimulant",
+          "score": 0.5173508,
+          "topicality": 0.01725951
+        }
+      ]
+    }
+  ]
+}

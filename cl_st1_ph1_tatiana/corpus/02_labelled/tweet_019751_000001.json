@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9580998,
+          "topicality": 0.02424843
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94481313,
+          "topicality": 0.014713488
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8731016,
+          "topicality": 0.068423115
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.54235625,
+          "topicality": 0.00081347924
+        },
+        {
+          "mid": "/m/0919rx",
+          "description": "Line art",
+          "score": 0.5367167,
+          "topicality": 0.004802324
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.52545136,
+          "topicality": 0.00054613367
+        }
+      ]
+    }
+  ]
+}

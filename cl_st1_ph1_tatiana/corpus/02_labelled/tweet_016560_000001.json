@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.89111066,
+          "topicality": 0.01393463
+        },
+        {
+          "mid": "/m/02h9bf",
+          "description": "Hood",
+          "score": 0.8378682,
+          "topicality": 0.03239789
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.55442566,
+          "topicality": 0.058201026
+        },
+        {
+          "mid": "/m/01sdv7",
+          "description": "Vest",
+          "score": 0.5226768,
+          "topicality": 0.024917945
+        }
+      ]
+    }
+  ]
+}

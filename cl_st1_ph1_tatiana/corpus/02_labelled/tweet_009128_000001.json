@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.7737212,
+          "topicality": 0.09713857
+        },
+        {
+          "mid": "/m/03bwq",
+          "description": "Gas mask",
+          "score": 0.67317057,
+          "topicality": 0.0892691
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.6621867,
+          "topicality": 0.16720691
+        },
+        {
+          "mid": "/m/04qwst",
+          "description": "Oxygen mask",
+          "score": 0.5424424,
+          "topicality": 0.0051372387
+        }
+      ]
+    }
+  ]
+}

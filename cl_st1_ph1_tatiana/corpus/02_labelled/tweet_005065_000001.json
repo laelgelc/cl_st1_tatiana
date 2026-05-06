@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.88944477,
+          "topicality": 0.0063532824
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6773648,
+          "topicality": 0.00032290682
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6699874,
+          "topicality": 0.045445383
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5093419,
+          "topicality": 0.048985034
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.50860894,
+          "topicality": 0.020460457
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027x7n",
+          "description": "Physical fitness",
+          "score": 0.8828725,
+          "topicality": 0.130714
+        },
+        {
+          "mid": "/m/04_fs",
+          "description": "Muscle",
+          "score": 0.8433186,
+          "topicality": 0.015890136
+        },
+        {
+          "mid": "/m/019w6h",
+          "description": "Exercise",
+          "score": 0.8344813,
+          "topicality": 0.13365836
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.68353844,
+          "topicality": 0.0034279483
+        },
+        {
+          "mid": "/m/0dm6dl",
+          "description": "Barechestedness",
+          "score": 0.5561338,
+          "topicality": 0.007482964
+        },
+        {
+          "mid": "/m/0bxzbs3",
+          "description": "Professional fitness coach",
+          "score": 0.5500942,
+          "topicality": 0.021759285
+        }
+      ]
+    }
+  ]
+}

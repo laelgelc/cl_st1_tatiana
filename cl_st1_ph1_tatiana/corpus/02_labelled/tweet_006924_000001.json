@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.9205204,
+          "topicality": 0.13464704
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.8694495,
+          "topicality": 0.2572191
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7924313,
+          "topicality": 0.0006367656
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7687359,
+          "topicality": 0.06794094
+        },
+        {
+          "mid": "/m/06fgw",
+          "description": "Robot",
+          "score": 0.6931255,
+          "topicality": 0.11127929
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.674298,
+          "topicality": 0.23104542
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.63071835,
+          "topicality": 0.15084739
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6064231,
+          "topicality": 0.018262155
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.6028662,
+          "topicality": 0.0006030679
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.578004,
+          "topicality": 0.18248253
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5501276,
+          "topicality": 0.017601691
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.519044,
+          "topicality": 0.0032697513
+        }
+      ]
+    }
+  ]
+}

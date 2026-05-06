@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.75232434,
+          "topicality": 0.000715205
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.68921596,
+          "topicality": 0.00086452084
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6321843,
+          "topicality": 0.00808435
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.53317255,
+          "topicality": 0.0013472015
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.50449586,
+          "topicality": 0.0002908657
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5036665,
+          "topicality": 0.054257713
+        }
+      ]
+    }
+  ]
+}

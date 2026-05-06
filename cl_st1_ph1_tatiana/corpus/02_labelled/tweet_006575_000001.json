@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.88850784,
+          "topicality": 0.0195133
+        },
+        {
+          "mid": "/m/03rbf6",
+          "description": "Macro photography",
+          "score": 0.647783,
+          "topicality": 0.022017425
+        },
+        {
+          "mid": "/m/0cnq0",
+          "description": "Pollen",
+          "score": 0.6243956,
+          "topicality": 0.09689818
+        },
+        {
+          "mid": "/m/0cxwt",
+          "description": "Fractal art",
+          "score": 0.5704435,
+          "topicality": 0.0012819101
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5562383,
+          "topicality": 0.05254874
+        }
+      ]
+    }
+  ]
+}

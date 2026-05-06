@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8561477,
+          "topicality": 0.44415364
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7079122,
+          "topicality": 0.0005402357
+        },
+        {
+          "mid": "/m/09spj9",
+          "description": "Layered hair",
+          "score": 0.6949345,
+          "topicality": 1.7393606e-05
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.65319824,
+          "topicality": 0.033779074
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6292637,
+          "topicality": 0.02690518
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.58017313,
+          "topicality": 0.0031180272
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.5748185,
+          "topicality": 0.17499289
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.561259,
+          "topicality": 1.7673492e-05
+        }
+      ]
+    }
+  ]
+}

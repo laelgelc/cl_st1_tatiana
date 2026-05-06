@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bwgjh",
+          "description": "Medical thermometer",
+          "score": 0.80668133,
+          "topicality": 0.2569024
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.68231386,
+          "topicality": 0.012557927
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.633764,
+          "topicality": 0.00096194306
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.61063707,
+          "topicality": 0.012902696
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.59743357,
+          "topicality": 0.00016824619
+        },
+        {
+          "mid": "/m/07gr_",
+          "description": "Temperature",
+          "score": 0.5951974,
+          "topicality": 0.048859917
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.589016,
+          "topicality": 8.615922e-05
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.5684195,
+          "topicality": 0.0027412907
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.51385623,
+          "topicality": 0.002955656
+        }
+      ]
+    }
+  ]
+}

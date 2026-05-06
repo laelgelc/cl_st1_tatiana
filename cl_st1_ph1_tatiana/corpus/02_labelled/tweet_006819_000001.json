@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7676672,
+          "topicality": 0.04933555
+        },
+        {
+          "mid": "/m/03xxq7",
+          "description": "Haze",
+          "score": 0.7268811,
+          "topicality": 0.19137321
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.6905916,
+          "topicality": 0.0143539
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.63317513,
+          "topicality": 0.006169311
+        },
+        {
+          "mid": "/m/02h19r",
+          "description": "Scarf",
+          "score": 0.59055346,
+          "topicality": 0.001148774
+        },
+        {
+          "mid": "/m/01bqwh",
+          "description": "Mist",
+          "score": 0.5675347,
+          "topicality": 0.0018443469
+        }
+      ]
+    }
+  ]
+}

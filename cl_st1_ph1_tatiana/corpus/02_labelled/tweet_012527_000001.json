@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.8759915,
+          "topicality": 0.0004839948
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.78367037,
+          "topicality": 0.012115771
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73130995,
+          "topicality": 0.0049713054
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.66819465,
+          "topicality": 0.004691986
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5951365,
+          "topicality": 0.001821433
+        }
+      ]
+    }
+  ]
+}

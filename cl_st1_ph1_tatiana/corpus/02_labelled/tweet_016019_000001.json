@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9349517,
+          "topicality": 0.007348001
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.86917186,
+          "topicality": 0.004265983
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.86591274,
+          "topicality": 0.24764602
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8597986,
+          "topicality": 0.00017179316
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8454052,
+          "topicality": 0.00068921456
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.80495024,
+          "topicality": 0.0025769959
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7414073,
+          "topicality": 0.0150461905
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.5985303,
+          "topicality": 0.0006111276
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.512721,
+          "topicality": 0.016846081
+        }
+      ]
+    }
+  ]
+}

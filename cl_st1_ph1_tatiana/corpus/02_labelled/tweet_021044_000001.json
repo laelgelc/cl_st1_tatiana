@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94481325,
+          "topicality": 0.00011915952
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.91064006,
+          "topicality": 0.0006202766
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8258345,
+          "topicality": 0.0009056986
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8142381,
+          "topicality": 0.00021327152
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.75990665,
+          "topicality": 0.0004899523
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7360213,
+          "topicality": 0.00075036526
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7337857,
+          "topicality": 0.0001477835
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6923612,
+          "topicality": 0.00059795944
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5139098,
+          "topicality": 0.004491564
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.94126695,
+          "topicality": 0.0002876466
+        },
+        {
+          "mid": "/m/01c34b",
+          "description": "Flooring",
+          "score": 0.9265101,
+          "topicality": 3.278568e-05
+        },
+        {
+          "mid": "/m/019sc6",
+          "description": "Lighting",
+          "score": 0.9203904,
+          "topicality": 0.0017166001
+        },
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.9092539,
+          "topicality": 9.800666e-05
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9059262,
+          "topicality": 0.000771467
+        },
+        {
+          "mid": "/m/09cjl",
+          "description": "Airport",
+          "score": 0.7886938,
+          "topicality": 0.8478269
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.77434283,
+          "topicality": 0.19514215
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7570196,
+          "topicality": 0.0040664705
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.7567163,
+          "topicality": 0.1614582
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.718994,
+          "topicality": 0.00027373628
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.7038054,
+          "topicality": 0.0007762673
+        },
+        {
+          "mid": "/m/027dwg0",
+          "description": "Lobby",
+          "score": 0.69447196,
+          "topicality": 0.0003795763
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.64919627,
+          "topicality": 9.915348e-06
+        },
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.6059565,
+          "topicality": 0.0005595544
+        },
+        {
+          "mid": "/m/026smn",
+          "description": "Airport terminal",
+          "score": 0.6015917,
+          "topicality": 0.62338316
+        },
+        {
+          "mid": "/m/07k55_3",
+          "description": "Hand luggage",
+          "score": 0.5942125,
+          "topicality": 2.063186e-05
+        },
+        {
+          "mid": "/m/06qqb",
+          "description": "Steel",
+          "score": 0.58373106,
+          "topicality": 9.033499e-05
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5504309,
+          "topicality": 0.0009442591
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.5165296,
+          "topicality": 0.00073287677
+        }
+      ]
+    }
+  ]
+}

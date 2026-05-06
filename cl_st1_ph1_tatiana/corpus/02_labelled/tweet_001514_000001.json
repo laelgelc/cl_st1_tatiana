@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.909817,
+          "topicality": 0.0046464833
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8663901,
+          "topicality": 0.08364779
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8026879,
+          "topicality": 0.00042955996
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.78453,
+          "topicality": 0.1700268
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.74319774,
+          "topicality": 0.044918485
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6888496,
+          "topicality": 6.2782965e-05
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.62212896,
+          "topicality": 0.15768383
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6027742,
+          "topicality": 0.046112124
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.59393436,
+          "topicality": 3.538351e-05
+        }
+      ]
+    }
+  ]
+}

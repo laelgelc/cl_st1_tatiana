@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9942794,
+          "topicality": 0.013690495
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.95651376,
+          "topicality": 0.023738073
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.94096905,
+          "topicality": 0.012345887
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.8848891,
+          "topicality": 0.0030149731
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.76638556,
+          "topicality": 0.0024449308
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7372996,
+          "topicality": 0.0015027033
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.6211248,
+          "topicality": 0.0013080266
+        },
+        {
+          "mid": "/m/0hr5k",
+          "description": "Festival",
+          "score": 0.6051382,
+          "topicality": 0.0625836
+        },
+        {
+          "mid": "/m/02xx5y",
+          "description": "Block party",
+          "score": 0.57040894,
+          "topicality": 0.024792302
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.55296665,
+          "topicality": 0.011690467
+        },
+        {
+          "mid": "/m/05_4_",
+          "description": "Party",
+          "score": 0.53565955,
+          "topicality": 0.019713402
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.53384674,
+          "topicality": 0.0016922264
+        }
+      ]
+    }
+  ]
+}

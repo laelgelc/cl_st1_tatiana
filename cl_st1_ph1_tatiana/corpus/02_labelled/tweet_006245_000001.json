@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.98478985,
+          "topicality": 0.019586274
+        },
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.89255357,
+          "topicality": 0.021860559
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.6550202,
+          "topicality": 0.0042167827
+        },
+        {
+          "mid": "/m/01p2q5",
+          "description": "Bandage",
+          "score": 0.55077493,
+          "topicality": 0.08907319
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.54488903,
+          "topicality": 0.00679853
+        }
+      ]
+    }
+  ]
+}

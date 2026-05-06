@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.87635404,
+          "topicality": 0.0042419354
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.707557,
+          "topicality": 0.0005226679
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.70215404,
+          "topicality": 0.0041101165
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.66077924,
+          "topicality": 0.0016657846
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.5735177,
+          "topicality": 0.011931952
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.5418342,
+          "topicality": 0.05894222
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07sn5gn",
+          "description": "geological phenomenon",
+          "score": 0.86715686,
+          "topicality": 0.00032437392
+        },
+        {
+          "mid": "/m/02p0y0y",
+          "description": "Hazard",
+          "score": 0.6059372,
+          "topicality": 0.012787953
+        },
+        {
+          "mid": "/m/098pd",
+          "description": "Landslide",
+          "score": 0.5157865,
+          "topicality": 0.74957955
+        }
+      ]
+    }
+  ]
+}

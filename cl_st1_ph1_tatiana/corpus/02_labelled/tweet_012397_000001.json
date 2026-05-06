@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.73770845,
+          "topicality": 0.0074099
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.73305786,
+          "topicality": 0.001332981
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.62897414,
+          "topicality": 0.01534785
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.62342423,
+          "topicality": 0.15545984
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.60890406,
+          "topicality": 0.098592855
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5618697,
+          "topicality": 0.0013374551
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.55609065,
+          "topicality": 0.0057732896
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5260442,
+          "topicality": 0.008438828
+        }
+      ]
+    }
+  ]
+}

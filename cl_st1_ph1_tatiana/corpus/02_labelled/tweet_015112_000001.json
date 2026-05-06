@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9885089,
+          "topicality": 0.021446323
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9713758,
+          "topicality": 0.0016380062
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8245979,
+          "topicality": 0.0037147824
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.72863674,
+          "topicality": 0.09089151
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.64881563,
+          "topicality": 0.016909089
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.63218075,
+          "topicality": 0.003590297
+        },
+        {
+          "mid": "/m/0jyt6",
+          "description": "Masque",
+          "score": 0.5612475,
+          "topicality": 0.0018702328
+        }
+      ]
+    }
+  ]
+}

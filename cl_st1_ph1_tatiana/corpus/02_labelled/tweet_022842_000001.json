@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04k94",
+          "description": "Liquid",
+          "score": 0.9177029,
+          "topicality": 0.0331761
+        },
+        {
+          "mid": "/m/03vtbc",
+          "description": "Silver",
+          "score": 0.71917,
+          "topicality": 0.0033104648
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.53655505,
+          "topicality": 0.00585406
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.53389233,
+          "topicality": 0.0025656824
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5190542,
+          "topicality": 0.028691325
+        }
+      ]
+    }
+  ]
+}

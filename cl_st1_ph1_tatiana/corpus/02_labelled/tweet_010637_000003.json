@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kyr8",
+          "description": "Darkness",
+          "score": 0.8345758,
+          "topicality": 0.0019912159
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.7772191,
+          "topicality": 0.010987872
+        },
+        {
+          "mid": "/m/03vtj",
+          "description": "Ice",
+          "score": 0.5461488,
+          "topicality": 0.01907037
+        },
+        {
+          "mid": "/m/01r8w",
+          "description": "Cave",
+          "score": 0.5146272,
+          "topicality": 0.45198783
+        },
+        {
+          "mid": "/m/02n1k",
+          "description": "Erosion",
+          "score": 0.5060185,
+          "topicality": 0.0005308352
+        }
+      ]
+    }
+  ]
+}

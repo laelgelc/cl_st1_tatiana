@@ -1,0 +1,43 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032tl",
+          "description": "Fashion",
+          "score": 0.9534083
+        },
+        {
+          "mid": "/m/02pd__z",
+          "description": "Long hair",
+          "score": 0.7640564,
+          "topicality": 0.0133311665
+        },
+        {
+          "mid": "/m/02hqr87",
+          "description": "Fashion Model",
+          "score": 0.75530094,
+          "topicality": 0.044613715
+        },
+        {
+          "mid": "/m/0d1pc",
+          "description": "Model",
+          "score": 0.7421496,
+          "topicality": 0.064300805
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.719218,
+          "topicality": 0.013380265
+        },
+        {
+          "mid": "/m/02qbl1m",
+          "description": "Photo shoot",
+          "score": 0.65741056,
+          "topicality": 0.027289452
+        }
+      ]
+    }
+  ]
+}

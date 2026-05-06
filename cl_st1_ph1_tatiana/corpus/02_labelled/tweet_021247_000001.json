@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9498283,
+          "topicality": 0.011524084
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9071978,
+          "topicality": 0.0021712391
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8838267,
+          "topicality": 0.16528222
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.84797424,
+          "topicality": 0.0014384394
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7423932,
+          "topicality": 0.007154832
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7048325,
+          "topicality": 0.0019220902
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.68560505,
+          "topicality": 0.09583283
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.67727065,
+          "topicality": 0.0064515406
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.63653797,
+          "topicality": 0.49718246
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.6255906,
+          "topicality": 0.0007081677
+        },
+        {
+          "mid": "/m/02_784",
+          "description": "Display advertising",
+          "score": 0.6177217,
+          "topicality": 0.004825243
+        },
+        {
+          "mid": "/m/05b1rx",
+          "description": "Online advertising",
+          "score": 0.5177514,
+          "topicality": 0.017676825
+        }
+      ]
+    }
+  ]
+}

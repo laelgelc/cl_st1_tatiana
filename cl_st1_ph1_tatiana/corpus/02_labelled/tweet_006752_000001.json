@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.9847862,
+          "topicality": 0.03609795
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.90915465,
+          "topicality": 0.0048745847
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.7360838,
+          "topicality": 0.013591627
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.525711,
+          "topicality": 0.31193686
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.50049794,
+          "topicality": 3.092361e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07bsy",
+          "description": "Transport",
+          "score": 0.974596,
+          "topicality": 0.10680304
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.949315,
+          "topicality": 0.27473465
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.94437516,
+          "topicality": 0.6022982
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.93171066,
+          "topicality": 0.36438796
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.8660588,
+          "topicality": 0.00015808942
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.81193346,
+          "topicality": 0.07880267
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7437264,
+          "topicality": 0.036874235
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.5774969,
+          "topicality": 0.026789472
+        }
+      ]
+    }
+  ]
+}

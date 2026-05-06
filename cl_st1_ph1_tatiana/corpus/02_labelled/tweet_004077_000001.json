@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9361695,
+          "topicality": 0.10206562
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9113979,
+          "topicality": 0.027918566
+        },
+        {
+          "mid": "/m/0bm8qyq",
+          "description": "Thoroughfare",
+          "score": 0.8538459,
+          "topicality": 0.001346791
+        },
+        {
+          "mid": "/m/014mpm",
+          "description": "Intersection",
+          "score": 0.8197267,
+          "topicality": 0.0046819644
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.8000888,
+          "topicality": 0.0013144453
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.72597975,
+          "topicality": 0.05405087
+        },
+        {
+          "mid": "/m/0cz_0",
+          "description": "Highway",
+          "score": 0.71034074,
+          "topicality": 0.0014859685
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.69632596,
+          "topicality": 0.007922486
+        },
+        {
+          "mid": "/m/08863x",
+          "description": "Bird's-eye view",
+          "score": 0.63724244,
+          "topicality": 0.00017972833
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.5930904,
+          "topicality": 0.00086122466
+        }
+      ]
+    }
+  ]
+}

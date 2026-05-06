@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9026247,
+          "topicality": 0.0012219108
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8573873,
+          "topicality": 0.3520197
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.8156332,
+          "topicality": 0.2442607
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.7052496,
+          "topicality": 0.011002682
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7036176,
+          "topicality": 0.0014040415
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.67042345,
+          "topicality": 0.011607103
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.65059,
+          "topicality": 0.037996143
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.60665655,
+          "topicality": 0.02310626
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5705362,
+          "topicality": 0.07019756
+        }
+      ]
+    }
+  ]
+}

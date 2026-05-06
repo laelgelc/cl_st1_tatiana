@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.96039295,
+          "topicality": 0.0025817987
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8980939,
+          "topicality": 0.0007990706
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8524567,
+          "topicality": 0.00022702018
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8372012,
+          "topicality": 0.0019973295
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8319797,
+          "topicality": 0.041637268
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.81471556,
+          "topicality": 0.00085509155
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.721708,
+          "topicality": 3.2351636e-05
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.6045317,
+          "topicality": 0.1566696
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5636864,
+          "topicality": 0.08785558
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5385712,
+          "topicality": 0.012028721
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5361327,
+          "topicality": 0.023199286
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5135252,
+          "topicality": 0.1109282
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.50080985,
+          "topicality": 0.090687856
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9145904,
+          "topicality": 0.0055180616
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8647494,
+          "topicality": 0.00042639594
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7984417,
+          "topicality": 0.09598425
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.77426356,
+          "topicality": 0.026041346
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.74160177,
+          "topicality": 0.05147338
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7048543,
+          "topicality": 0.018161383
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6909326,
+          "topicality": 0.14041172
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.68568873,
+          "topicality": 0.0345197
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.67244256,
+          "topicality": 0.06840351
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5870102,
+          "topicality": 0.018449292
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011yvr",
+          "description": "Plantation",
+          "score": 0.81479335,
+          "topicality": 0.41848314
+        },
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.7866281,
+          "topicality": 0.043912195
+        },
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.598421,
+          "topicality": 0.0037847604
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.5261765,
+          "topicality": 0.0602847
+        }
+      ]
+    }
+  ]
+}

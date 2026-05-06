@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8018677,
+          "topicality": 0.0008532415
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.7649229,
+          "topicality": 0.0022020466
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.66972667,
+          "topicality": 0.029346276
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.63035613,
+          "topicality": 0.0011298502
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.542616,
+          "topicality": 0.0072418717
+        }
+      ]
+    }
+  ]
+}

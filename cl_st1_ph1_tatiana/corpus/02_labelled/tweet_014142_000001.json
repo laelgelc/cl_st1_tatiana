@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/068jd",
+          "description": "Photograph",
+          "score": 0.9880409,
+          "topicality": 0.00067306816
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.9264064,
+          "topicality": 0.006078119
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.86221385,
+          "topicality": 0.003888684
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.80103636,
+          "topicality": 0.00038073907
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.762279,
+          "topicality": 0.14774281
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.7385553,
+          "topicality": 0.020437807
+        },
+        {
+          "mid": "/m/0bt_c3",
+          "description": "Book",
+          "score": 0.5372536,
+          "topicality": 0.41070235
+        }
+      ]
+    }
+  ]
+}

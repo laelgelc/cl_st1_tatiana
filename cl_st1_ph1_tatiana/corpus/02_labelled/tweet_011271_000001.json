@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8940492,
+          "topicality": 0.7220994
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.889572,
+          "topicality": 0.0047079725
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8782976,
+          "topicality": 0.0029462434
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.86147314,
+          "topicality": 0.0186728
+        },
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.8405189,
+          "topicality": 0.00010808616
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8128836,
+          "topicality": 0.071884595
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.72916836,
+          "topicality": 0.005894233
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6969677,
+          "topicality": 0.28179696
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.6307083,
+          "topicality": 0.022124967
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5141753,
+          "topicality": 0.023264842
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.51312053,
+          "topicality": 0.00914456
+        }
+      ]
+    }
+  ]
+}

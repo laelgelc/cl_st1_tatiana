@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9515304,
+          "topicality": 0.023462504
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9019179,
+          "topicality": 0.00028224385
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.88826317,
+          "topicality": 0.0006007265
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8597155,
+          "topicality": 0.025129477
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.56082344,
+          "topicality": 0.0010197544
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5539965,
+          "topicality": 0.00088807486
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5513295,
+          "topicality": 0.00029647307
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.51226526,
+          "topicality": 0.014598629
+        }
+      ]
+    }
+  ]
+}

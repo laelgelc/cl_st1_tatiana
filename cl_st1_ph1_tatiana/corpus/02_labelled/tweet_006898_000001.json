@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.6023727,
+          "topicality": 0.096432455
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.53764194,
+          "topicality": 0.035434444
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5324759,
+          "topicality": 0.10829841
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53116274,
+          "topicality": 0.04806934
+        }
+      ]
+    }
+  ]
+}

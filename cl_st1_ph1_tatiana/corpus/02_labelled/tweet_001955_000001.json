@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.88624126,
+          "topicality": 0.0007416824
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.63346845,
+          "topicality": 0.017112548
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.62480104,
+          "topicality": 0.02696595
+        },
+        {
+          "mid": "/m/01t2ln",
+          "description": "Police officer",
+          "score": 0.6066683,
+          "topicality": 0.03645978
+        }
+      ]
+    }
+  ]
+}

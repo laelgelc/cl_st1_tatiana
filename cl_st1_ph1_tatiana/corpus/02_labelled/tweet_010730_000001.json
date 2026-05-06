@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/022ch",
+          "description": "Cross",
+          "score": 0.8812828,
+          "topicality": 0.12924267
+        },
+        {
+          "mid": "/m/0h8p5l_",
+          "description": "Religious Item",
+          "score": 0.7032391,
+          "topicality": 1.5284786e-05
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.67938775,
+          "topicality": 0.0029150492
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.66621315,
+          "topicality": 0.022013888
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.5270448,
+          "topicality": 0.001651108
+        }
+      ]
+    }
+  ]
+}

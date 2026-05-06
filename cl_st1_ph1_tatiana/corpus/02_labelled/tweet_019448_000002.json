@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6863824,
+          "topicality": 0.009950674
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6409194,
+          "topicality": 0.021401446
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5699039,
+          "topicality": 0.0041147196
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.549616,
+          "topicality": 0.0063496423
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.84924203,
+          "topicality": 0.017266922
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.71289694,
+          "topicality": 0.012769637
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.6050424,
+          "topicality": 0.0027561642
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.79791564,
+          "topicality": 0.000947889
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7228936,
+          "topicality": 0.010985676
+        },
+        {
+          "mid": "/m/0h8ntf7",
+          "description": "Household Cleaning Supply",
+          "score": 0.549272,
+          "topicality": 0.0015567704
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.52572113,
+          "topicality": 0.00025415255
+        }
+      ]
+    }
+  ]
+}

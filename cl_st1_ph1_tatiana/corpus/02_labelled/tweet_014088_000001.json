@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.826613,
+          "topicality": 0.00087090407
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.6871423,
+          "topicality": 0.0035044358
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.6466652,
+          "topicality": 0.020979298
+        },
+        {
+          "mid": "/m/0h8ll0s",
+          "description": "Outdoor Table",
+          "score": 0.588793,
+          "topicality": 7.947472e-05
+        },
+        {
+          "mid": "/m/02rlncx",
+          "description": "Plastic bottle",
+          "score": 0.52409834,
+          "topicality": 0.0010002404
+        }
+      ]
+    }
+  ]
+}

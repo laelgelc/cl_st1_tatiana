@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447351,
+          "topicality": 2.295041e-05
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.92150843,
+          "topicality": 9.549238e-05
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.9209789,
+          "topicality": 0.009726413
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.91372603,
+          "topicality": 0.017749539
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9087613,
+          "topicality": 0.00038714678
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.890292,
+          "topicality": 0.00772602
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.8732053,
+          "topicality": 0.0015134657
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8228417,
+          "topicality": 0.00016496347
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7911939,
+          "topicality": 0.006095248
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7593895,
+          "topicality": 0.0011004186
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7315505,
+          "topicality": 0.0012514031
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.65179837,
+          "topicality": 0.019012399
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.63275385,
+          "topicality": 0.00096301554
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.62895167,
+          "topicality": 0.007483964
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.6002582,
+          "topicality": 0.010340202
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.59429663,
+          "topicality": 0.0029614696
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.53802234,
+          "topicality": 0.00063600444
+        }
+      ]
+    }
+  ]
+}

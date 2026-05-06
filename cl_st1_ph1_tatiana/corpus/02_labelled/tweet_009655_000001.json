@@ -1,0 +1,37 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.8012302,
+          "topicality": 0.015035311
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.6702751,
+          "topicality": 0.012216599
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6518355,
+          "topicality": 0.0031075513
+        },
+        {
+          "mid": "/m/01fnck",
+          "description": "Waste",
+          "score": 0.56708217
+        },
+        {
+          "mid": "/m/0h36z",
+          "description": "Cemetery",
+          "score": 0.50701976,
+          "topicality": 0.13264325
+        }
+      ]
+    }
+  ]
+}

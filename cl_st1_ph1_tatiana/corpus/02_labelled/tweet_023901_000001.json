@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01w5c_",
+          "description": "Aerial photography",
+          "score": 0.94391525,
+          "topicality": 0.03584821
+        },
+        {
+          "mid": "/m/08863x",
+          "description": "Bird's-eye view",
+          "score": 0.9413576,
+          "topicality": 0.021900801
+        },
+        {
+          "mid": "/m/025s3q0",
+          "description": "Landscape",
+          "score": 0.93655825,
+          "topicality": 0.001779264
+        },
+        {
+          "mid": "/m/0brn2d",
+          "description": "Field",
+          "score": 0.85803115,
+          "topicality": 0.014403163
+        },
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.76765966,
+          "topicality": 0.025751123
+        },
+        {
+          "mid": "/m/011yvr",
+          "description": "Plantation",
+          "score": 0.6956465,
+          "topicality": 0.050943203
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.6179353,
+          "topicality": 0.041709803
+        }
+      ]
+    }
+  ]
+}

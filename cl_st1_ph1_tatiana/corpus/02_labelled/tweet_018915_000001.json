@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.77855504,
+          "topicality": 0.012378524
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7125475,
+          "topicality": 0.0059377947
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.54278815,
+          "topicality": 0.042968813
+        },
+        {
+          "mid": "/m/0191f8",
+          "description": "Learning",
+          "score": 0.5363971,
+          "topicality": 0.0031559917
+        },
+        {
+          "mid": "/m/06q83",
+          "description": "Software engineering",
+          "score": 0.5260767,
+          "topicality": 0.0060448693
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.5109312,
+          "topicality": 7.1218106e-05
+        }
+      ]
+    }
+  ]
+}

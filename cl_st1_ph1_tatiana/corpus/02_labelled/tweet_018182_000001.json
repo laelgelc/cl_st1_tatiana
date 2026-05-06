@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05f725",
+          "description": "Leaf vegetable",
+          "score": 0.7694572,
+          "topicality": 0.016018376
+        },
+        {
+          "mid": "/m/04ylr2",
+          "description": "Wild cabbage",
+          "score": 0.6174448,
+          "topicality": 0.11203091
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.5877221,
+          "topicality": 0.01194974
+        },
+        {
+          "mid": "/m/0bn7bg",
+          "description": "Cruciferous vegetables",
+          "score": 0.5555482,
+          "topicality": 0.0012061414
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.5110492,
+          "topicality": 0.0015610462
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7581119,
+          "topicality": 0.0014935845
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.7555828,
+          "topicality": 0.43716773
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.67630273,
+          "topicality": 0.0054478915
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.6501855,
+          "topicality": 0.078011565
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.62872124,
+          "topicality": 0.006088749
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.60819304,
+          "topicality": 0.13334131
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.58903074,
+          "topicality": 0.0013400897
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5090973,
+          "topicality": 0.0014126948
+        }
+      ]
+    }
+  ]
+}

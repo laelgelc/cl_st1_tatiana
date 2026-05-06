@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.5473206,
+          "topicality": 0.004082213
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52952856,
+          "topicality": 0.03169887
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.504196,
+          "topicality": 0.00025776715
+        }
+      ]
+    }
+  ]
+}

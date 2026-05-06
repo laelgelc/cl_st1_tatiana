@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.93974113,
+          "topicality": 0.029335864
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.91115093,
+          "topicality": 0.042956658
+        },
+        {
+          "mid": "/m/0crjs",
+          "description": "Convenience store",
+          "score": 0.8812289,
+          "topicality": 0.06208682
+        },
+        {
+          "mid": "/m/0gjbg72",
+          "description": "Shelf",
+          "score": 0.74752516,
+          "topicality": 0.0006775769
+        },
+        {
+          "mid": "/m/0h8n982",
+          "description": "Shelving",
+          "score": 0.7253498,
+          "topicality": 7.564404e-05
+        },
+        {
+          "mid": "/m/0dnkv",
+          "description": "Supermarket",
+          "score": 0.7070019,
+          "topicality": 0.07409676
+        },
+        {
+          "mid": "/m/06ts_6",
+          "description": "Shopkeeper",
+          "score": 0.64316124,
+          "topicality": 0.043059904
+        },
+        {
+          "mid": "/m/0hhdb",
+          "description": "Shopping",
+          "score": 0.6300511,
+          "topicality": 0.009575983
+        },
+        {
+          "mid": "/m/09y4pm",
+          "description": "Market",
+          "score": 0.6230432,
+          "topicality": 0.004882874
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.6210991,
+          "topicality": 8.807846e-05
+        },
+        {
+          "mid": "/m/01jpn4",
+          "description": "Grocery store",
+          "score": 0.60173994,
+          "topicality": 0.018630307
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.54216033,
+          "topicality": 0.0048644226
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.50319344,
+          "topicality": 0.56409883
+        }
+      ]
+    }
+  ]
+}

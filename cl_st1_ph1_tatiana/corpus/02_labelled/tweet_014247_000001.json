@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8792231,
+          "topicality": 0.514412
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8700349,
+          "topicality": 0.0033836733
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.8574608,
+          "topicality": 0.07596894
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7705965,
+          "topicality": 0.009650737
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.64056355,
+          "topicality": 0.025274139
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6230545,
+          "topicality": 0.0023267572
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.6166345,
+          "topicality": 0.0033368065
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.50331515,
+          "topicality": 0.008600835
+        }
+      ]
+    }
+  ]
+}

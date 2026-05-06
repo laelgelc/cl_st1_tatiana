@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.81257796,
+          "topicality": 0.011659732
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7890988,
+          "topicality": 0.06973354
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6279183,
+          "topicality": 0.03932147
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.50214255,
+          "topicality": 0.03735225
+        }
+      ]
+    }
+  ]
+}

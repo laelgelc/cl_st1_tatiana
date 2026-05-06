@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9381345,
+          "topicality": 0.002246399
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.87090844,
+          "topicality": 0.0004335415
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.83703476,
+          "topicality": 0.0029821477
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8094886,
+          "topicality": 0.001931809
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.80291426,
+          "topicality": 0.00012979686
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.79086804,
+          "topicality": 0.0015120992
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7530052,
+          "topicality": 0.004191381
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.64510155,
+          "topicality": 0.0015673133
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.63966894,
+          "topicality": 0.030174177
+        }
+      ]
+    }
+  ]
+}

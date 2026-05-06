@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9301452,
+          "topicality": 0.0007826201
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.89811325,
+          "topicality": 0.008508658
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.85740304,
+          "topicality": 0.00012809271
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.83159184,
+          "topicality": 0.0030978979
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7216693,
+          "topicality": 0.006775397
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6954825,
+          "topicality": 0.02241601
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.63706213,
+          "topicality": 0.00749239
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.7879883,
+          "topicality": 0.036378823
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.73848104,
+          "topicality": 0.109708056
+        },
+        {
+          "mid": "/m/01f415",
+          "description": "Flame",
+          "score": 0.5752934,
+          "topicality": 0.010224165
+        }
+      ]
+    }
+  ]
+}

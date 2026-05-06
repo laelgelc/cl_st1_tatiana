@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0h8p5l_",
+          "description": "Religious Item",
+          "score": 0.83986026,
+          "topicality": 0.006026312
+        },
+        {
+          "mid": "/m/022hy",
+          "description": "Crucifix",
+          "score": 0.8078021,
+          "topicality": 0.15941866
+        },
+        {
+          "mid": "/m/022ch",
+          "description": "Cross",
+          "score": 0.7132041,
+          "topicality": 0.07995838
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5113716,
+          "topicality": 6.704524e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94484454,
+          "topicality": 0.0012575127
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.77254844,
+          "topicality": 0.0006533723
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.58247215,
+          "topicality": 0.004195361
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5304013,
+          "topicality": 0.042638022
+        }
+      ]
+    }
+  ]
+}

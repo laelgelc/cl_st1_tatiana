@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0270h",
+          "description": "Dessert",
+          "score": 0.86683553,
+          "topicality": 0.054237522
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.7660423,
+          "topicality": 0.09326868
+        },
+        {
+          "mid": "/m/0fszt",
+          "description": "Cake",
+          "score": 0.74677235,
+          "topicality": 0.085353434
+        },
+        {
+          "mid": "/m/02qm2x",
+          "description": "Icing",
+          "score": 0.72326785,
+          "topicality": 0.0060019772
+        },
+        {
+          "mid": "/m/0dv34",
+          "description": "Baking",
+          "score": 0.6731108,
+          "topicality": 0.015596381
+        },
+        {
+          "mid": "/m/0p57p",
+          "description": "Recipe",
+          "score": 0.66826,
+          "topicality": 0.080299556
+        }
+      ]
+    }
+  ]
+}

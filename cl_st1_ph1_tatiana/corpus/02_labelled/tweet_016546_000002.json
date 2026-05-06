@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.96926224,
+          "topicality": 0.004126985
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.96103936,
+          "topicality": 0.03414355
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.87682605,
+          "topicality": 0.03173506
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.85602087,
+          "topicality": 0.010340762
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.7420567,
+          "topicality": 0.0030399037
+        },
+        {
+          "mid": "/m/044_87",
+          "description": "Output device",
+          "score": 0.71727544,
+          "topicality": 0.0020706113
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6574756,
+          "topicality": 0.11281129
+        },
+        {
+          "mid": "/m/01qwsw",
+          "description": "Flat-panel display",
+          "score": 0.64898646,
+          "topicality": 0.012572569
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.6257489,
+          "topicality": 0.02395247
+        },
+        {
+          "mid": "/m/01m3v",
+          "description": "Computer",
+          "score": 0.5446753,
+          "topicality": 0.12527955
+        },
+        {
+          "mid": "/m/02y3rj",
+          "description": "Presentation",
+          "score": 0.5234951,
+          "topicality": 0.11817799
+        }
+      ]
+    }
+  ]
+}

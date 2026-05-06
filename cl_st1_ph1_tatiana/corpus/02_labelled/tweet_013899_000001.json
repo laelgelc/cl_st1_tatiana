@@ -1,0 +1,128 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97372806,
+          "topicality": 0.036878433
+        },
+        {
+          "mid": "/m/0dzf4",
+          "description": "Arm",
+          "score": 0.97178304,
+          "topicality": 0.04538858
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.966539,
+          "topicality": 0.002205422
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9367772,
+          "topicality": 0.0325639
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.9075493,
+          "topicality": 0.07789942
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.87504566,
+          "topicality": 0.000381547
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8499433,
+          "topicality": 0.0024756438
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.78993106,
+          "topicality": 0.0005549501
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7160844,
+          "topicality": 0.14499766
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.71275157,
+          "topicality": 0.00058594276
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6917477,
+          "topicality": 0.08386874
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.68863356,
+          "topicality": 0.020479072
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6333489,
+          "topicality": 0.03733046
+        },
+        {
+          "mid": "/m/01613k",
+          "description": "Holding hands",
+          "score": 0.61047274,
+          "topicality": 0.0006826485
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.6008367,
+          "topicality": 0.009606389
+        },
+        {
+          "mid": "/m/03c1dkx",
+          "description": "Therapy",
+          "score": 0.5934305,
+          "topicality": 0.3255511
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5839703,
+          "topicality": 0.0046070847
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.57503587,
+          "topicality": 0.00046815694
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5205115,
+          "topicality": 0.00026055385
+        },
+        {
+          "mid": "/m/05_h7",
+          "description": "Physical therapy",
+          "score": 0.520402,
+          "topicality": 0.38617846
+        }
+      ]
+    }
+  ]
+}

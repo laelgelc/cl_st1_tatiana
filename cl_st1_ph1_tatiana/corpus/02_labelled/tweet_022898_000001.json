@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94464713,
+          "topicality": 0.00012214475
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.87632895,
+          "topicality": 0.015124633
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.86755973,
+          "topicality": 0.00899382
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.6935274,
+          "topicality": 0.30631128
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6643697,
+          "topicality": 0.005995804
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6602385,
+          "topicality": 0.0019604506
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6482226,
+          "topicality": 0.0014618125
+        }
+      ]
+    }
+  ]
+}

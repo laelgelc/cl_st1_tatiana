@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.8755705,
+          "topicality": 0.51017565
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.84146816,
+          "topicality": 0.24268164
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7962011,
+          "topicality": 0.22194512
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.7889014,
+          "topicality": 0.0022564847
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.76613593,
+          "topicality": 0.0015370294
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7647318,
+          "topicality": 0.0019798335
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7576356,
+          "topicality": 0.016053548
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7008558,
+          "topicality": 0.0002141861
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6736813,
+          "topicality": 0.00065053883
+        },
+        {
+          "mid": "/m/02b389",
+          "description": "Bottle cap",
+          "score": 0.50113815,
+          "topicality": 0.00046317128
+        }
+      ]
+    }
+  ]
+}

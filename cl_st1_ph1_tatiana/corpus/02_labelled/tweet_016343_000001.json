@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.9374823,
+          "topicality": 0.21971501
+        },
+        {
+          "mid": "/m/0522cz4",
+          "description": "Electronic signage",
+          "score": 0.8908765,
+          "topicality": 0.114699565
+        },
+        {
+          "mid": "/m/04gvls_",
+          "description": "LED display",
+          "score": 0.7533653,
+          "topicality": 0.68803567
+        },
+        {
+          "mid": "/m/025s4r0",
+          "description": "Neon",
+          "score": 0.56777817,
+          "topicality": 0.016331123
+        },
+        {
+          "mid": "/m/01qwsw",
+          "description": "Flat-panel display",
+          "score": 0.56033677,
+          "topicality": 0.0036280614
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.502673,
+          "topicality": 0.0061601084
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8951387,
+          "topicality": 0.0063816514
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8113489,
+          "topicality": 0.0014413629
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6870536,
+          "topicality": 0.004404919
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.6355137,
+          "topicality": 0.0024220205
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.54065615,
+          "topicality": 0.06013636
+        }
+      ]
+    }
+  ]
+}

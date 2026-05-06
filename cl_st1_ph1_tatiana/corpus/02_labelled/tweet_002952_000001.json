@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.95136505,
+          "topicality": 0.0031238499
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.94298106,
+          "topicality": 0.44789347
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9254517,
+          "topicality": 0.0013567059
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.90379304,
+          "topicality": 0.04520344
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8277463,
+          "topicality": 0.08251395
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.7545908,
+          "topicality": 0.08038346
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.71833,
+          "topicality": 0.0024717483
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6497977,
+          "topicality": 0.01593193
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.63298297,
+          "topicality": 0.011138778
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6190781,
+          "topicality": 0.09411428
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.61828655,
+          "topicality": 0.06551035
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.58677965,
+          "topicality": 0.00013639408
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5079926,
+          "topicality": 0.2186892
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.50792176,
+          "topicality": 0.012313495
+        }
+      ]
+    }
+  ]
+}

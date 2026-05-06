@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.90524244,
+          "topicality": 0.0009488943
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.8658342,
+          "topicality": 0.049292132
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8617037,
+          "topicality": 0.0043518413
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.8168538,
+          "topicality": 0.0017787245
+        },
+        {
+          "mid": "/m/0h8n982",
+          "description": "Shelving",
+          "score": 0.7392351,
+          "topicality": 0.00014177512
+        },
+        {
+          "mid": "/m/0bt_c3",
+          "description": "Book",
+          "score": 0.635868,
+          "topicality": 0.08517414
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6119087,
+          "topicality": 0.00026360853
+        },
+        {
+          "mid": "/m/03__z0",
+          "description": "Bookcase",
+          "score": 0.5862007,
+          "topicality": 0.00405762
+        },
+        {
+          "mid": "/m/0gjbg72",
+          "description": "Shelf",
+          "score": 0.5478685,
+          "topicality": 0.0008586711
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54075956,
+          "topicality": 0.0017255981
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5345922,
+          "topicality": 0.009172319
+        },
+        {
+          "mid": "/m/09xbm8",
+          "description": "Book cover",
+          "score": 0.5078445,
+          "topicality": 0.0008658696
+        }
+      ]
+    }
+  ]
+}

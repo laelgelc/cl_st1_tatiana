@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.87144893,
+          "topicality": 0.0003013354
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.86833596,
+          "topicality": 0.00048519322
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8163584,
+          "topicality": 0.040384594
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7934471,
+          "topicality": 0.06044555
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.7820657,
+          "topicality": 0.0013385172
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.65517825,
+          "topicality": 0.006108548
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5955366,
+          "topicality": 0.012755968
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5773428,
+          "topicality": 0.022062864
+        },
+        {
+          "mid": "/m/02rlncx",
+          "description": "Plastic bottle",
+          "score": 0.5387951,
+          "topicality": 8.130784e-05
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5280006,
+          "topicality": 0.0003738683
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.52702945,
+          "topicality": 9.502095e-05
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.5087189,
+          "topicality": 0.00044336097
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.50493926,
+          "topicality": 0.024936736
+        }
+      ]
+    }
+  ]
+}

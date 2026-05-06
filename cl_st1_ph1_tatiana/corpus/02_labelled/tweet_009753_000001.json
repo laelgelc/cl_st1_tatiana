@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.6958872,
+          "topicality": 0.04935885
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6822952,
+          "topicality": 0.21587852
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.56554383,
+          "topicality": 0.10882815
+        },
+        {
+          "mid": "/m/01wk9c",
+          "description": "Emblem",
+          "score": 0.5236197,
+          "topicality": 0.00062097574
+        }
+      ]
+    }
+  ]
+}

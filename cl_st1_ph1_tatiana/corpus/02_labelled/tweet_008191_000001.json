@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.87622154,
+          "topicality": 0.099446505
+        },
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.6923255,
+          "topicality": 0.06406856
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6836186,
+          "topicality": 0.33591563
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.66689,
+          "topicality": 0.004149787
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.66454434,
+          "topicality": 0.06988046
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.66336536,
+          "topicality": 0.0090980595
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6607212,
+          "topicality": 0.05318119
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.58498806,
+          "topicality": 0.0069809747
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.55521774,
+          "topicality": 0.00053426024
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52372164,
+          "topicality": 0.010812426
+        }
+      ]
+    }
+  ]
+}

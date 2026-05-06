@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.93314254,
+          "topicality": 0.006558034
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.89192736,
+          "topicality": 0.060771495
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.86601317,
+          "topicality": 0.006517756
+        },
+        {
+          "mid": "/m/0h8nm6p",
+          "description": "Nail Care",
+          "score": 0.7313581,
+          "topicality": 0.00070440414
+        },
+        {
+          "mid": "/m/01f4cc",
+          "description": "Manicure",
+          "score": 0.61802846,
+          "topicality": 0.02128669
+        },
+        {
+          "mid": "/m/04030j",
+          "description": "Nail polish",
+          "score": 0.5527151,
+          "topicality": 0.0021594702
+        }
+      ]
+    }
+  ]
+}

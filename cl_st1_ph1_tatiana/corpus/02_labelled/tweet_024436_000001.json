@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8947683,
+          "topicality": 0.002383585
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8875476,
+          "topicality": 0.020034071
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8861441,
+          "topicality": 0.17161411
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.86343074,
+          "topicality": 0.092196405
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8443097,
+          "topicality": 0.013285271
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.83876,
+          "topicality": 0.07137415
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.78596616,
+          "topicality": 0.0014562819
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.7781594,
+          "topicality": 0.0004217658
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.76188433,
+          "topicality": 0.17368558
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.7477518,
+          "topicality": 0.07980434
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.73921317,
+          "topicality": 0.00079677964
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.69369805,
+          "topicality": 0.013690571
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5968265,
+          "topicality": 0.08040516
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5548823,
+          "topicality": 0.0070655188
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5080917,
+          "topicality": 0.004475109
+        }
+      ]
+    }
+  ]
+}

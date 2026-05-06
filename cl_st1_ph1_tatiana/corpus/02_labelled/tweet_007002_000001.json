@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.87516755,
+          "topicality": 0.0018968008
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.70224357,
+          "topicality": 0.00015380829
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6202891,
+          "topicality": 0.008768876
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5999652,
+          "topicality": 0.0012341393
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5767323,
+          "topicality": 0.007784666
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55180675,
+          "topicality": 0.01729544
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5188618,
+          "topicality": 0.0001848841
+        }
+      ]
+    }
+  ]
+}

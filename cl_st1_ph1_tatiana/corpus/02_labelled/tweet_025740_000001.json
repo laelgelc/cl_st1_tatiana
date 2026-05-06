@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.9885088,
+          "topicality": 0.04122122
+        },
+        {
+          "mid": "/m/02j71",
+          "description": "Earth",
+          "score": 0.72108644,
+          "topicality": 0.7195654
+        },
+        {
+          "mid": "/m/01q_cy",
+          "description": "Globe",
+          "score": 0.61273456,
+          "topicality": 0.20616394
+        },
+        {
+          "mid": "/m/05qc_",
+          "description": "Planet",
+          "score": 0.5926486,
+          "topicality": 0.21912016
+        }
+      ]
+    }
+  ]
+}

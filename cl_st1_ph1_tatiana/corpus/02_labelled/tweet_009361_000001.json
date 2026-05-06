@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.944658,
+          "topicality": 0.000790857
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.53340596,
+          "topicality": 0.00016983366
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52282864,
+          "topicality": 0.0031791916
+        }
+      ]
+    }
+  ]
+}

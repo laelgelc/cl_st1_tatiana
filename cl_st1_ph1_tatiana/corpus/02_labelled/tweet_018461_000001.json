@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8225828,
+          "topicality": 0.034990285
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.74671733,
+          "topicality": 0.004486906
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.7037554,
+          "topicality": 0.009297372
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.5763292,
+          "topicality": 0.0029734934
+        }
+      ]
+    }
+  ]
+}

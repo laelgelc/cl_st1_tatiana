@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bt9lr",
+          "description": "Dog",
+          "score": 0.9876335,
+          "topicality": 0.53866464
+        },
+        {
+          "mid": "/m/01lrl",
+          "description": "Carnivores",
+          "score": 0.9163907,
+          "topicality": 0.0017426206
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.863237,
+          "topicality": 0.017232364
+        },
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.73637235,
+          "topicality": 0.0005956943
+        },
+        {
+          "mid": "/m/01z5f",
+          "description": "Canidae",
+          "score": 0.72991216,
+          "topicality": 0.00806565
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6763558,
+          "topicality": 0.0001763939
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6704844,
+          "topicality": 0.0017431166
+        },
+        {
+          "mid": "/m/09141t",
+          "description": "Collar",
+          "score": 0.51229304,
+          "topicality": 0.0022992473
+        }
+      ]
+    }
+  ]
+}

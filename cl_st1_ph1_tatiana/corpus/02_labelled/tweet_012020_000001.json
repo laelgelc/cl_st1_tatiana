@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.8038351,
+          "topicality": 1.3952976e-05
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.7911925,
+          "topicality": 0.002469075
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7875691,
+          "topicality": 0.001262239
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.75075984,
+          "topicality": 0.007020401
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.66150516,
+          "topicality": 0.00041521114
+        }
+      ]
+    }
+  ]
+}

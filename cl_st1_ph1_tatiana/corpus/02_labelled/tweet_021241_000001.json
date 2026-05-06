@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/031n1",
+          "description": "Foot",
+          "score": 0.93962324,
+          "topicality": 0.20424773
+        },
+        {
+          "mid": "/m/01j04m",
+          "description": "Thigh",
+          "score": 0.9342698,
+          "topicality": 0.07174893
+        },
+        {
+          "mid": "/m/01d_ff",
+          "description": "Toe",
+          "score": 0.92901826,
+          "topicality": 0.018950555
+        },
+        {
+          "mid": "/m/0715t2",
+          "description": "Calf",
+          "score": 0.92740834,
+          "topicality": 0.23427619
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.90291697,
+          "topicality": 0.05772386
+        },
+        {
+          "mid": "/m/049lwx",
+          "description": "Barefoot",
+          "score": 0.8986221,
+          "topicality": 0.01711089
+        },
+        {
+          "mid": "/m/01xlvy",
+          "description": "Ankle",
+          "score": 0.86757153,
+          "topicality": 0.026122702
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8327674,
+          "topicality": 0.0030166851
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.62791705,
+          "topicality": 0.0045682318
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9681753,
+          "topicality": 0.015547589
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.9573796,
+          "topicality": 0.054322302
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9171664,
+          "topicality": 0.00036755958
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.9062955,
+          "topicality": 0.0007209237
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.6650374,
+          "topicality": 4.5960223e-05
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.65204424,
+          "topicality": 0.00013559604
+        },
+        {
+          "mid": "/m/02p1fkx",
+          "description": "Text messaging",
+          "score": 0.5274997,
+          "topicality": 0.41775486
+        }
+      ]
+    }
+  ]
+}

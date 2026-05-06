@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01x_v",
+          "description": "Camel",
+          "score": 0.9719298,
+          "topicality": 0.5291628
+        },
+        {
+          "mid": "/m/01v4x4",
+          "description": "Camelids",
+          "score": 0.9539196,
+          "topicality": 0.099544875
+        },
+        {
+          "mid": "/m/01w5q5",
+          "description": "Dromedary",
+          "score": 0.8170317,
+          "topicality": 0.23253138
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.79213494,
+          "topicality": 0.0059492895
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7341973,
+          "topicality": 0.0005235918
+        },
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.65737504,
+          "topicality": 0.0007295653
+        },
+        {
+          "mid": "/m/0464z4",
+          "description": "Pack animal",
+          "score": 0.63334906,
+          "topicality": 0.0013684167
+        }
+      ]
+    }
+  ]
+}

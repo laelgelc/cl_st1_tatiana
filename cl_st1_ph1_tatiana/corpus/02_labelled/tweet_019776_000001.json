@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.9167624,
+          "topicality": 0.0023692776
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.85201347,
+          "topicality": 0.021459661
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.810638,
+          "topicality": 0.0040342463
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.61016285,
+          "topicality": 0.0061582113
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.6046507,
+          "topicality": 0.0115959495
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.5400934,
+          "topicality": 0.0006900388
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.52515125,
+          "topicality": 0.00033018223
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.5030454,
+          "topicality": 0.00023018236
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943512,
+          "topicality": 0.060056306
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9629654,
+          "topicality": 0.22957562
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.9193741,
+          "topicality": 0.00032403585
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8455291,
+          "topicality": 0.005161258
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.8032965,
+          "topicality": 0.00094886636
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.67594504,
+          "topicality": 0.0015985533
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.6105323,
+          "topicality": 1.4684939e-05
+        },
+        {
+          "mid": "/m/027qw1p",
+          "description": "Feathered hair",
+          "score": 0.5855619,
+          "topicality": 5.23597e-06
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.53880155,
+          "topicality": 3.4599172e-05
+        },
+        {
+          "mid": "/m/0hr5k",
+          "description": "Festival",
+          "score": 0.5313901,
+          "topicality": 0.170246
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.510073,
+          "topicality": 0.072416075
+        }
+      ]
+    }
+  ]
+}

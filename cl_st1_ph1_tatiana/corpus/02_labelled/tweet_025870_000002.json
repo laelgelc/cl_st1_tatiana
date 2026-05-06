@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.95373756,
+          "topicality": 0.38422343
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.84097505,
+          "topicality": 0.031463575
+        },
+        {
+          "mid": "/m/01knjb",
+          "description": "Billboard",
+          "score": 0.7538054,
+          "topicality": 0.55175364
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7428569,
+          "topicality": 0.01043562
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.73976666,
+          "topicality": 0.14725022
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.6980122,
+          "topicality": 0.008498189
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.52138215,
+          "topicality": 3.2311338e-05
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5103599,
+          "topicality": 0.015243789
+        }
+      ]
+    }
+  ]
+}

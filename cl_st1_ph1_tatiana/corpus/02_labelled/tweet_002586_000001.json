@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.9154184,
+          "topicality": 0.046761476
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.88176763,
+          "topicality": 0.047734145
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.8166799,
+          "topicality": 0.0015221947
+        },
+        {
+          "mid": "/m/0crjs",
+          "description": "Convenience store",
+          "score": 0.80042213,
+          "topicality": 0.063274086
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7529459,
+          "topicality": 0.0027932362
+        },
+        {
+          "mid": "/m/0gjbg72",
+          "description": "Shelf",
+          "score": 0.7383264,
+          "topicality": 0.0014956075
+        },
+        {
+          "mid": "/m/0h8n982",
+          "description": "Shelving",
+          "score": 0.73353326,
+          "topicality": 0.00024582772
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7156009,
+          "topicality": 0.014038506
+        },
+        {
+          "mid": "/m/0dnkv",
+          "description": "Supermarket",
+          "score": 0.65113896,
+          "topicality": 0.14875586
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6101656,
+          "topicality": 0.001775021
+        },
+        {
+          "mid": "/m/0hhdb",
+          "description": "Shopping",
+          "score": 0.58185565,
+          "topicality": 0.026673116
+        },
+        {
+          "mid": "/m/01jpn4",
+          "description": "Grocery store",
+          "score": 0.5377537,
+          "topicality": 0.04944296
+        }
+      ]
+    }
+  ]
+}

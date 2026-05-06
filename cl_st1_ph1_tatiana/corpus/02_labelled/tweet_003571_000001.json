@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9548611,
+          "topicality": 0.7349508
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.946854,
+          "topicality": 0.0669142
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.9391818,
+          "topicality": 0.0072157127
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9320022,
+          "topicality": 0.3268928
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9316101,
+          "topicality": 0.00325629
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.92873544,
+          "topicality": 0.008240381
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.9074331,
+          "topicality": 0.014630263
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.81185776,
+          "topicality": 0.013524055
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.753695,
+          "topicality": 0.111835204
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.70733,
+          "topicality": 0.032898214
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.69286203,
+          "topicality": 0.04201258
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.6854328,
+          "topicality": 0.053436797
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.5534786,
+          "topicality": 0.15800875
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5229262,
+          "topicality": 0.0012846064
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.50955045,
+          "topicality": 0.010787954
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.5006128,
+          "topicality": 0.00057170336
+        }
+      ]
+    }
+  ]
+}

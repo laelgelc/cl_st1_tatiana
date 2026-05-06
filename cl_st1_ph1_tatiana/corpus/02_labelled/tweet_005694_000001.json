@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.8209818,
+          "topicality": 0.01346453
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.523643,
+          "topicality": 0.006041766
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.519546,
+          "topicality": 0.014446181
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5026002,
+          "topicality": 0.012721407
+        }
+      ]
+    }
+  ]
+}

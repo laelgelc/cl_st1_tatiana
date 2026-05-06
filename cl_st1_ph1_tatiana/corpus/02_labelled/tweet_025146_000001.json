@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8837612,
+          "topicality": 0.0042954558
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7566631,
+          "topicality": 0.0045795017
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.63565916,
+          "topicality": 0.011544992
+        },
+        {
+          "mid": "/m/01c6xf",
+          "description": "Drinking water",
+          "score": 0.6110289,
+          "topicality": 0.0017738756
+        },
+        {
+          "mid": "/m/02267z",
+          "description": "Mineral water",
+          "score": 0.59805834,
+          "topicality": 0.0019700204
+        }
+      ]
+    }
+  ]
+}

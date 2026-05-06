@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9557978,
+          "topicality": 0.005977555
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.89584106,
+          "topicality": 0.00012255272
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.84389627,
+          "topicality": 0.13914666
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7611916,
+          "topicality": 0.013741083
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5787444,
+          "topicality": 0.00044152423
+        },
+        {
+          "mid": "/m/018jrr",
+          "description": "Plan",
+          "score": 0.52555937,
+          "topicality": 0.016855506
+        }
+      ]
+    }
+  ]
+}

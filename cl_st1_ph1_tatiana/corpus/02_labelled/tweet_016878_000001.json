@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.62688756,
+          "topicality": 0.19790867
+        },
+        {
+          "mid": "/m/01y24v",
+          "description": "Green algae",
+          "score": 0.6007654,
+          "topicality": 0.025427049
+        },
+        {
+          "mid": "/m/0hlw",
+          "description": "Algae",
+          "score": 0.59842616,
+          "topicality": 0.102667086
+        },
+        {
+          "mid": "/m/03154",
+          "description": "Fungus",
+          "score": 0.56274456,
+          "topicality": 0.01368656
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51347923,
+          "topicality": 0.05668832
+        }
+      ]
+    }
+  ]
+}

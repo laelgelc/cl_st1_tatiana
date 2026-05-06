@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8567392,
+          "topicality": 0.035312507
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.8118356,
+          "topicality": 0.022318503
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.69499046,
+          "topicality": 0.086899735
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.6922616,
+          "topicality": 0.005449848
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.550651,
+          "topicality": 0.0006736872
+        }
+      ]
+    }
+  ]
+}

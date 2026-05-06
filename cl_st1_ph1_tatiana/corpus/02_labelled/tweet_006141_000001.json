@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07bg4p",
+          "description": "Heart",
+          "score": 0.97783595,
+          "topicality": 0.027678864
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.8765667,
+          "topicality": 0.047833696
+        },
+        {
+          "mid": "/m/018y5m",
+          "description": "Valentine's Day",
+          "score": 0.6236597,
+          "topicality": 0.08662527
+        },
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.6208415,
+          "topicality": 0.015138057
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.51951873,
+          "topicality": 0.033381343
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.73300105,
+          "topicality": 0.018807245
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.58597434,
+          "topicality": 0.0040759947
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5571721,
+          "topicality": 0.12853332
+        },
+        {
+          "mid": "/m/0crtnw",
+          "description": "Executive car",
+          "score": 0.53411114,
+          "topicality": 1.4402461e-05
+        }
+      ]
+    }
+  ]
+}

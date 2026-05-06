@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06rrc",
+          "description": "Shoe",
+          "score": 0.956736,
+          "topicality": 0.0104853725
+        },
+        {
+          "mid": "/m/0hgr6",
+          "description": "Denim",
+          "score": 0.93060577,
+          "topicality": 0.0025663062
+        },
+        {
+          "mid": "/m/0fly7",
+          "description": "Jeans",
+          "score": 0.9214216,
+          "topicality": 0.012210868
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8755618,
+          "topicality": 0.006911565
+        },
+        {
+          "mid": "/m/09kjlm",
+          "description": "Sneakers",
+          "score": 0.8414403,
+          "topicality": 0.0012863567
+        }
+      ]
+    }
+  ]
+}

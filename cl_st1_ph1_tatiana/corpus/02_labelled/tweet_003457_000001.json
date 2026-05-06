@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019w6h",
+          "description": "Exercise",
+          "score": 0.80006874,
+          "topicality": 0.33842555
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.75047797,
+          "topicality": 0.017202433
+        },
+        {
+          "mid": "/m/027x7n",
+          "description": "Physical fitness",
+          "score": 0.6532014,
+          "topicality": 0.25263864
+        },
+        {
+          "mid": "/m/06h7j",
+          "description": "Running",
+          "score": 0.64814204,
+          "topicality": 0.16019218
+        },
+        {
+          "mid": "/m/0715t2",
+          "description": "Calf",
+          "score": 0.51117986,
+          "topicality": 0.003568689
+        }
+      ]
+    }
+  ]
+}

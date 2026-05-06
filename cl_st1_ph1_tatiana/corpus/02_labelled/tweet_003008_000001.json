@@ -1,0 +1,230 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9536963,
+          "topicality": 0.008532888
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9522839,
+          "topicality": 0.1782259
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.9480863,
+          "topicality": 0.099776804
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.94794923,
+          "topicality": 0.00076478336
+        },
+        {
+          "mid": "/m/09jfs",
+          "description": "Uniform",
+          "score": 0.9316229,
+          "topicality": 0.0017873056
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.91442347,
+          "topicality": 0.001500009
+        },
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.91341347,
+          "topicality": 0.04073717
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.91254246,
+          "topicality": 0.21989658
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.89860326,
+          "topicality": 0.047161356
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.8951626,
+          "topicality": 0.0041988734
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.8939809,
+          "topicality": 0.00396848
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.88952255,
+          "topicality": 0.0011257918
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.8843273,
+          "topicality": 0.0013192235
+        },
+        {
+          "mid": "/m/017clw",
+          "description": "Laboratory",
+          "score": 0.8771226,
+          "topicality": 0.39085108
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.8729578,
+          "topicality": 0.008814246
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.8508729,
+          "topicality": 0.07840007
+        },
+        {
+          "mid": "/m/03bx017",
+          "description": "Researcher",
+          "score": 0.8351307,
+          "topicality": 0.2066452
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.8150004,
+          "topicality": 0.01602337
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.8144577,
+          "topicality": 0.026213808
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8110984,
+          "topicality": 0.00579935
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.79931647,
+          "topicality": 0.28918725
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.79878885,
+          "topicality": 0.005895002
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7846096,
+          "topicality": 0.035363838
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.77613634,
+          "topicality": 0.1832398
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.7446267,
+          "topicality": 0.034092035
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.70901513,
+          "topicality": 0.057283577
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.70530367,
+          "topicality": 2.2204865e-06
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6876139,
+          "topicality": 0.0025979036
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6856601,
+          "topicality": 0.10911138
+        },
+        {
+          "mid": "/m/01pxg",
+          "description": "Chemist",
+          "score": 0.66184485,
+          "topicality": 0.025798392
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6381991,
+          "topicality": 0.09661004
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6205587,
+          "topicality": 0.0033468201
+        },
+        {
+          "mid": "/m/027qf2",
+          "description": "Chemical engineer",
+          "score": 0.5787147,
+          "topicality": 0.009039618
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.5628277,
+          "topicality": 0.044374246
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.54469687,
+          "topicality": 0.024339903
+        },
+        {
+          "mid": "/m/03rnh",
+          "description": "Industry",
+          "score": 0.5161579,
+          "topicality": 0.0386776
+        },
+        {
+          "mid": "/m/04n4dpy",
+          "description": "Scientific instrument",
+          "score": 0.51144665,
+          "topicality": 0.0015092654
+        }
+      ]
+    }
+  ]
+}

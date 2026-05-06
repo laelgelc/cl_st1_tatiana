@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.88883394,
+          "topicality": 0.001348665
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.7814959,
+          "topicality": 0.034516916
+        },
+        {
+          "mid": "/m/0h8nrxj",
+          "description": "Skin Care",
+          "score": 0.64486754,
+          "topicality": 0.0006594856
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6129524,
+          "topicality": 0.0041590985
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.5797031,
+          "topicality": 0.014410563
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.56158143,
+          "topicality": 0.0010838079
+        },
+        {
+          "mid": "/m/02m1vq",
+          "description": "Personal grooming",
+          "score": 0.52943385,
+          "topicality": 0.01191081
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447565,
+          "topicality": 0.0061299205
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.81375945,
+          "topicality": 0.005939852
+        },
+        {
+          "mid": "/m/02ngh",
+          "description": "Emoticon",
+          "score": 0.6593792,
+          "topicality": 0.058860812
+        },
+        {
+          "mid": "/m/036hyn",
+          "description": "Toy dog",
+          "score": 0.5993253,
+          "topicality": 0.0027225416
+        }
+      ]
+    }
+  ]
+}

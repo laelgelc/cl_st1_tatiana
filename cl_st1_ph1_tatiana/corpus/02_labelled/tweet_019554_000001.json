@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.8205548,
+          "topicality": 0.004373188
+        },
+        {
+          "mid": "/m/02jjt",
+          "description": "Entertainment",
+          "score": 0.7636992,
+          "topicality": 0.0020349277
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.69729066,
+          "topicality": 0.0024412016
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6650697,
+          "topicality": 0.016801324
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.51324433,
+          "topicality": 0.001526364
+        }
+      ]
+    }
+  ]
+}

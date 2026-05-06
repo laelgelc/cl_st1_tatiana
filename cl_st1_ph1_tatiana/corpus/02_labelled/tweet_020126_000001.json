@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8533914,
+          "topicality": 0.000484352
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7366196,
+          "topicality": 0.0005470997
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.71824014,
+          "topicality": 0.0006131813
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.65307254,
+          "topicality": 0.03921951
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6170415,
+          "topicality": 0.0002729589
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.60367405,
+          "topicality": 0.039405517
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.57700866,
+          "topicality": 0.017440196
+        }
+      ]
+    }
+  ]
+}

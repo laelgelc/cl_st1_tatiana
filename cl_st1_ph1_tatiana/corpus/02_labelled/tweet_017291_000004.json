@@ -1,0 +1,230 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dzf4",
+          "description": "Arm",
+          "score": 0.97474575,
+          "topicality": 0.001651641
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.97326624,
+          "topicality": 0.009132549
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.9659412,
+          "topicality": 0.0034125824
+        },
+        {
+          "mid": "/m/01n4qj",
+          "description": "Shirt",
+          "score": 0.9570726,
+          "topicality": 0.007283726
+        },
+        {
+          "mid": "/m/01ckgp",
+          "description": "Interaction",
+          "score": 0.91886353,
+          "topicality": 0.013001171
+        },
+        {
+          "mid": "/m/04hyxm",
+          "description": "Classroom",
+          "score": 0.9008416,
+          "topicality": 0.018201848
+        },
+        {
+          "mid": "/m/03233l",
+          "description": "Seminar",
+          "score": 0.89871645,
+          "topicality": 0.14870675
+        },
+        {
+          "mid": "/m/075_ys",
+          "description": "Class",
+          "score": 0.89116395,
+          "topicality": 0.055902105
+        },
+        {
+          "mid": "/m/02y3rj",
+          "description": "Presentation",
+          "score": 0.8817857,
+          "topicality": 0.05680255
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.8603194,
+          "topicality": 0.009804811
+        },
+        {
+          "mid": "/m/031hrg",
+          "description": "Lecture",
+          "score": 0.85571533,
+          "topicality": 0.22494248
+        },
+        {
+          "mid": "/m/0191f8",
+          "description": "Learning",
+          "score": 0.8556508,
+          "topicality": 0.004208696
+        },
+        {
+          "mid": "/m/07hs4p",
+          "description": "Course",
+          "score": 0.851766,
+          "topicality": 0.27550513
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.84997463,
+          "topicality": 0.0023158512
+        },
+        {
+          "mid": "/m/06h12k",
+          "description": "Sharing",
+          "score": 0.8456548,
+          "topicality": 0.005402665
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.84176105,
+          "topicality": 0.058448907
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.83374465,
+          "topicality": 0.028398313
+        },
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.82751524,
+          "topicality": 0.0004173411
+        },
+        {
+          "mid": "/m/014cnc",
+          "description": "Student",
+          "score": 0.82572615,
+          "topicality": 0.06464149
+        },
+        {
+          "mid": "/m/01d30f",
+          "description": "Teacher",
+          "score": 0.82550955,
+          "topicality": 0.061131425
+        },
+        {
+          "mid": "/m/01h8n0",
+          "description": "Conversation",
+          "score": 0.8098812,
+          "topicality": 0.003823813
+        },
+        {
+          "mid": "/m/02jfc",
+          "description": "Education",
+          "score": 0.7997111,
+          "topicality": 0.11401433
+        },
+        {
+          "mid": "/m/06bdpk",
+          "description": "Academic institution",
+          "score": 0.7974442,
+          "topicality": 0.0009932026
+        },
+        {
+          "mid": "/m/02q60ls",
+          "description": "Conference hall",
+          "score": 0.79640096,
+          "topicality": 0.001270825
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7838175,
+          "topicality": 0.001978648
+        },
+        {
+          "mid": "/m/014jg3",
+          "description": "Training",
+          "score": 0.7735527,
+          "topicality": 0.024950804
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.72503483,
+          "topicality": 0.027942574
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.7236936,
+          "topicality": 0.03497357
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.69623756,
+          "topicality": 0.0006348586
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.66377395,
+          "topicality": 0.00010716375
+        },
+        {
+          "mid": "/m/07bx10",
+          "description": "Academic conference",
+          "score": 0.64968425,
+          "topicality": 0.008682294
+        },
+        {
+          "mid": "/m/0h8m_qw",
+          "description": "Multimedia Projector",
+          "score": 0.6441339,
+          "topicality": 0.015449338
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.61148924,
+          "topicality": 0.0077116624
+        },
+        {
+          "mid": "/m/07tf8",
+          "description": "University",
+          "score": 0.591575,
+          "topicality": 0.044304576
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.57825804,
+          "topicality": 0.0016049977
+        },
+        {
+          "mid": "/m/01st4f",
+          "description": "Overhead projector",
+          "score": 0.5651298,
+          "topicality": 0.00014150486
+        },
+        {
+          "mid": "/m/02d9qx",
+          "description": "Whiteboard",
+          "score": 0.51681244,
+          "topicality": 0.03418457
+        }
+      ]
+    }
+  ]
+}

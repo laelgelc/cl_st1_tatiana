@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.9303811,
+          "topicality": 0.0060910373
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8615144,
+          "topicality": 0.023923213
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.85449255,
+          "topicality": 0.0076169265
+        },
+        {
+          "mid": "/m/056mk",
+          "description": "Metropolis",
+          "score": 0.83422506,
+          "topicality": 0.035665482
+        },
+        {
+          "mid": "/m/079cl",
+          "description": "Skyscraper",
+          "score": 0.8333737,
+          "topicality": 0.04012306
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.74873805,
+          "topicality": 0.007864352
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6116724,
+          "topicality": 0.0058165668
+        }
+      ]
+    }
+  ]
+}

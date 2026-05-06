@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.90890574,
+          "topicality": 0.49100852
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.87294984,
+          "topicality": 0.0162702
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8477869,
+          "topicality": 0.10042912
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.79909915,
+          "topicality": 0.0045543425
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.7937624,
+          "topicality": 0.16246891
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.72468334,
+          "topicality": 0.19687444
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.68452686,
+          "topicality": 0.048698235
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6837058,
+          "topicality": 0.0040895357
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.6706643,
+          "topicality": 0.016660154
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.62151265,
+          "topicality": 0.011906378
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5828777,
+          "topicality": 0.00937123
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.54671884,
+          "topicality": 0.087796636
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5367961,
+          "topicality": 0.15858684
+        }
+      ]
+    }
+  ]
+}

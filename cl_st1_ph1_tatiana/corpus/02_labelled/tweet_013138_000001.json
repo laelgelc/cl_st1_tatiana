@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.93718374,
+          "topicality": 0.26168984
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.8443496,
+          "topicality": 0.013512011
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.8442597,
+          "topicality": 0.025252895
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.7790193,
+          "topicality": 0.0022377693
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.5814601,
+          "topicality": 0.08856288
+        }
+      ]
+    }
+  ]
+}

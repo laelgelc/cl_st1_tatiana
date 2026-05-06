@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.8226484,
+          "topicality": 0.010153005
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.80761904,
+          "topicality": 0.0013211782
+        },
+        {
+          "mid": "/m/0kw6d",
+          "description": "Driving",
+          "score": 0.7950039,
+          "topicality": 0.22635242
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.776633,
+          "topicality": 0.0039020902
+        },
+        {
+          "mid": "/m/039jq",
+          "description": "Glass",
+          "score": 0.7729962,
+          "topicality": 0.0018585968
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.62149787,
+          "topicality": 0.050827418
+        },
+        {
+          "mid": "/m/05j11x",
+          "description": "Rear-view mirror",
+          "score": 0.59046614,
+          "topicality": 0.0011724946
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.5713886,
+          "topicality": 0.04740055
+        },
+        {
+          "mid": "/m/02vxs3q",
+          "description": "Smoking",
+          "score": 0.53942466,
+          "topicality": 0.00834527
+        },
+        {
+          "mid": "/m/0dkzw",
+          "description": "Seat belt",
+          "score": 0.53224486,
+          "topicality": 0.010437856
+        },
+        {
+          "mid": "/m/0cnfpz",
+          "description": "Road trip",
+          "score": 0.523074,
+          "topicality": 0.00021686492
+        },
+        {
+          "mid": "/m/0fy6nv",
+          "description": "Head restraint",
+          "score": 0.5230621,
+          "topicality": 0.00028139
+        },
+        {
+          "mid": "/m/03b6_4",
+          "description": "Steering wheel",
+          "score": 0.5079958,
+          "topicality": 0.005849203
+        }
+      ]
+    }
+  ]
+}

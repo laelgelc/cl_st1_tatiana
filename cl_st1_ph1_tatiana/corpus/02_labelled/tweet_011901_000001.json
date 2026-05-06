@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9061522,
+          "topicality": 0.0028220983
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.90218925,
+          "topicality": 0.007814213
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.89348066,
+          "topicality": 0.00217268
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8187418,
+          "topicality": 0.00034784235
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7396032,
+          "topicality": 0.0028866073
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.72206324,
+          "topicality": 0.00142404
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.70040846,
+          "topicality": 0.015567629
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6572487,
+          "topicality": 0.00084076874
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.65641874,
+          "topicality": 0.07796595
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6290297,
+          "topicality": 0.058856003
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.5901522,
+          "topicality": 0.025512677
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5443485,
+          "topicality": 0.001358648
+        }
+      ]
+    }
+  ]
+}

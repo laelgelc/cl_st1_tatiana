@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9928368,
+          "topicality": 0.0012892844
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9859574,
+          "topicality": 0.020445095
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98424894,
+          "topicality": 0.001488021
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9785911,
+          "topicality": 0.0010471919
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9060295,
+          "topicality": 0.0062572598
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.83157814,
+          "topicality": 0.0039972807
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7789497,
+          "topicality": 0.037929717
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7730572,
+          "topicality": 0.0005914974
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7415998,
+          "topicality": 0.0010778977
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.73534477,
+          "topicality": 0.0009351934
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.722039,
+          "topicality": 0.004788908
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.650511,
+          "topicality": 0.027885454
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.605654,
+          "topicality": 0.04183965
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.542628,
+          "topicality": 0.0069888057
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448991,
+          "topicality": 0.0007044264
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9155042,
+          "topicality": 0.03566804
+        },
+        {
+          "mid": "/m/016gcr",
+          "description": "Guru",
+          "score": 0.85163796,
+          "topicality": 0.022511711
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.69532996,
+          "topicality": 0.0015023476
+        },
+        {
+          "mid": "/m/03nn09t",
+          "description": "Zen master",
+          "score": 0.68082476,
+          "topicality": 0.08848473
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.67632836,
+          "topicality": 0.0016633117
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.52738124,
+          "topicality": 0.0071430737
+        }
+      ]
+    }
+  ]
+}

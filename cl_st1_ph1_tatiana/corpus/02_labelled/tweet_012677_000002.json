@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02q5pxq",
+          "description": "Aircraft cabin",
+          "score": 0.8627887,
+          "topicality": 0.4774451
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.8567867,
+          "topicality": 0.4285356
+        },
+        {
+          "mid": "/m/025t3bg",
+          "description": "Air travel",
+          "score": 0.647802,
+          "topicality": 0.22204451
+        },
+        {
+          "mid": "/m/0vg8",
+          "description": "Airline",
+          "score": 0.6319626,
+          "topicality": 0.17151296
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.608426,
+          "topicality": 0.009633557
+        },
+        {
+          "mid": "/m/0dhz0",
+          "description": "Airliner",
+          "score": 0.5597224,
+          "topicality": 0.00704904
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.50283337,
+          "topicality": 0.01723683
+        }
+      ]
+    }
+  ]
+}

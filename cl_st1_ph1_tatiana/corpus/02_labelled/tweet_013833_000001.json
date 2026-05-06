@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.8883934,
+          "topicality": 0.07891818
+        },
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.7651935,
+          "topicality": 0.0036068298
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.6271076,
+          "topicality": 0.021550015
+        },
+        {
+          "mid": "/m/0p_66",
+          "description": "Ritual",
+          "score": 0.6055575,
+          "topicality": 0.024214258
+        }
+      ]
+    }
+  ]
+}

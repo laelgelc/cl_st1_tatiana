@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.9550747,
+          "topicality": 0.0001987915
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.9252777,
+          "topicality": 0.080707796
+        },
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.7555125,
+          "topicality": 0.00043182107
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.7313537,
+          "topicality": 0.027129898
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.5414471,
+          "topicality": 0.065136425
+        },
+        {
+          "mid": "/j/fplffb",
+          "description": "Playing with kids",
+          "score": 0.5319945,
+          "topicality": 7.02816e-05
+        }
+      ]
+    }
+  ]
+}

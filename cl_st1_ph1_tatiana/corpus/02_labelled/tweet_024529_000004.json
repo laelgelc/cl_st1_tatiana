@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03rnh",
+          "description": "Industry",
+          "score": 0.96442986,
+          "topicality": 0.1303293
+        },
+        {
+          "mid": "/m/0386ld",
+          "description": "Cooling tower",
+          "score": 0.96249974,
+          "topicality": 0.097666346
+        },
+        {
+          "mid": "/m/01dfh8",
+          "description": "Nuclear power plant",
+          "score": 0.95424116,
+          "topicality": 0.36018428
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.9531686,
+          "topicality": 0.20451702
+        },
+        {
+          "mid": "/m/01f2sl",
+          "description": "Power station",
+          "score": 0.9419303,
+          "topicality": 0.8478141
+        },
+        {
+          "mid": "/m/01jk_4",
+          "description": "Chimney",
+          "score": 0.9100984,
+          "topicality": 0.07810307
+        },
+        {
+          "mid": "/m/09w9qp",
+          "description": "Pipe",
+          "score": 0.8786963,
+          "topicality": 0.0060077854
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.80864763,
+          "topicality": 0.11059701
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.74932146,
+          "topicality": 0.03854943
+        },
+        {
+          "mid": "/m/06wzb",
+          "description": "Steam",
+          "score": 0.6494632,
+          "topicality": 0.015229343
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.50777245,
+          "topicality": 0.013302441
+        }
+      ]
+    }
+  ]
+}

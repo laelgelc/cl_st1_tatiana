@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.81386155,
+          "topicality": 0.004395192
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.8132555,
+          "topicality": 0.2631214
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7651552,
+          "topicality": 0.003781071
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.67511195,
+          "topicality": 0.06797243
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6467656,
+          "topicality": 0.05231258
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.6227426,
+          "topicality": 0.0015645947
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53944975,
+          "topicality": 0.0066495235
+        }
+      ]
+    }
+  ]
+}

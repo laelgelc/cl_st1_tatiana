@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k0mv",
+          "description": "Road surface",
+          "score": 0.9581571,
+          "topicality": 0.0011318591
+        },
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.9556189,
+          "topicality": 0.10293027
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.9540086,
+          "topicality": 0.04469969
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.9411065,
+          "topicality": 0.06296277
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9384936,
+          "topicality": 0.15799367
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9250475,
+          "topicality": 0.30462384
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.9162713,
+          "topicality": 0.13282607
+        },
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.888186,
+          "topicality": 0.028870817
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.76787674,
+          "topicality": 0.011617629
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.66457605,
+          "topicality": 0.019385055
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.58532053,
+          "topicality": 0.049527276
+        },
+        {
+          "mid": "/m/020h4z",
+          "description": "Street furniture",
+          "score": 0.54650426,
+          "topicality": 0.029438317
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.528439,
+          "topicality": 0.0015923348
+        }
+      ]
+    }
+  ]
+}

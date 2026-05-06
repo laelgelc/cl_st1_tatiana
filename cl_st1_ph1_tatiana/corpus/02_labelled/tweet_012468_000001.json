@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8498253,
+          "topicality": 0.00995809
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.73977226,
+          "topicality": 0.0055546216
+        },
+        {
+          "mid": "/m/09spj9",
+          "description": "Layered hair",
+          "score": 0.6581883,
+          "topicality": 5.2001582e-05
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.6010684,
+          "topicality": 0.019029535
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.5378471,
+          "topicality": 0.01559116
+        }
+      ]
+    }
+  ]
+}

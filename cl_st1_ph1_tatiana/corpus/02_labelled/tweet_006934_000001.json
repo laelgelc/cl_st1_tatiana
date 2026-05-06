@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.984783,
+          "topicality": 0.0025625434
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449447,
+          "topicality": 0.021092093
+        },
+        {
+          "mid": "/m/0fc1fy",
+          "description": "Black hair",
+          "score": 0.9437623,
+          "topicality": 0.018940695
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.82758844,
+          "topicality": 0.0028588555
+        },
+        {
+          "mid": "/m/02pd__z",
+          "description": "Long hair",
+          "score": 0.72904736,
+          "topicality": 0.018168448
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.6704547,
+          "topicality": 0.038878944
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.5424554,
+          "topicality": 0.0032009853
+        }
+      ]
+    }
+  ]
+}

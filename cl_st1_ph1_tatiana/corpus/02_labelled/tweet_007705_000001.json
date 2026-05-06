@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494265,
+          "topicality": 0.001967706
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.92855036,
+          "topicality": 0.008433163
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9103376,
+          "topicality": 0.012754287
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.84357876,
+          "topicality": 0.0095516015
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.81492233,
+          "topicality": 0.8800835
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.6676038,
+          "topicality": 0.13782506
+        },
+        {
+          "mid": "/m/03qc9zr",
+          "description": "Screaming",
+          "score": 0.6228818,
+          "topicality": 0.009958899
+        },
+        {
+          "mid": "/m/0fjkt",
+          "description": "Tongue",
+          "score": 0.5993616,
+          "topicality": 0.012787695
+        },
+        {
+          "mid": "/m/05p553",
+          "description": "Comedy",
+          "score": 0.5368298,
+          "topicality": 0.03929829
+        }
+      ]
+    }
+  ]
+}

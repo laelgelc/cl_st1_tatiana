@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8577015,
+          "topicality": 0.01423538
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.68008745,
+          "topicality": 0.029538704
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5872298,
+          "topicality": 0.0037411686
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5677224,
+          "topicality": 0.0025606256
+        }
+      ]
+    }
+  ]
+}

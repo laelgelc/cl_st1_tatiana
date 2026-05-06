@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8977169,
+          "topicality": 0.00092107983
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7586099,
+          "topicality": 0.0007860874
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.75545293,
+          "topicality": 0.031792566
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.5223197,
+          "topicality": 0.03606639
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5209298,
+          "topicality": 0.014040261
+        }
+      ]
+    }
+  ]
+}

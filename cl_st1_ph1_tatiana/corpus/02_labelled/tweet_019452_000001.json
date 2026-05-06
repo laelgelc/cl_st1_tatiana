@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.89141566,
+          "topicality": 0.0044941367
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.88278836,
+          "topicality": 0.00036601475
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8593299,
+          "topicality": 0.9196206
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8202073,
+          "topicality": 0.00070364936
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7627584,
+          "topicality": 0.00041253128
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.71355504,
+          "topicality": 0.0003035036
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.70250386,
+          "topicality": 0.06432205
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.62416226,
+          "topicality": 0.022573529
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.61780506,
+          "topicality": 0.009183466
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5292556,
+          "topicality": 0.07805823
+        }
+      ]
+    }
+  ]
+}

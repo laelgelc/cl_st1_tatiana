@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.97644264,
+          "topicality": 0.96830773
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.95080537,
+          "topicality": 0.002026783
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.94405144,
+          "topicality": 0.0043808287
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8509209,
+          "topicality": 0.08687192
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.603862,
+          "topicality": 0.27262682
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.57130045,
+          "topicality": 0.026708508
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.50956005,
+          "topicality": 0.021481344
+        }
+      ]
+    }
+  ]
+}

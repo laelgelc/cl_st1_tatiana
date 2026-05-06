@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.9885248,
+          "topicality": 0.003495527
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9807546,
+          "topicality": 0.0041387808
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.78128827,
+          "topicality": 0.0067734825
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.70293796,
+          "topicality": 0.10930468
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.69864345,
+          "topicality": 0.023173971
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.53380525,
+          "topicality": 0.036760796
+        }
+      ]
+    }
+  ]
+}

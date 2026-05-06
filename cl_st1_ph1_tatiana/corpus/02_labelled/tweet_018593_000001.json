@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.918941,
+          "topicality": 0.011516563
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.84588116,
+          "topicality": 0.035858225
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8359319,
+          "topicality": 0.024813464
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.671586,
+          "topicality": 0.11511522
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.5001093,
+          "topicality": 0.024776734
+        }
+      ]
+    }
+  ]
+}

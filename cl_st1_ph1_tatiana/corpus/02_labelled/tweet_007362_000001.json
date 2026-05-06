@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9700508,
+          "topicality": 0.0053269137
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.9096999,
+          "topicality": 0.29404637
+        },
+        {
+          "mid": "/m/02d46y",
+          "description": "Cap",
+          "score": 0.7544395,
+          "topicality": 0.001553279
+        },
+        {
+          "mid": "/m/01f5gx",
+          "description": "Eating",
+          "score": 0.642095,
+          "topicality": 0.09328647
+        },
+        {
+          "mid": "/m/01_bhs",
+          "description": "Fast food",
+          "score": 0.63068634,
+          "topicality": 0.08859072
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.58450633,
+          "topicality": 0.0022037437
+        },
+        {
+          "mid": "/m/05xnqg",
+          "description": "Street food",
+          "score": 0.5671298,
+          "topicality": 0.13322121
+        }
+      ]
+    }
+  ]
+}

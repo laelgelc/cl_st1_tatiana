@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.94167364,
+          "topicality": 0.69166684
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9283269,
+          "topicality": 0.0094204135
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.92485136,
+          "topicality": 0.003995691
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9013112,
+          "topicality": 0.13617085
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.84517074,
+          "topicality": 0.005017905
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.8306803,
+          "topicality": 0.30861905
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.74532586,
+          "topicality": 0.007395884
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.7355719,
+          "topicality": 0.0028455744
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7163558,
+          "topicality": 0.020704389
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7045269,
+          "topicality": 0.02353061
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.6087158,
+          "topicality": 0.00065650593
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.52233255,
+          "topicality": 0.0082825245
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.5096439,
+          "topicality": 0.15382929
+        }
+      ]
+    }
+  ]
+}

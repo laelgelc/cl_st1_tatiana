@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.8067048,
+          "topicality": 0.029995665
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7902791,
+          "topicality": 0.0032703339
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6778629,
+          "topicality": 0.005916563
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5133671,
+          "topicality": 0.00980444
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.5027372,
+          "topicality": 0.08479245
+        }
+      ]
+    }
+  ]
+}

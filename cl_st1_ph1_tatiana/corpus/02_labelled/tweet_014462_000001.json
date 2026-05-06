@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083vt",
+          "description": "Wood",
+          "score": 0.96436197,
+          "topicality": 0.19829564
+        },
+        {
+          "mid": "/m/0hv6w",
+          "description": "Logging",
+          "score": 0.9260191,
+          "topicality": 0.077554226
+        },
+        {
+          "mid": "/m/02tcwp",
+          "description": "Trunk",
+          "score": 0.85475355,
+          "topicality": 0.024499219
+        },
+        {
+          "mid": "/m/07sx2n",
+          "description": "Natural material",
+          "score": 0.69189554,
+          "topicality": 0.0007601405
+        },
+        {
+          "mid": "/m/025tnyc",
+          "description": "Lumber",
+          "score": 0.542802,
+          "topicality": 0.0048914496
+        }
+      ]
+    }
+  ]
+}

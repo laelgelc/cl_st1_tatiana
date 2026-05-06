@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7213944,
+          "topicality": 0.125379
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.68064326,
+          "topicality": 0.00016929091
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.67965317,
+          "topicality": 0.0027906515
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6575144,
+          "topicality": 0.00083860033
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.6503691,
+          "topicality": 0.24461149
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.6348788,
+          "topicality": 0.15269043
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6348375,
+          "topicality": 0.0017390763
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58686227,
+          "topicality": 0.0113473935
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.53805983,
+          "topicality": 0.03491074
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.53697366,
+          "topicality": 0.0010779429
+        }
+      ]
+    }
+  ]
+}

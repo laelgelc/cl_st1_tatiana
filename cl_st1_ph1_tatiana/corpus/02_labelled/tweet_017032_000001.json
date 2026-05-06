@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95245093,
+          "topicality": 0.0023251905
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7852696,
+          "topicality": 0.00015627981
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.69830436,
+          "topicality": 0.00027403032
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.64635813,
+          "topicality": 0.08140508
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.592833,
+          "topicality": 0.07826605
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5478349,
+          "topicality": 0.0011374425
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.5124021,
+          "topicality": 0.037504893
+        }
+      ]
+    }
+  ]
+}

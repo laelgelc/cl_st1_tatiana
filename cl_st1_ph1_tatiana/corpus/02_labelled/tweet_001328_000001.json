@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.86551213,
+          "topicality": 0.22621346
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.84526116,
+          "topicality": 8.600483e-05
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8297641,
+          "topicality": 0.037905306
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7990154,
+          "topicality": 0.03800517
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.75822115,
+          "topicality": 0.07897213
+        },
+        {
+          "mid": "/m/01pbfj",
+          "description": "Turban",
+          "score": 0.7356284,
+          "topicality": 0.008213041
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6522288,
+          "topicality": 0.00012958216
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.64573324,
+          "topicality": 0.00038563603
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6369993,
+          "topicality": 0.03741337
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6274204,
+          "topicality": 0.0014924451
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6065511,
+          "topicality": 0.0014268162
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.59545964,
+          "topicality": 0.001179252
+        },
+        {
+          "mid": "/m/06dc32",
+          "description": "Hospital gown",
+          "score": 0.5326254,
+          "topicality": 0.0011981843
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.93259454,
+          "topicality": 0.093744256
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7320484,
+          "topicality": 6.148761e-05
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.65800965,
+          "topicality": 0.00089388975
+        },
+        {
+          "mid": "/m/0277g",
+          "description": "Dentistry",
+          "score": 0.55143774,
+          "topicality": 0.08938611
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.8931312,
+          "topicality": 0.047625486
+        },
+        {
+          "mid": "/m/07xgrh",
+          "description": "Ingredient",
+          "score": 0.864499,
+          "topicality": 0.0026541366
+        },
+        {
+          "mid": "/m/0270h",
+          "description": "Dessert",
+          "score": 0.8003343,
+          "topicality": 0.027265646
+        },
+        {
+          "mid": "/m/020vl",
+          "description": "Chocolate",
+          "score": 0.75736564,
+          "topicality": 0.61600214
+        },
+        {
+          "mid": "/m/0h55b",
+          "description": "Junk food",
+          "score": 0.7096598,
+          "topicality": 0.0006495523
+        },
+        {
+          "mid": "/m/02xfyv",
+          "description": "Toffee",
+          "score": 0.6598212,
+          "topicality": 0.02189062
+        },
+        {
+          "mid": "/m/0b3dyl",
+          "description": "Finger food",
+          "score": 0.6028667,
+          "topicality": 1.8845885e-05
+        },
+        {
+          "mid": "/m/02vk7kj",
+          "description": "Foil",
+          "score": 0.59155434,
+          "topicality": 0.0007199883
+        }
+      ]
+    }
+  ]
+}

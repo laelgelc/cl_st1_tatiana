@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9734705,
+          "topicality": 0.024954692
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.88524413,
+          "topicality": 0.0021984798
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.83820224,
+          "topicality": 0.016333668
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8080858,
+          "topicality": 0.0016109754
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.7249302,
+          "topicality": 0.17172362
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5896656,
+          "topicality": 0.004409123
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5754262,
+          "topicality": 0.023046128
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5055968,
+          "topicality": 0.019338831
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5021827,
+          "topicality": 0.003801813
+        }
+      ]
+    }
+  ]
+}

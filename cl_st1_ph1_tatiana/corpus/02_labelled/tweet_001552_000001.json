@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.90460956,
+          "topicality": 0.021061426
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.76590466,
+          "topicality": 0.0041402373
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.733719,
+          "topicality": 0.00081985316
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7298774,
+          "topicality": 0.02175924
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.65824044,
+          "topicality": 0.007837073
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5369237,
+          "topicality": 0.0023491315
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5179635,
+          "topicality": 0.0036105646
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.51527137,
+          "topicality": 0.00059206126
+        }
+      ]
+    }
+  ]
+}

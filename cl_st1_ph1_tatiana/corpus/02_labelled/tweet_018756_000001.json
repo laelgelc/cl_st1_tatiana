@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.86204416,
+          "topicality": 0.0050946665
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.77722764,
+          "topicality": 0.0026929323
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.76743275,
+          "topicality": 0.16637282
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.6450969,
+          "topicality": 0.050353255
+        },
+        {
+          "mid": "/m/0118n_9r",
+          "description": "Water bottle",
+          "score": 0.6241775,
+          "topicality": 0.00039790256
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.6083203,
+          "topicality": 0.02562732
+        },
+        {
+          "mid": "/m/02267z",
+          "description": "Mineral water",
+          "score": 0.5189368,
+          "topicality": 0.0002496428
+        }
+      ]
+    }
+  ]
+}

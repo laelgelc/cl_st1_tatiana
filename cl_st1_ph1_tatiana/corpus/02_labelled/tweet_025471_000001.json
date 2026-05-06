@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.89347064,
+          "topicality": 0.24366209
+        },
+        {
+          "mid": "/m/07pltdk",
+          "description": "pole",
+          "score": 0.8756693,
+          "topicality": 0.007358621
+        },
+        {
+          "mid": "/m/033rq4",
+          "description": "Street light",
+          "score": 0.6524667,
+          "topicality": 0.010751884
+        },
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.5962092,
+          "topicality": 0.0014726712
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.56783426,
+          "topicality": 0.0043617166
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.55072314,
+          "topicality": 0.0019643866
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.52870256,
+          "topicality": 0.0019218323
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6232781,
+          "topicality": 0.018322252
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6136773,
+          "topicality": 0.65482
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.51059294,
+          "topicality": 0.013392893
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5060536,
+          "topicality": 0.0005130276
+        }
+      ]
+    }
+  ]
+}

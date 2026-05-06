@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9444691,
+          "topicality": 6.0956514e-05
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.919872,
+          "topicality": 0.0013461878
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.8724391,
+          "topicality": 0.007848986
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7864817,
+          "topicality": 0.0047967504
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.74336505,
+          "topicality": 0.00070943026
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.68192035,
+          "topicality": 0.00042327252
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6446904,
+          "topicality": 0.0075312965
+        }
+      ]
+    }
+  ]
+}

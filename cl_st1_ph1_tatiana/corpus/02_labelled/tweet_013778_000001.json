@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.94763803,
+          "topicality": 0.4981416
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.8870543,
+          "topicality": 0.13251454
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.88439155,
+          "topicality": 0.0003994033
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.80075,
+          "topicality": 0.0089020105
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.7561415,
+          "topicality": 0.0066727684
+        },
+        {
+          "mid": "/m/08q1tg",
+          "description": "Traffic collision",
+          "score": 0.58607566,
+          "topicality": 0.08517566
+        }
+      ]
+    }
+  ]
+}

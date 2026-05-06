@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7980679,
+          "topicality": 0.0025414878
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.78200644,
+          "topicality": 0.012238616
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.73580647,
+          "topicality": 0.00024111116
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6733062,
+          "topicality": 0.000980177
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6730447,
+          "topicality": 0.0010713383
+        },
+        {
+          "mid": "/m/0hr5k",
+          "description": "Festival",
+          "score": 0.57262945,
+          "topicality": 0.006532231
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.5463841,
+          "topicality": 0.12685335
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.515835,
+          "topicality": 0.001727992
+        }
+      ]
+    }
+  ]
+}

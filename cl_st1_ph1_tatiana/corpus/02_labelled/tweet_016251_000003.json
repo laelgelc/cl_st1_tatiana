@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01qls",
+          "description": "Community",
+          "score": 0.928791,
+          "topicality": 0.01793246
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.56729925,
+          "topicality": 0.007945103
+        },
+        {
+          "mid": "/m/014cnc",
+          "description": "Student",
+          "score": 0.54940903,
+          "topicality": 0.007529148
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.52301705,
+          "topicality": 7.397359e-05
+        }
+      ]
+    }
+  ]
+}

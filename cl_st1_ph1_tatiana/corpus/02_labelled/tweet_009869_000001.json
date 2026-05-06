@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9349396,
+          "topicality": 0.0027663398
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.89604926,
+          "topicality": 0.0005788005
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.88166595,
+          "topicality": 0.013572563
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.80738497,
+          "topicality": 0.09727598
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7268811,
+          "topicality": 0.060617656
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.71894157,
+          "topicality": 0.08034763
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.71610755,
+          "topicality": 3.7136557e-05
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.6254311,
+          "topicality": 0.01043605
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.5815891,
+          "topicality": 2.2388904e-05
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5717072,
+          "topicality": 0.008409607
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5582239,
+          "topicality": 0.01175918
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55226403,
+          "topicality": 0.011082269
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.53790045,
+          "topicality": 0.0027994749
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.51557344,
+          "topicality": 0.12804203
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.50850815,
+          "topicality": 0.02203107
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.50127137,
+          "topicality": 0.07469781
+        }
+      ]
+    }
+  ]
+}

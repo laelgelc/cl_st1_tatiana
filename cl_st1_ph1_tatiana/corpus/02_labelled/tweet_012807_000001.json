@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.9228075,
+          "topicality": 0.0981706
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9093443,
+          "topicality": 0.10429545
+        },
+        {
+          "mid": "/m/0hndl",
+          "description": "Shade",
+          "score": 0.8153619,
+          "topicality": 0.0040845242
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7531208,
+          "topicality": 0.022503218
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.68886054,
+          "topicality": 0.03058099
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.67806476,
+          "topicality": 0.025696566
+        }
+      ]
+    }
+  ]
+}

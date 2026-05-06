@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.7867707,
+          "topicality": 0.0011769431
+        },
+        {
+          "mid": "/m/09w9qp",
+          "description": "Pipe",
+          "score": 0.759667,
+          "topicality": 0.057295334
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.62408996,
+          "topicality": 0.021504734
+        },
+        {
+          "mid": "/m/03h_4m",
+          "description": "Cylinder",
+          "score": 0.6236947,
+          "topicality": 0.021662109
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5742741,
+          "topicality": 0.014982976
+        },
+        {
+          "mid": "/m/02pd37",
+          "description": "Overall",
+          "score": 0.51597923,
+          "topicality": 0.0025053367
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9367983,
+          "topicality": 0.30439574
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.89363956,
+          "topicality": 0.026386922
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8848417,
+          "topicality": 0.0017226988
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8727775,
+          "topicality": 0.0014744273
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.86930066,
+          "topicality": 0.035607785
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.805672,
+          "topicality": 0.0008414736
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7024251,
+          "topicality": 0.110524826
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6789403,
+          "topicality": 0.063783504
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.62110686,
+          "topicality": 0.00029466028
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.5090319,
+          "topicality": 0.088626735
+        }
+      ]
+    }
+  ]
+}

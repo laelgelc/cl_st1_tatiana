@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.82217693,
+          "topicality": 0.0013737873
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.57832557,
+          "topicality": 0.085132435
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.5608828,
+          "topicality": 0.0042396747
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.55166113,
+          "topicality": 0.0025575308
+        }
+      ]
+    }
+  ]
+}

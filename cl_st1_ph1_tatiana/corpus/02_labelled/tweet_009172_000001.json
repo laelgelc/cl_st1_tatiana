@@ -1,0 +1,206 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9959113,
+          "topicality": 0.004640751
+        },
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.98861986,
+          "topicality": 0.0011838942
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.98778635,
+          "topicality": 0.019345589
+        },
+        {
+          "mid": "/m/037p5b",
+          "description": "Cheek",
+          "score": 0.98679006,
+          "topicality": 0.0002152316
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.986158,
+          "topicality": 0.001052423
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.98598653,
+          "topicality": 0.00078452536
+        },
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.9857664,
+          "topicality": 0.0043017305
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98523015,
+          "topicality": 0.0013690345
+        },
+        {
+          "mid": "/m/0dzct",
+          "description": "Face",
+          "score": 0.98059005,
+          "topicality": 0.019410176
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9805304,
+          "topicality": 0.0040998375
+        },
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.980092,
+          "topicality": 0.00078704685
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9757738,
+          "topicality": 0.00038807496
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.9651992,
+          "topicality": 0.0001592184
+        },
+        {
+          "mid": "/m/0283dt1",
+          "description": "Mouth",
+          "score": 0.96317947,
+          "topicality": 0.0031354034
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.96039015,
+          "topicality": 0.00013960947
+        },
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.9561735,
+          "topicality": 0.0030540463
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.938874,
+          "topicality": 5.886282e-05
+        },
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.9256123,
+          "topicality": 0.00030291444
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.91439974,
+          "topicality": 0.000114788716
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9094576,
+          "topicality": 0.00064748764
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.896739,
+          "topicality": 0.0022210877
+        },
+        {
+          "mid": "/m/04_fs",
+          "description": "Muscle",
+          "score": 0.8865276,
+          "topicality": 1.9133657e-05
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8858226,
+          "topicality": 0.0005312388
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8696375,
+          "topicality": 0.0058326647
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8557976,
+          "topicality": 2.8841634e-05
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8363138,
+          "topicality": 0.13200614
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7831589,
+          "topicality": 0.0017423676
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.74609756,
+          "topicality": 0.00084564096
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.6643996,
+          "topicality": 0.0018457978
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6509654,
+          "topicality": 0.08931642
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.6001899,
+          "topicality": 0.00024257861
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.580913,
+          "topicality": 0.00014225203
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.54771024,
+          "topicality": 0.037968844
+        }
+      ]
+    }
+  ]
+}

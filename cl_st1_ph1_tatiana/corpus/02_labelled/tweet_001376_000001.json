@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7473941,
+          "topicality": 0.0012641352
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5898839,
+          "topicality": 0.0033631772
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.56336707,
+          "topicality": 0.003514137
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5604829,
+          "topicality": 0.08362972
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5555402,
+          "topicality": 0.011142499
+        }
+      ]
+    }
+  ]
+}

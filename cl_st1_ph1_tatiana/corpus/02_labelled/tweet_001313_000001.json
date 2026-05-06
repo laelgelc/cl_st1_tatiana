@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.8080148,
+          "topicality": 0.00021579955
+        },
+        {
+          "mid": "/m/03qqnt",
+          "description": "Flightless bird",
+          "score": 0.72944945,
+          "topicality": 0.00306639
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7282181,
+          "topicality": 0.015502541
+        },
+        {
+          "mid": "/m/05z6w",
+          "description": "Penguin",
+          "score": 0.6745818,
+          "topicality": 0.33683628
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.57349235,
+          "topicality": 0.012910678
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5499203,
+          "topicality": 0.02104517
+        }
+      ]
+    }
+  ]
+}

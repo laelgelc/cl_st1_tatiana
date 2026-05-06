@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9825859,
+          "topicality": 0.20192519
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9672857,
+          "topicality": 0.06897893
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449476,
+          "topicality": 0.00091128866
+        },
+        {
+          "mid": "/m/0438n2",
+          "description": "Jheri curl",
+          "score": 0.9086825,
+          "topicality": 3.9348102e-05
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9012104,
+          "topicality": 0.0022854093
+        },
+        {
+          "mid": "/m/03n0sf",
+          "description": "Afro",
+          "score": 0.76224184,
+          "topicality": 0.005185344
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.7070009,
+          "topicality": 0.0002398686
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.6316307,
+          "topicality": 0.04019651
+        }
+      ]
+    }
+  ]
+}

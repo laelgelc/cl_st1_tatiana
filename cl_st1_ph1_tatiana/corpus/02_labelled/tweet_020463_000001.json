@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.8751605,
+          "topicality": 0.010650046
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8236708,
+          "topicality": 0.003750064
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7833181,
+          "topicality": 0.007837943
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7827274,
+          "topicality": 0.0014392656
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.73387104,
+          "topicality": 0.0005920705
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6620003,
+          "topicality": 0.009716865
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5579928,
+          "topicality": 0.004801235
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.54059446,
+          "topicality": 0.00045009534
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.50319266,
+          "topicality": 0.0020442323
+        },
+        {
+          "mid": "/m/079cl",
+          "description": "Skyscraper",
+          "score": 0.5013478,
+          "topicality": 0.016715333
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03q69",
+          "description": "Hair",
+          "score": 0.9908328,
+          "topicality": 0.03833457
+        },
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.98859996,
+          "topicality": 0.098779745
+        },
+        {
+          "mid": "/m/037p5b",
+          "description": "Cheek",
+          "score": 0.986923,
+          "topicality": 0.18127747
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.98600644,
+          "topicality": 0.05392749
+        },
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.9847963,
+          "topicality": 0.16725361
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9832267,
+          "topicality": 0.04573893
+        },
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.982162,
+          "topicality": 0.17052074
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.97691214,
+          "topicality": 0.17753337
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.9711927,
+          "topicality": 0.013293343
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9644727,
+          "topicality": 0.014166212
+        },
+        {
+          "mid": "/m/0283dt1",
+          "description": "Mouth",
+          "score": 0.961713,
+          "topicality": 0.012798733
+        },
+        {
+          "mid": "/m/01f43",
+          "description": "Beauty",
+          "score": 0.96000075,
+          "topicality": 0.15580173
+        },
+        {
+          "mid": "/m/0404d",
+          "description": "Jewellery",
+          "score": 0.9598284,
+          "topicality": 0.12851837
+        },
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.9503566,
+          "topicality": 0.032504085
+        },
+        {
+          "mid": "/m/032tl",
+          "description": "Fashion",
+          "score": 0.9479424
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494367,
+          "topicality": 0.003165028
+        },
+        {
+          "mid": "/m/01r546",
+          "description": "Earring",
+          "score": 0.943676,
+          "topicality": 0.22056064
+        },
+        {
+          "mid": "/m/06c7f7",
+          "description": "Lipstick",
+          "score": 0.9408243,
+          "topicality": 0.05272481
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9319163,
+          "topicality": 0.0052120537
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.92772007,
+          "topicality": 0.10500157
+        },
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.92299086,
+          "topicality": 0.084595434
+        },
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.90784717,
+          "topicality": 0.01233276
+        },
+        {
+          "mid": "/m/01jtn",
+          "description": "Body piercing",
+          "score": 0.9070979,
+          "topicality": 0.1012747
+        },
+        {
+          "mid": "/m/0h8kxbv",
+          "description": "Body Jewelry",
+          "score": 0.90258735,
+          "topicality": 0.0011540623
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.8662869,
+          "topicality": 0.00526195
+        },
+        {
+          "mid": "/m/0d1pc",
+          "description": "Model",
+          "score": 0.85002434,
+          "topicality": 0.060582772
+        },
+        {
+          "mid": "/m/02ksmb",
+          "description": "Brown hair",
+          "score": 0.8357195,
+          "topicality": 0.017517008
+        },
+        {
+          "mid": "/m/02hqr87",
+          "description": "Fashion Model",
+          "score": 0.82979155,
+          "topicality": 0.0073170313
+        },
+        {
+          "mid": "/m/025zp2s",
+          "description": "Eye shadow",
+          "score": 0.8206268,
+          "topicality": 0.012511807
+        },
+        {
+          "mid": "/m/02pd__z",
+          "description": "Long hair",
+          "score": 0.8084703,
+          "topicality": 0.013627716
+        },
+        {
+          "mid": "/m/07sx2n",
+          "description": "Natural material",
+          "score": 0.8020121,
+          "topicality": 0.000118174044
+        },
+        {
+          "mid": "/m/09l0j_",
+          "description": "Ring",
+          "score": 0.79832166,
+          "topicality": 0.09312059
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.7946745,
+          "topicality": 0.0037064273
+        },
+        {
+          "mid": "/m/01s6cj",
+          "description": "Lip gloss",
+          "score": 0.7884533,
+          "topicality": 0.007770731
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.77729523,
+          "topicality": 0.008951118
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7692324,
+          "topicality": 0.001038975
+        },
+        {
+          "mid": "/m/02qbl1m",
+          "description": "Photo shoot",
+          "score": 0.76848435,
+          "topicality": 0.00697059
+        },
+        {
+          "mid": "/m/03c4j",
+          "description": "Gemstone",
+          "score": 0.7557216,
+          "topicality": 0.003214364
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "Portrait",
+          "score": 0.74336135,
+          "topicality": 0.019793315
+        },
+        {
+          "mid": "/m/0h8nm6p",
+          "description": "Nail Care",
+          "score": 0.7273217,
+          "topicality": 0.0016147972
+        },
+        {
+          "mid": "/m/0fg019",
+          "description": "Eye liner",
+          "score": 0.68433464,
+          "topicality": 0.008451664
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.6250846,
+          "topicality": 0.0041689454
+        },
+        {
+          "mid": "/m/027x0j",
+          "description": "Mascara",
+          "score": 0.62478584,
+          "topicality": 0.0045444155
+        },
+        {
+          "mid": "/m/026mhtg",
+          "description": "Step cutting",
+          "score": 0.6237812,
+          "topicality": 0.0005371713
+        },
+        {
+          "mid": "/m/09t19",
+          "description": "Engagement ring",
+          "score": 0.6122047,
+          "topicality": 0.0067398585
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.5933101,
+          "topicality": 0.0015115625
+        },
+        {
+          "mid": "/m/02q9ddz",
+          "description": "Eyelash extensions",
+          "score": 0.5896484,
+          "topicality": 0.0029321224
+        },
+        {
+          "mid": "/m/04030j",
+          "description": "Nail polish",
+          "score": 0.53457063,
+          "topicality": 0.0018388545
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.5260723,
+          "topicality": 0.00057032227
+        },
+        {
+          "mid": "/m/01f4cc",
+          "description": "Manicure",
+          "score": 0.5160802,
+          "topicality": 0.004651469
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9446016,
+          "topicality": 0.00040311326
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.83238345,
+          "topicality": 0.007551654
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7117812,
+          "topicality": 0.018596778
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.659462,
+          "topicality": 0.016004376
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6366227,
+          "topicality": 0.0007203692
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.57625574,
+          "topicality": 0.0009879522
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5488647,
+          "topicality": 0.015668921
+        },
+        {
+          "mid": "/m/01bsxb",
+          "description": "Collage",
+          "score": 0.54331577,
+          "topicality": 0.004857285
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99431616,
+          "topicality": 0.022136781
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.93202484,
+          "topicality": 0.5354488
+        },
+        {
+          "mid": "/m/081pkj",
+          "description": "Event",
+          "score": 0.9313655,
+          "topicality": 0.006102752
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.91901064,
+          "topicality": 0.0002620359
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.86648524,
+          "topicality": 0.0027916254
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.85141164,
+          "topicality": 0.0053815776
+        },
+        {
+          "mid": "/m/02k88w",
+          "description": "Rebellion",
+          "score": 0.83052737,
+          "topicality": 0.21950121
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.8134897,
+          "topicality": 0.007148033
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.75633943,
+          "topicality": 0.022123367
+        },
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.75312257,
+          "topicality": 0.02119264
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.5206503,
+          "topicality": 6.763804e-05
+        },
+        {
+          "mid": "/m/026yq0z",
+          "description": "Demonstration",
+          "score": 0.51839846,
+          "topicality": 0.046314657
+        }
+      ]
+    }
+  ]
+}

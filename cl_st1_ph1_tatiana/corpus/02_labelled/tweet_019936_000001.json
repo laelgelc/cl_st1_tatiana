@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.994746,
+          "topicality": 0.0010434282
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9871196,
+          "topicality": 0.022823391
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.98459816,
+          "topicality": 0.0004937155
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98160106,
+          "topicality": 0.00048078023
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.9768373,
+          "topicality": 0.0050236154
+        },
+        {
+          "mid": "/m/0283dt1",
+          "description": "Mouth",
+          "score": 0.9552661,
+          "topicality": 0.0018230991
+        },
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.9150241,
+          "topicality": 0.00096886547
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8852528,
+          "topicality": 0.17549251
+        },
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.8830288,
+          "topicality": 0.036885515
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.8392561,
+          "topicality": 0.00017107604
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.76864386,
+          "topicality": 0.00030938958
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.74748975,
+          "topicality": 0.005505743
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.5801918,
+          "topicality": 0.23004417
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.56310785,
+          "topicality": 0.03876647
+        }
+      ]
+    }
+  ]
+}

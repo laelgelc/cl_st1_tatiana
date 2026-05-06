@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0qmmr",
+          "description": "Wheelchair",
+          "score": 0.95778805,
+          "topicality": 0.044510365
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6928899,
+          "topicality": 0.0005477537
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5362625,
+          "topicality": 0.0005700919
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5183655,
+          "topicality": 0.00025860337
+        }
+      ]
+    }
+  ]
+}

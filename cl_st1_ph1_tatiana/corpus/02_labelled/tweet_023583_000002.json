@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.97485554,
+          "topicality": 0.0033686238
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.95308006,
+          "topicality": 0.44255522
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.95016336,
+          "topicality": 0.0057909866
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9176465,
+          "topicality": 0.0014033312
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.8832276,
+          "topicality": 1.5133896e-05
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.75107545,
+          "topicality": 0.2659028
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.6120776,
+          "topicality": 0.0076276395
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.58238536,
+          "topicality": 0.01573425
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.52949506,
+          "topicality": 0.0065153013
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019w6h",
+          "description": "Exercise",
+          "score": 0.7914856,
+          "topicality": 0.08341876
+        },
+        {
+          "mid": "/m/027x7n",
+          "description": "Physical fitness",
+          "score": 0.6543445,
+          "topicality": 0.024840413
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.57117444,
+          "topicality": 0.113883026
+        },
+        {
+          "mid": "/m/03gs8b2",
+          "description": "Balance",
+          "score": 0.5488627,
+          "topicality": 0.08528873
+        }
+      ]
+    }
+  ]
+}

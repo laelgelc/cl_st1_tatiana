@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8367797,
+          "topicality": 0.001184421
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.8278032,
+          "topicality": 0.02341723
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.7904985,
+          "topicality": 0.27263504
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.76466244,
+          "topicality": 0.55670166
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6908926,
+          "topicality": 0.025369259
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.59389204,
+          "topicality": 0.008079101
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5844125,
+          "topicality": 0.050590076
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.57451767,
+          "topicality": 0.1255973
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.51120836,
+          "topicality": 0.031372234
+        }
+      ]
+    }
+  ]
+}

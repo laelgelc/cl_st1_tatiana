@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01v46r",
+          "description": "Giraffids",
+          "score": 0.9876503,
+          "topicality": 0.042105317
+        },
+        {
+          "mid": "/m/03bk1",
+          "description": "Giraffe",
+          "score": 0.9831223,
+          "topicality": 0.5164311
+        },
+        {
+          "mid": "/m/0fbf1m",
+          "description": "Terrestrial animal",
+          "score": 0.8505991,
+          "topicality": 0.0040490828
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.76598144,
+          "topicality": 0.0016882041
+        },
+        {
+          "mid": "/m/01280g",
+          "description": "Wildlife",
+          "score": 0.6827245,
+          "topicality": 0.01595022
+        },
+        {
+          "mid": "/g/11k2xz7mr",
+          "description": "Meteorological phenomenon",
+          "score": 0.59474957,
+          "topicality": 5.7321307e-05
+        }
+      ]
+    }
+  ]
+}

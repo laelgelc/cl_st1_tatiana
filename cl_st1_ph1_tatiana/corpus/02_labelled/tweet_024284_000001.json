@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.94921607,
+          "topicality": 0.017967816
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9215503,
+          "topicality": 0.0012072329
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.8945607,
+          "topicality": 0.025125397
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.875539,
+          "topicality": 0.00086884515
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.8556403,
+          "topicality": 0.3859266
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.8350363,
+          "topicality": 6.470217e-05
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.82830626,
+          "topicality": 0.0023171173
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.8233717,
+          "topicality": 0.0023893467
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.81088674,
+          "topicality": 0.0063095824
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.59874547,
+          "topicality": 0.0025805444
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.5519908,
+          "topicality": 0.009423938
+        }
+      ]
+    }
+  ]
+}

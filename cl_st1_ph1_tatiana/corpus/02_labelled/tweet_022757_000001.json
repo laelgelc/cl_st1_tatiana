@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7406377,
+          "topicality": 0.00011976919
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6597694,
+          "topicality": 0.016742326
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.65960234,
+          "topicality": 0.21260117
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6540749,
+          "topicality": 0.021457883
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6244011,
+          "topicality": 0.057193723
+        }
+      ]
+    }
+  ]
+}

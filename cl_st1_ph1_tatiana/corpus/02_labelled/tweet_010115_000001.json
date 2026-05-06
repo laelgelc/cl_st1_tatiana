@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9764903,
+          "topicality": 0.0033072343
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.9542604,
+          "topicality": 0.00096022704
+        },
+        {
+          "mid": "/m/04_tb",
+          "description": "Map",
+          "score": 0.8787693,
+          "topicality": 0.10086999
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.53051436,
+          "topicality": 0.01707218
+        }
+      ]
+    }
+  ]
+}

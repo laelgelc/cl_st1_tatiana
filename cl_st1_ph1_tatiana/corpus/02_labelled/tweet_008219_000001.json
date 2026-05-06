@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.9008936,
+          "topicality": 0.002652114
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.696212,
+          "topicality": 0.005166461
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.63538027,
+          "topicality": 0.0100108385
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.6288791,
+          "topicality": 0.71022135
+        }
+      ]
+    }
+  ]
+}

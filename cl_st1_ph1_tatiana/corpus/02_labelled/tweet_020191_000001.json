@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8550144,
+          "topicality": 0.00082941883
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8483655,
+          "topicality": 0.35898134
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7620958,
+          "topicality": 0.07025303
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.7508216,
+          "topicality": 0.0064224144
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.74295884,
+          "topicality": 0.11992988
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.7321516,
+          "topicality": 0.030467289
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.6781814,
+          "topicality": 0.047442067
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.6390526,
+          "topicality": 0.0010626742
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6079212,
+          "topicality": 0.037159044
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.60233355,
+          "topicality": 0.0066232095
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.58180875,
+          "topicality": 0.09306495
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5551152,
+          "topicality": 0.035753444
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.520852,
+          "topicality": 0.020479338
+        }
+      ]
+    }
+  ]
+}

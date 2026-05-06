@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9323227,
+          "topicality": 0.008049003
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.92316914,
+          "topicality": 0.012606749
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8393237,
+          "topicality": 0.0050792983
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6607287,
+          "topicality": 0.0019813385
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5773947,
+          "topicality": 0.012577512
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.57150733,
+          "topicality": 0.00047472012
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.50423265,
+          "topicality": 6.786901e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01x314",
+          "description": "Facade",
+          "score": 0.93636453,
+          "topicality": 0.012188956
+        },
+        {
+          "mid": "/m/05_5t0l",
+          "description": "Landmark",
+          "score": 0.9258411,
+          "topicality": 0.0440327
+        },
+        {
+          "mid": "/m/0f28m",
+          "description": "Symmetry",
+          "score": 0.69595003,
+          "topicality": 0.0023510435
+        },
+        {
+          "mid": "/m/0dvh9",
+          "description": "Classical architecture",
+          "score": 0.66186947,
+          "topicality": 0.012282762
+        },
+        {
+          "mid": "/m/05zp8",
+          "description": "Palace",
+          "score": 0.6410926,
+          "topicality": 0.11917636
+        },
+        {
+          "mid": "/m/01jf71",
+          "description": "Arcade",
+          "score": 0.5530785,
+          "topicality": 0.00649192
+        },
+        {
+          "mid": "/m/02pvbb",
+          "description": "Mansion",
+          "score": 0.5244648,
+          "topicality": 0.0052273506
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.5236728,
+          "topicality": 0.015149663
+        },
+        {
+          "mid": "/m/021yby",
+          "description": "Seat of local government",
+          "score": 0.5191915,
+          "topicality": 0.014636253
+        }
+      ]
+    }
+  ]
+}

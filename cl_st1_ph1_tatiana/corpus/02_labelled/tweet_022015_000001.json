@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8647776,
+          "topicality": 0.012332321
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8122872,
+          "topicality": 0.13172595
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.6598381,
+          "topicality": 0.0026879453
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6551377,
+          "topicality": 0.069267504
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.62679416,
+          "topicality": 0.09923424
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.59279424,
+          "topicality": 0.0058659716
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.5201607,
+          "topicality": 0.0005526429
+        }
+      ]
+    }
+  ]
+}

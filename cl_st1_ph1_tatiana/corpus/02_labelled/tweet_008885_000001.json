@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9341992,
+          "topicality": 0.19064468
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "Mural",
+          "score": 0.9165843,
+          "topicality": 0.052048195
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.91187143,
+          "topicality": 0.0036356484
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8815226,
+          "topicality": 0.027400509
+        },
+        {
+          "mid": "/m/0p9xx",
+          "description": "Visual arts",
+          "score": 0.853979,
+          "topicality": 0.004412867
+        },
+        {
+          "mid": "/m/01bqgn",
+          "description": "Bicycle frame",
+          "score": 0.8359254,
+          "topicality": 2.8959237e-05
+        },
+        {
+          "mid": "/m/0199g",
+          "description": "Bicycle",
+          "score": 0.83302015,
+          "topicality": 0.06494356
+        },
+        {
+          "mid": "/m/01bqk0",
+          "description": "Bicycle wheel",
+          "score": 0.82719815,
+          "topicality": 0.013887893
+        },
+        {
+          "mid": "/m/034wh",
+          "description": "Graffiti",
+          "score": 0.8048711,
+          "topicality": 0.09196808
+        },
+        {
+          "mid": "/m/0c3vfpc",
+          "description": "Bicycle tire",
+          "score": 0.8033054,
+          "topicality": 6.0143408e-05
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.78830963,
+          "topicality": 0.04730683
+        },
+        {
+          "mid": "/m/07vwy6",
+          "description": "Street art",
+          "score": 0.7747295,
+          "topicality": 0.13414663
+        },
+        {
+          "mid": "/m/0bpnmk0",
+          "description": "Bicycles--Equipment and supplies",
+          "score": 0.7293426,
+          "topicality": 0.00012636899
+        },
+        {
+          "mid": "/m/05y4t",
+          "description": "Paint",
+          "score": 0.6842626,
+          "topicality": 0.0036979057
+        },
+        {
+          "mid": "/m/02rqv26",
+          "description": "Bicycle handlebar",
+          "score": 0.67214745,
+          "topicality": 1.5818936e-05
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5804208,
+          "topicality": 0.0030649763
+        },
+        {
+          "mid": "/m/02ldsk",
+          "description": "Busker",
+          "score": 0.55141264,
+          "topicality": 0.1935205
+        }
+      ]
+    }
+  ]
+}

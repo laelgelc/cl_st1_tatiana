@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7704622,
+          "topicality": 0.0012966986
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6386334,
+          "topicality": 0.018858552
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6208642,
+          "topicality": 0.0026177203
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5776792,
+          "topicality": 0.033762045
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5765718,
+          "topicality": 0.014176837
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.5737072,
+          "topicality": 0.03727045
+        }
+      ]
+    }
+  ]
+}

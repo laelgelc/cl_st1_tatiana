@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.60278064,
+          "topicality": 0.00066277914
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.5817008,
+          "topicality": 0.0006012973
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.5708846,
+          "topicality": 0.016806215
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.55048835,
+          "topicality": 0.012964868
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.54421157,
+          "topicality": 0.113035575
+        }
+      ]
+    }
+  ]
+}

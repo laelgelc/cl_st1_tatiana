@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.965003,
+          "topicality": 0.0003107497
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91388714,
+          "topicality": 3.3335098e-05
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.8841867,
+          "topicality": 0.00080975506
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.8591033,
+          "topicality": 0.010408278
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.76575834,
+          "topicality": 0.90409076
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55569845,
+          "topicality": 0.050407585
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.54123145,
+          "topicality": 0.006374979
+        }
+      ]
+    }
+  ]
+}

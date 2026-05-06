@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.7361478,
+          "topicality": 0.7448536
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6849254,
+          "topicality": 0.036593348
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.613318,
+          "topicality": 0.00010799931
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6123788,
+          "topicality": 0.041093867
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5582133,
+          "topicality": 0.04657257
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.53456587,
+          "topicality": 0.069911785
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.52490956,
+          "topicality": 0.10508508
+        }
+      ]
+    }
+  ]
+}

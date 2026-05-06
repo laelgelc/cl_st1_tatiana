@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.87388366,
+          "topicality": 0.0002231979
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8203895,
+          "topicality": 0.0009245618
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.80027926,
+          "topicality": 0.23901431
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7889612,
+          "topicality": 0.26159075
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.77205765,
+          "topicality": 0.04221611
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.74595153,
+          "topicality": 0.05765033
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.64701426,
+          "topicality": 0.00039594027
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5992991,
+          "topicality": 0.0062435935
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5867446,
+          "topicality": 0.0010533426
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.56326175,
+          "topicality": 0.012477112
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5601641,
+          "topicality": 0.0107474215
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.52879417,
+          "topicality": 0.11096006
+        }
+      ]
+    }
+  ]
+}
