@@ -43,3 +43,6 @@ python examples.py
 python score_details.py
 # Output: examples/score_details.txt
 
+python examples_txt.py
+# Output: examples_txt (plaintext format)
+
