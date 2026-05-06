@@ -13,3 +13,7 @@ python label_types.py \
     --input-dir corpus/02_labelled \
     --output-dir corpus/03_label_types
 
+python top_labels.py \
+    --input-dir corpus/03_label_types \
+    --output-dir corpus/04_top_labels
+
