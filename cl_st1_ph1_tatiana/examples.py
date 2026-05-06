@@ -28,7 +28,9 @@ Requires:
     corpus/03_label_types/<filename>.txt
   produced by label_types.py
 
-- file_ids.txt (for filename cross-checking is optional; not strictly required here).
+- file_ids.txt (optional but used here):
+    maps the IDs in the scores file (e.g. t000018)
+    to actual label filenames (e.g. tweet_000018_000001.txt)
 
 This script writes:
 
@@ -62,6 +64,9 @@ FACTOR_FOLDER = Path("factors")
 SCORES_FILE = Path(
     "sas/output_cl_st1_ph1_tatiana/cl_st1_ph1_tatiana_scores_only.tsv"
 )
+
+# Optional mapping from scores IDs (e.g. t000018) to label filenames
+FILE_IDS_PATH = Path("file_ids.txt")
 
 # Output directory for LaTeX examples
 EXAMPLES_DIR = Path("examples")
@@ -152,7 +157,7 @@ def load_label_list(label_file: Path) -> List[str]:
     if not label_file.exists():
         return []
 
-    labels = []
+    labels: List[str] = []
     with label_file.open(encoding="utf-8") as f:
         for line in f:
             label = line.strip()
@@ -187,7 +192,7 @@ def format_labels_for_latex(labels: List[str], primary_lemmas: Set[str]) -> str:
     Returns a single string, e.g.:
         \\textbf{science}, screenshot, health_care
     """
-    formatted = []
+    formatted: List[str] = []
     for lab in labels:
         esc = escape_latex(lab)
         if lab in primary_lemmas:
@@ -195,6 +200,39 @@ def format_labels_for_latex(labels: List[str], primary_lemmas: Set[str]) -> str:
         else:
             formatted.append(esc)
     return ", ".join(formatted)
+
+
+def load_id_mapping(path: Path) -> Dict[str, str]:
+    """
+    Load mapping from scores IDs to label filenames from file_ids.txt.
+
+    Expected format (per non-empty, non-comment line):
+        <scores_id> <label_filename>
+
+    Fields are split on whitespace; only the first two fields are used.
+    Lines starting with '#' are ignored.
+
+    Returns a dict like: {"t000018": "tweet_000018_000001.txt", ...}
+    """
+    mapping: Dict[str, str] = {}
+
+    if not path.exists():
+        print(f"(info) file_ids mapping not found at {path}; proceeding without it.")
+        return mapping
+
+    with path.open(encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            parts = line.split()
+            if len(parts) < 2:
+                continue
+            src_id, dst_name = parts[0], parts[1]
+            mapping[src_id] = dst_name
+
+    print(f"(info) Loaded {len(mapping)} ID mappings from {path}")
+    return mapping
 
 
 # =============================================================================
@@ -214,6 +252,9 @@ def main() -> int:
         print(f"Error: label directory not found: {LABEL_DIR}")
         return 1
 
+    # Load optional ID mapping (scores filename -> label filename)
+    id_mapping: Dict[str, str] = load_id_mapping(FILE_IDS_PATH)
+
     missing_label_files: Set[str] = set()
 
     # For building the master LaTeX file
@@ -225,11 +266,16 @@ def main() -> int:
 
         for pole, ascending in (("pos", False), ("neg", True)):
             label = f"f{fac_num}_{pole}"
-            print(f"→ {label}: selecting top {TOP_N_PER_POLE} examples (col={fac_col}, ascending={ascending})")
+            print(
+                f"→ {label}: selecting top {TOP_N_PER_POLE} examples "
+                f"(col={fac_col}, ascending={ascending})"
+            )
 
             primary_lemmas = load_primary_lemmas(FACTOR_FOLDER / f"{label}.txt")
             if not primary_lemmas:
-                print(f"  (warning) No primary lemmas found for {label}; continuing anyway.")
+                print(
+                    f"  (warning) No primary lemmas found for {label}; continuing anyway."
+                )
 
             # Sort by factor score
             sorted_df = scores_df.sort_values(by=fac_col, ascending=ascending)
@@ -247,18 +293,27 @@ def main() -> int:
                 if ex_id > TOP_N_PER_POLE:
                     break
 
-                filename = str(row["filename"])
-                label_file = LABEL_DIR / filename
+                # Filename as stored in the scores file (e.g. "t000018")
+                raw_fname = str(row["filename"]).strip()
+
+                # Map to actual label filename if available
+                mapped_fname = id_mapping.get(raw_fname, raw_fname)
+
+                # Construct label file path; if no extension, assume ".txt"
+                label_file = LABEL_DIR / mapped_fname
+                if label_file.suffix == "":
+                    label_file = label_file.with_suffix(".txt")
 
                 labels = load_label_list(label_file)
                 if not labels:
-                    missing_label_files.add(filename)
+                    # Record using the scores ID so you can see which ones failed
+                    missing_label_files.add(raw_fname)
                     continue
 
                 labels_tex = format_labels_for_latex(labels, primary_lemmas)
 
-                # Encode filename for LaTeX display
-                latex_fname = escape_latex(filename)
+                # Encode filename for LaTeX display (show original scores ID)
+                latex_fname = escape_latex(raw_fname)
 
                 env_title = f"{pole.upper()} Dim {fac_num} – Score {score:.2f} – {latex_fname}"
                 env_label = f"ex:{label}_{ex_id:03d}"
@@ -267,9 +322,17 @@ def main() -> int:
                 tex_paths.append(out_file)
 
                 with out_file.open("w", encoding="utf-8") as f:
-                    f.write(r"\begin{textsample}{" + env_title + r"}  \label{" + env_label + "}" + "\n")
+                    f.write(
+                        r"\begin{textsample}{"
+                        + env_title
+                        + r"}  \label{"
+                        + env_label
+                        + "}"
+                        + "\n"
+                    )
                     f.write(labels_tex + "\n\n")
-                    f.write(r"% file: " + latex_fname + "\n")
+                    f.write(r"% file (scores ID): " + latex_fname + "\n")
+                    f.write(r"% label file: " + escape_latex(str(label_file)) + "\n")
                     f.write(r"\end{textsample}" + "\n")
 
                 ex_id += 1
@@ -280,7 +343,9 @@ def main() -> int:
     # Missing label files report
     if missing_label_files:
         missing_path = EXAMPLES_DIR / "missing_label_files.txt"
-        missing_path.write_text("\n".join(sorted(missing_label_files)), encoding="utf-8")
+        missing_path.write_text(
+            "\n".join(sorted(missing_label_files)), encoding="utf-8"
+        )
         print(f"⚠ Missing label files written to {missing_path}")
 
     # Build master LaTeX file
@@ -288,7 +353,9 @@ def main() -> int:
     master = EXAMPLES_DIR / "examples.tex"
 
     if not top_header_path.exists():
-        print("\n⚠ top_header missing. Create examples/top_header before compiling LaTeX.\n")
+        print(
+            "\n⚠ top_header missing. Create examples/top_header before compiling LaTeX.\n"
+        )
         preamble = r"% Provide a LaTeX preamble in examples/top_header"  # fallback
     else:
         preamble = top_header_path.read_text(encoding="utf-8")
