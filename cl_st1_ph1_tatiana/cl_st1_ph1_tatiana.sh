@@ -30,3 +30,6 @@ python sas_formats.py
 ## RUN SAS
 ## Rogerio Yamada's account
 
+python factor_lists.py
+# Output: factors
+
