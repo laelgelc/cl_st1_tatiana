@@ -6,9 +6,9 @@ from pathlib import Path
 # ------------------------------------------------------------
 # Paths
 # ------------------------------------------------------------
-SAS_BASE = Path("sas/output_cl_st1_ph3_andressa")
-SCORES_FILE = SAS_BASE / "cl_st1_ph3_andressa_scores.tsv"
-WORD_LABELS_FILE = SAS_BASE / "word_labels_format.sas"
+SAS_BASE = Path("sas/output_cl_st1_ph1_tatiana")
+SCORES_FILE = SAS_BASE / "cl_st1_ph1_tatiana_scores.tsv"
+WORD_LABELS_FILE = SAS_BASE / "label_format.sas"
 VARID_DIR = Path("factors/var_id")
 
 FILE_IDS = Path("file_ids.txt")   # <-- updated for your current setup
