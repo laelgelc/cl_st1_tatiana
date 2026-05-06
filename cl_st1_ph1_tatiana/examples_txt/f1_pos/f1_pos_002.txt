@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  30.0000
+TEXT ID: t011142
+
+LABELS:
+**mode_of_transport**, **building**, **urban_area**, **city**, **metropolitan_area**, **high-rise_building**, **skyscraper**, **public_space**, **metropolis**, **pedestrian**, **bicycle**, **condominium**, **bus**, **bicycle_wheel**, **commercial_building**, **bicycle_tire**, **bicycle_frame**, **thoroughfare**, **bicycles--equipment_and_supplies**, **mixed-use**, **lane**, **public_transport**, **bicycle_handlebar**, **travel**, **cityscape**, **tour_bus_service**, **cycling**, **walking**, **hybrid_bicycle**, **road_bicycle**, **bicycle_fork**, **bicycle_wheel_rim**, **traffic**
+
+[label file: corpus/03_label_types/tweet_020511_000001.txt]

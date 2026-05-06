@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -1.0000
+TEXT ID: t000992
+
+LABELS:
+poster, advertising, mask, **photo_caption**
+
+[label file: corpus/03_label_types/tweet_001819_000003.txt]

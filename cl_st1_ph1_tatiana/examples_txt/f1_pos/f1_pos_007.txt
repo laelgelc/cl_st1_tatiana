@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  25.0000
+TEXT ID: t001424
+
+LABELS:
+**daytime**, **building**, **alley**, **urban_area**, **road**, **road_surface**, **city**, **street**, **neighbourhood**, **town**, **architecture**, **metropolitan_area**, **sidewalk**, **metropolis**, **composite_material**, **thoroughfare**, **morning**, **pedestrian**, **concrete**, **mixed-use**, **commercial_building**, cobblestone, **walking**, **walkway**, **evening**, **shadow**
+
+[label file: corpus/03_label_types/tweet_002576_000001.txt]

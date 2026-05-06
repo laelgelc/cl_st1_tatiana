@@ -1,0 +1,8 @@
+FACTOR: f4_neg (NEG Dim 4)
+SCORE:  -2.0000
+TEXT ID: t001825
+
+LABELS:
+fan, sports_venue, **crowd**, **audience**, stadium, **logo**, public_event, **banner**, **arena**, advertising, display_device, cheering
+
+[label file: corpus/03_label_types/tweet_003282_000004.txt]

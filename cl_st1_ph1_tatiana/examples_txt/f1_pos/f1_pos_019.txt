@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  19.0000
+TEXT ID: t012931
+
+LABELS:
+**road_surface**, **urban_area**, **town**, **street**, **road**, **city**, **neighbourhood**, **residential_area**, **sidewalk**, **thoroughfare**, **public_space**, **asphalt**, **urban_design**, **electricity**, **lane**, **mixed-use**, suburb, electrical_supply, **street_light**, wire, overhead_power_line, **alley**, electrical_network, **walkway**
+
+[label file: corpus/03_label_types/tweet_023709_000003.txt]

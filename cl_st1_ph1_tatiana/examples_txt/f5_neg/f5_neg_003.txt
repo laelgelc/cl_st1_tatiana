@@ -1,0 +1,8 @@
+FACTOR: f5_neg (NEG Dim 5)
+SCORE:  -11.0000
+TEXT ID: t003919
+
+LABELS:
+**uniform**, **military_person**, **military_uniform**, **standing**, outerwear, **headgear**, peaked_cap, **hat**, **cap**, **military_organization**, **military_officer**, **security**, **police_officer**, **law_enforcement**, **pocket**, **military**, **military_rank**, official, **marines**, **soldier**, **non-commissioned_officer**, **army**, **police**, badge, **belt**, organization, **government_agency**, **hard_hat**
+
+[label file: corpus/03_label_types/tweet_007158_000001.txt]

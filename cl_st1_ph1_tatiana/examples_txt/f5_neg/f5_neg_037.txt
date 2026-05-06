@@ -1,0 +1,8 @@
+FACTOR: f5_neg (NEG Dim 5)
+SCORE:  -5.0000
+TEXT ID: t005384
+
+LABELS:
+combat_vehicle, tank, **military_person**, **army**, military_vehicle, **military**, self-propelled_artillery, **soldier**, **military_organization**, **camouflage**, **marines**, gun_turret, troop, **military_camouflage**, organization, infantry, battle, **flag**, **military_uniform**
+
+[label file: corpus/03_label_types/tweet_009912_000001.txt]

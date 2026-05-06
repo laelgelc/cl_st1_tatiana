@@ -1,0 +1,8 @@
+FACTOR: f5_neg (NEG Dim 5)
+SCORE:  -6.0000
+TEXT ID: t001273
+
+LABELS:
+**military_camouflage**, **military_person**, **soldier**, **uniform**, **camouflage**, health_care, medical, **army**, **military_uniform**, medical_procedure, **military**, patient, scrubs, hospital, medical_equipment, **military_organization**, **marines**, **non-commissioned_officer**, organization, plastic, medical_assistant, backpack, cargo_pants, **crew**, health_professional, **boot**, **glove**, **government_agency**
+
+[label file: corpus/03_label_types/tweet_002307_000001.txt]

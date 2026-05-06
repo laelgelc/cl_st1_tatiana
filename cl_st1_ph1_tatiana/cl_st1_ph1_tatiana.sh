@@ -45,4 +45,3 @@ python score_details.py
 
 python examples_txt.py
 # Output: examples_txt (plaintext format)
-

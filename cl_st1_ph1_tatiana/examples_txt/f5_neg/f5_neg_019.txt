@@ -1,0 +1,8 @@
+FACTOR: f5_neg (NEG Dim 5)
+SCORE:  -6.0000
+TEXT ID: t013160
+
+LABELS:
+facial_hair, beard, **hat**, moustache, **headgear**, **facial_expression**, happiness, **sun_hat**, **wrinkle**, **fedora**, **cap**, **costume_hat**, photo_caption, **laughter**, **pleased**
+
+[label file: corpus/03_label_types/tweet_024170_000001.txt]

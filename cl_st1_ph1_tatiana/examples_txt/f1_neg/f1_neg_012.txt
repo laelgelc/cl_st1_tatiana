@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -2.0000
+TEXT ID: t007078
+
+LABELS:
+news, logo, **goggles**, advertising, screenshot, sunglasses, **photo_caption**
+
+[label file: corpus/03_label_types/tweet_012977_000001.txt]

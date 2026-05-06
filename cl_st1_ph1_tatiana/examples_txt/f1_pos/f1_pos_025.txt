@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  19.0000
+TEXT ID: t008230
+
+LABELS:
+automotive_parking_light, **commercial_building**, **family_car**, **palm_trees**, **luxury_vehicle**, **mid-size_car**, **shade**, **full-size_car**, **subcompact_car**, **city_car**, **parking**, **sport_utility_vehicle**, **executive_car**, **compact_car**, **parking_lot**, **sedan**, **automotive_side-view_mirror**, **california_palm**, sports_sedan, **headquarters**, **van**
+
+[label file: corpus/03_label_types/tweet_015125_000001.txt]

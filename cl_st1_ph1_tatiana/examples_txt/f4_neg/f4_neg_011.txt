@@ -1,0 +1,8 @@
+FACTOR: f4_neg (NEG Dim 4)
+SCORE:  -2.0000
+TEXT ID: t001845
+
+LABELS:
+red, event, **flag**, public_event, **crowd**, fan, **banner**, **logo**, protest, red_flag, **audience**, **rebellion**
+
+[label file: corpus/03_label_types/tweet_003325_000001.txt]

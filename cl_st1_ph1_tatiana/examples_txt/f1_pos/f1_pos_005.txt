@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  27.0000
+TEXT ID: t012076
+
+LABELS:
+**building**, **city**, **urban_area**, **metropolitan_area**, **commercial_building**, **high-rise_building**, **condominium**, **urban_design**, **apartment**, **mixed-use**, **metropolis**, **headquarters**, **street_light**, **family_car**, **corporate_headquarters**, **van**, **automotive_side-view_mirror**, **mid-size_car**, **compact_car**, **city_car**, **subcompact_car**, **full-size_car**, automotive_tail_&_brake_light, **parking**, hot_hatch, **executive_car**, **truck**, **sport_utility_vehicle**, **intersection**
+
+[label file: corpus/03_label_types/tweet_022182_000001.txt]

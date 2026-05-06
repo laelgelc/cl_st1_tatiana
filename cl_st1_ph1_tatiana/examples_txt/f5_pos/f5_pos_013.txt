@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  32.0000
+TEXT ID: t000067
+
+LABELS:
+**electronic_device**, **display_device**, **peripheral**, **output_device**, **communication_device**, **gadget**, **computer**, **computer_monitor**, **furniture**, **office_equipment**, **technology**, **flat-panel_display**, **multimedia**, **electronics**, **desk**, **personal_computer**, **home_appliance**, **desktop_computer**, **computer_hardware**, **led-backlit_lcd**, **input_device**, **computer_desk**, **office_supplies**, job, videoconferencing, **software_engineering**, **software**, **portable_communications_device**, **computer_keyboard**, **hearing**, **collaboration**, **learning**, **laptop**, **telephone**
+
+[label file: corpus/03_label_types/tweet_000125_000001.txt]

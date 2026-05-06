@@ -1,0 +1,8 @@
+FACTOR: f4_neg (NEG Dim 4)
+SCORE:  -2.0000
+TEXT ID: t004768
+
+LABELS:
+tableware, drinkware, stemware, wine_glass, alcoholic_drink, barware, liquor, champagne_glass, alcohol, glass, serveware, wine, necktie, dessert_wine, **food**, blazer, plate, dishware, **restaurant**, cocktail, wine_tasting, waiter, sherry, businessperson, taste, apéritif, finger_food, fast_food, delicacy
+
+[label file: corpus/03_label_types/tweet_008779_000001.txt]

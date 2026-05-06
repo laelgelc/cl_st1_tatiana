@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  21.0000
+TEXT ID: t011113
+
+LABELS:
+**land_vehicle**, **vehicle**, **car**, **transport**, **motor_vehicle**, **automotive_exterior**, automotive_parking_light, **automotive_mirror**, **automotive_side-view_mirror**, **family_car**, automotive_tail_&_brake_light, **rear-view_mirror**, **luxury_vehicle**, **bumper**, **parking**, **car_door**, **city_car**, **mid-size_car**, **hood**, **sport_utility_vehicle**, **compact_car**, **full-size_car**, **traffic**, **personal_luxury_car**, **kit_car**, **van**, light_commercial_vehicle, **parking_lot**
+
+[label file: corpus/03_label_types/tweet_020468_000001.txt]

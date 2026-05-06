@@ -1,0 +1,8 @@
+FACTOR: f4_pos (POS Dim 4)
+SCORE:  16.0000
+TEXT ID: t005528
+
+LABELS:
+**facial_hair**, **beard**, **cheek**, **eyebrow**, **lips**, **skin**, **moustache**, **jaw**, **neck**, **black_hair**, **facial_expression**, **eyelash**, **muscle**, barechestedness, **tattoo**, **selfie**, **thorax**, chest_hair, **torso**, **flesh**, **no_expression**, symmetry, **throat**
+
+[label file: corpus/03_label_types/tweet_010192_000001.txt]

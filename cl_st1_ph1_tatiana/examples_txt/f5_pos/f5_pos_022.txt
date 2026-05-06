@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  30.0000
+TEXT ID: t009000
+
+LABELS:
+**furniture**, **electronic_device**, **chair**, **peripheral**, **desk**, **table**, **office_equipment**, **office_chair**, **technology**, **computer**, **computer_desk**, **input_device**, **computer_hardware**, **computer_monitor**, **desktop_computer**, **display_device**, **personal_computer**, **engineering**, **communication_device**, job, **computer_networking**, **output_device**, **computer_keyboard**, backpack, **electronics**, computer_network, **software_engineering**, **collaboration**, **multimedia**, **training**, **learning**, **company**, **computer_component**
+
+[label file: corpus/03_label_types/tweet_016546_000003.txt]

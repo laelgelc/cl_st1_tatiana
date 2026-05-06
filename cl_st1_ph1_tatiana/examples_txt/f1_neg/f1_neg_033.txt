@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -1.0000
+TEXT ID: t001089
+
+LABELS:
+sports_venue, team_sport, player, shorts, stadium, jersey, sports_uniform, **team**, competition_event, sports, sportswear, **active_shorts**, tournament, football_player, sports_fan_jersey, recreation, calf, championship, soccer-specific_stadium, **football**, **fan**, **trunks**, sock, artificial_turf, crowd, soccer_player, arena, referee, **training**, coach
+
+[label file: corpus/03_label_types/tweet_001978_000001.txt]

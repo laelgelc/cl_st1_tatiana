@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  22.0000
+TEXT ID: t005498
+
+LABELS:
+**land_vehicle**, **car**, **vehicle**, **motor_vehicle**, **automotive_exterior**, **car_door**, **automotive_side-view_mirror**, automotive_wheel_system, **automotive_mirror**, **vehicle_registration_plate**, **full-size_car**, **family_car**, **mid-size_car**, **sedan**, **personal_luxury_car**, **windshield**, **luxury_vehicle**, **bumper**, **executive_car**, automotive_tail_&_brake_light, **parking**, hubcap, **city_car**, automotive_light_bulb, **compact_car**, **rear-view_mirror**, law_enforcement, **hood**, hatchback, **subcompact_car**, general_motors, sports_sedan, hybrid_vehicle, **kit_car**, hardtop, **electric_vehicle**
+
+[label file: corpus/03_label_types/tweet_010120_000002.txt]

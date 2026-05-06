@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -1.0000
+TEXT ID: t001121
+
+LABELS:
+personal_protective_equipment, **workwear**, mask, scientist, **glove**, **medical**, **safety_glove**, **health_care**, **health_professional**, research, hazmat_suit, **goggles**, laboratory, medical_glove, researcher, research_institute, hospital, science, **scrubs**, surgeon, white_coat
+
+[label file: corpus/03_label_types/tweet_002035_000001.txt]

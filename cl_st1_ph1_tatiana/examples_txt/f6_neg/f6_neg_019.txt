@@ -1,0 +1,8 @@
+FACTOR: f6_neg (NEG Dim 6)
+SCORE:  -9.0000
+TEXT ID: t001558
+
+LABELS:
+shipping_container, **port**, freight_transport, dock, cargo, channel, harbor, **container_ship**, **cargo_ship**, feeder_ship, **boat**, **watercraft**, crane, **panamax**, **ship**, **water_transportation**, **naval_architecture**
+
+[label file: corpus/03_label_types/tweet_002807_000001.txt]

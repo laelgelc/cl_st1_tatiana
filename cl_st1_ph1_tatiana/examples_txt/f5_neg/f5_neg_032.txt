@@ -1,0 +1,8 @@
+FACTOR: f5_neg (NEG Dim 5)
+SCORE:  -5.0000
+TEXT ID: t005688
+
+LABELS:
+**hat**, **glove**, **cap**, health_care, **fedora**, **sun_hat**, medical_procedure, **mask**, surgeon, medical_glove, medical, **costume_hat**
+
+[label file: corpus/03_label_types/tweet_010491_000001.txt]

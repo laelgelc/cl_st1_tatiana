@@ -1,0 +1,8 @@
+FACTOR: f6_neg (NEG Dim 6)
+SCORE:  -13.0000
+TEXT ID: t011202
+
+LABELS:
+**boat**, **watercraft**, **ship**, **naval_architecture**, **cargo_ship**, freight_transport, **container_ship**, **panamax**, shipping_container, **port**, cargo, feeder_ship, **tanker**, **water_transportation**, floating_production_storage_and_offloading, **bulk_carrier**, **motor_ship**, handymax, **oil_tanker**
+
+[label file: corpus/03_label_types/tweet_020622_000001.txt]

@@ -1,0 +1,8 @@
+FACTOR: f2_neg (NEG Dim 2)
+SCORE:  1.0000
+TEXT ID: t008707
+
+LABELS:
+facial_expression, smile, **happiness**, tooth, eyelash, mask, selfie, pleased
+
+[label file: corpus/03_label_types/tweet_016026_000001.txt]

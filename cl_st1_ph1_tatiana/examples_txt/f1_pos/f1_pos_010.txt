@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  22.0000
+TEXT ID: t009765
+
+LABELS:
+**mode_of_transport**, **city**, **urban_area**, **street**, **pedestrian**, **road**, **car**, **neighbourhood**, **town**, **family_car**, **travel**, **traffic**, **vehicle_registration_plate**, **luxury_vehicle**, **sidewalk**, **walking**, **mid-size_car**, **city_car**, **full-size_car**, **van**, **compact_car**, **personal_luxury_car**, **sedan**, **subcompact_car**
+
+[label file: corpus/03_label_types/tweet_018017_000001.txt]

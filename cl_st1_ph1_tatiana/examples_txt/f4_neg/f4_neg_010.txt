@@ -1,0 +1,8 @@
+FACTOR: f4_neg (NEG Dim 4)
+SCORE:  -2.0000
+TEXT ID: t001444
+
+LABELS:
+**retail**, convenience_store, supermarket, shelf, **customer**, grocery_store, shelving, shopping, aisle, cart, shopping_cart, **logo**, **food**, **cleanliness**, food_storage, **plastic**, shopping_mall, produce, outlet_store
+
+[label file: corpus/03_label_types/tweet_002608_000003.txt]

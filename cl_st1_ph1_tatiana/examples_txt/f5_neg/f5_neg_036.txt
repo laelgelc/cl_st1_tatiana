@@ -1,0 +1,8 @@
+FACTOR: f5_neg (NEG Dim 5)
+SCORE:  -5.0000
+TEXT ID: t000985
+
+LABELS:
+**people**, crowd, **event**, **public_event**, **pedestrian**, **fan**, audience, **protest**, **festival**, **ceremony**, **walking**, **rebellion**
+
+[label file: corpus/03_label_types/tweet_001808_000001.txt]

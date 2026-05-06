@@ -1,0 +1,8 @@
+FACTOR: f6_neg (NEG Dim 6)
+SCORE:  -12.0000
+TEXT ID: t011803
+
+LABELS:
+vehicle, transport, mode_of_transport, **boat**, **watercraft**, **ship**, freight_transport, **cargo_ship**, **naval_architecture**, **sea**, **ocean**, cargo, **tanker**, **bulk_carrier**, **panamax**, handymax, ore-bulk-oil_carrier, **oil_tanker**, **container_ship**, **water_transportation**, feeder_ship, **motor_ship**
+
+[label file: corpus/03_label_types/tweet_021671_000001.txt]

@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  17.0000
+TEXT ID: t010115
+
+LABELS:
+**urban_area**, **city**, **street**, **neighbourhood**, **town**, **pedestrian**, **metropolitan_area**, **public_space**, **metropolis**, **mixed-use**, **market**, **commercial_building**, **bazaar**, **alley**, **travel**, **walking**, advertising, **shopping**, **retail**, **high-rise_building**, billboard, **skyscraper**
+
+[label file: corpus/03_label_types/tweet_018660_000001.txt]

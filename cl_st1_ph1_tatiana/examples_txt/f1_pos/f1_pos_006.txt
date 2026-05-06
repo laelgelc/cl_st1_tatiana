@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  26.0000
+TEXT ID: t007160
+
+LABELS:
+**road**, **building**, **road_surface**, **city**, **urban_area**, **street**, **metropolitan_area**, **thoroughfare**, **asphalt**, **pedestrian**, **public_space**, **lighting**, **sidewalk**, **lane**, signaling_device, **metropolis**, **pedestrian_crossing**, zebra_crossing, traffic_light, **high-rise_building**, **commercial_building**, **skyscraper**, **street_light**, **travel**, **condominium**, **walking**, **traffic**, **evening**, **intersection**, **cityscape**
+
+[label file: corpus/03_label_types/tweet_013127_000001.txt]

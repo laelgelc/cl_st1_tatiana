@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -1.0000
+TEXT ID: t001009
+
+LABELS:
+personal_protective_equipment, **workwear**, **goggles**, **glove**, car_door, cleanliness, **safety_glove**
+
+[label file: corpus/03_label_types/tweet_001844_000001.txt]
