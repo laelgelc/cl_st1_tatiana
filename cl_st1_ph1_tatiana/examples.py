@@ -9,8 +9,8 @@ For each factor:
     - skip any file where the factor score == 0
 
 Requires SAS output:
-    sas/output_cl_st1_ph3_andressa/means_group_f<n>.tsv
-    sas/output_cl_st1_ph3_andressa/cl_st1_ph3_andressa_scores_only.tsv
+    sas/output_cl_st1_ph1_tatiana/means_group_f<n>.tsv
+    sas/output_cl_st1_ph1_tatiana/cl_st1_ph1_tatiana_scores_only.tsv
 
 Requires:
     factors/f<n>_pos.txt
@@ -36,8 +36,8 @@ FACTOR_FOLDER    = Path("factors")
 EXAMPLES_DIR     = Path("examples")
 EXAMPLES_DIR.mkdir(exist_ok=True)
 
-SCORES_FILE      = Path("sas/output_cl_st1_ph3_andressa/cl_st1_ph3_andressa_scores_only.tsv")
-MEANS_PATTERN    = "sas/output_cl_st1_ph3_andressa/means_group_f{dim}.tsv"
+SCORES_FILE      = Path("sas/output_cl_st1_ph1_tatiana/cl_st1_ph1_tatiana_scores_only.tsv")
+MEANS_PATTERN    = "sas/output_cl_st1_ph1_tatiana/means_group_f{dim}.tsv"
 
 FILE_IDS_PATH    = Path("file_ids.txt")
 
