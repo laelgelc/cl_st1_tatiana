@@ -3,7 +3,7 @@ Extract unique label descriptions from Google Cloud Vision JSON responses
 and write them as simple text lists.
 
 For each input JSON file, this script writes a .txt file with one
-underscore-separated label per line.
+lowercased, underscore-separated label per line.
 
 Usage:
     python label_types.py --input-dir <INPUT_DIR> --output-dir <OUTPUT_DIR>
@@ -27,7 +27,7 @@ def parse_args(argv: Iterable[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
             "Convert Google Vision label annotations in JSON files to per-file "
-            "lists of unique, underscore-separated label descriptions."
+            "lists of unique, lowercased, underscore-separated label descriptions."
         )
     )
     parser.add_argument(
@@ -108,9 +108,11 @@ def transform_description(desc: str) -> str:
     """
     Apply the required transformation to a label description.
 
-    Currently: replace spaces with underscores.
+    Currently:
+      1. convert to lowercase
+      2. replace spaces with underscores
     """
-    return desc.replace(" ", "_")
+    return desc.lower().replace(" ", "_")
 
 
 def write_labels_txt(

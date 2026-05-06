@@ -6,7 +6,8 @@
 
 - Reads all `*.json` files from an input directory.
 - For each file, collects the (unique) label descriptions.
-- Replaces spaces in each description with underscores.
+- Converts each description to lowercase.
+- Replaces spaces in each (lowercased) description with underscores.
 - Writes one `.txt` file per input `.json` into an output directory.
 - Each output `.txt` contains one label per line.
 
@@ -91,15 +92,18 @@ For each input JSON file:
 2. **Deduplicate per file**:
    - Keep only the **first occurrence** of each description.
    - Subsequent occurrences of the same exact description string (case-sensitive) in the same file are ignored.
-   - Deduplication is done before any space→underscore conversion (but it doesn’t matter much unless descriptions differ only in whitespace).
+   - Deduplication is done before any transformation.
 
-3. Replace spaces with underscores in each remaining description:
-   - Every `" "` becomes `"_"`.
-   - `"Commercial building"` → `"Commercial_building"`.
+3. Transform each remaining description:
+   - First convert the description to **lowercase**.
+     - Example: `"Commercial building"` → `"commercial building"`.
+   - Then replace spaces with underscores:
+     - Every `" "` becomes `"_"`.
+     - Example: `"commercial building"` → `"commercial_building"`.
    - No other characters are changed.
 
 4. The order in the output `.txt`:
-   - The order of first occurrence in the JSON, after deduplication.
+   - The order of first occurrence in the JSON, after deduplication and transformation.
 
 If there are no valid descriptions after this process:
 
@@ -112,7 +116,7 @@ If there are no valid descriptions after this process:
 For an input `X.json`, the output is `X.txt` in `--output-dir`.
 
 - Encoding: UTF-8.
-- Content: one label per line, no extra leading/trailing spaces on each line.
+- Content: one transformed label per line, no extra leading/trailing spaces on each line.
 - A trailing newline at the end of the file is acceptable.
 
 Example:
@@ -127,13 +131,13 @@ Given descriptions (in the JSON):
 The output `X.txt` is:
 
 ```text
-Commercial_building
-Headquarters
-High-rise_building
-Corporate_headquarters
+commercial_building
+headquarters
+high-rise_building
+corporate_headquarters
 ```
 
-If `"Headquarters"` appeared twice, it would still appear only once in the `.txt`, in the position of its first occurrence.
+If `"Headquarters"` appeared twice, it would still appear only once in the `.txt`, in the position of its first occurrence (as `headquarters`).
 
 ---
 
@@ -188,6 +192,7 @@ Without `--verbose`, only fatal or significant errors are printed.
 
 1. Explains what the program does.
 2. Shows basic usage.
+3. Mentions that labels are lowercased and spaces are replaced by underscores.
 
 For example (concept, not exact wording):
 
@@ -197,7 +202,7 @@ Extract unique label descriptions from Google Vision JSON responses and
 write them as simple text lists.
 
 For each input JSON file, this script writes a .txt file with one
-underscore-separated label per line.
+lowercased, underscore-separated label per line.
 
 Usage:
     python label_types.py --input-dir <INPUT_DIR> --output-dir <OUTPUT_DIR>
