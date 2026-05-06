@@ -19,5 +19,8 @@ python top_labels.py \
 
 rm -rf columns columns_clean
 python columns.py
-# Output: columns, columns_clean, file_ids.txt, index_keywords.txt
+# Output: columns, columns_clean, file_ids.txt, index_top_labels.txt
+
+python merge_columns.py
+# Output: sas/counts.txt
 
