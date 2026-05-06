@@ -38,3 +38,8 @@ python corpus_size.py
 
 python examples.py
 # Output: examples (LaTeX format)
+
+# Sanity check on the scores:
+python score_details.py
+# Output: examples/score_details.txt
+
