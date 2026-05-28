@@ -1,0 +1,8 @@
+FACTOR: f7_neg (NEG Dim 7)
+SCORE:  -1.0000
+TEXT ID: t013259
+
+LABELS:
+eyewear, audio_equipment, electronic_device, glasses, vision_care, forehead, nose, microphone, spokesperson, microphone_stand, podium, public_address_system, **event**, speech, lectern, technology, job, speaker, news_conference, wire, convention
+
+[label file: corpus/03_label_types/tweet_024348_000001.txt]

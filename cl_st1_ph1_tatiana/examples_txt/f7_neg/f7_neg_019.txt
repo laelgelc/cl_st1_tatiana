@@ -1,0 +1,8 @@
+FACTOR: f7_neg (NEG Dim 7)
+SCORE:  -1.0000
+TEXT ID: t013308
+
+LABELS:
+operating_theater, hospital, medical_procedure, health_care, medical, patient, medical_equipment, health_professional, **event**, surgeon, medical_assistant, scrubs, room, hat, knee, workwear, nurse, emergency, clinic, hospital_bed, glove, medical_glove, hospital_gown, bed, physician, **science**
+
+[label file: corpus/03_label_types/tweet_024448_000001.txt]

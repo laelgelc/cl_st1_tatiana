@@ -1,0 +1,8 @@
+FACTOR: f7_neg (NEG Dim 7)
+SCORE:  -1.0000
+TEXT ID: t014416
+
+LABELS:
+urban_area, **city**, town, neighbourhood, street, pedestrian, metropolitan_area, **public_space**, metropolis, **bazaar**, mixed-use, commercial_building, **market**, **alley**, travel, shopping, retail, walking, advertising, billboard, high-rise_building, **customer**, **skyscraper**
+
+[label file: corpus/03_label_types/tweet_026476_000001.txt]
