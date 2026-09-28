@@ -250,6 +250,12 @@ bash run_python_ec2.sh \
     --output-dir corpus/02_labelled
 ```
 
+There were 389 files with empty JSON outputs:
+
+- `corpus/label_empty.tsv`
+
+Therefore, a `retry` functionality was added to the `detect_label.py` programme.
+
 ### File-based retry
 
 ```shell
@@ -285,6 +291,68 @@ python detect_labels.py \
   --output-dir corpus/02_labelled \
   --retry-empty-tsv corpus/label_empty.tsv \
   --force
+```
+
+The retry resulted in the same empty JSON outputs as can be seen below. Therefore
+
+```shell
+ubuntu@ip-172-31-5-110:~/cl_st1_tatiana/cl_st1_ph2_tatiana$ python detect_labels.py \
+  --input-dir corpus/deduplicated_2 \
+  --output-dir corpus/02_labelled \
+  --retry-empty-tsv corpus/label_empty.tsv \
+  --force
+[INFO] Using 1 input directory(ies).
+[INFO] Loading environment variables from env/.env
+[INFO] Using explicit Google Cloud project: cl-st1-tatiana
+[INFO] Loaded 389 retry filepath(s) from corpus/label_empty.tsv.
+[INFO] Built 389 retry task(s).
+[INFO] Retry mode enabled from TSV: 389 image(s) selected for reprocessing.
+[INFO] Processed 10/389 images
+[INFO] Processed 20/389 images
+[INFO] Processed 30/389 images
+[INFO] Processed 40/389 images
+[INFO] Processed 50/389 images
+[INFO] Processed 60/389 images
+[INFO] Processed 70/389 images
+[INFO] Processed 80/389 images
+[INFO] Processed 90/389 images
+[INFO] Processed 100/389 images
+[INFO] Processed 110/389 images
+[INFO] Processed 120/389 images
+[INFO] Processed 130/389 images
+[INFO] Processed 140/389 images
+[INFO] Processed 150/389 images
+[INFO] Processed 160/389 images
+[INFO] Processed 170/389 images
+[INFO] Processed 180/389 images
+[INFO] Processed 190/389 images
+[INFO] Processed 200/389 images
+[INFO] Processed 210/389 images
+[INFO] Processed 220/389 images
+[INFO] Processed 230/389 images
+[INFO] Processed 240/389 images
+[INFO] Processed 250/389 images
+[INFO] Processed 260/389 images
+[INFO] Processed 270/389 images
+[INFO] Processed 280/389 images
+[INFO] Processed 290/389 images
+[INFO] Processed 300/389 images
+[INFO] Processed 310/389 images
+[INFO] Processed 320/389 images
+[INFO] Processed 330/389 images
+[INFO] Processed 340/389 images
+[INFO] Processed 350/389 images
+[INFO] Processed 360/389 images
+[INFO] Processed 370/389 images
+[INFO] Processed 380/389 images
+[INFO] Processed 389/389 images
+[INFO] Processing complete. Success: 389, Failed: 0, Skipped (existing): 0, Total discovered/selected: 389
+ubuntu@ip-172-31-5-110:~/cl_st1_tatiana/cl_st1_ph2_tatiana$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+ubuntu@ip-172-31-5-110:~/cl_st1_tatiana/cl_st1_ph2_tatiana$ 
 ```
 
 ## 3. Extract key lemmas by group
