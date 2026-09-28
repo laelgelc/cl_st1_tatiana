@@ -236,10 +236,21 @@ corpus/near_duplicates/110110001111000011110000111100001110010011110001110000011
 python detect_labels.py \
     --input-dir corpus/deduplicated_2 \
     --output-dir corpus/02_labelled \
+    --max-results 150 \
     --dry-run
 ```
 
 Output: `corpus/02_labelled/`
+
+### Full run
+
+```shell
+python detect_labels.py \
+    --input-dir corpus/deduplicated_2 \
+    --output-dir corpus/02_labelled \
+    --max-results 150 \
+    --workers 4
+```
 
 ### Production mode on an EC2 instance
 
