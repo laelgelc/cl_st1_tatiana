@@ -14,6 +14,8 @@ response for each image to disk:
 * Supports:
   - Skipping already processed images (default).
   - Forced reprocessing via `--force`.
+  - Retrying files listed in a TSV file via `--retry-empty-tsv`.
+  - Retrying specific output files/stems via `--retry-file`.
   - Parallel workers via `--workers`.
   - Test mode (`--test N`) to process only the first N images.
   - Dry-run mode (`--dry-run`) that plans work but does not call the API or write files.
@@ -149,6 +151,22 @@ Optional Arguments
     skipped.
   * When set, existing JSON outputs are ignored and all images are reprocessed.
 
+* ``--retry-empty-tsv PATH``
+
+  TSV file containing a `filepath` column with output JSON files to retry, for example
+  `corpus/label_empty.tsv`. The script maps those JSON output paths back to source
+  images by looking under the input directories for matching stems and known image
+  extensions. In this retry mode, existing output JSON files are overwritten.
+
+* ``--retry-file VALUE`` (repeatable)
+
+  Retry only a specific file. This can be used with `--retry-empty-tsv` to filter that
+  list, or by itself to retry named output files/stems directly. Accepted values include:
+
+  * A JSON output path, e.g. `corpus/02_labelled/image01.json`.
+  * A filename, e.g. `image01.json`.
+  * A stem, e.g. `image01`.
+
 * ``--log-level LEVEL`` (default: ``INFO``)
 
   Log level, one of: `DEBUG`, `INFO`, `WARNING`, `ERROR`, `CRITICAL`.
@@ -208,15 +226,49 @@ Force reprocessing of all images:
        --output-dir vision_output \
        --force
 
+Retry output files listed in a TSV file:
+
+.. code-block:: bash
+
+   python detect_labels.py \
+       --input-dir corpus/deduplicated_2 \
+       --output-dir corpus/02_labelled \
+       --retry-empty-tsv corpus/label_empty.tsv \
+       --workers 4
+
+Retry selected files from the TSV file:
+
+.. code-block:: bash
+
+   python detect_labels.py \
+       --input-dir corpus/deduplicated_2 \
+       --output-dir corpus/02_labelled \
+       --retry-empty-tsv corpus/label_empty.tsv \
+       --retry-file saude202003_n_00026_00000004 \
+       --retry-file saude202003_n_00027_00000004 \
+       --workers 4
+
+Retry specific output JSON paths directly:
+
+.. code-block:: bash
+
+   python detect_labels.py \
+       --input-dir corpus/deduplicated_2 \
+       --output-dir corpus/02_labelled \
+       --retry-file corpus/02_labelled/saude202003_n_00026_00000004.json \
+       --retry-file corpus/02_labelled/saude202003_n_00027_00000004.json \
+       --workers 4
+
 Processing Steps (Summary)
 ==========================
 1. Parse command-line arguments.
 2. Configure logging based on `--log-level`.
 3. Load `.env` (default: `env/.env`) and populate environment variables.
 4. Validate presence of `GOOGLE_APPLICATION_CREDENTIALS`.
-5. Discover candidate images from one or more `--input-dir` directories.
+5. Discover candidate images, or build retry tasks from TSV/specific retry arguments.
 6. Compute output JSON paths under `--output-dir` mirroring the input directory
-   structure; skip existing outputs unless `--force` is set.
+   structure; skip existing outputs unless `--force` is set. Retry modes bypass this
+   skip-existing filter because the intended behaviour is to overwrite failed outputs.
 7. If `--test` is given, limit the images to the first N after sorting.
 8. If `--dry-run` is set:
    * Log all planned input→output mappings.
@@ -244,6 +296,7 @@ Expected log output includes:
   - Number of input directories.
   - Number of candidate images discovered.
   - Number of images remaining after skip-existing filtering.
+  - Whether retry mode is enabled.
   - Whether test mode is enabled (and N).
   - Whether dry-run is enabled.
   - Periodic progress updates during processing.
@@ -254,7 +307,8 @@ Expected log output includes:
   - Additional diagnostics if needed.
 
 * WARNING:
-  - Non-fatal problems such as unreadable files.
+  - Non-fatal problems such as unreadable files or retry outputs whose source images
+    cannot be located.
 
 * ERROR:
   - Fatal setup issues (e.g. missing `GOOGLE_APPLICATION_CREDENTIALS`).
@@ -267,6 +321,7 @@ On fatal configuration problems, the script exits with a non-zero status code.
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 import logging
 import os
@@ -275,7 +330,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, List, Optional, Sequence, Set, Tuple
+from typing import List, Optional, Sequence, Set, Tuple
 
 from google.api_core import exceptions as gcloud_exceptions
 from google.cloud import vision
@@ -296,6 +351,7 @@ class ImageTask:
 
 @dataclass
 class ProcessResult:
+    """Container describing the result of processing one image."""
     image_path: Path
     output_path: Path
     success: bool
@@ -419,11 +475,10 @@ def compute_output_path(
             relative = image_path_resolved.relative_to(root_resolved)
         except ValueError:
             continue
-        # Found the root this image belongs to.
+
         json_relative = relative.with_suffix(".json")
         return output_root.joinpath(json_relative)
 
-    # Fallback: if no root matched, just use the basename under output_root.
     json_name = image_path_resolved.name
     json_name = Path(json_name).with_suffix(".json").name
     return output_root / json_name
@@ -460,6 +515,173 @@ def build_tasks(
         skipped_existing,
     )
     return tasks, skipped_existing
+
+
+def read_retry_output_paths_from_tsv(tsv_path: Path, logger: logging.Logger) -> List[Path]:
+    """
+    Read retry output JSON paths from a TSV file with a 'filepath' column.
+
+    The expected file is, for example, corpus/label_empty.tsv.
+    """
+    if not tsv_path.exists():
+        raise FileNotFoundError(f"Retry TSV file does not exist: {tsv_path}")
+    if not tsv_path.is_file():
+        raise FileNotFoundError(f"Retry TSV path is not a file: {tsv_path}")
+
+    retry_paths: List[Path] = []
+    with tsv_path.open("r", encoding="utf-8", newline="") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        if not reader.fieldnames or "filepath" not in reader.fieldnames:
+            raise ValueError(f"Retry TSV must contain a 'filepath' column: {tsv_path}")
+
+        for row in reader:
+            value = (row.get("filepath") or "").strip()
+            if value:
+                retry_paths.append(Path(value))
+
+    logger.info("Loaded %d retry filepath(s) from %s.", len(retry_paths), tsv_path)
+    return retry_paths
+
+
+def normalise_retry_filter(value: str) -> Set[str]:
+    """
+    Return possible filter keys for a user-provided retry-file value.
+
+    Values may be full paths, path fragments, filenames, or stems.
+    """
+    raw = value.strip()
+    if not raw:
+        return set()
+
+    path = Path(raw)
+    return {
+        raw,
+        path.as_posix(),
+        path.name,
+        path.stem,
+    }
+
+
+def retry_file_matches(path: Path, retry_filters: Set[str]) -> bool:
+    """
+    Return True if path matches one of the requested retry filters.
+
+    Filters may be full paths, basenames, stems, or filenames.
+    """
+    path_as_posix = path.as_posix()
+    path_resolved_posix = path.resolve().as_posix() if path.is_absolute() or path.exists() else path_as_posix
+
+    candidates = {
+        str(path),
+        path_as_posix,
+        path_resolved_posix,
+        path.name,
+        path.stem,
+    }
+
+    return bool(candidates & retry_filters)
+
+
+def output_path_to_image_task(
+        output_path: Path,
+        input_dirs: Sequence[Path],
+        output_root: Path,
+        extensions: Set[str],
+        logger: logging.Logger,
+) -> Optional[ImageTask]:
+    """
+    Convert an output JSON path back to an ImageTask by locating the original image.
+
+    The output JSON path is expected to be under output_root. The corresponding image is
+    searched under each input directory using the same relative path and any allowed
+    image extension. If that fails, the function also searches by stem under each input
+    directory.
+    """
+    output_root_resolved = output_root.resolve()
+
+    if output_path.is_absolute():
+        output_path_for_write = output_path
+        output_path_resolved = output_path
+    else:
+        output_path_for_write = output_path
+        output_path_resolved = output_path.resolve()
+
+    try:
+        relative_json = output_path_resolved.relative_to(output_root_resolved)
+    except ValueError:
+        try:
+            relative_json = output_path.relative_to(output_root)
+        except ValueError:
+            relative_json = Path(output_path.name)
+
+    relative_without_suffix = relative_json.with_suffix("")
+
+    for input_dir in input_dirs:
+        input_dir_resolved = input_dir.resolve()
+        for ext in sorted(extensions):
+            candidate = input_dir_resolved / relative_without_suffix.with_suffix(ext)
+            if candidate.exists() and candidate.is_file():
+                return ImageTask(image_path=candidate.resolve(), output_path=output_path_for_write)
+
+    target_stem = output_path.stem
+    for input_dir in input_dirs:
+        input_dir_resolved = input_dir.resolve()
+        for ext in sorted(extensions):
+            matches = sorted(input_dir_resolved.rglob(f"{target_stem}{ext}"))
+            if matches:
+                return ImageTask(image_path=matches[0].resolve(), output_path=output_path_for_write)
+
+    logger.warning(
+        "Could not find source image for retry output %s under input dirs: %s",
+        output_path,
+        ", ".join(str(p) for p in input_dirs),
+    )
+    return None
+
+
+def build_retry_tasks(
+        retry_output_paths: Sequence[Path],
+        input_dirs: Sequence[Path],
+        output_root: Path,
+        extensions: Set[str],
+        retry_files: Optional[Sequence[str]],
+        logger: logging.Logger,
+) -> List[ImageTask]:
+    """
+    Build retry tasks from output JSON paths, optionally limiting to specific files.
+
+    Unlike normal processing, retry tasks do not skip existing output JSON files.
+    """
+    retry_filters: Set[str] = set()
+    for value in retry_files or []:
+        retry_filters.update(normalise_retry_filter(value))
+
+    tasks: List[ImageTask] = []
+    seen: Set[Tuple[Path, Path]] = set()
+
+    for output_path in retry_output_paths:
+        if retry_filters and not retry_file_matches(output_path, retry_filters):
+            continue
+
+        task = output_path_to_image_task(
+            output_path=output_path,
+            input_dirs=input_dirs,
+            output_root=output_root,
+            extensions=extensions,
+            logger=logger,
+        )
+        if task is None:
+            continue
+
+        key = (task.image_path.resolve(), task.output_path.resolve())
+        if key in seen:
+            continue
+
+        seen.add(key)
+        tasks.append(task)
+
+    logger.info("Built %d retry task(s).", len(tasks))
+    return tasks
 
 
 def apply_test_limit(tasks: List[ImageTask], limit: Optional[int], logger: logging.Logger) -> List[ImageTask]:
@@ -525,9 +747,8 @@ def call_vision_label_detection(
         pass
 
     response = client.batch_annotate_images(requests=requests, **kwargs)
-    # response is BatchAnnotateImagesResponse
+
     try:
-        # Prefer to_dict() if available.
         return response.to_dict()  # type: ignore[no-any-return]
     except AttributeError:
         return MessageToDict(response._pb)  # type: ignore[attr-defined]
@@ -535,8 +756,7 @@ def call_vision_label_detection(
 
 def ensure_parent_dir(path: Path) -> None:
     """Ensure that the parent directory for a path exists."""
-    parent = path.parent
-    parent.mkdir(parents=True, exist_ok=True)
+    path.parent.mkdir(parents=True, exist_ok=True)
 
 
 def process_single_image(
@@ -599,7 +819,6 @@ def process_single_image(
             )
             time.sleep(backoff)
     else:
-        # Should not reach here because we return on final failure above.
         msg = f"Vision API failed after {max_attempts} attempts: {last_exc}"
         return ProcessResult(task.image_path, task.output_path, success=False, error=msg)
 
@@ -686,6 +905,7 @@ def parse_extensions(arg: Optional[str]) -> Set[str]:
     """Parse a comma-separated list of extensions, or return the default set."""
     if not arg:
         return set(DEFAULT_EXTENSIONS)
+
     exts: Set[str] = set()
     for part in arg.split(","):
         part = part.strip()
@@ -694,6 +914,7 @@ def parse_extensions(arg: Optional[str]) -> Set[str]:
         if not part.startswith("."):
             part = "." + part
         exts.add(part.lower())
+
     return exts or set(DEFAULT_EXTENSIONS)
 
 
@@ -762,11 +983,31 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
         help="Reprocess all images, ignoring any existing JSON outputs.",
     )
     parser.add_argument(
+        "--retry-empty-tsv",
+        default=None,
+        help=(
+            "TSV file containing a 'filepath' column of output JSON files to retry, "
+            "for example corpus/label_empty.tsv."
+        ),
+    )
+    parser.add_argument(
+        "--retry-file",
+        action="append",
+        default=None,
+        help=(
+            "Retry only a specific file. Can be repeated. Accepts a full JSON output "
+            "path, filename, or stem such as saude202003_n_00026_00000004. "
+            "With --retry-empty-tsv, filters the TSV list. Without --retry-empty-tsv, "
+            "the supplied values are treated as retry output paths/stems directly."
+        ),
+    )
+    parser.add_argument(
         "--log-level",
         default="INFO",
         choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
         help="Logging verbosity level (default: INFO).",
     )
+
     args = parser.parse_args(argv)
 
     if args.max_results <= 0:
@@ -801,20 +1042,51 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     load_env(env_path, logger)
     project_id = validate_credentials(logger)
     if project_id is None and "GOOGLE_APPLICATION_CREDENTIALS" not in os.environ:
-        # validate_credentials already logged an error; double-check env in case of edge cases.
         return 1
     if "GOOGLE_APPLICATION_CREDENTIALS" not in os.environ:
-        # validate_credentials only logged but returned project_id; still must enforce creds presence.
         logger.error("GOOGLE_APPLICATION_CREDENTIALS is missing after .env loading.")
         return 1
 
-    # Discover images.
-    images = find_images(input_dirs, extensions, logger)
+    try:
+        if args.retry_empty_tsv:
+            retry_output_paths = read_retry_output_paths_from_tsv(Path(args.retry_empty_tsv), logger)
+            tasks = build_retry_tasks(
+                retry_output_paths=retry_output_paths,
+                input_dirs=input_dirs,
+                output_root=output_root,
+                extensions=extensions,
+                retry_files=args.retry_file,
+                logger=logger,
+            )
+            images = [task.image_path for task in tasks]
+            skipped_existing = 0
+            logger.info(
+                "Retry mode enabled from TSV: %d image(s) selected for reprocessing.",
+                len(tasks),
+            )
+        elif args.retry_file:
+            retry_output_paths = [Path(value) for value in args.retry_file]
+            tasks = build_retry_tasks(
+                retry_output_paths=retry_output_paths,
+                input_dirs=input_dirs,
+                output_root=output_root,
+                extensions=extensions,
+                retry_files=None,
+                logger=logger,
+            )
+            images = [task.image_path for task in tasks]
+            skipped_existing = 0
+            logger.info(
+                "Specific-file retry mode enabled: %d image(s) selected for reprocessing.",
+                len(tasks),
+            )
+        else:
+            images = find_images(input_dirs, extensions, logger)
+            tasks, skipped_existing = build_tasks(images, input_dirs, output_root, args.force, logger)
+    except (FileNotFoundError, NotADirectoryError, ValueError) as exc:
+        logger.error("%s", exc)
+        return 1
 
-    # Build tasks and skip existing outputs unless --force.
-    tasks, skipped_existing = build_tasks(images, input_dirs, output_root, args.force, logger)
-
-    # Apply test limit if requested.
     tasks = apply_test_limit(tasks, args.test, logger)
 
     if args.dry_run:
@@ -829,17 +1101,13 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         )
         return 0
 
-    # Ensure output root exists before processing.
     output_root.mkdir(parents=True, exist_ok=True)
 
-    # Initialize Vision client.
     try:
         client = init_vision_client(project_id, logger)
     except Exception:
-        # Error already logged.
         return 1
 
-    # Process tasks.
     if not tasks:
         logger.info("No images to process after filtering; exiting.")
         return 0
@@ -849,19 +1117,16 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     else:
         results = run_parallel(client, tasks, args.max_results, project_id, logger, workers=args.workers)
 
-    # Summarize results.
     success_count = sum(1 for r in results if r.success)
     failure_count = sum(1 for r in results if not r.success)
     logger.info(
-        "Processing complete. Success: %d, Failed: %d, Skipped (existing): %d, Total discovered: %d",
+        "Processing complete. Success: %d, Failed: %d, Skipped (existing): %d, Total discovered/selected: %d",
         success_count,
         failure_count,
         skipped_existing,
         len(images),
     )
 
-    # Exit code: 0 even if some images failed, as long as setup was OK.
-    # Adjust to non-zero if you want failures to signal an error.
     return 0
 
 
