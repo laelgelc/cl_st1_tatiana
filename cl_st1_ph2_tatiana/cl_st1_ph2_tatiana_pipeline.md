@@ -228,12 +228,15 @@ corpus/near_duplicates/110110001111000011110000111100001110010011110001110000011
 (my_env) eyamrog@eyamrog-Vivobook-16:~/PycharmProjects/cl_st1_tatiana/cl_st1_ph2_tatiana$ 
 ```
 
-## 2. Tag the corpus
+## 2. Detect labels
 
-The programme was adapted to remove Markdown marker characters that should not be tagged as tokens.
+### Dry run
 
 ```shell
-python tag.py
+python detect_labels.py \
+   --input-dir corpus/deduplicated_2 \
+   --output-dir corpus/02_labelled \
+   --dry-run
 ```
 
 Output: `corpus/07_tagged/<group>/`
