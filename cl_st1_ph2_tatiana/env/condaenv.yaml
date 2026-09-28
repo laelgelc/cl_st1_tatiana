@@ -30,7 +30,7 @@ dependencies:
 #  - google-cloud-storage
 #  - google-cloud-translate
 #  - google-cloud-videointelligence
-#  - google-cloud-vision
+  - google-cloud-vision
   - google-genai
   - ipython
   - jupyterlab

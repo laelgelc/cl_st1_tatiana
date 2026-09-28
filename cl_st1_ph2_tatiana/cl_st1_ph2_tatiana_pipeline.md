@@ -239,7 +239,7 @@ python detect_labels.py \
    --dry-run
 ```
 
-Output: `corpus/07_tagged/<group>/`
+Output: `corpus/02_labelled/`
 
 ## 3. Extract key lemmas by group
 
