@@ -234,12 +234,21 @@ corpus/near_duplicates/110110001111000011110000111100001110010011110001110000011
 
 ```shell
 python detect_labels.py \
-   --input-dir corpus/deduplicated_2 \
-   --output-dir corpus/02_labelled \
-   --dry-run
+    --input-dir corpus/deduplicated_2 \
+    --output-dir corpus/02_labelled \
+    --dry-run
 ```
 
 Output: `corpus/02_labelled/`
+
+### Production mode on an EC2 instance
+
+```shell
+bash run_python_ec2.sh \
+    detect_labels.py \
+    --input-dir corpus/deduplicated_2 \
+    --output-dir corpus/02_labelled
+```
 
 ## 3. Extract key lemmas by group
 
