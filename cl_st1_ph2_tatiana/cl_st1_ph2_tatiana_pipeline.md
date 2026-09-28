@@ -247,7 +247,9 @@ Output: `corpus/02_labelled/`
 bash run_python_ec2.sh \
     detect_labels.py \
     --input-dir corpus/deduplicated_2 \
-    --output-dir corpus/02_labelled
+    --output-dir corpus/02_labelled \
+    --max-results 150 \
+    --workers 4
 ```
 
 There were 389 files with empty JSON outputs:

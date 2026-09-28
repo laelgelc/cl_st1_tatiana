@@ -338,7 +338,7 @@ from google.protobuf.json_format import MessageToDict
 
 
 DEFAULT_EXTENSIONS = {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff"}
-DEFAULT_MAX_RESULTS = 50
+DEFAULT_MAX_RESULTS = 150
 DEFAULT_ENV_FILE = "env/.env"
 
 
