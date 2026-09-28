@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9446548,
+          "topicality": 0.0009273986
+        },
+        {
+          "mid": "/m/04_fs",
+          "description": "Muscle",
+          "score": 0.8850188,
+          "topicality": 0.005060797
+        },
+        {
+          "mid": "/m/0dm6dl",
+          "description": "Barechestedness",
+          "score": 0.788829,
+          "topicality": 0.060188342
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.6369548,
+          "topicality": 0.006888503
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.5347313,
+          "topicality": 0.023893133
+        }
+      ]
+    }
+  ]
+}

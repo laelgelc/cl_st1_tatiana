@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.96668726,
+          "topicality": 0.0058706063
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9533126,
+          "topicality": 0.02913269
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9098473,
+          "topicality": 0.0002481988
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.52161556,
+          "topicality": 0.014411119
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7646382,
+          "topicality": 0.00014708439
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.7103653,
+          "topicality": 0.0004988798
+        },
+        {
+          "mid": "/m/02fq_6",
+          "description": "Fedora",
+          "score": 0.62889564,
+          "topicality": 0.000174233
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.57137614,
+          "topicality": 0.0002735761
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.528981,
+          "topicality": 0.00018406479
+        }
+      ]
+    }
+  ]
+}

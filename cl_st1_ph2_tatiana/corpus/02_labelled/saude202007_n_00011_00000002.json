@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.96856976,
+          "topicality": 0.0033025425
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.93294317,
+          "topicality": 0.059539933
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9202858,
+          "topicality": 0.00054467056
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.842182,
+          "topicality": 0.0010161267
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.83591557,
+          "topicality": 0.17607817
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.81377244,
+          "topicality": 0.23668356
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7650724,
+          "topicality": 0.06791258
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.6637439,
+          "topicality": 0.0016658163
+        },
+        {
+          "mid": "/m/01r9v",
+          "description": "Computer program",
+          "score": 0.6415158,
+          "topicality": 0.17461625
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.561205,
+          "topicality": 0.001983756
+        }
+      ]
+    }
+  ]
+}

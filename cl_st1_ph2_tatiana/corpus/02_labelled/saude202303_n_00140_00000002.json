@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.92845476,
+          "topicality": 0.008923577
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.89705133,
+          "topicality": 0.4307644
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.8736014,
+          "topicality": 0.0034798156
+        },
+        {
+          "mid": "/m/014xcs",
+          "description": "Pedestrian crossing",
+          "score": 0.8550981,
+          "topicality": 0.49729383
+        },
+        {
+          "mid": "/m/079cl",
+          "description": "Skyscraper",
+          "score": 0.8459846,
+          "topicality": 0.08973504
+        },
+        {
+          "mid": "/m/014v7p",
+          "description": "Zebra crossing",
+          "score": 0.84428895,
+          "topicality": 0.1477152
+        },
+        {
+          "mid": "/m/056mk",
+          "description": "Metropolis",
+          "score": 0.8291239,
+          "topicality": 0.05059017
+        },
+        {
+          "mid": "/m/01fdzj",
+          "description": "Tower",
+          "score": 0.8005752,
+          "topicality": 0.003171288
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.74875426,
+          "topicality": 0.058351945
+        },
+        {
+          "mid": "/m/034z7h",
+          "description": "Cityscape",
+          "score": 0.7100006,
+          "topicality": 0.005961566
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5563483,
+          "topicality": 7.3903786e-05
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5372361,
+          "topicality": 3.5160465e-05
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5192925,
+          "topicality": 0.0009440977
+        },
+        {
+          "mid": "/m/014mpm",
+          "description": "Intersection",
+          "score": 0.5179725,
+          "topicality": 0.066994734
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.50660276,
+          "topicality": 0.0009791272
+        }
+      ]
+    }
+  ]
+}

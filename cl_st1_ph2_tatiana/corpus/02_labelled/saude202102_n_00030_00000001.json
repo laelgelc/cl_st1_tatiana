@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.98559076,
+          "topicality": 0.0026941057
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98232937,
+          "topicality": 0.04524323
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.96066314,
+          "topicality": 0.018949881
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.9449029,
+          "topicality": 0.05730862
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9081388,
+          "topicality": 0.01613521
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.585585,
+          "topicality": 0.0011417536
+        }
+      ]
+    }
+  ]
+}

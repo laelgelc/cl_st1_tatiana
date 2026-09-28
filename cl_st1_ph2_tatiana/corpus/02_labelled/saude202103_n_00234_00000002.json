@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8772778,
+          "topicality": 0.01872419
+        },
+        {
+          "mid": "/m/01mwkf",
+          "description": "Monochrome",
+          "score": 0.8217581,
+          "topicality": 0.0030912182
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7101689,
+          "topicality": 0.014504255
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.61888206,
+          "topicality": 0.006471089
+        }
+      ]
+    }
+  ]
+}

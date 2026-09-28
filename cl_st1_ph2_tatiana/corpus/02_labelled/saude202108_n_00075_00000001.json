@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9080205,
+          "topicality": 0.0031525658
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8821857,
+          "topicality": 0.0117870625
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.87259865,
+          "topicality": 0.00039400585
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.8291579,
+          "topicality": 0.07340695
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.75611794,
+          "topicality": 0.1844245
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7084513,
+          "topicality": 0.015452717
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.67982906,
+          "topicality": 0.080399044
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5967509,
+          "topicality": 0.0127174435
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.564083,
+          "topicality": 7.330129e-05
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5103464,
+          "topicality": 1.3808474e-05
+        }
+      ]
+    }
+  ]
+}

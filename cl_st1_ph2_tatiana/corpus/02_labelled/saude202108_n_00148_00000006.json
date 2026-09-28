@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8809759,
+          "topicality": 0.0046538594
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.83295333,
+          "topicality": 0.0052140816
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.8071691,
+          "topicality": 0.003992557
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.56460273,
+          "topicality": 0.002479237
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5644888,
+          "topicality": 0.00075444643
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5342296,
+          "topicality": 0.012232546
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.505201,
+          "topicality": 0.00020966707
+        }
+      ]
+    }
+  ]
+}

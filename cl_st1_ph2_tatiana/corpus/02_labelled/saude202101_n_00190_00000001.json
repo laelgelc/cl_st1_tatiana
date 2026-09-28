@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.99485654,
+          "topicality": 0.001021318
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9857306,
+          "topicality": 0.03609797
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9839785,
+          "topicality": 0.0006466104
+        },
+        {
+          "mid": "/m/039jq",
+          "description": "Glass",
+          "score": 0.7961098,
+          "topicality": 7.281203e-05
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.58945584,
+          "topicality": 0.0022177438
+        }
+      ]
+    }
+  ]
+}

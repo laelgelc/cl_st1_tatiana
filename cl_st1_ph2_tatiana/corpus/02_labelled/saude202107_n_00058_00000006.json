@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6711961,
+          "topicality": 0.017476661
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.56054914,
+          "topicality": 0.0011564808
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5090342,
+          "topicality": 0.0015668636
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.50459826,
+          "topicality": 0.0046473145
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5017176,
+          "topicality": 0.028730523
+        }
+      ]
+    }
+  ]
+}

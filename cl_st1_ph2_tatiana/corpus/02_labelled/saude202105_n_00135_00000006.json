@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.9819714,
+          "topicality": 0.040354718
+        },
+        {
+          "mid": "/m/02p0tk3",
+          "description": "Human body",
+          "score": 0.9584618,
+          "topicality": 0.010217289
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.937134,
+          "topicality": 0.057314582
+        },
+        {
+          "mid": "/m/04bcr3",
+          "description": "Table",
+          "score": 0.91762316,
+          "topicality": 0.1613265
+        },
+        {
+          "mid": "/m/02rfdq",
+          "description": "Interior design",
+          "score": 0.90669364,
+          "topicality": 0.007280423
+        },
+        {
+          "mid": "/m/06l8d",
+          "description": "Restaurant",
+          "score": 0.8918904,
+          "topicality": 0.1745976
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.80815214,
+          "topicality": 0.046017215
+        },
+        {
+          "mid": "/m/01h8n0",
+          "description": "Conversation",
+          "score": 0.7607787,
+          "topicality": 0.006227451
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.62097394,
+          "topicality": 5.2738353e-05
+        },
+        {
+          "mid": "/m/02pdnx",
+          "description": "Cafeteria",
+          "score": 0.6125001,
+          "topicality": 0.3993936
+        }
+      ]
+    }
+  ]
+}

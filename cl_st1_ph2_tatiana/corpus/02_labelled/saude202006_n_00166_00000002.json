@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.96484137,
+          "topicality": 0.115428075
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449495,
+          "topicality": 0.0007862781
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.9258472,
+          "topicality": 3.2694043e-05
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.91833985,
+          "topicality": 0.0703482
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9015506,
+          "topicality": 0.003963544
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7934725,
+          "topicality": 0.0016504194
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.78968227,
+          "topicality": 0.0022157438
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.78792495,
+          "topicality": 0.001816168
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.7463454,
+          "topicality": 0.1319176
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6965433,
+          "topicality": 0.009987415
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.67446554,
+          "topicality": 0.001110131
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6641834,
+          "topicality": 0.04711493
+        }
+      ]
+    }
+  ]
+}

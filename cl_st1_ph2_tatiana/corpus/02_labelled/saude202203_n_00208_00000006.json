@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7973626,
+          "topicality": 0.006899617
+        },
+        {
+          "mid": "/m/070qm",
+          "description": "Freight transport",
+          "score": 0.77523226,
+          "topicality": 0.51520437
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.72820437,
+          "topicality": 0.0008518
+        },
+        {
+          "mid": "/m/05b1rx",
+          "description": "Online advertising",
+          "score": 0.60650885,
+          "topicality": 0.0006369216
+        },
+        {
+          "mid": "/m/023cbk",
+          "description": "Cargo",
+          "score": 0.583907,
+          "topicality": 0.4731025
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8202063,
+          "topicality": 0.005828702
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6396232,
+          "topicality": 0.0016842053
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.6175218,
+          "topicality": 0.26949254
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.55302393,
+          "topicality": 0.0012603591
+        }
+      ]
+    }
+  ]
+}

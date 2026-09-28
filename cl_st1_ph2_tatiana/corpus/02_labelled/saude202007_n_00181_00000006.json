@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943638,
+          "topicality": 0.5657695
+        },
+        {
+          "mid": "/m/01bsxb",
+          "description": "Collage",
+          "score": 0.9363076,
+          "topicality": 0.23273851
+        },
+        {
+          "mid": "/m/0cbtm",
+          "description": "Tribe",
+          "score": 0.87159014,
+          "topicality": 0.47903144
+        },
+        {
+          "mid": "/m/07djv",
+          "description": "Tradition",
+          "score": 0.7198234,
+          "topicality": 0.027878188
+        },
+        {
+          "mid": "/m/0b0fq",
+          "description": "Photomontage",
+          "score": 0.5979689,
+          "topicality": 0.0449715
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.55471975,
+          "topicality": 0.003014367
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.6497602,
+          "topicality": 0.00028362797
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.5653201,
+          "topicality": 0.012151461
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.55944574,
+          "topicality": 0.0028039475
+        },
+        {
+          "mid": "/m/071rm",
+          "description": "Shooting",
+          "score": 0.53529525,
+          "topicality": 0.008234203
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5298639,
+          "topicality": 0.00240478
+        }
+      ]
+    }
+  ]
+}

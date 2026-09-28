@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.81138676,
+          "topicality": 0.0005154763
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.69720346,
+          "topicality": 0.018781744
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6745366,
+          "topicality": 0.16957873
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.58465886,
+          "topicality": 0.00590925
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.56374574,
+          "topicality": 0.04795874
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5105791,
+          "topicality": 0.00790067
+        }
+      ]
+    }
+  ]
+}

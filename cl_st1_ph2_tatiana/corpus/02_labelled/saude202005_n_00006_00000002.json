@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/030c3d",
+          "description": "Magnifying glass",
+          "score": 0.6243441,
+          "topicality": 0.42603233
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.6161894,
+          "topicality": 0.0002823066
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51232696,
+          "topicality": 0.0040513948
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.5056424,
+          "topicality": 0.035735797
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.50049686,
+          "topicality": 0.00012569598
+        }
+      ]
+    }
+  ]
+}

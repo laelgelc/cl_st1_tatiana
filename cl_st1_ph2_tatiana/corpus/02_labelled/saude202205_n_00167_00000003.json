@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.93879795,
+          "topicality": 0.016882941
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.756623,
+          "topicality": 0.020080656
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.71699154,
+          "topicality": 0.005946314
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.69711703,
+          "topicality": 0.082260236
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.681569,
+          "topicality": 0.014408334
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6650442,
+          "topicality": 0.06543551
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.59979314,
+          "topicality": 0.015854247
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.52174413,
+          "topicality": 0.021160416
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5155114,
+          "topicality": 0.0010976043
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.5100812,
+          "topicality": 0.038588412
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5083898,
+          "topicality": 0.00055154145
+        }
+      ]
+    }
+  ]
+}

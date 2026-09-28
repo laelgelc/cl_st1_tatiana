@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.9746842,
+          "topicality": 0.0011000833
+        },
+        {
+          "mid": "/m/07bsy",
+          "description": "Transport",
+          "score": 0.96775377,
+          "topicality": 0.013834948
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.91098326,
+          "topicality": 0.003574542
+        },
+        {
+          "mid": "/m/02pz5g2",
+          "description": "Light commercial vehicle",
+          "score": 0.8446545,
+          "topicality": 0.0010442074
+        },
+        {
+          "mid": "/m/012n7d",
+          "description": "Ambulance",
+          "score": 0.77073294,
+          "topicality": 0.10628127
+        },
+        {
+          "mid": "/m/07r04",
+          "description": "Truck",
+          "score": 0.7479064,
+          "topicality": 0.0006086189
+        },
+        {
+          "mid": "/m/0fmnf5",
+          "description": "Compact van",
+          "score": 0.73093474,
+          "topicality": 0.00019536373
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.72029763,
+          "topicality": 0.000699237
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.7003921,
+          "topicality": 0.08616514
+        },
+        {
+          "mid": "/m/03j1ly",
+          "description": "Emergency vehicle",
+          "score": 0.689881,
+          "topicality": 0.0003478322
+        },
+        {
+          "mid": "/m/057gn",
+          "description": "Minivan",
+          "score": 0.5943227,
+          "topicality": 9.5822674e-05
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5793094,
+          "topicality": 0.009484342
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.5019035,
+          "topicality": 0.009798451
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02_ktj",
+          "description": "Morning",
+          "score": 0.8465429,
+          "topicality": 0.0031083073
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.83533776,
+          "topicality": 0.0061256927
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.82232,
+          "topicality": 0.03465712
+        },
+        {
+          "mid": "/m/0brn2d",
+          "description": "Field",
+          "score": 0.81103635,
+          "topicality": 0.0059234323
+        },
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.71074206,
+          "topicality": 0.019723907
+        },
+        {
+          "mid": "/m/0hkvx",
+          "description": "Prairie",
+          "score": 0.70596683,
+          "topicality": 0.0016161855
+        },
+        {
+          "mid": "/m/0263lr1",
+          "description": "Crop",
+          "score": 0.6704647,
+          "topicality": 0.0064977356
+        },
+        {
+          "mid": "/m/0g8p9",
+          "description": "Farm",
+          "score": 0.65385264,
+          "topicality": 0.0032543347
+        },
+        {
+          "mid": "/m/04mx32",
+          "description": "Evening",
+          "score": 0.64440316,
+          "topicality": 0.001658434
+        },
+        {
+          "mid": "/m/01b2q6",
+          "description": "Sunrise",
+          "score": 0.64352566,
+          "topicality": 0.005130318
+        },
+        {
+          "mid": "/m/01b3l7",
+          "description": "Dusk",
+          "score": 0.62198824,
+          "topicality": 0.0040476164
+        },
+        {
+          "mid": "/g/11k2xz7mr",
+          "description": "Meteorological phenomenon",
+          "score": 0.61291933,
+          "topicality": 1.0856242e-05
+        },
+        {
+          "mid": "/m/01b2w5",
+          "description": "Sunset",
+          "score": 0.5920649,
+          "topicality": 0.006771121
+        },
+        {
+          "mid": "/m/01b3kg",
+          "description": "Dawn",
+          "score": 0.5875525,
+          "topicality": 0.0017409765
+        },
+        {
+          "mid": "/m/0f45l",
+          "description": "Steppe",
+          "score": 0.58569014,
+          "topicality": 0.0026118902
+        },
+        {
+          "mid": "/m/01d2_z",
+          "description": "Wind turbine",
+          "score": 0.51814795,
+          "topicality": 0.0029019841
+        },
+        {
+          "mid": "/m/01d9ll",
+          "description": "Astronomical object",
+          "score": 0.5111891,
+          "topicality": 0.0007027128
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8577713,
+          "topicality": 0.041373245
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7329402,
+          "topicality": 0.009331513
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.6886833,
+          "topicality": 0.010499092
+        },
+        {
+          "mid": "/m/01xq3w",
+          "description": "Debate",
+          "score": 0.6025948,
+          "topicality": 0.22703776
+        },
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.57026637,
+          "topicality": 0.13426913
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.550329,
+          "topicality": 0.10969959
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5207274,
+          "topicality": 0.001551554
+        }
+      ]
+    }
+  ]
+}

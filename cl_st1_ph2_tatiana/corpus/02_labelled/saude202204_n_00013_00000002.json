@@ -1,0 +1,242 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.98518926,
+          "topicality": 0.014481079
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9769621,
+          "topicality": 0.002014166
+        },
+        {
+          "mid": "/m/04bcr3",
+          "description": "Table",
+          "score": 0.95658445,
+          "topicality": 0.06264933
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.95168346,
+          "topicality": 0.078559935
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.9293539,
+          "topicality": 0.008661498
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.9161018,
+          "topicality": 0.0138925435
+        },
+        {
+          "mid": "/m/02q60ls",
+          "description": "Conference hall",
+          "score": 0.9151438,
+          "topicality": 0.056732032
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.9102116,
+          "topicality": 0.00025548413
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.9091408,
+          "topicality": 0.20534635
+        },
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.90792745,
+          "topicality": 0.0013173516
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.88247675,
+          "topicality": 0.0056265737
+        },
+        {
+          "mid": "/m/02jf2p",
+          "description": "Public address system",
+          "score": 0.8592741,
+          "topicality": 0.0023395317
+        },
+        {
+          "mid": "/m/0h8n5gz",
+          "description": "Conference Room Table",
+          "score": 0.85181993,
+          "topicality": 0.004085341
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.8365105,
+          "topicality": 0.016978504
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.8023955,
+          "topicality": 0.014634547
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.78473514,
+          "topicality": 5.895142e-06
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7769582,
+          "topicality": 0.0019373575
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7547508,
+          "topicality": 0.0016093074
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.74365836,
+          "topicality": 0.031887576
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.72933984,
+          "topicality": 0.0047291704
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.72426075,
+          "topicality": 0.14939518
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.71350837,
+          "topicality": 0.0013499829
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.7114548,
+          "topicality": 0.009433646
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.71057326,
+          "topicality": 0.043091938
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.6966802,
+          "topicality": 0.20532523
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.6565441,
+          "topicality": 0.00019491234
+        },
+        {
+          "mid": "/m/08q1xp",
+          "description": "Office chair",
+          "score": 0.62656486,
+          "topicality": 3.6999656e-05
+        },
+        {
+          "mid": "/m/07bx10",
+          "description": "Academic conference",
+          "score": 0.62022686,
+          "topicality": 0.08971495
+        },
+        {
+          "mid": "/m/03rszm",
+          "description": "Curtain",
+          "score": 0.6036014,
+          "topicality": 0.0005163868
+        },
+        {
+          "mid": "/m/03233l",
+          "description": "Seminar",
+          "score": 0.60192394,
+          "topicality": 0.031050865
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5912301,
+          "topicality": 0.0056799925
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.5754459,
+          "topicality": 0.06285679
+        },
+        {
+          "mid": "/m/01m3v",
+          "description": "Computer",
+          "score": 0.5711766,
+          "topicality": 0.02466049
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.56116265,
+          "topicality": 1.08542745e-05
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5470612,
+          "topicality": 0.0027671978
+        },
+        {
+          "mid": "/m/01xq3w",
+          "description": "Debate",
+          "score": 0.5419117,
+          "topicality": 0.07798877
+        },
+        {
+          "mid": "/m/01c648",
+          "description": "Laptop",
+          "score": 0.5168054,
+          "topicality": 0.013484251
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.51674914,
+          "topicality": 0.0008256299
+        },
+        {
+          "mid": "/m/044_87",
+          "description": "Output device",
+          "score": 0.51554173,
+          "topicality": 0.00031616786
+        }
+      ]
+    }
+  ]
+}

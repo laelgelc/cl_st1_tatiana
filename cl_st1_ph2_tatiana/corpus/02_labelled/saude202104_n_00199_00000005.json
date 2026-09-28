@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.90427476,
+          "topicality": 0.017241292
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7884397,
+          "topicality": 0.0077703255
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.67430687,
+          "topicality": 0.016369993
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5836005,
+          "topicality": 0.008196962
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.5507555,
+          "topicality": 0.00035876204
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.52173334,
+          "topicality": 0.00010842226
+        }
+      ]
+    }
+  ]
+}

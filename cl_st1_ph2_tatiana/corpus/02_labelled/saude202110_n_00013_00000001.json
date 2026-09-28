@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8732041,
+          "topicality": 0.05822844
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8359562,
+          "topicality": 0.011876379
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7466131,
+          "topicality": 0.0709056
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.70151204,
+          "topicality": 0.0052681454
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5610703,
+          "topicality": 0.032475777
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.9116708,
+          "topicality": 0.018965058
+        },
+        {
+          "mid": "/m/015p6",
+          "description": "Bird",
+          "score": 0.8612538,
+          "topicality": 0.18077269
+        },
+        {
+          "mid": "/m/0gv1x",
+          "description": "Parrot",
+          "score": 0.80250007,
+          "topicality": 0.11152381
+        },
+        {
+          "mid": "/m/02p0w7s",
+          "description": "Parakeet",
+          "score": 0.63128406,
+          "topicality": 0.01850855
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5952172,
+          "topicality": 0.00052107655
+        }
+      ]
+    }
+  ]
+}

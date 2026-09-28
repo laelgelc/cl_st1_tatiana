@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9760219,
+          "topicality": 0.025151042
+        },
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.8888348,
+          "topicality": 0.007417602
+        },
+        {
+          "mid": "/m/03rbf6",
+          "description": "Macro photography",
+          "score": 0.65858704,
+          "topicality": 0.047704495
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5980215,
+          "topicality": 0.003174186
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55469936,
+          "topicality": 0.12798055
+        }
+      ]
+    }
+  ]
+}

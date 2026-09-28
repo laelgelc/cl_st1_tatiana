@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9471796,
+          "topicality": 0.007793393
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7810769,
+          "topicality": 0.0028865153
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6524831,
+          "topicality": 0.004523031
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.63648343,
+          "topicality": 0.0008670634
+        }
+      ]
+    }
+  ]
+}

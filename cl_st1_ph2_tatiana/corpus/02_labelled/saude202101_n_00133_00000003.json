@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9628116,
+          "topicality": 0.00061419123
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8755421,
+          "topicality": 0.009193417
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8457497,
+          "topicality": 0.09146444
+        },
+        {
+          "mid": "/m/017_cz",
+          "description": "Major appliance",
+          "score": 0.8262906,
+          "topicality": 0.013548216
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.6464881,
+          "topicality": 0.012170225
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5551474,
+          "topicality": 0.0004568001
+        }
+      ]
+    }
+  ]
+}

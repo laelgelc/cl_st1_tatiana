@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.9847905,
+          "topicality": 0.005024613
+        },
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.9804496,
+          "topicality": 0.051763978
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9634595,
+          "topicality": 0.008340894
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9512769,
+          "topicality": 0.025784913
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449442,
+          "topicality": 0.019455455
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.93060935,
+          "topicality": 0.052774683
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8399197,
+          "topicality": 0.03510559
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.74239326,
+          "topicality": 0.0027178423
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.6193187,
+          "topicality": 0.092572264
+        },
+        {
+          "mid": "/m/0fjkt",
+          "description": "Tongue",
+          "score": 0.57935476,
+          "topicality": 0.013969489
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.5068544,
+          "topicality": 0.022913381
+        }
+      ]
+    }
+  ]
+}

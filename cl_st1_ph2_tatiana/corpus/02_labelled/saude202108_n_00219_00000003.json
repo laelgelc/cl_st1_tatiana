@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9445489,
+          "topicality": 0.020634418
+        },
+        {
+          "mid": "/m/0215n",
+          "description": "Cartoon",
+          "score": 0.81030804,
+          "topicality": 0.033037838
+        },
+        {
+          "mid": "/m/05xwg",
+          "description": "Pokémon",
+          "score": 0.78291565,
+          "topicality": 0.83048534
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.758738,
+          "topicality": 0.13102096
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.7585931,
+          "topicality": 0.038790606
+        }
+      ]
+    }
+  ]
+}

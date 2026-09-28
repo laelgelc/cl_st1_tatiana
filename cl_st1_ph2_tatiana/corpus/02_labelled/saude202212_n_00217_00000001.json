@@ -1,0 +1,254 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/047vlmn",
+          "description": "Outerwear",
+          "score": 0.9553108,
+          "topicality": 0.017369708
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.94898933,
+          "topicality": 0.0021764513
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.94174874,
+          "topicality": 0.0029960745
+        },
+        {
+          "mid": "/m/081pkj",
+          "description": "Event",
+          "score": 0.93872494,
+          "topicality": 0.013101743
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.9370202,
+          "topicality": 0.03253533
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.9071033,
+          "topicality": 0.017928867
+        },
+        {
+          "mid": "/m/02jf2p",
+          "description": "Public address system",
+          "score": 0.8907893,
+          "topicality": 0.0024985739
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.8880038,
+          "topicality": 0.0013549763
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8797014,
+          "topicality": 0.017207904
+        },
+        {
+          "mid": "/m/02y3rj",
+          "description": "Presentation",
+          "score": 0.85388464,
+          "topicality": 0.046812437
+        },
+        {
+          "mid": "/m/06h12k",
+          "description": "Sharing",
+          "score": 0.84606713,
+          "topicality": 0.00127096
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.84426963,
+          "topicality": 0.0005794927
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.83966833,
+          "topicality": 0.022724057
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8305931,
+          "topicality": 0.011280495
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.81958574,
+          "topicality": 0.003645005
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.81933165,
+          "topicality": 0.002737462
+        },
+        {
+          "mid": "/m/02q60ls",
+          "description": "Conference hall",
+          "score": 0.8174661,
+          "topicality": 0.0021430477
+        },
+        {
+          "mid": "/m/03233l",
+          "description": "Seminar",
+          "score": 0.81229734,
+          "topicality": 0.07304618
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8098286,
+          "topicality": 0.0006375104
+        },
+        {
+          "mid": "/m/06ycgh",
+          "description": "Projection screen",
+          "score": 0.805248,
+          "topicality": 0.0008962957
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.7927415,
+          "topicality": 0.048355598
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.77760243,
+          "topicality": 0.026295243
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.77700645,
+          "topicality": 0.33398694
+        },
+        {
+          "mid": "/m/07bx10",
+          "description": "Academic conference",
+          "score": 0.749319,
+          "topicality": 0.12488606
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7488484,
+          "topicality": 0.000263
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.745731,
+          "topicality": 0.001224404
+        },
+        {
+          "mid": "/m/01h8n0",
+          "description": "Conversation",
+          "score": 0.74526834,
+          "topicality": 0.0011993345
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.73538333,
+          "topicality": 0.0028019028
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.72225446,
+          "topicality": 0.014532191
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.71455795,
+          "topicality": 0.0041900915
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.7001058,
+          "topicality": 0.014696727
+        },
+        {
+          "mid": "/m/044_87",
+          "description": "Output device",
+          "score": 0.6714354,
+          "topicality": 0.00035127223
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.6512455,
+          "topicality": 0.03638404
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.6503898,
+          "topicality": 0.059860468
+        },
+        {
+          "mid": "/m/04_5hy",
+          "description": "Stage",
+          "score": 0.6399563,
+          "topicality": 0.0016038155
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.6296597,
+          "topicality": 0.0054213037
+        },
+        {
+          "mid": "/m/039l3v",
+          "description": "Auditorium",
+          "score": 0.62889224,
+          "topicality": 0.010944492
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.56820154,
+          "topicality": 0.00074750977
+        },
+        {
+          "mid": "/m/03qpft",
+          "description": "Podium",
+          "score": 0.5650757,
+          "topicality": 0.0029812064
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.54898006,
+          "topicality": 0.004884981
+        },
+        {
+          "mid": "/m/01xq3w",
+          "description": "Debate",
+          "score": 0.50277126,
+          "topicality": 0.081833825
+        }
+      ]
+    }
+  ]
+}

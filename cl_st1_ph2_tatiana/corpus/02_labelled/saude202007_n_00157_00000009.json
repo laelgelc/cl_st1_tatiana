@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.9741378,
+          "topicality": 0.16266662
+        },
+        {
+          "mid": "/m/03bwq",
+          "description": "Gas mask",
+          "score": 0.9638472,
+          "topicality": 0.7383269
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.9618665,
+          "topicality": 0.37146157
+        },
+        {
+          "mid": "/m/0zvk5",
+          "description": "Helmet",
+          "score": 0.8518466,
+          "topicality": 0.023766294
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.8498341,
+          "topicality": 0.03837351
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.7578815,
+          "topicality": 0.13752313
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.62652045,
+          "topicality": 0.009069472
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.6197075,
+          "topicality": 3.151724e-05
+        },
+        {
+          "mid": "/m/04qwst",
+          "description": "Oxygen mask",
+          "score": 0.59915125,
+          "topicality": 0.022277351
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.51480085,
+          "topicality": 0.0004490974
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9530599,
+          "topicality": 0.0061385753
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90381426,
+          "topicality": 0.00012274159
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8555278,
+          "topicality": 0.0069161365
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5961848,
+          "topicality": 0.0001316579
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.5384465,
+          "topicality": 5.843079e-05
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.508596,
+          "topicality": 0.0019573949
+        }
+      ]
+    }
+  ]
+}

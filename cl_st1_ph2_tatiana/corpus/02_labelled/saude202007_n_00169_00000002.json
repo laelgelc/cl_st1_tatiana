@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.8195455,
+          "topicality": 0.015393747
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.80722594,
+          "topicality": 0.01215536
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.72456,
+          "topicality": 0.026436802
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6849472,
+          "topicality": 0.00023644402
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6541013,
+          "topicality": 0.009205764
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5604417,
+          "topicality": 0.096352816
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.53956664,
+          "topicality": 3.3722823e-05
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.51471376,
+          "topicality": 0.005861472
+        },
+        {
+          "mid": "/m/0h8nklh",
+          "description": "Lip Care",
+          "score": 0.5013206,
+          "topicality": 0.00812098
+        }
+      ]
+    }
+  ]
+}

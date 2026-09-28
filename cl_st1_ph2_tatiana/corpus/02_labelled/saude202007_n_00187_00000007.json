@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97677535,
+          "topicality": 0.039174635
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.94702613,
+          "topicality": 0.02627068
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.8812805,
+          "topicality": 0.016200803
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.82166284,
+          "topicality": 0.00076446164
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.77061254,
+          "topicality": 0.0045875227
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.61743665,
+          "topicality": 0.036209404
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.6106441,
+          "topicality": 0.05659268
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.88382316,
+          "topicality": 0.0012879503
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.841229,
+          "topicality": 0.022286559
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7861943,
+          "topicality": 0.32183614
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.73456603,
+          "topicality": 0.021843238
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7333485,
+          "topicality": 0.0641762
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7309922,
+          "topicality": 0.010032296
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6893859,
+          "topicality": 0.00032973592
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6601031,
+          "topicality": 0.004599062
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.62880975,
+          "topicality": 0.042999353
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.61480033,
+          "topicality": 6.74171e-06
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5733914,
+          "topicality": 0.011945388
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5149376,
+          "topicality": 0.00073374674
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5072011,
+          "topicality": 0.0051682037
+        }
+      ]
+    }
+  ]
+}

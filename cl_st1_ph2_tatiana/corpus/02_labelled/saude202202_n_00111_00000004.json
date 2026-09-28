@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.93784934,
+          "topicality": 0.0066298055
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.88616717,
+          "topicality": 0.3203632
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.8559081,
+          "topicality": 0.07728674
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.843129,
+          "topicality": 0.0021392966
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.8406963,
+          "topicality": 0.088511385
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7819313,
+          "topicality": 0.0030192118
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.77341235,
+          "topicality": 0.0004609531
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.77168894,
+          "topicality": 0.00057689165
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.76796407,
+          "topicality": 0.020264057
+        },
+        {
+          "mid": "/m/0y09",
+          "description": "Analgesic",
+          "score": 0.6441105,
+          "topicality": 0.16011317
+        },
+        {
+          "mid": "/m/0hk26",
+          "description": "Stimulant",
+          "score": 0.54923254,
+          "topicality": 0.025155617
+        }
+      ]
+    }
+  ]
+}

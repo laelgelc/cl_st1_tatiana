@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.64036906,
+          "topicality": 0.88574815
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6232927,
+          "topicality": 0.067045525
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.61214095,
+          "topicality": 0.010322859
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.6021032,
+          "topicality": 0.0053794393
+        }
+      ]
+    }
+  ]
+}

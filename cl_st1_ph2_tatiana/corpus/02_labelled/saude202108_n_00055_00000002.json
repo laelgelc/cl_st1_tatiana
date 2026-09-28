@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9443991,
+          "topicality": 7.367581e-05
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.9349443,
+          "topicality": 4.9539045e-05
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9088987,
+          "topicality": 0.004401356
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.8930027,
+          "topicality": 0.01990513
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8814958,
+          "topicality": 0.007815414
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8744725,
+          "topicality": 0.0010001508
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.76504546,
+          "topicality": 0.003959772
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7531605,
+          "topicality": 0.008641504
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7371649,
+          "topicality": 0.0018764546
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7289278,
+          "topicality": 0.00048482732
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6908964,
+          "topicality": 0.0005890247
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.64566594,
+          "topicality": 0.0022065511
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.59035426,
+          "topicality": 0.0029972794
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.56957924,
+          "topicality": 0.0135780815
+        }
+      ]
+    }
+  ]
+}

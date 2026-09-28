@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97086245,
+          "topicality": 0.030980613
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9676298,
+          "topicality": 0.007196252
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.91877246,
+          "topicality": 0.008754964
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.895507,
+          "topicality": 0.013397657
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.83237845,
+          "topicality": 0.00069954497
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.81770545,
+          "topicality": 0.006030898
+        },
+        {
+          "mid": "/m/02m1vq",
+          "description": "Personal grooming",
+          "score": 0.6192505,
+          "topicality": 0.0010382046
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.5860015,
+          "topicality": 0.0062918193
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.564569,
+          "topicality": 0.02254329
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5115805,
+          "topicality": 0.07837889
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.51082283,
+          "topicality": 0.021127785
+        }
+      ]
+    }
+  ]
+}

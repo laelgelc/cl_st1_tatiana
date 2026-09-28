@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8253544,
+          "topicality": 0.0056715137
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.66527575,
+          "topicality": 0.059783336
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.6285679,
+          "topicality": 0.00088609266
+        },
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.5495467,
+          "topicality": 0.10505
+        }
+      ]
+    }
+  ]
+}

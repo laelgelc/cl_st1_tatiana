@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.9608378,
+          "topicality": 0.12117799
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.92246,
+          "topicality": 0.0041394136
+        },
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.91646904,
+          "topicality": 0.48776647
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.85505277,
+          "topicality": 0.0021433996
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.7483151,
+          "topicality": 0.008902504
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.7259279,
+          "topicality": 0.0021341725
+        },
+        {
+          "mid": "/m/0987_ns",
+          "description": "Video Game Software",
+          "score": 0.6443349,
+          "topicality": 1.3854027e-06
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.6264648,
+          "topicality": 0.034071658
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.59936154,
+          "topicality": 9.359091e-06
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.586338,
+          "topicality": 0.00037555236
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.5846828,
+          "topicality": 0.0032552346
+        },
+        {
+          "mid": "/m/01r9v",
+          "description": "Computer program",
+          "score": 0.51545304,
+          "topicality": 0.03056819
+        }
+      ]
+    }
+  ]
+}

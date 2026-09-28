@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j61q",
+          "description": "Tent",
+          "score": 0.8893728,
+          "topicality": 0.011559335
+        },
+        {
+          "mid": "/m/0b03ql",
+          "description": "Canopy",
+          "score": 0.8517393,
+          "topicality": 0.00018286527
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.841097,
+          "topicality": 0.0011555584
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.8388132,
+          "topicality": 0.010271097
+        },
+        {
+          "mid": "/m/02w3fc",
+          "description": "Tarpaulin",
+          "score": 0.7828181,
+          "topicality": 0.0010781833
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.61693025,
+          "topicality": 0.0014634187
+        },
+        {
+          "mid": "/m/0hnnb",
+          "description": "Umbrella",
+          "score": 0.61650676,
+          "topicality": 0.00068671355
+        }
+      ]
+    }
+  ]
+}

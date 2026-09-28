@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.950027,
+          "topicality": 0.0113752335
+        },
+        {
+          "mid": "/m/01b4q9",
+          "description": "Social group",
+          "score": 0.93800163,
+          "topicality": 0.031252526
+        },
+        {
+          "mid": "/m/011l78",
+          "description": "Team",
+          "score": 0.8472886,
+          "topicality": 0.05698183
+        },
+        {
+          "mid": "/m/01zpz",
+          "description": "Crew",
+          "score": 0.67354506,
+          "topicality": 0.020078335
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.6434733,
+          "topicality": 0.0070951027
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.5536,
+          "topicality": 3.9115206e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.9885737,
+          "topicality": 0.00050596107
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9567126,
+          "topicality": 0.029251361
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9030932,
+          "topicality": 0.00025878666
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.82924026,
+          "topicality": 0.016191352
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.75857884,
+          "topicality": 0.017454796
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.7004013,
+          "topicality": 0.1485523
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.5715438,
+          "topicality": 2.4916759e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06_dn",
+          "description": "Snow",
+          "score": 0.9748267,
+          "topicality": 0.629233
+        },
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.9692302,
+          "topicality": 0.039532073
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.96314144,
+          "topicality": 0.21114738
+        },
+        {
+          "mid": "/m/01c791",
+          "description": "Freezing",
+          "score": 0.89301586,
+          "topicality": 0.101726726
+        },
+        {
+          "mid": "/m/03vtj",
+          "description": "Ice",
+          "score": 0.7161489,
+          "topicality": 0.16695595
+        },
+        {
+          "mid": "/m/0cnmr",
+          "description": "Fur",
+          "score": 0.6219398,
+          "topicality": 0.011980755
+        },
+        {
+          "mid": "/m/0gfgss9",
+          "description": "Snow boot",
+          "score": 0.61856604,
+          "topicality": 0.010217036
+        },
+        {
+          "mid": "/m/01q18m",
+          "description": "Precipitation",
+          "score": 0.571089,
+          "topicality": 0.0004388416
+        },
+        {
+          "mid": "/m/033kf",
+          "description": "Frost",
+          "score": 0.56436235,
+          "topicality": 0.006180949
+        },
+        {
+          "mid": "/m/01kgp6",
+          "description": "Winter storm",
+          "score": 0.5458425,
+          "topicality": 0.028034577
+        }
+      ]
+    }
+  ]
+}

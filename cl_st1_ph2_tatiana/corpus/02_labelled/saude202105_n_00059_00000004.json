@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.77136993,
+          "topicality": 0.0025375083
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.6476187,
+          "topicality": 0.00037536127
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.60512275,
+          "topicality": 0.00054406223
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5765022,
+          "topicality": 0.0011605924
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.5029708,
+          "topicality": 0.0002546034
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8673459,
+          "topicality": 0.0019758698
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7881014,
+          "topicality": 0.00027389315
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73703593,
+          "topicality": 0.00061252574
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.67970806,
+          "topicality": 0.00639426
+        },
+        {
+          "mid": "/m/0hkf",
+          "description": "Agriculture",
+          "score": 0.6287253,
+          "topicality": 0.007654909
+        },
+        {
+          "mid": "/m/03gkl",
+          "description": "Holiday",
+          "score": 0.55732876,
+          "topicality": 0.004756743
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5434736,
+          "topicality": 0.011594539
+        }
+      ]
+    }
+  ]
+}

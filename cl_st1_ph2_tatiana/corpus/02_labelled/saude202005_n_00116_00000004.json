@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8557054,
+          "topicality": 0.005968948
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7613785,
+          "topicality": 0.0075792246
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.7114467,
+          "topicality": 0.0007461063
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.61086094,
+          "topicality": 0.0011704213
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.531424,
+          "topicality": 0.032988526
+        }
+      ]
+    }
+  ]
+}

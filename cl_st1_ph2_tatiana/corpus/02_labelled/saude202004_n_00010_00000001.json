@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.75614065,
+          "topicality": 0.17857376
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.7425959,
+          "topicality": 0.14421265
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.658802,
+          "topicality": 0.00022154138
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6317063,
+          "topicality": 0.04695152
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5201169,
+          "topicality": 0.024679925
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5187525,
+          "topicality": 0.03856672
+        }
+      ]
+    }
+  ]
+}

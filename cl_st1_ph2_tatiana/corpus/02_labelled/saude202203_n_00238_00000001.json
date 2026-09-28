@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9240751,
+          "topicality": 0.0013593009
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.8962167,
+          "topicality": 0.0012118897
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.82776165,
+          "topicality": 0.0020816454
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8223705,
+          "topicality": 0.019516101
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.791633,
+          "topicality": 0.0014659376
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7249103,
+          "topicality": 0.0034193548
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.67775077,
+          "topicality": 0.003828817
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6649129,
+          "topicality": 0.013299898
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.58224577,
+          "topicality": 0.0011926191
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.54797786,
+          "topicality": 0.0024382018
+        }
+      ]
+    }
+  ]
+}

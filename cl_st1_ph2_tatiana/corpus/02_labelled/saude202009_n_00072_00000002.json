@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.98562425,
+          "topicality": 0.00032566854
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9855275,
+          "topicality": 0.002963621
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9742828,
+          "topicality": 0.0001365983
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9107113,
+          "topicality": 0.0008359946
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.9092242,
+          "topicality": 8.222011e-06
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.88785124,
+          "topicality": 0.00094412017
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8714845,
+          "topicality": 0.0002983968
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.867299,
+          "topicality": 8.665787e-06
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.78096527,
+          "topicality": 0.0012919764
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.77854216,
+          "topicality": 0.0041660904
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7613905,
+          "topicality": 0.0005670652
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.69033927,
+          "topicality": 0.013271777
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.654104,
+          "topicality": 0.02749837
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5831207,
+          "topicality": 0.017766861
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5409283,
+          "topicality": 0.00088976155
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5201034,
+          "topicality": 0.013215996
+        }
+      ]
+    }
+  ]
+}

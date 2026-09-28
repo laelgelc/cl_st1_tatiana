@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.90812856,
+          "topicality": 0.0043132585
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7833625,
+          "topicality": 0.0048553664
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.7332415,
+          "topicality": 0.7806122
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.7098166,
+          "topicality": 0.001114032
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.60491306,
+          "topicality": 2.1607182e-05
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.59329474,
+          "topicality": 0.014137978
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.5454447,
+          "topicality": 0.00014654081
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5044131,
+          "topicality": 0.0082773
+        }
+      ]
+    }
+  ]
+}

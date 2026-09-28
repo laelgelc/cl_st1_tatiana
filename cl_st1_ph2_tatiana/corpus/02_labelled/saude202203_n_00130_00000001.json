@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97378695,
+          "topicality": 0.030444078
+        },
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.8366495,
+          "topicality": 0.011249745
+        },
+        {
+          "mid": "/m/03rbf6",
+          "description": "Macro photography",
+          "score": 0.7745508,
+          "topicality": 0.021461139
+        },
+        {
+          "mid": "/m/0cnq0",
+          "description": "Pollen",
+          "score": 0.6159086,
+          "topicality": 0.057175834
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.522037,
+          "topicality": 0.05945204
+        }
+      ]
+    }
+  ]
+}

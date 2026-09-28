@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9683025,
+          "topicality": 0.008913222
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91210026,
+          "topicality": 0.00027152532
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.89368737,
+          "topicality": 0.04320793
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.5687196,
+          "topicality": 6.128022e-05
+        },
+        {
+          "mid": "/m/02_784",
+          "description": "Display advertising",
+          "score": 0.5465942,
+          "topicality": 0.0004582752
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.54398125,
+          "topicality": 0.013659161
+        }
+      ]
+    }
+  ]
+}

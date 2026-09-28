@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.98859346,
+          "topicality": 0.009863667
+        },
+        {
+          "mid": "/m/037p5b",
+          "description": "Cheek",
+          "score": 0.98679876,
+          "topicality": 0.0010588188
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.98567975,
+          "topicality": 0.0023269989
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98340434,
+          "topicality": 0.0063229334
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9729522,
+          "topicality": 0.025090396
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.9558485,
+          "topicality": 0.0017194275
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.95006424,
+          "topicality": 0.025271311
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.93770266,
+          "topicality": 0.02993813
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.83766043,
+          "topicality": 0.0051356475
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8356624,
+          "topicality": 0.0011276637
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.5926208,
+          "topicality": 0.0013069365
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.58375984,
+          "topicality": 0.0018816335
+        }
+      ]
+    }
+  ]
+}

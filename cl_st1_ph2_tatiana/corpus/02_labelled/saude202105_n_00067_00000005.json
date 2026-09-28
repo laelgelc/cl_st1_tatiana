@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.82049185,
+          "topicality": 0.004441267
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6395128,
+          "topicality": 0.05265553
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6214247,
+          "topicality": 0.0034458549
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.59537345,
+          "topicality": 0.01998407
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5274866,
+          "topicality": 0.0031790812
+        }
+      ]
+    }
+  ]
+}

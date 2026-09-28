@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447933,
+          "topicality": 0.0012367592
+        },
+        {
+          "mid": "/m/03d49p1",
+          "description": "Monochrome photography",
+          "score": 0.8744437,
+          "topicality": 0.008143256
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.8215642,
+          "topicality": 0.096081235
+        },
+        {
+          "mid": "/m/01g6gs",
+          "description": "Black and white",
+          "score": 0.7836719,
+          "topicality": 0.024793591
+        },
+        {
+          "mid": "/m/01mwkf",
+          "description": "Monochrome",
+          "score": 0.76432526,
+          "topicality": 0.0069222897
+        },
+        {
+          "mid": "/m/0687y",
+          "description": "Prayer",
+          "score": 0.6359599,
+          "topicality": 0.09932211
+        }
+      ]
+    }
+  ]
+}

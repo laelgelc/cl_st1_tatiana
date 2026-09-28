@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.93017566,
+          "topicality": 0.21590097
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.9214155,
+          "topicality": 0.42546877
+        },
+        {
+          "mid": "/m/0dnkv",
+          "description": "Supermarket",
+          "score": 0.8579076,
+          "topicality": 0.7379837
+        },
+        {
+          "mid": "/m/0hhdb",
+          "description": "Shopping",
+          "score": 0.8229188,
+          "topicality": 0.7179605
+        },
+        {
+          "mid": "/m/01jpn4",
+          "description": "Grocery store",
+          "score": 0.80132,
+          "topicality": 0.5212596
+        },
+        {
+          "mid": "/m/0crjs",
+          "description": "Convenience store",
+          "score": 0.7801913,
+          "topicality": 0.03104615
+        },
+        {
+          "mid": "/m/019plg",
+          "description": "Shopping cart",
+          "score": 0.7770321,
+          "topicality": 0.19686463
+        },
+        {
+          "mid": "/m/08tlbj",
+          "description": "Natural foods",
+          "score": 0.7139032,
+          "topicality": 0.00048639465
+        },
+        {
+          "mid": "/m/018p4k",
+          "description": "Cart",
+          "score": 0.7031724,
+          "topicality": 0.0104699535
+        },
+        {
+          "mid": "/m/09y4pm",
+          "description": "Market",
+          "score": 0.6935019,
+          "topicality": 0.055148043
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.6873089,
+          "topicality": 0.18883252
+        },
+        {
+          "mid": "/m/036qh8",
+          "description": "Produce",
+          "score": 0.6730166,
+          "topicality": 0.024971606
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5264611,
+          "topicality": 0.00434867
+        }
+      ]
+    }
+  ]
+}

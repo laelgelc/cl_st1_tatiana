@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8845129,
+          "topicality": 0.045539606
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7912504,
+          "topicality": 0.013361947
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6407597,
+          "topicality": 0.0031463646
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.61234134,
+          "topicality": 0.1617131
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.58365583,
+          "topicality": 0.0049243746
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5287481,
+          "topicality": 0.02853964
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.52575314,
+          "topicality": 0.31721902
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51706195,
+          "topicality": 0.00276365
+        },
+        {
+          "mid": "/m/02l7rx",
+          "description": "Convention center",
+          "score": 0.50657934,
+          "topicality": 0.023977926
+        },
+        {
+          "mid": "/m/03thq",
+          "description": "Inn",
+          "score": 0.501154,
+          "topicality": 0.021755436
+        }
+      ]
+    }
+  ]
+}

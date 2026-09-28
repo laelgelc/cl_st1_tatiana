@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448317,
+          "topicality": 0.0004997725
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8999342,
+          "topicality": 0.0010120064
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.89353865,
+          "topicality": 0.000853771
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.7828253,
+          "topicality": 0.0035028576
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6728055,
+          "topicality": 0.004518346
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.62463737,
+          "topicality": 0.19007537
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.56506073,
+          "topicality": 0.00037341466
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.5507707,
+          "topicality": 0.018533155
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.50040156,
+          "topicality": 0.0018495086
+        }
+      ]
+    }
+  ]
+}

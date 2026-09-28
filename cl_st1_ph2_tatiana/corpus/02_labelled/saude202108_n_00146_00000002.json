@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.81120706,
+          "topicality": 0.0016470021
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.6663378,
+          "topicality": 0.0022076855
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.58862525,
+          "topicality": 9.3646086e-05
+        }
+      ]
+    }
+  ]
+}

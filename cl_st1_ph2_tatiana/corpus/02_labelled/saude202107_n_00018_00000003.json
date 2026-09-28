@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.88932776,
+          "topicality": 0.004075867
+        },
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.87437123,
+          "topicality": 0.012294843
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.78619725,
+          "topicality": 0.0044139377
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7728454,
+          "topicality": 0.022894697
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.698567,
+          "topicality": 0.0080763735
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.63563037,
+          "topicality": 0.0025339262
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.63090134,
+          "topicality": 0.0020572094
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5389137,
+          "topicality": 0.04433863
+        }
+      ]
+    }
+  ]
+}

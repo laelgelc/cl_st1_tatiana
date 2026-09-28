@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.9076669,
+          "topicality": 0.5074766
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.8226057,
+          "topicality": 0.28483096
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.811204,
+          "topicality": 0.11256169
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.7659451,
+          "topicality": 0.0044081416
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.71741825,
+          "topicality": 0.0049907574
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.66377383,
+          "topicality": 0.00015785625
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53468144,
+          "topicality": 0.016635856
+        },
+        {
+          "mid": "/m/0y09",
+          "description": "Analgesic",
+          "score": 0.5053383,
+          "topicality": 0.2065027
+        }
+      ]
+    }
+  ]
+}

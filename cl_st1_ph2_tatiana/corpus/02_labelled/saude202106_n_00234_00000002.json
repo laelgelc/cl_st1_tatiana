@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07mhn",
+          "description": "Trousers",
+          "score": 0.96020216,
+          "topicality": 0.0067633754
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8679087,
+          "topicality": 0.0031868054
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.80417335,
+          "topicality": 0.0049725818
+        },
+        {
+          "mid": "/m/07pltdk",
+          "description": "pole",
+          "score": 0.7479062,
+          "topicality": 8.6329645e-05
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5924276,
+          "topicality": 0.038054097
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.5222374,
+          "topicality": 0.0002704325
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51584226,
+          "topicality": 0.018937455
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.84032094,
+          "topicality": 0.0017187579
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8040057,
+          "topicality": 0.0055966503
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7267226,
+          "topicality": 0.000297335
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.57252693,
+          "topicality": 0.07136127
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5376007,
+          "topicality": 0.0060062767
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5247381,
+          "topicality": 0.022340048
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5135551,
+          "topicality": 0.010570357
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5075075,
+          "topicality": 9.123069e-06
+        }
+      ]
+    }
+  ]
+}

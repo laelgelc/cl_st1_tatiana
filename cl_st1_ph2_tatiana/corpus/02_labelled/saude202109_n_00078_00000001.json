@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7088645,
+          "topicality": 0.028857797
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.63664097,
+          "topicality": 0.0014001207
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.62869424,
+          "topicality": 0.013790642
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.56959087,
+          "topicality": 0.054740567
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.54444647,
+          "topicality": 0.004007418
+        }
+      ]
+    }
+  ]
+}

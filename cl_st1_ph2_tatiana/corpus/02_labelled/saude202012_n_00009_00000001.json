@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j04m",
+          "description": "Thigh",
+          "score": 0.8910059,
+          "topicality": 0.0006230325
+        },
+        {
+          "mid": "/m/0294jb",
+          "description": "Blond",
+          "score": 0.8491466,
+          "topicality": 0.004072967
+        },
+        {
+          "mid": "/m/02pd__z",
+          "description": "Long hair",
+          "score": 0.78022575,
+          "topicality": 0.0026174774
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.64372337,
+          "topicality": 0.03270021
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.585068,
+          "topicality": 0.0021985816
+        },
+        {
+          "mid": "/m/0d1pc",
+          "description": "Model",
+          "score": 0.5268141,
+          "topicality": 0.014873259
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7367138,
+          "topicality": 0.029424092
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7052682,
+          "topicality": 0.015318102
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.64204377,
+          "topicality": 0.00034212935
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5859184,
+          "topicality": 0.07114699
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.52136093,
+          "topicality": 0.09363825
+        }
+      ]
+    }
+  ]
+}

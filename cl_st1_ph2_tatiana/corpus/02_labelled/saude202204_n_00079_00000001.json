@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.7804895,
+          "topicality": 0.0074723014
+        },
+        {
+          "mid": "/m/01qwsw",
+          "description": "Flat-panel display",
+          "score": 0.6036809,
+          "topicality": 0.015445696
+        },
+        {
+          "mid": "/m/05p37dx",
+          "description": "LED-backlit LCD",
+          "score": 0.55947125,
+          "topicality": 0.14237091
+        },
+        {
+          "mid": "/m/0bx_y3w",
+          "description": "Television set",
+          "score": 0.5038873,
+          "topicality": 0.631287
+        },
+        {
+          "mid": "/m/09dx1f8",
+          "description": "LCD television",
+          "score": 0.502128,
+          "topicality": 0.1773652
+        }
+      ]
+    }
+  ]
+}

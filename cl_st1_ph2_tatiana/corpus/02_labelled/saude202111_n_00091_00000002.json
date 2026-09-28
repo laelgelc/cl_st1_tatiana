@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04_tb",
+          "description": "Map",
+          "score": 0.95886624,
+          "topicality": 0.28801602
+        },
+        {
+          "mid": "/m/0jc_p",
+          "description": "Orange",
+          "score": 0.9175748,
+          "topicality": 0.0017112042
+        },
+        {
+          "mid": "/m/0crnf",
+          "description": "Atlas",
+          "score": 0.7365487,
+          "topicality": 0.0125334235
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.691211,
+          "topicality": 0.02394466
+        },
+        {
+          "mid": "/m/02j71",
+          "description": "Earth",
+          "score": 0.5790142,
+          "topicality": 0.12371057
+        }
+      ]
+    }
+  ]
+}

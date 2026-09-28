@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8130751,
+          "topicality": 0.0020580427
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.72595894,
+          "topicality": 0.0039144442
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.7204895,
+          "topicality": 0.004433212
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.66906124,
+          "topicality": 0.00015966994
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.65322876,
+          "topicality": 0.11103618
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.63741285,
+          "topicality": 0.022437286
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.61474204,
+          "topicality": 2.3434877e-05
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.60488164,
+          "topicality": 0.075008504
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.60481566,
+          "topicality": 0.13573438
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.5545578,
+          "topicality": 0.008712593
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.53988546,
+          "topicality": 0.27087206
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.504661,
+          "topicality": 0.018874828
+        }
+      ]
+    }
+  ]
+}

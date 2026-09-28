@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.89170593,
+          "topicality": 0.001727288
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.81382865,
+          "topicality": 0.009972523
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.79446065,
+          "topicality": 0.12665525
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7660903,
+          "topicality": 0.0007571669
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.76137775,
+          "topicality": 0.00052474125
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.7146966,
+          "topicality": 0.18278551
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.631317,
+          "topicality": 0.0028675124
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.61968344,
+          "topicality": 0.055686165
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.599315,
+          "topicality": 0.0170992
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5638623,
+          "topicality": 0.00020300632
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5638004,
+          "topicality": 0.023743428
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.56249994,
+          "topicality": 0.011069532
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5533738,
+          "topicality": 0.0007385579
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54702526,
+          "topicality": 0.008508383
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5379487,
+          "topicality": 0.030101867
+        }
+      ]
+    }
+  ]
+}

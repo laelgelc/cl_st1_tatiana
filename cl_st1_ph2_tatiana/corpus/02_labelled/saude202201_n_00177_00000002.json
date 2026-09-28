@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8294791,
+          "topicality": 0.0007431784
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.812239,
+          "topicality": 0.05459824
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.7706198,
+          "topicality": 0.28821295
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7441157,
+          "topicality": 0.24886937
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6375159,
+          "topicality": 0.17740406
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5372238,
+          "topicality": 0.031506203
+        },
+        {
+          "mid": "/m/06dc32",
+          "description": "Hospital gown",
+          "score": 0.5002742,
+          "topicality": 0.0046052593
+        }
+      ]
+    }
+  ]
+}

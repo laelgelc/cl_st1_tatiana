@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.97682977,
+          "topicality": 0.76575196
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.97088677,
+          "topicality": 0.32583714
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.9519366,
+          "topicality": 0.0032922076
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.94238085,
+          "topicality": 0.28977445
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.93753344,
+          "topicality": 0.06436675
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.88734955,
+          "topicality": 0.00315254
+        },
+        {
+          "mid": "/m/08ncv6",
+          "description": "Capsule",
+          "score": 0.884746,
+          "topicality": 0.20331809
+        },
+        {
+          "mid": "/m/0y09",
+          "description": "Analgesic",
+          "score": 0.81656766,
+          "topicality": 0.41668075
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.7819537,
+          "topicality": 0.24166986
+        },
+        {
+          "mid": "/m/0hk26",
+          "description": "Stimulant",
+          "score": 0.7465162,
+          "topicality": 0.052291322
+        },
+        {
+          "mid": "/m/0q593",
+          "description": "Dietary supplement",
+          "score": 0.71969956,
+          "topicality": 0.08282811
+        },
+        {
+          "mid": "/m/04jng2",
+          "description": "Nutraceutical",
+          "score": 0.5904958,
+          "topicality": 0.010692536
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5494526,
+          "topicality": 0.020531125
+        }
+      ]
+    }
+  ]
+}

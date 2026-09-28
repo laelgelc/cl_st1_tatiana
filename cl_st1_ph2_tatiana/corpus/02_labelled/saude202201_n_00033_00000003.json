@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.7923654,
+          "topicality": 0.81642365
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5493753,
+          "topicality": 0.015110917
+        },
+        {
+          "mid": "/m/02x8n4r",
+          "description": "Fertility monitor",
+          "score": 0.5102777,
+          "topicality": 0.002361235
+        }
+      ]
+    }
+  ]
+}

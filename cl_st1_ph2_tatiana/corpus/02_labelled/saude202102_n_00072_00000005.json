@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8345654,
+          "topicality": 0.0005770805
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.75857013,
+          "topicality": 0.005370435
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.72037596,
+          "topicality": 0.0017696403
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7138148,
+          "topicality": 0.024015082
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.68444663,
+          "topicality": 0.13451317
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.61125714,
+          "topicality": 0.15190783
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.5751613,
+          "topicality": 0.0005761319
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.5655304,
+          "topicality": 0.000115376235
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5384755,
+          "topicality": 0.021885885
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.50053686,
+          "topicality": 0.0013240239
+        }
+      ]
+    }
+  ]
+}

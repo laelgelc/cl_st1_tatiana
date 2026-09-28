@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943228,
+          "topicality": 0.018668467
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9039985,
+          "topicality": 0.02975568
+        },
+        {
+          "mid": "/m/07djv",
+          "description": "Tradition",
+          "score": 0.77455544,
+          "topicality": 0.047931597
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.7050417,
+          "topicality": 0.00083808793
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.6985791,
+          "topicality": 0.013319768
+        },
+        {
+          "mid": "/m/0hr5k",
+          "description": "Festival",
+          "score": 0.57243353,
+          "topicality": 0.05991097
+        },
+        {
+          "mid": "/m/05y0x",
+          "description": "Pilgrimage",
+          "score": 0.55307525,
+          "topicality": 0.016073048
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.54126656,
+          "topicality": 0.017236808
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.52228945,
+          "topicality": 0.010313953
+        }
+      ]
+    }
+  ]
+}

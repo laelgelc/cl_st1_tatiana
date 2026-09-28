@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.97930485,
+          "topicality": 0.0044091903
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6222014,
+          "topicality": 0.012496846
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5574172,
+          "topicality": 0.0003275468
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.54061663,
+          "topicality": 0.0004051422
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9445176,
+          "topicality": 0.003475987
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8495913,
+          "topicality": 0.007242049
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.8173723,
+          "topicality": 0.02495248
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.77288514,
+          "topicality": 0.0062351027
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6676505,
+          "topicality": 0.003339109
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.61620164,
+          "topicality": 0.012944051
+        },
+        {
+          "mid": "/m/027v9wk",
+          "description": "Elder",
+          "score": 0.55969447,
+          "topicality": 0.0007008154
+        }
+      ]
+    }
+  ]
+}

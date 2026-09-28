@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j5n",
+          "description": "Footwear",
+          "score": 0.97187686,
+          "topicality": 0.0074955546
+        },
+        {
+          "mid": "/m/06rrc",
+          "description": "Shoe",
+          "score": 0.95900726,
+          "topicality": 0.006182797
+        },
+        {
+          "mid": "/m/06gfj",
+          "description": "Road",
+          "score": 0.93579954,
+          "topicality": 0.06645152
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.92307884,
+          "topicality": 0.13184081
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.9123158,
+          "topicality": 0.13621223
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.9044974,
+          "topicality": 0.0050375704
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.89398396,
+          "topicality": 0.0029351076
+        },
+        {
+          "mid": "/m/014xcs",
+          "description": "Pedestrian crossing",
+          "score": 0.8185951,
+          "topicality": 0.19654816
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.7766745,
+          "topicality": 0.058746077
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7662777,
+          "topicality": 0.046434857
+        },
+        {
+          "mid": "/m/014v7p",
+          "description": "Zebra crossing",
+          "score": 0.7596915,
+          "topicality": 0.02143022
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.6845025,
+          "topicality": 0.0077577555
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.6484017,
+          "topicality": 0.0019969046
+        },
+        {
+          "mid": "/m/01b638",
+          "description": "Boot",
+          "score": 0.60246336,
+          "topicality": 0.001419136
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.54426104,
+          "topicality": 0.028153932
+        }
+      ]
+    }
+  ]
+}

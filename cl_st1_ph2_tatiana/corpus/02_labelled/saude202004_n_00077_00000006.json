@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.80881,
+          "topicality": 0.0077271787
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7949798,
+          "topicality": 0.005800279
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.78626466,
+          "topicality": 0.26367307
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.71420014,
+          "topicality": 0.00777417
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.7112921,
+          "topicality": 0.0063171308
+        }
+      ]
+    }
+  ]
+}

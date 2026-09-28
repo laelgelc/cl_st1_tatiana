@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.9559719,
+          "topicality": 0.000972423
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7159942,
+          "topicality": 0.040529136
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.6477527,
+          "topicality": 3.3687335e-05
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.6366492,
+          "topicality": 0.0067831706
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.51421297,
+          "topicality": 0.0001104213
+        }
+      ]
+    }
+  ]
+}

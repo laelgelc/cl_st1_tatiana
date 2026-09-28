@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9346858,
+          "topicality": 0.0011474071
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.926039,
+          "topicality": 0.004664673
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8102604,
+          "topicality": 0.13226941
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.78652215,
+          "topicality": 0.03563679
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7845794,
+          "topicality": 0.074790865
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.777305,
+          "topicality": 0.002860294
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.76876676,
+          "topicality": 0.00074784545
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.759538,
+          "topicality": 0.00091883464
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7529694,
+          "topicality": 0.0007460552
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.73791414,
+          "topicality": 0.0043203784
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.66660476,
+          "topicality": 0.001014472
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.63851583,
+          "topicality": 0.03643782
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5969298,
+          "topicality": 0.0115623
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5616429,
+          "topicality": 0.020533208
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.56068134,
+          "topicality": 0.020433083
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5049316,
+          "topicality": 0.013149016
+        }
+      ]
+    }
+  ]
+}

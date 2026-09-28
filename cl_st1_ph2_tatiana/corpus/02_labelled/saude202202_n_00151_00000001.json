@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9023496,
+          "topicality": 0.00090025837
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7681835,
+          "topicality": 0.000650338
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7616812,
+          "topicality": 0.002228322
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.74100226,
+          "topicality": 0.0006555928
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7179486,
+          "topicality": 0.00040497052
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.68025833,
+          "topicality": 0.041921627
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6611451,
+          "topicality": 0.011047948
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6342727,
+          "topicality": 0.036025804
+        }
+      ]
+    }
+  ]
+}

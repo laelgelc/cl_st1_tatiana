@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.8802398,
+          "topicality": 0.007631545
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.86541873,
+          "topicality": 0.014657504
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.8458467,
+          "topicality": 0.0018189639
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.7032101,
+          "topicality": 0.0018566069
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.5704576,
+          "topicality": 0.004291524
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.55666894,
+          "topicality": 0.0011863414
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.55060154,
+          "topicality": 0.0042348355
+        }
+      ]
+    }
+  ]
+}

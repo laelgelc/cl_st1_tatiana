@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6862106,
+          "topicality": 0.0013705831
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6306971,
+          "topicality": 0.00071489945
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.61322314,
+          "topicality": 0.0004552138
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.60882545,
+          "topicality": 0.0008225105
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.5682516,
+          "topicality": 0.0062851356
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.5274964,
+          "topicality": 4.7144815e-05
+        }
+      ]
+    }
+  ]
+}

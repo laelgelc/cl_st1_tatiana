@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.8823526,
+          "topicality": 0.08121333
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.782164,
+          "topicality": 0.010796053
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.73105085,
+          "topicality": 0.0015987954
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.6266864,
+          "topicality": 0.004666121
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.57758784,
+          "topicality": 0.0035749837
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5419116,
+          "topicality": 0.0007771267
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.51331246,
+          "topicality": 0.026458735
+        }
+      ]
+    }
+  ]
+}

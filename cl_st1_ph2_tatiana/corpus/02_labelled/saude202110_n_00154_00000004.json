@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.84071684,
+          "topicality": 0.0012371117
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7970634,
+          "topicality": 0.0019365323
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.6591099,
+          "topicality": 0.0002877953
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.64730436,
+          "topicality": 8.9082954e-05
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.5935853,
+          "topicality": 0.00017765597
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5695513,
+          "topicality": 0.0026623602
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5639318,
+          "topicality": 0.0028448417
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.89836854,
+          "topicality": 0.05258193
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8791948,
+          "topicality": 0.01295656
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.76119477,
+          "topicality": 0.028826201
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.60911393,
+          "topicality": 0.00031425932
+        },
+        {
+          "mid": "/m/028mzr",
+          "description": "Hair coloring",
+          "score": 0.60347635,
+          "topicality": 0.0006769844
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.59865135,
+          "topicality": 0.0014937267
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.54625684,
+          "topicality": 0.000516554
+        }
+      ]
+    }
+  ]
+}

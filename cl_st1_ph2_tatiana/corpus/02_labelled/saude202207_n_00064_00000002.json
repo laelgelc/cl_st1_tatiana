@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bmgjqz",
+          "description": "Sports venue",
+          "score": 0.9742894,
+          "topicality": 0.08561357
+        },
+        {
+          "mid": "/m/019cfy",
+          "description": "Stadium",
+          "score": 0.94761497,
+          "topicality": 0.6624055
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.91154367,
+          "topicality": 0.10732744
+        },
+        {
+          "mid": "/m/018lrm",
+          "description": "Arena",
+          "score": 0.90223134,
+          "topicality": 0.12660494
+        },
+        {
+          "mid": "/m/0h548rj",
+          "description": "Floodlight",
+          "score": 0.7356016,
+          "topicality": 0.00020555904
+        },
+        {
+          "mid": "/m/0404y4",
+          "description": "Soccer-specific stadium",
+          "score": 0.7228845,
+          "topicality": 0.50318885
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.7059552,
+          "topicality": 0.0042124083
+        },
+        {
+          "mid": "/m/04bzth",
+          "description": "Artificial turf",
+          "score": 0.70081127,
+          "topicality": 0.0021807437
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.6881929,
+          "topicality": 0.006965723
+        },
+        {
+          "mid": "/m/02vx4",
+          "description": "Football",
+          "score": 0.6108614,
+          "topicality": 0.2109911
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.5668925,
+          "topicality": 0.01968222
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.5415896,
+          "topicality": 0.013247401
+        }
+      ]
+    }
+  ]
+}

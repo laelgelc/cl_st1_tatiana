@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.8801932,
+          "topicality": 0.0010682589
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.82846147,
+          "topicality": 0.014738443
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5428113,
+          "topicality": 0.0012175029
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.52544564,
+          "topicality": 0.00021693151
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/068jd",
+          "description": "Photograph",
+          "score": 0.98831886,
+          "topicality": 0.015368249
+        },
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.96761,
+          "topicality": 0.017562091
+        },
+        {
+          "mid": "/m/03d49p1",
+          "description": "Monochrome photography",
+          "score": 0.9519604,
+          "topicality": 0.017497847
+        },
+        {
+          "mid": "/m/01mwkf",
+          "description": "Monochrome",
+          "score": 0.8878595,
+          "topicality": 0.023760246
+        },
+        {
+          "mid": "/m/01g6gs",
+          "description": "Black and white",
+          "score": 0.870085,
+          "topicality": 0.022642076
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.58184665,
+          "topicality": 0.06283927
+        }
+      ]
+    }
+  ]
+}

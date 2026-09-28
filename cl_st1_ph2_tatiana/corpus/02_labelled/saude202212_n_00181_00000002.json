@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fc1fy",
+          "description": "Black hair",
+          "score": 0.93378806,
+          "topicality": 3.6336503e-05
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.8649169,
+          "topicality": 0.042014915
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.8286807,
+          "topicality": 0.012218715
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.60112864,
+          "topicality": 0.019096844
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.536278,
+          "topicality": 0.05872299
+        },
+        {
+          "mid": "/m/07jdr",
+          "description": "Train",
+          "score": 0.50078386,
+          "topicality": 0.017259827
+        }
+      ]
+    }
+  ]
+}

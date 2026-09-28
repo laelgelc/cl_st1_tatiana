@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.9895216,
+          "topicality": 0.008357146
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.8877141,
+          "topicality": 0.025528757
+        },
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.7825513,
+          "topicality": 0.0021285093
+        },
+        {
+          "mid": "/m/01wk9c",
+          "description": "Emblem",
+          "score": 0.76211977,
+          "topicality": 0.010009849
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.7592433,
+          "topicality": 0.3767459
+        },
+        {
+          "mid": "/m/07pltdk",
+          "description": "pole",
+          "score": 0.742563,
+          "topicality": 0.00045705822
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8905672,
+          "topicality": 0.00052039156
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.7365636,
+          "topicality": 0.15638693
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7008577,
+          "topicality": 0.010755009
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6964308,
+          "topicality": 0.025853442
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6452545,
+          "topicality": 0.12639016
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.60229874,
+          "topicality": 0.008905505
+        },
+        {
+          "mid": "/m/06fgw",
+          "description": "Robot",
+          "score": 0.5162199,
+          "topicality": 0.0038259444
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.5083203,
+          "topicality": 0.0746583
+        }
+      ]
+    }
+  ]
+}

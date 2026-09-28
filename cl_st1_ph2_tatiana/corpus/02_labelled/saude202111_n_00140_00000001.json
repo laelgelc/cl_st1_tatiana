@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.80245435,
+          "topicality": 0.00906746
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7557841,
+          "topicality": 0.15175173
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.6812858,
+          "topicality": 0.044506114
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5977662,
+          "topicality": 0.07276477
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.5838746,
+          "topicality": 0.0785484
+        }
+      ]
+    }
+  ]
+}

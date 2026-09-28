@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8148883,
+          "topicality": 0.00011457666
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.79769015,
+          "topicality": 0.16007872
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7343185,
+          "topicality": 0.051402703
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.68654805,
+          "topicality": 0.04035101
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.67350394,
+          "topicality": 0.16606866
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.64785475,
+          "topicality": 0.068960026
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.5874465,
+          "topicality": 0.050221004
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.54709667,
+          "topicality": 0.0049549956
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.5163681,
+          "topicality": 0.01707448
+        }
+      ]
+    }
+  ]
+}

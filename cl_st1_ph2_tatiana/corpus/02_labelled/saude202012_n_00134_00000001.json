@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02csf",
+          "description": "Drawing",
+          "score": 0.8749198,
+          "topicality": 0.09745523
+        },
+        {
+          "mid": "/m/0215n",
+          "description": "Cartoon",
+          "score": 0.8464852,
+          "topicality": 0.35852417
+        },
+        {
+          "mid": "/m/01kr8f",
+          "description": "Illustration",
+          "score": 0.7986509,
+          "topicality": 0.2203481
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.6500552,
+          "topicality": 0.012041683
+        }
+      ]
+    }
+  ]
+}

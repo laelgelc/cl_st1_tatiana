@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.85948133,
+          "topicality": 0.002664654
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.81898814,
+          "topicality": 0.03077607
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8150145,
+          "topicality": 0.09431072
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.7890507,
+          "topicality": 0.06937002
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5005332,
+          "topicality": 0.0012832657
+        }
+      ]
+    }
+  ]
+}

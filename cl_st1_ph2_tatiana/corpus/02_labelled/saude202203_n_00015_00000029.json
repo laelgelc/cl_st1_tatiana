@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.82836,
+          "topicality": 0.030583039
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7504431,
+          "topicality": 0.0060230247
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.65612173,
+          "topicality": 0.0055983514
+        },
+        {
+          "mid": "/m/01mfj",
+          "description": "Computer hardware",
+          "score": 0.6172114,
+          "topicality": 0.00012810761
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.6140489,
+          "topicality": 0.00021233287
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.609976,
+          "topicality": 0.007960281
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.7396749,
+          "topicality": 0.00016388511
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6079328,
+          "topicality": 0.0071384083
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.5918264,
+          "topicality": 0.07941155
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.5268693,
+          "topicality": 0.00047137364
+        }
+      ]
+    }
+  ]
+}

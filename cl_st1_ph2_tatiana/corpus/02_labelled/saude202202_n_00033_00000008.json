@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.6556098,
+          "topicality": 0.009321988
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5762558,
+          "topicality": 0.10753582
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.56358105,
+          "topicality": 0.0016514318
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.55510813,
+          "topicality": 0.14133172
+        }
+      ]
+    }
+  ]
+}

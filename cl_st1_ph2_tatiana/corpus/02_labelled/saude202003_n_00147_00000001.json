@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9849659,
+          "topicality": 0.08546031
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448952,
+          "topicality": 1.6384753e-05
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.85224986,
+          "topicality": 0.008356384
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8294526,
+          "topicality": 0.003722897
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7662213,
+          "topicality": 0.0063860007
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.55173993,
+          "topicality": 0.0014246831
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.50915235,
+          "topicality": 0.0004995939
+        }
+      ]
+    }
+  ]
+}

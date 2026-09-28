@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.959851,
+          "topicality": 0.30429572
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.9337389,
+          "topicality": 0.009845768
+        },
+        {
+          "mid": "/m/09jfs",
+          "description": "Uniform",
+          "score": 0.8645766,
+          "topicality": 0.0019508301
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.8239287,
+          "topicality": 0.620212
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.812496,
+          "topicality": 0.0144584365
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.72143155,
+          "topicality": 0.00012018288
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.65511644,
+          "topicality": 8.9448054e-05
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.648669,
+          "topicality": 1.2840245e-06
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.54685044,
+          "topicality": 0.0043985355
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.50661653,
+          "topicality": 4.3925796e-05
+        }
+      ]
+    }
+  ]
+}

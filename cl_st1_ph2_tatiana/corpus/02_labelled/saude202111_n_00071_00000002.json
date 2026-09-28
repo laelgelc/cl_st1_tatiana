@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9059741,
+          "topicality": 0.0010911397
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.80052483,
+          "topicality": 0.012084405
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7150304,
+          "topicality": 0.000351266
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.64566845,
+          "topicality": 0.001369683
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.64087075,
+          "topicality": 0.00022653068
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6263247,
+          "topicality": 0.0008537978
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.5169582,
+          "topicality": 0.029051153
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.88931626,
+          "topicality": 0.0012449725
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8512499,
+          "topicality": 8.3281404e-05
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.74334913,
+          "topicality": 0.00019629604
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.73671144,
+          "topicality": 0.0015281555
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7265355,
+          "topicality": 6.2994906e-05
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.71132743,
+          "topicality": 0.12286028
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.630463,
+          "topicality": 0.0006610355
+        }
+      ]
+    }
+  ]
+}

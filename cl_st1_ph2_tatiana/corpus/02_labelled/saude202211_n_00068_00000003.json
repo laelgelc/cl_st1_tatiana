@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.975776,
+          "topicality": 0.0077339225
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.95423734,
+          "topicality": 0.07994696
+        },
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.83005095,
+          "topicality": 0.01302424
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7639212,
+          "topicality": 0.010514993
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.74686205,
+          "topicality": 0.0037252111
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.67552793,
+          "topicality": 0.003484131
+        },
+        {
+          "mid": "/m/0csj6s",
+          "description": "Stain",
+          "score": 0.6568415,
+          "topicality": 0.023871103
+        }
+      ]
+    }
+  ]
+}

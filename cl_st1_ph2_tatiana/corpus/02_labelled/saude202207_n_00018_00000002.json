@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02h00q",
+          "description": "Jersey",
+          "score": 0.9299645,
+          "topicality": 0.00035494842
+        },
+        {
+          "mid": "/m/0gl2ny2",
+          "description": "Football player",
+          "score": 0.83787566,
+          "topicality": 0.108451836
+        },
+        {
+          "mid": "/m/0h8n2hv",
+          "description": "Sports Fan Jersey",
+          "score": 0.7500808,
+          "topicality": 3.3001903e-05
+        },
+        {
+          "mid": "/m/0pcq81q",
+          "description": "Soccer player",
+          "score": 0.7262226,
+          "topicality": 0.15398398
+        }
+      ]
+    }
+  ]
+}

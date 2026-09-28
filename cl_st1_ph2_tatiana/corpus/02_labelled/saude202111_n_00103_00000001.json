@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9160398,
+          "topicality": 0.0067976415
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8624267,
+          "topicality": 0.048687927
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.83991385,
+          "topicality": 0.27681988
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8047994,
+          "topicality": 0.12830386
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7902979,
+          "topicality": 0.00084615144
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.69934785,
+          "topicality": 0.024723101
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6960394,
+          "topicality": 0.07623781
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.6442621,
+          "topicality": 0.009688742
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.60982734,
+          "topicality": 2.2051268e-05
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.57330036,
+          "topicality": 0.04916152
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.56739134,
+          "topicality": 0.113156684
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55320203,
+          "topicality": 0.01835262
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.55090207,
+          "topicality": 0.004235059
+        }
+      ]
+    }
+  ]
+}

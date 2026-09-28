@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.9304732,
+          "topicality": 0.00024536785
+        },
+        {
+          "mid": "/m/01c34b",
+          "description": "Flooring",
+          "score": 0.929239,
+          "topicality": 0.00025112618
+        },
+        {
+          "mid": "/m/02rfdq",
+          "description": "Interior design",
+          "score": 0.92653775,
+          "topicality": 0.0033315015
+        },
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.92596406,
+          "topicality": 0.00082298595
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.75975853,
+          "topicality": 0.00057938753
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.71795154,
+          "topicality": 0.00016919924
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.69532883,
+          "topicality": 0.009293882
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.683177,
+          "topicality": 0.052660543
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6693039,
+          "topicality": 8.713063e-05
+        },
+        {
+          "mid": "/m/09cjl",
+          "description": "Airport",
+          "score": 0.6435058,
+          "topicality": 0.6640838
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.60418487,
+          "topicality": 0.0110628465
+        },
+        {
+          "mid": "/m/027dwg0",
+          "description": "Lobby",
+          "score": 0.59194946,
+          "topicality": 0.0005461712
+        },
+        {
+          "mid": "/m/07k55_3",
+          "description": "Hand luggage",
+          "score": 0.5541069,
+          "topicality": 0.000114370996
+        },
+        {
+          "mid": "/m/027vj2v",
+          "description": "Aluminium",
+          "score": 0.5488376,
+          "topicality": 7.6646e-05
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.52224773,
+          "topicality": 0.00040835995
+        },
+        {
+          "mid": "/m/026smn",
+          "description": "Airport terminal",
+          "score": 0.51956517,
+          "topicality": 0.33670276
+        }
+      ]
+    }
+  ]
+}

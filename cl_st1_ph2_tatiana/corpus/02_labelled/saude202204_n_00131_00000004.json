@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0qmmr",
+          "description": "Wheelchair",
+          "score": 0.6777513,
+          "topicality": 0.008075507
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.57767004,
+          "topicality": 0.0072665066
+        },
+        {
+          "mid": "/m/01bqk0",
+          "description": "Bicycle wheel",
+          "score": 0.56899464,
+          "topicality": 9.486875e-05
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.55859333,
+          "topicality": 0.00073400524
+        },
+        {
+          "mid": "/m/0c3vfpc",
+          "description": "Bicycle tire",
+          "score": 0.51507413,
+          "topicality": 2.9643336e-06
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.75474894,
+          "topicality": 0.8521083
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5774389,
+          "topicality": 0.010716187
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5482801,
+          "topicality": 0.000105860854
+        }
+      ]
+    }
+  ]
+}

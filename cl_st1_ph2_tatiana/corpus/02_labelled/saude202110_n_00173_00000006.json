@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9834607,
+          "topicality": 0.009786796
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.9758372,
+          "topicality": 0.028895153
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.96983546,
+          "topicality": 0.019411603
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448144,
+          "topicality": 0.00070346834
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.9186719,
+          "topicality": 0.0038869902
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.88877755,
+          "topicality": 0.0099708475
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73395365,
+          "topicality": 0.0111584235
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.63915277,
+          "topicality": 0.00028554216
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.63522154,
+          "topicality": 0.004878402
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.58385485,
+          "topicality": 0.00036387268
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.5454439,
+          "topicality": 1.5756623e-05
+        },
+        {
+          "mid": "/m/020fsy",
+          "description": "Portable communications device",
+          "score": 0.50699407,
+          "topicality": 0.0004848324
+        }
+      ]
+    }
+  ]
+}

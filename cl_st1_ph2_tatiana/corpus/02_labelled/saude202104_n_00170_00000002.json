@@ -1,0 +1,116 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.93780816,
+          "topicality": 0.49509904
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9363415,
+          "topicality": 0.15244915
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9264016,
+          "topicality": 0.07731289
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.91806525,
+          "topicality": 0.17813589
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.9123821,
+          "topicality": 0.037245393
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9116173,
+          "topicality": 0.0008958926
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.89336604,
+          "topicality": 0.00015067212
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.8346929,
+          "topicality": 0.45925713
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.8155239,
+          "topicality": 0.007992005
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7405625,
+          "topicality": 0.010827125
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.72256655,
+          "topicality": 0.04456725
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7101362,
+          "topicality": 0.06596421
+        },
+        {
+          "mid": "/m/02h661t",
+          "description": "Dentist",
+          "score": 0.6668215,
+          "topicality": 0.5665406
+        },
+        {
+          "mid": "/m/0277g",
+          "description": "Dentistry",
+          "score": 0.64126736,
+          "topicality": 0.3546635
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5427409,
+          "topicality": 0.008889932
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.53629506,
+          "topicality": 0.047839902
+        },
+        {
+          "mid": "/m/03c1dkx",
+          "description": "Therapy",
+          "score": 0.50789535,
+          "topicality": 0.040255554
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.50705713,
+          "topicality": 0.0037391023
+        }
+      ]
+    }
+  ]
+}

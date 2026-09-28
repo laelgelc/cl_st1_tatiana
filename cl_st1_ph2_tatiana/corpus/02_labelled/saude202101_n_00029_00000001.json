@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03d49p1",
+          "description": "Monochrome photography",
+          "score": 0.869281,
+          "topicality": 0.00039693588
+        },
+        {
+          "mid": "/m/01mwkf",
+          "description": "Monochrome",
+          "score": 0.80832887,
+          "topicality": 0.0018195944
+        },
+        {
+          "mid": "/m/0csj6s",
+          "description": "Stain",
+          "score": 0.572826,
+          "topicality": 0.006415054
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.56879455,
+          "topicality": 0.03631409
+        },
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.5023134,
+          "topicality": 0.18837178
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9604296,
+          "topicality": 0.0012428013
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.9130071,
+          "topicality": 0.00020299082
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8143097,
+          "topicality": 0.00063565234
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.76159036,
+          "topicality": 0.010236655
+        },
+        {
+          "mid": "/m/0176mf",
+          "description": "Belt",
+          "score": 0.58674544,
+          "topicality": 0.0005757022
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.53407645,
+          "topicality": 0.00074005325
+        },
+        {
+          "mid": "/m/01s_bn",
+          "description": "Button",
+          "score": 0.50063914,
+          "topicality": 0.0002003918
+        }
+      ]
+    }
+  ]
+}

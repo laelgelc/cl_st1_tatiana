@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.9396752,
+          "topicality": 0.029362215
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.91226155,
+          "topicality": 0.040737934
+        },
+        {
+          "mid": "/m/0crjs",
+          "description": "Convenience store",
+          "score": 0.8775717,
+          "topicality": 0.06501318
+        },
+        {
+          "mid": "/m/0gjbg72",
+          "description": "Shelf",
+          "score": 0.74629116,
+          "topicality": 0.00066639815
+        },
+        {
+          "mid": "/m/0h8n982",
+          "description": "Shelving",
+          "score": 0.72386956,
+          "topicality": 7.811996e-05
+        },
+        {
+          "mid": "/m/0dnkv",
+          "description": "Supermarket",
+          "score": 0.70531386,
+          "topicality": 0.07489812
+        },
+        {
+          "mid": "/m/06ts_6",
+          "description": "Shopkeeper",
+          "score": 0.6415808,
+          "topicality": 0.043514673
+        },
+        {
+          "mid": "/m/0hhdb",
+          "description": "Shopping",
+          "score": 0.63430506,
+          "topicality": 0.009464651
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.62992203,
+          "topicality": 9.046678e-05
+        },
+        {
+          "mid": "/m/09y4pm",
+          "description": "Market",
+          "score": 0.6288789,
+          "topicality": 0.004852943
+        },
+        {
+          "mid": "/m/01jpn4",
+          "description": "Grocery store",
+          "score": 0.60047036,
+          "topicality": 0.018978152
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.58908963,
+          "topicality": 0.00054346677
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.52852577,
+          "topicality": 0.004629577
+        }
+      ]
+    }
+  ]
+}

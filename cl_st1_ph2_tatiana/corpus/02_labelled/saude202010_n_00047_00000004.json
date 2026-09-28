@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.95685476,
+          "topicality": 0.320762
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.93363565,
+          "topicality": 0.01633897
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.90859103,
+          "topicality": 0.1698339
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.89808017,
+          "topicality": 0.11564445
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.766016,
+          "topicality": 0.0058419122
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.74954623,
+          "topicality": 0.10485101
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.71170276,
+          "topicality": 0.003643043
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.64023256,
+          "topicality": 0.0701408
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.602812,
+          "topicality": 0.07552146
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.5996249,
+          "topicality": 0.0015945999
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5941459,
+          "topicality": 0.0017002668
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.567053,
+          "topicality": 0.023066042
+        }
+      ]
+    }
+  ]
+}

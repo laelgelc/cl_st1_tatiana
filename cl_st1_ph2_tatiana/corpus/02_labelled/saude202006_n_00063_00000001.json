@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.87627214,
+          "topicality": 0.0013934833
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.85729706,
+          "topicality": 0.16442774
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8206844,
+          "topicality": 0.5920313
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.75054336,
+          "topicality": 0.0023344087
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.66520065,
+          "topicality": 0.39915526
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.64272857,
+          "topicality": 0.018299371
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6366225,
+          "topicality": 0.0020252287
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.63012964,
+          "topicality": 0.00029882835
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6244192,
+          "topicality": 0.27949777
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.578679,
+          "topicality": 0.025290783
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.5744154,
+          "topicality": 0.16495055
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.550629,
+          "topicality": 0.003668995
+        }
+      ]
+    }
+  ]
+}

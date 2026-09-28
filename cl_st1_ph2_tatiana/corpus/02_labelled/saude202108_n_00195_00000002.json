@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.93329597,
+          "topicality": 0.04571309
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.88691443,
+          "topicality": 0.001892607
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5665976,
+          "topicality": 0.0076211668
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5351925,
+          "topicality": 0.0018504519
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05n4y",
+          "description": "Common ostrich",
+          "score": 0.9621188,
+          "topicality": 0.8158082
+        },
+        {
+          "mid": "/m/01553z",
+          "description": "Ratite",
+          "score": 0.9546688,
+          "topicality": 0.0111789415
+        },
+        {
+          "mid": "/m/03qqnt",
+          "description": "Flightless bird",
+          "score": 0.90305036,
+          "topicality": 0.003997798
+        },
+        {
+          "mid": "/m/015p6",
+          "description": "Bird",
+          "score": 0.7239759,
+          "topicality": 0.07463343
+        },
+        {
+          "mid": "/m/01gd91",
+          "description": "Pasture",
+          "score": 0.70469254,
+          "topicality": 0.0021864069
+        },
+        {
+          "mid": "/m/0g8p9",
+          "description": "Farm",
+          "score": 0.65677524,
+          "topicality": 0.008899941
+        },
+        {
+          "mid": "/m/02jwqh",
+          "description": "Vacation",
+          "score": 0.5707795,
+          "topicality": 3.6881745e-05
+        },
+        {
+          "mid": "/m/0blz9",
+          "description": "Fence",
+          "score": 0.5357162,
+          "topicality": 0.008089322
+        },
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.50931084,
+          "topicality": 0.0007664234
+        }
+      ]
+    }
+  ]
+}

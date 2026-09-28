@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8168585,
+          "topicality": 0.17642471
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7135633,
+          "topicality": 0.00082288554
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.67168653,
+          "topicality": 0.04041373
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6569792,
+          "topicality": 0.11376138
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.65113384,
+          "topicality": 0.07285045
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5838667,
+          "topicality": 0.0073084054
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.522244,
+          "topicality": 0.11035932
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449472,
+          "topicality": 0.0063290545
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.89803135,
+          "topicality": 0.00094180985
+        },
+        {
+          "mid": "/m/04_fs",
+          "description": "Muscle",
+          "score": 0.84008855,
+          "topicality": 0.0008500913
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.7830199,
+          "topicality": 0.0035256739
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6558393,
+          "topicality": 0.0015089826
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06msq",
+          "description": "Sculpture",
+          "score": 0.93978906,
+          "topicality": 0.27952415
+        },
+        {
+          "mid": "/m/013_1c",
+          "description": "Statue",
+          "score": 0.8848173,
+          "topicality": 0.3314677
+        },
+        {
+          "mid": "/m/0p9xx",
+          "description": "Visual arts",
+          "score": 0.8480106,
+          "topicality": 0.0016354613
+        },
+        {
+          "mid": "/m/02ljgl",
+          "description": "Monument",
+          "score": 0.8418791,
+          "topicality": 0.06264876
+        },
+        {
+          "mid": "/m/02skpt",
+          "description": "Artifact",
+          "score": 0.7368545,
+          "topicality": 0.0008612579
+        },
+        {
+          "mid": "/m/095yjj",
+          "description": "Classical sculpture",
+          "score": 0.5707063,
+          "topicality": 0.017277272
+        }
+      ]
+    }
+  ]
+}

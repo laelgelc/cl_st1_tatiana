@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.7292223,
+          "topicality": 0.0012253642
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7068911,
+          "topicality": 0.0008841803
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6810172,
+          "topicality": 0.02277913
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6522437,
+          "topicality": 0.4986368
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6140777,
+          "topicality": 0.002878458
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.6094415,
+          "topicality": 0.08259523
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.54513806,
+          "topicality": 0.1494984
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.50349945,
+          "topicality": 0.05319456
+        }
+      ]
+    }
+  ]
+}

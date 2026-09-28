@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448523,
+          "topicality": 0.0021647024
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.6612633,
+          "topicality": 0.002622316
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.65924823,
+          "topicality": 0.0020765613
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.64825207,
+          "topicality": 6.481316e-05
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.63104916,
+          "topicality": 0.0017050797
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.59578234,
+          "topicality": 0.0010900241
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.51006573,
+          "topicality": 0.0007861347
+        }
+      ]
+    }
+  ]
+}

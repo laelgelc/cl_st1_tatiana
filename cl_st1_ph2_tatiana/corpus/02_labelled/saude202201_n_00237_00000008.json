@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8546056,
+          "topicality": 0.017749121
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.84229416,
+          "topicality": 0.0030371633
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7206593,
+          "topicality": 0.0005472355
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.68858653,
+          "topicality": 0.3977917
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6694899,
+          "topicality": 0.011602494
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6251729,
+          "topicality": 0.005350018
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5805466,
+          "topicality": 0.08651522
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5547639,
+          "topicality": 0.12647192
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5345908,
+          "topicality": 0.006649278
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5018757,
+          "topicality": 0.0036033602
+        }
+      ]
+    }
+  ]
+}

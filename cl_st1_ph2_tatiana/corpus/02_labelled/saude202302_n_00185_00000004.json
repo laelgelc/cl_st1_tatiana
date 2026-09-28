@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.75438005,
+          "topicality": 0.00068201893
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.6042965,
+          "topicality": 0.08791748
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5603697,
+          "topicality": 0.05756545
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.54868764,
+          "topicality": 0.06784216
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5090724,
+          "topicality": 0.0053394907
+        }
+      ]
+    }
+  ]
+}

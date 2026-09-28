@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02pdnx",
+          "description": "Cafeteria",
+          "score": 0.64154303,
+          "topicality": 0.015710233
+        },
+        {
+          "mid": "/m/06l8d",
+          "description": "Restaurant",
+          "score": 0.60618204,
+          "topicality": 0.0018076559
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.52918935,
+          "topicality": 0.00022406528
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5268208,
+          "topicality": 0.011371678
+        }
+      ]
+    }
+  ]
+}

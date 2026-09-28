@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9942953,
+          "topicality": 0.009712236
+        },
+        {
+          "mid": "/m/01n32",
+          "description": "City",
+          "score": 0.9609408,
+          "topicality": 0.035685364
+        },
+        {
+          "mid": "/m/039jbq",
+          "description": "Urban area",
+          "score": 0.9569659,
+          "topicality": 0.0043596183
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9420349,
+          "topicality": 0.08145375
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.92148834,
+          "topicality": 0.020882575
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.920147,
+          "topicality": 0.00445826
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.90851915,
+          "topicality": 0.19560815
+        },
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.8816358,
+          "topicality": 0.0025526893
+        },
+        {
+          "mid": "/m/056mk",
+          "description": "Metropolis",
+          "score": 0.80827093,
+          "topicality": 0.011724845
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7445352,
+          "topicality": 0.012311153
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.67739606,
+          "topicality": 0.019889379
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.85138,
+          "topicality": 0.00070168765
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.8108796,
+          "topicality": 0.0012460508
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.7729826,
+          "topicality": 0.0010485911
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.75422406,
+          "topicality": 0.0058808615
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.63554424,
+          "topicality": 0.087294236
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6201861,
+          "topicality": 0.014609018
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.578528,
+          "topicality": 0.07195393
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5737318,
+          "topicality": 0.00012623193
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.5431104,
+          "topicality": 0.0002404775
+        }
+      ]
+    }
+  ]
+}

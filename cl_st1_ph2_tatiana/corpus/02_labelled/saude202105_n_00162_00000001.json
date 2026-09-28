@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943554,
+          "topicality": 0.022512525
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.92088795,
+          "topicality": 0.027472792
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.90459234,
+          "topicality": 0.04110163
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.8934373,
+          "topicality": 0.043502502
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.8616557,
+          "topicality": 0.00052180403
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.5356992,
+          "topicality": 0.0015765129
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.6866461,
+          "topicality": 0.04574354
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.67582834,
+          "topicality": 0.0010237211
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.5913457,
+          "topicality": 0.006598237
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.57152414,
+          "topicality": 0.00038659506
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5625317,
+          "topicality": 0.071455516
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.533719,
+          "topicality": 0.011500046
+        }
+      ]
+    }
+  ]
+}

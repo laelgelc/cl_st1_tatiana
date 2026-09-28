@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.920553,
+          "topicality": 0.059982836
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9022071,
+          "topicality": 0.007860379
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8525605,
+          "topicality": 0.0037369325
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7187023,
+          "topicality": 0.10546762
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.70311195,
+          "topicality": 0.0031844492
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.6979051,
+          "topicality": 0.002548312
+        }
+      ]
+    }
+  ]
+}

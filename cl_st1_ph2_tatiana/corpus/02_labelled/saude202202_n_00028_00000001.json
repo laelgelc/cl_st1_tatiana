@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/088fh",
+          "description": "Yellow",
+          "score": 0.9650666,
+          "topicality": 0.0067847283
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.7116282,
+          "topicality": 0.00461222
+        },
+        {
+          "mid": "/m/01s77c",
+          "description": "Ribbon",
+          "score": 0.6878438,
+          "topicality": 0.16923223
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.67386407,
+          "topicality": 0.005450282
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.6685457,
+          "topicality": 0.004211683
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.61667985,
+          "topicality": 0.0055711847
+        }
+      ]
+    }
+  ]
+}

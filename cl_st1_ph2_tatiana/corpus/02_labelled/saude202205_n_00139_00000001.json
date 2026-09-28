@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.87586135,
+          "topicality": 0.0293039
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8732838,
+          "topicality": 0.004983692
+        },
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.6913691,
+          "topicality": 0.019751644
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.6537758,
+          "topicality": 0.02526252
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5972784,
+          "topicality": 0.006951616
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.51147807,
+          "topicality": 0.001682169
+        }
+      ]
+    }
+  ]
+}

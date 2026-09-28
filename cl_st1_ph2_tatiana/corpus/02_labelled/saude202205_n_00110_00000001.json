@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.94552225,
+          "topicality": 0.047283407
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8766512,
+          "topicality": 0.020525012
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7559756,
+          "topicality": 0.0048463275
+        }
+      ]
+    }
+  ]
+}

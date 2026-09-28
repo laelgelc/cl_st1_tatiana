@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.9109855,
+          "topicality": 0.6712946
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.88422984,
+          "topicality": 0.31399605
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.81977504,
+          "topicality": 0.00083984865
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7787457,
+          "topicality": 0.109333664
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.7603263,
+          "topicality": 0.0078051575
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.743953,
+          "topicality": 0.011369271
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.67469496,
+          "topicality": 0.007352792
+        },
+        {
+          "mid": "/m/0y09",
+          "description": "Analgesic",
+          "score": 0.65172124,
+          "topicality": 0.49880335
+        },
+        {
+          "mid": "/m/0hk26",
+          "description": "Stimulant",
+          "score": 0.55463886,
+          "topicality": 0.05688966
+        }
+      ]
+    }
+  ]
+}

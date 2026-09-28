@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.84399474,
+          "topicality": 0.0033612647
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.77350247,
+          "topicality": 0.0021766562
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.5921083,
+          "topicality": 1.9042622e-05
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5486986,
+          "topicality": 0.14651263
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.52894163,
+          "topicality": 0.000161458
+        }
+      ]
+    }
+  ]
+}

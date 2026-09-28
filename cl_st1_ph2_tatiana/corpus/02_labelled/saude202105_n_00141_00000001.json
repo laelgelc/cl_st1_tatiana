@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7478277,
+          "topicality": 0.0027417429
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5985406,
+          "topicality": 0.00622777
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.58356893,
+          "topicality": 0.0017906103
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.5563645,
+          "topicality": 0.015651532
+        },
+        {
+          "mid": "/m/026smn",
+          "description": "Airport terminal",
+          "score": 0.53069293,
+          "topicality": 0.116953455
+        },
+        {
+          "mid": "/m/08z8jn",
+          "description": "Check-in",
+          "score": 0.5161068,
+          "topicality": 0.5639402
+        }
+      ]
+    }
+  ]
+}

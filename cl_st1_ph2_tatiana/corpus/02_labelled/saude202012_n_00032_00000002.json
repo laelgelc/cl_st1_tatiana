@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.73891133,
+          "topicality": 0.39477763
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.73644656,
+          "topicality": 0.0049871076
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.72675216,
+          "topicality": 0.20287365
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7117709,
+          "topicality": 0.0027913458
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.66790223,
+          "topicality": 0.009747162
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.60088706,
+          "topicality": 0.013247658
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.58826435,
+          "topicality": 0.032859355
+        }
+      ]
+    }
+  ]
+}

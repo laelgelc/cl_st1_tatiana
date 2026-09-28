@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.98799616,
+          "topicality": 0.00033350912
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.98071426,
+          "topicality": 0.005173851
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.9626183,
+          "topicality": 0.3296377
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.9488691,
+          "topicality": 0.0053715375
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9227921,
+          "topicality": 0.001918002
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.7654513,
+          "topicality": 0.38451052
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.7400015,
+          "topicality": 2.1278369e-05
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.7166531,
+          "topicality": 0.051240783
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.620271,
+          "topicality": 0.013198863
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.58969855,
+          "topicality": 0.016891045
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5660634,
+          "topicality": 0.00013959764
+        },
+        {
+          "mid": "/m/01r9v",
+          "description": "Computer program",
+          "score": 0.5187255,
+          "topicality": 0.021757042
+        }
+      ]
+    }
+  ]
+}

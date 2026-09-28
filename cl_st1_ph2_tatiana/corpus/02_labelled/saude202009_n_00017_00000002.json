@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.68257254,
+          "topicality": 0.053291224
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.66804886,
+          "topicality": 0.0010322735
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6500963,
+          "topicality": 0.23635192
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5910937,
+          "topicality": 0.0037940159
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.53718513,
+          "topicality": 0.0012284078
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5174495,
+          "topicality": 0.069316365
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5166893,
+          "topicality": 0.02293835
+        }
+      ]
+    }
+  ]
+}

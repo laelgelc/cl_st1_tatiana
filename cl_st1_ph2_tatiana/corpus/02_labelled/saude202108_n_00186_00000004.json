@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.64804786,
+          "topicality": 0.0007662944
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6133744,
+          "topicality": 0.04792384
+        },
+        {
+          "mid": "/m/014mpm",
+          "description": "Intersection",
+          "score": 0.6086856,
+          "topicality": 1.8707484e-05
+        },
+        {
+          "mid": "/m/02jxn5",
+          "description": "Parking lot",
+          "score": 0.59142995,
+          "topicality": 0.0010434432
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5314969,
+          "topicality": 0.01214981
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5035593,
+          "topicality": 0.1037633
+        }
+      ]
+    }
+  ]
+}

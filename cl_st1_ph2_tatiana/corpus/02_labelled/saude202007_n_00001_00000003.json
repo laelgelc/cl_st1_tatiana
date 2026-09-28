@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9942981,
+          "topicality": 0.10462743
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.95969576,
+          "topicality": 0.029855886
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.92296433,
+          "topicality": 0.15334097
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.78301543,
+          "topicality": 0.044859573
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.70458996,
+          "topicality": 0.08194465
+        },
+        {
+          "mid": "/m/0h8q07j",
+          "description": "Baby & Toddler Clothing",
+          "score": 0.6803207,
+          "topicality": 1.3980054e-05
+        }
+      ]
+    }
+  ]
+}

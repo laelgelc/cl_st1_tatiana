@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.9785919,
+          "topicality": 0.7805124
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.9767267,
+          "topicality": 0.59658456
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.9754137,
+          "topicality": 0.010800015
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9567833,
+          "topicality": 0.08565767
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9511568,
+          "topicality": 0.0026517322
+        },
+        {
+          "mid": "/m/08ncv6",
+          "description": "Capsule",
+          "score": 0.9510274,
+          "topicality": 0.15288575
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.94476837,
+          "topicality": 0.26040876
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.8542667,
+          "topicality": 0.30358386
+        },
+        {
+          "mid": "/m/0y09",
+          "description": "Analgesic",
+          "score": 0.8522551,
+          "topicality": 0.28434706
+        },
+        {
+          "mid": "/m/0hk26",
+          "description": "Stimulant",
+          "score": 0.7829932,
+          "topicality": 0.028953256
+        },
+        {
+          "mid": "/m/0q593",
+          "description": "Dietary supplement",
+          "score": 0.77375734,
+          "topicality": 0.047290284
+        },
+        {
+          "mid": "/m/04jng2",
+          "description": "Nutraceutical",
+          "score": 0.7391316,
+          "topicality": 0.010899642
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.7000069,
+          "topicality": 0.0024881312
+        },
+        {
+          "mid": "/m/0129f4",
+          "description": "Chemical compound",
+          "score": 0.629452,
+          "topicality": 0.024096536
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5942773,
+          "topicality": 0.071849026
+        },
+        {
+          "mid": "/m/03gs8b2",
+          "description": "Balance",
+          "score": 0.5305316,
+          "topicality": 1.2361021e-05
+        }
+      ]
+    }
+  ]
+}

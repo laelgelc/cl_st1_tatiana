@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447862,
+          "topicality": 6.344834e-05
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.79887426,
+          "topicality": 0.00023833233
+        },
+        {
+          "mid": "/m/019tzr",
+          "description": "Coffin",
+          "score": 0.79592055,
+          "topicality": 0.4612236
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7882668,
+          "topicality": 0.0059876535
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6420129,
+          "topicality": 4.944418e-05
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6262568,
+          "topicality": 0.0035109892
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.54270726,
+          "topicality": 0.0006192055
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9083137,
+          "topicality": 0.00035827907
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8093321,
+          "topicality": 2.8027891e-05
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.80572844,
+          "topicality": 0.00042741228
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8002604,
+          "topicality": 0.0003086757
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.75442564,
+          "topicality": 0.015878975
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7450152,
+          "topicality": 0.00049454614
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.73989284,
+          "topicality": 0.021230618
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6753639,
+          "topicality": 0.00013651067
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6655138,
+          "topicality": 0.001127599
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.63070565,
+          "topicality": 0.0009125111
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.5828637,
+          "topicality": 0.006436734
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5804044,
+          "topicality": 0.030541243
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.564977,
+          "topicality": 0.001157617
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.5044972,
+          "topicality": 0.056759913
+        }
+      ]
+    }
+  ]
+}

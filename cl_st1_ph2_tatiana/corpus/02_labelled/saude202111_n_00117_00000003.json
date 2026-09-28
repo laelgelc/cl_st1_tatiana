@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9090036,
+          "topicality": 0.00066357513
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9075901,
+          "topicality": 0.1682886
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8932131,
+          "topicality": 0.020731237
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8577955,
+          "topicality": 0.0019331444
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.8498239,
+          "topicality": 0.08769866
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8260498,
+          "topicality": 0.2076833
+        },
+        {
+          "mid": "/m/0jzbb",
+          "description": "Paramedic",
+          "score": 0.82388794,
+          "topicality": 0.15463625
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7877285,
+          "topicality": 0.0028053438
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.74798834,
+          "topicality": 0.072364315
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.66104555,
+          "topicality": 0.0026831191
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6469588,
+          "topicality": 0.0054619564
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.62245685,
+          "topicality": 0.00024208994
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.61242956,
+          "topicality": 5.6566776e-05
+        }
+      ]
+    }
+  ]
+}

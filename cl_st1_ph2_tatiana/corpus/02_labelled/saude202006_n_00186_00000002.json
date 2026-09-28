@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.77727735,
+          "topicality": 0.012558383
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6989674,
+          "topicality": 9.468998e-05
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.67816037,
+          "topicality": 0.00050300587
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.62591606,
+          "topicality": 0.0020224114
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.6128632,
+          "topicality": 0.00012606954
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.5756176,
+          "topicality": 1.9993911e-05
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.57110035,
+          "topicality": 0.05783525
+        }
+      ]
+    }
+  ]
+}

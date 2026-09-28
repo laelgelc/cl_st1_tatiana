@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.761742,
+          "topicality": 0.0033131996
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.72426325,
+          "topicality": 0.023370849
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6992217,
+          "topicality": 0.24735889
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.65960556,
+          "topicality": 0.002229216
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5982216,
+          "topicality": 0.022016864
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5859423,
+          "topicality": 0.13224836
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.53647,
+          "topicality": 4.576167e-05
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5113573,
+          "topicality": 0.01233154
+        }
+      ]
+    }
+  ]
+}

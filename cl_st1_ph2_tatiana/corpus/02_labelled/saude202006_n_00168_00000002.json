@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.9654579,
+          "topicality": 0.2970455
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.91479284,
+          "topicality": 0.006357125
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.7969683,
+          "topicality": 0.3495563
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.73235255,
+          "topicality": 0.0017996846
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.7243691,
+          "topicality": 0.000536098
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.70597064,
+          "topicality": 0.006898045
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.70104134,
+          "topicality": 0.022411518
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.698977,
+          "topicality": 0.0011003274
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6180034,
+          "topicality": 0.020431152
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.58178276,
+          "topicality": 0.0245542
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6024779,
+          "topicality": 0.013594374
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.5881532,
+          "topicality": 0.014758939
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.555792,
+          "topicality": 0.0066334987
+        },
+        {
+          "mid": "/m/0jxy",
+          "description": "Anime",
+          "score": 0.53136677,
+          "topicality": 0.47478622
+        }
+      ]
+    }
+  ]
+}

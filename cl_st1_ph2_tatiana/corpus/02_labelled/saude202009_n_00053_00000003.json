@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.97496367,
+          "topicality": 0.003390063
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9371248,
+          "topicality": 0.0019950448
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.89828205,
+          "topicality": 0.003164835
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8726052,
+          "topicality": 0.0019674287
+        },
+        {
+          "mid": "/m/04_fs",
+          "description": "Muscle",
+          "score": 0.83555317,
+          "topicality": 0.00037461397
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.82238656,
+          "topicality": 0.13235937
+        },
+        {
+          "mid": "/m/08xgn7",
+          "description": "Comfort",
+          "score": 0.8159325,
+          "topicality": 0.0075911875
+        },
+        {
+          "mid": "/m/0dzdr",
+          "description": "Thorax",
+          "score": 0.7762981,
+          "topicality": 0.0018671334
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.7581155,
+          "topicality": 0.00046095534
+        },
+        {
+          "mid": "/m/09x8z",
+          "description": "Stomach",
+          "score": 0.7009872,
+          "topicality": 0.17631555
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.6378801,
+          "topicality": 0.0053745834
+        }
+      ]
+    }
+  ]
+}

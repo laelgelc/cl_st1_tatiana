@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02pvbb",
+          "description": "Mansion",
+          "score": 0.75812626,
+          "topicality": 0.025061885
+        },
+        {
+          "mid": "/m/038t8_",
+          "description": "Estate",
+          "score": 0.74676853,
+          "topicality": 0.0038030287
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.7134448,
+          "topicality": 0.081037134
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.69167507,
+          "topicality": 0.008461132
+        },
+        {
+          "mid": "/m/01rlnn",
+          "description": "Hacienda",
+          "score": 0.6453701,
+          "topicality": 0.018157192
+        },
+        {
+          "mid": "/m/01y8xw",
+          "description": "Villa",
+          "score": 0.57552,
+          "topicality": 0.005897721
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.87865627,
+          "topicality": 0.00016997039
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7908427,
+          "topicality": 0.20793703
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.6475941,
+          "topicality": 0.048339
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.57691586,
+          "topicality": 0.1959931
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.57155377,
+          "topicality": 0.013347553
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.54480875,
+          "topicality": 0.07008261
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.95886093,
+          "topicality": 0.00019601134
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.94239473,
+          "topicality": 0.0007833368
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.94126695,
+          "topicality": 0.018099803
+        },
+        {
+          "mid": "/m/081pkj",
+          "description": "Event",
+          "score": 0.9248908,
+          "topicality": 0.004846727
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9151781,
+          "topicality": 0.0041906065
+        },
+        {
+          "mid": "/m/039l3v",
+          "description": "Auditorium",
+          "score": 0.91031516,
+          "topicality": 0.052069973
+        },
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.8945378,
+          "topicality": 0.0009840938
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8794925,
+          "topicality": 0.011693085
+        },
+        {
+          "mid": "/m/02q60ls",
+          "description": "Conference hall",
+          "score": 0.84081227,
+          "topicality": 0.0057823393
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.83092505,
+          "topicality": 0.24669713
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7762163,
+          "topicality": 0.0043153446
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.77568287,
+          "topicality": 0.0006167243
+        },
+        {
+          "mid": "/m/02l7rx",
+          "description": "Convention center",
+          "score": 0.7376572,
+          "topicality": 0.025198502
+        },
+        {
+          "mid": "/m/03233l",
+          "description": "Seminar",
+          "score": 0.7318416,
+          "topicality": 0.007434655
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.728721,
+          "topicality": 0.06404557
+        },
+        {
+          "mid": "/m/07bx10",
+          "description": "Academic conference",
+          "score": 0.7089289,
+          "topicality": 0.023726346
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.6950989,
+          "topicality": 0.009040908
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.65822476,
+          "topicality": 0.002573886
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.6446754,
+          "topicality": 8.4322994e-05
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.62614095,
+          "topicality": 2.4444216e-07
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.5937651,
+          "topicality": 0.0051452895
+        },
+        {
+          "mid": "/m/01qwsw",
+          "description": "Flat-panel display",
+          "score": 0.566475,
+          "topicality": 2.6358097e-05
+        },
+        {
+          "mid": "/m/06ycgh",
+          "description": "Projection screen",
+          "score": 0.5466607,
+          "topicality": 0.00018701098
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.5248182,
+          "topicality": 0.00241836
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5206883,
+          "topicality": 0.0006610232
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5043193,
+          "topicality": 0.20417075
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.5015658,
+          "topicality": 0.025667202
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.83592767,
+          "topicality": 0.032126755
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.76657325,
+          "topicality": 0.0030217578
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.69655305,
+          "topicality": 0.00028549423
+        },
+        {
+          "mid": "/m/01cndb",
+          "description": "Stationery",
+          "score": 0.611682,
+          "topicality": 0.0021398403
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6000789,
+          "topicality": 0.0015410372
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5957015,
+          "topicality": 0.10118472
+        }
+      ]
+    }
+  ]
+}

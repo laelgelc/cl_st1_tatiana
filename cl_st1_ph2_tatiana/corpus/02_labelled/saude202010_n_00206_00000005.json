@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.9716489,
+          "topicality": 0.5974911
+        },
+        {
+          "mid": "/m/07pltdk",
+          "description": "pole",
+          "score": 0.88986695,
+          "topicality": 0.0022690513
+        },
+        {
+          "mid": "/m/03m9d0z",
+          "description": "Wind",
+          "score": 0.68726945,
+          "topicality": 0.0038678953
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.57575184,
+          "topicality": 0.023054892
+        }
+      ]
+    }
+  ]
+}

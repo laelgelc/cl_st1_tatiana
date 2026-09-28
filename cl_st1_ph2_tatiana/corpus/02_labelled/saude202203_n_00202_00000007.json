@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9728085,
+          "topicality": 0.008590798
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.9489448,
+          "topicality": 0.18117286
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.9286963,
+          "topicality": 0.008575549
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91940695,
+          "topicality": 0.0005784129
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.7658021,
+          "topicality": 0.12779033
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.6962854,
+          "topicality": 0.0041032303
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.67644083,
+          "topicality": 0.1184277
+        },
+        {
+          "mid": "/m/01r9v",
+          "description": "Computer program",
+          "score": 0.50505596,
+          "topicality": 0.10018951
+        }
+      ]
+    }
+  ]
+}

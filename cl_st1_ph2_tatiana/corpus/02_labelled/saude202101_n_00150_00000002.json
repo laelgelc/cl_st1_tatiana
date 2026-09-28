@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7086907,
+          "topicality": 0.008651059
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.58431405,
+          "topicality": 0.0018976643
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53199965,
+          "topicality": 0.0069920565
+        }
+      ]
+    }
+  ]
+}

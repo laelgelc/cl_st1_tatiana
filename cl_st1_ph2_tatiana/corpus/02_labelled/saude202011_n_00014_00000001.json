@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.9551185,
+          "topicality": 0.14103876
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.9215087,
+          "topicality": 0.2488339
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.8420407,
+          "topicality": 0.00044759174
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.78344274,
+          "topicality": 3.1258383e-05
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.75970364,
+          "topicality": 0.0039208056
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.7551346,
+          "topicality": 0.050839957
+        },
+        {
+          "mid": "/m/02q1b85",
+          "description": "Boarding",
+          "score": 0.5447918,
+          "topicality": 0.0024392721
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.5426945,
+          "topicality": 0.00016373127
+        }
+      ]
+    }
+  ]
+}

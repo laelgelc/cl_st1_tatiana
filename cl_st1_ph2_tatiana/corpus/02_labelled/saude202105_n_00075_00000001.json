@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.8815833,
+          "topicality": 0.31104326
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.828658,
+          "topicality": 0.0067713293
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.739506,
+          "topicality": 0.005139147
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7023556,
+          "topicality": 0.0047857687
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.63335615,
+          "topicality": 0.0010922165
+        },
+        {
+          "mid": "/m/0jyt6",
+          "description": "Masque",
+          "score": 0.52489394,
+          "topicality": 0.007411836
+        }
+      ]
+    }
+  ]
+}

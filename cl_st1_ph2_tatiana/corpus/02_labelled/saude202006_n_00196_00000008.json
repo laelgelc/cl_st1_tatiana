@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.87684333,
+          "topicality": 0.0029585406
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.806651,
+          "topicality": 0.058703598
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8058016,
+          "topicality": 0.00041179516
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.7212654,
+          "topicality": 0.15888023
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.69855744,
+          "topicality": 0.14190246
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.6320024,
+          "topicality": 1.6691567e-05
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.62290615,
+          "topicality": 0.008755867
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.6224488,
+          "topicality": 0.0011663856
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5695705,
+          "topicality": 0.10470663
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.55169886,
+          "topicality": 0.0037567844
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5156892,
+          "topicality": 0.017006181
+        }
+      ]
+    }
+  ]
+}

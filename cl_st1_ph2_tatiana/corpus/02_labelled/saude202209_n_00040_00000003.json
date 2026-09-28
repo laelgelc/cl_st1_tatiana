@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97095394,
+          "topicality": 0.09484413
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.97088933,
+          "topicality": 0.016195903
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9079499,
+          "topicality": 0.00418648
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.90707886,
+          "topicality": 0.0031520633
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8656462,
+          "topicality": 0.0049101436
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.8070748,
+          "topicality": 0.15585022
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7823562,
+          "topicality": 0.040206954
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7752634,
+          "topicality": 0.00018407198
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7417441,
+          "topicality": 0.0009966723
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6574403,
+          "topicality": 0.0009435024
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.62871456,
+          "topicality": 0.09109054
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.5399203,
+          "topicality": 0.0073630977
+        }
+      ]
+    }
+  ]
+}

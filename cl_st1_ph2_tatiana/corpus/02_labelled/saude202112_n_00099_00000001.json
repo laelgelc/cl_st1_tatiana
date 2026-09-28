@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448307,
+          "topicality": 0.0026936124
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.859542,
+          "topicality": 0.014127945
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.80338913,
+          "topicality": 0.0012577709
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7420162,
+          "topicality": 0.007723355
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.73235035,
+          "topicality": 0.0008219746
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7292842,
+          "topicality": 0.0032515433
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.699494,
+          "topicality": 0.0020287444
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.57184196,
+          "topicality": 0.007947192
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.5097466,
+          "topicality": 0.015080376
+        }
+      ]
+    }
+  ]
+}

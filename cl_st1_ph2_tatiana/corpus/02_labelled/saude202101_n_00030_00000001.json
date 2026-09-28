@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.88908756,
+          "topicality": 0.0018705765
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8531535,
+          "topicality": 0.054244444
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.7592728,
+          "topicality": 0.0058711707
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.7506604,
+          "topicality": 0.0018367125
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7365724,
+          "topicality": 0.00013260539
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.664962,
+          "topicality": 0.025261395
+        },
+        {
+          "mid": "/m/01r9v",
+          "description": "Computer program",
+          "score": 0.55665106,
+          "topicality": 0.04343926
+        },
+        {
+          "mid": "/m/02y3rj",
+          "description": "Presentation",
+          "score": 0.50686586,
+          "topicality": 0.018169161
+        }
+      ]
+    }
+  ]
+}

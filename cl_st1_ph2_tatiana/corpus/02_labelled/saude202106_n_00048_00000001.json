@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.8803424,
+          "topicality": 0.013783452
+        },
+        {
+          "mid": "/m/01lrnl",
+          "description": "Windshield",
+          "score": 0.7936004,
+          "topicality": 0.026948076
+        },
+        {
+          "mid": "/m/0h8lk4b",
+          "description": "Automotive Mirror",
+          "score": 0.755251,
+          "topicality": 0.00023174212
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.7471632,
+          "topicality": 0.0025882167
+        },
+        {
+          "mid": "/m/0kw6d",
+          "description": "Driving",
+          "score": 0.71174324,
+          "topicality": 0.09832676
+        },
+        {
+          "mid": "/m/03b6_4",
+          "description": "Steering wheel",
+          "score": 0.6534415,
+          "topicality": 0.0049615693
+        },
+        {
+          "mid": "/m/05j11x",
+          "description": "Rear-view mirror",
+          "score": 0.59855247,
+          "topicality": 0.001444896
+        },
+        {
+          "mid": "/m/02417f",
+          "description": "Windscreen wiper",
+          "score": 0.5857838,
+          "topicality": 0.00058980356
+        }
+      ]
+    }
+  ]
+}

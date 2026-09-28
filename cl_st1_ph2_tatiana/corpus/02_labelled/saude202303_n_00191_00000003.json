@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90262616,
+          "topicality": 0.00066576333
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.74994147,
+          "topicality": 0.07605701
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7285127,
+          "topicality": 6.8547924e-05
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.54901725,
+          "topicality": 0.0043488317
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.51247436,
+          "topicality": 0.0007781049
+        }
+      ]
+    }
+  ]
+}

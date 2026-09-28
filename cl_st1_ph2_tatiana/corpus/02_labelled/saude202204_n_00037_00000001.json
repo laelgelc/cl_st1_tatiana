@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.962805,
+          "topicality": 0.006011207
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8865432,
+          "topicality": 0.0006746001
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.86901045,
+          "topicality": 0.00062661833
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.86002034,
+          "topicality": 0.007216758
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8580691,
+          "topicality": 0.00065453583
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8131387,
+          "topicality": 0.04408766
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7904574,
+          "topicality": 0.0001538799
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.7760209,
+          "topicality": 0.0001152831
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.6457841,
+          "topicality": 0.08902419
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.62648267,
+          "topicality": 0.10073746
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6043461,
+          "topicality": 0.03811214
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5689908,
+          "topicality": 0.049943496
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.5179463,
+          "topicality": 0.0019498257
+        }
+      ]
+    }
+  ]
+}

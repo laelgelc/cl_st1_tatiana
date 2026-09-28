@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.8534083,
+          "topicality": 0.0050242874
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.7753217,
+          "topicality": 0.24356394
+        },
+        {
+          "mid": "/m/09x8z",
+          "description": "Stomach",
+          "score": 0.6921118,
+          "topicality": 0.5873756
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.5776075,
+          "topicality": 0.097258404
+        },
+        {
+          "mid": "/m/06_kbr",
+          "description": "Hip",
+          "score": 0.5671908,
+          "topicality": 0.0081874775
+        }
+      ]
+    }
+  ]
+}

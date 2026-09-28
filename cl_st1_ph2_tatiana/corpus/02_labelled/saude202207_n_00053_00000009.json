@@ -1,0 +1,236 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01prls",
+          "description": "Land vehicle",
+          "score": 0.9869177,
+          "topicality": 0.0021077087
+        },
+        {
+          "mid": "/m/0k4j",
+          "description": "Car",
+          "score": 0.9853191,
+          "topicality": 0.06143212
+        },
+        {
+          "mid": "/m/07yv9",
+          "description": "Vehicle",
+          "score": 0.9851491,
+          "topicality": 0.0419173
+        },
+        {
+          "mid": "/m/06_dn",
+          "description": "Snow",
+          "score": 0.9844631,
+          "topicality": 0.7291246
+        },
+        {
+          "mid": "/m/079bkr",
+          "description": "Mode of transport",
+          "score": 0.9829701,
+          "topicality": 0.00048288927
+        },
+        {
+          "mid": "/m/0h9mv",
+          "description": "Tire",
+          "score": 0.9715653,
+          "topicality": 0.0015034382
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.9480751,
+          "topicality": 0.1514584
+        },
+        {
+          "mid": "/m/0h8ls87",
+          "description": "Automotive Exterior",
+          "score": 0.9469262,
+          "topicality": 9.2222595e-05
+        },
+        {
+          "mid": "/m/0h8pb3l",
+          "description": "Automotive Tire",
+          "score": 0.9302733,
+          "topicality": 1.7845461e-05
+        },
+        {
+          "mid": "/m/01c791",
+          "description": "Freezing",
+          "score": 0.8980653,
+          "topicality": 0.027434107
+        },
+        {
+          "mid": "/m/01cmcs",
+          "description": "Hatchback",
+          "score": 0.88612556,
+          "topicality": 0.003860698
+        },
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.87546784,
+          "topicality": 0.00044251437
+        },
+        {
+          "mid": "/m/03txxp",
+          "description": "Subcompact car",
+          "score": 0.83833784,
+          "topicality": 0.0043723006
+        },
+        {
+          "mid": "/m/0h8lk4b",
+          "description": "Automotive Mirror",
+          "score": 0.8297619,
+          "topicality": 4.657208e-05
+        },
+        {
+          "mid": "/m/088l6h",
+          "description": "Family car",
+          "score": 0.8167587,
+          "topicality": 0.0004900088
+        },
+        {
+          "mid": "/m/02mnkq",
+          "description": "Bumper",
+          "score": 0.8140478,
+          "topicality": 0.0006594853
+        },
+        {
+          "mid": "/m/0d74dx",
+          "description": "Fender",
+          "score": 0.8128807,
+          "topicality": 0.00016251975
+        },
+        {
+          "mid": "/m/01jp76",
+          "description": "Parking",
+          "score": 0.8023219,
+          "topicality": 0.005971175
+        },
+        {
+          "mid": "/m/01lrnl",
+          "description": "Windshield",
+          "score": 0.7876594,
+          "topicality": 0.0034046564
+        },
+        {
+          "mid": "/m/0369ss",
+          "description": "City car",
+          "score": 0.7874434,
+          "topicality": 0.007687774
+        },
+        {
+          "mid": "/m/01q18m",
+          "description": "Precipitation",
+          "score": 0.76975757,
+          "topicality": 0.123495325
+        },
+        {
+          "mid": "/m/01kgp6",
+          "description": "Winter storm",
+          "score": 0.7654892,
+          "topicality": 0.030944785
+        },
+        {
+          "mid": "/m/01sdr3",
+          "description": "Hubcap",
+          "score": 0.76362085,
+          "topicality": 1.1331768e-05
+        },
+        {
+          "mid": "/m/033kf",
+          "description": "Frost",
+          "score": 0.7348796,
+          "topicality": 0.007970165
+        },
+        {
+          "mid": "/m/01jfm_",
+          "description": "Vehicle registration plate",
+          "score": 0.72993344,
+          "topicality": 0.0016292647
+        },
+        {
+          "mid": "/m/0h8m331",
+          "description": "Automotive Tail & Brake Light",
+          "score": 0.72567415,
+          "topicality": 0.00010471141
+        },
+        {
+          "mid": "/m/02swz_",
+          "description": "Compact car",
+          "score": 0.70516676,
+          "topicality": 0.003022489
+        },
+        {
+          "mid": "/m/03vnt4",
+          "description": "Mid-size car",
+          "score": 0.69990355,
+          "topicality": 1.5938871e-05
+        },
+        {
+          "mid": "/m/03vtj",
+          "description": "Ice",
+          "score": 0.68950987,
+          "topicality": 0.04900031
+        },
+        {
+          "mid": "/m/05j11x",
+          "description": "Rear-view mirror",
+          "score": 0.6722312,
+          "topicality": 0.00011598991
+        },
+        {
+          "mid": "/m/0215_s",
+          "description": "Hot hatch",
+          "score": 0.67062247,
+          "topicality": 0.00037921016
+        },
+        {
+          "mid": "/m/0ctrp",
+          "description": "Sport utility vehicle",
+          "score": 0.64630955,
+          "topicality": 0.00037817867
+        },
+        {
+          "mid": "/m/01g81",
+          "description": "Blizzard",
+          "score": 0.6312233,
+          "topicality": 0.096809946
+        },
+        {
+          "mid": "/m/0h8n616",
+          "description": "Automotive Side-View Mirror",
+          "score": 0.6123046,
+          "topicality": 2.9242161e-05
+        },
+        {
+          "mid": "/m/0cbkkk",
+          "description": "Mini sport utility vehicle",
+          "score": 0.56189317,
+          "topicality": 0.00013671022
+        },
+        {
+          "mid": "/m/02df64",
+          "description": "Hood",
+          "score": 0.5604136,
+          "topicality": 0.00079425523
+        },
+        {
+          "mid": "/m/02417f",
+          "description": "Windscreen wiper",
+          "score": 0.53644454,
+          "topicality": 0.00027738174
+        },
+        {
+          "mid": "/m/0h8lsmh",
+          "description": "Tire Care",
+          "score": 0.5269961,
+          "topicality": 5.1905336e-06
+        }
+      ]
+    }
+  ]
+}

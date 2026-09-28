@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.9473845,
+          "topicality": 0.21660435
+        },
+        {
+          "mid": "/m/0bmgjqz",
+          "description": "Sports venue",
+          "score": 0.9375725,
+          "topicality": 0.004001042
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.90679383,
+          "topicality": 0.008823892
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.88780606,
+          "topicality": 0.014351249
+        },
+        {
+          "mid": "/m/019cfy",
+          "description": "Stadium",
+          "score": 0.85484654,
+          "topicality": 0.0074654715
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7535643,
+          "topicality": 0.0005086055
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.7151327,
+          "topicality": 3.3443772e-05
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.6556589,
+          "topicality": 0.0038459147
+        },
+        {
+          "mid": "/m/018lrm",
+          "description": "Arena",
+          "score": 0.6295764,
+          "topicality": 0.00075107004
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5610488,
+          "topicality": 0.0022341374
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.54158086,
+          "topicality": 0.0006234617
+        },
+        {
+          "mid": "/m/053hz1",
+          "description": "Cheering",
+          "score": 0.5068673,
+          "topicality": 0.1729968
+        }
+      ]
+    }
+  ]
+}

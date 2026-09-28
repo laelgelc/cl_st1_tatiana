@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07bg4p",
+          "description": "Heart",
+          "score": 0.966522,
+          "topicality": 0.062690176
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.88017863,
+          "topicality": 0.6300592
+        },
+        {
+          "mid": "/m/017cc",
+          "description": "Brain",
+          "score": 0.7542142,
+          "topicality": 0.45715138
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.71736324,
+          "topicality": 0.018856741
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.7131982,
+          "topicality": 0.058781654
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.6727632,
+          "topicality": 0.005425708
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6631796,
+          "topicality": 0.018831063
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5621473,
+          "topicality": 0.012516108
+        },
+        {
+          "mid": "/m/03gg9",
+          "description": "Human anatomy",
+          "score": 0.54630893,
+          "topicality": 0.0107580675
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.52872723,
+          "topicality": 0.006063494
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8973972,
+          "topicality": 0.7231033
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.89166814,
+          "topicality": 0.0046624993
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8818976,
+          "topicality": 0.0029597152
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.86384404,
+          "topicality": 0.018354548
+        },
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.8382352,
+          "topicality": 0.000102325925
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8186909,
+          "topicality": 0.071946934
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.7397827,
+          "topicality": 0.00581317
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7071463,
+          "topicality": 0.2870725
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.6438521,
+          "topicality": 0.022013314
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5245045,
+          "topicality": 0.009347916
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5214652,
+          "topicality": 0.02328658
+        }
+      ]
+    }
+  ]
+}

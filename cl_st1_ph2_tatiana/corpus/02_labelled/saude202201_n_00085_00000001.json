@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.96992105,
+          "topicality": 0.00046609773
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9152898,
+          "topicality": 0.00011231025
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.89497674,
+          "topicality": 0.16827485
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.85430044,
+          "topicality": 0.02558102
+        }
+      ]
+    }
+  ]
+}

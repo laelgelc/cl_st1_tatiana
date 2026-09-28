@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449366,
+          "topicality": 0.00047447803
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.80887014,
+          "topicality": 0.02787869
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.64889103,
+          "topicality": 0.004054224
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.63245565,
+          "topicality": 0.00059308525
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.53637654,
+          "topicality": 0.0012564772
+        }
+      ]
+    }
+  ]
+}

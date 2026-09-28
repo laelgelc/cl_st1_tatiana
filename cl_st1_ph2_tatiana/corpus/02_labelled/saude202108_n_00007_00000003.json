@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9445043,
+          "topicality": 0.0022079197
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.77517074,
+          "topicality": 0.0092793
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.5142309,
+          "topicality": 0.01177795
+        }
+      ]
+    }
+  ]
+}

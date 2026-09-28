@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03154",
+          "description": "Fungus",
+          "score": 0.79146683,
+          "topicality": 0.0351354
+        },
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.580745,
+          "topicality": 0.16590095
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.57722855,
+          "topicality": 0.051697485
+        }
+      ]
+    }
+  ]
+}

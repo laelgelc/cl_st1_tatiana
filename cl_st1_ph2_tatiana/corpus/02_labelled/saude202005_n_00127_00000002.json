@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05f725",
+          "description": "Leaf vegetable",
+          "score": 0.782935,
+          "topicality": 0.01693449
+        },
+        {
+          "mid": "/m/04ylr2",
+          "description": "Wild cabbage",
+          "score": 0.6340728,
+          "topicality": 0.12445857
+        },
+        {
+          "mid": "/m/0bn7bg",
+          "description": "Cruciferous vegetables",
+          "score": 0.5557129,
+          "topicality": 0.0013473249
+        },
+        {
+          "mid": "/m/05gqfk",
+          "description": "Plastic bag",
+          "score": 0.50070184,
+          "topicality": 0.009933852
+        }
+      ]
+    }
+  ]
+}

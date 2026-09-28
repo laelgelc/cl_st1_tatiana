@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.9543757,
+          "topicality": 0.0010330172
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.80143607,
+          "topicality": 0.0024116877
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.7787861,
+          "topicality": 0.10382622
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.77649295,
+          "topicality": 9.8875134e-05
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7029753,
+          "topicality": 0.0003594649
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.68666655,
+          "topicality": 0.025501352
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.67907554,
+          "topicality": 0.108740106
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.66536903,
+          "topicality": 0.034913283
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.60088015,
+          "topicality": 0.03796448
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.5254212,
+          "topicality": 0.001110744
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01c34b",
+          "description": "Flooring",
+          "score": 0.9220404,
+          "topicality": 8.0006015e-05
+        },
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.88719577,
+          "topicality": 0.00074251764
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.67807025,
+          "topicality": 0.0001373895
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.59890574,
+          "topicality": 0.0037981488
+        },
+        {
+          "mid": "/m/0fq22vb",
+          "description": "Exhibition",
+          "score": 0.5240577,
+          "topicality": 0.033721533
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5221044,
+          "topicality": 0.00013357011
+        }
+      ]
+    }
+  ]
+}

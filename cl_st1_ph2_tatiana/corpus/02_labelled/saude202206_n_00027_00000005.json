@@ -1,0 +1,37 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.83472395,
+          "topicality": 0.009302809
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.71038806,
+          "topicality": 0.08610217
+        },
+        {
+          "mid": "/m/01fnck",
+          "description": "Waste",
+          "score": 0.65329045
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.637358,
+          "topicality": 0.0037265825
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.5251214,
+          "topicality": 0.092786245
+        }
+      ]
+    }
+  ]
+}

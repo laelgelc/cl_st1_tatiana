@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9614944,
+          "topicality": 0.0008549706
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.940687,
+          "topicality": 0.002353062
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9104988,
+          "topicality": 0.007106604
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.90624714,
+          "topicality": 0.0004930524
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9061973,
+          "topicality": 0.01786759
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8297848,
+          "topicality": 0.0023038776
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8131022,
+          "topicality": 0.0022662755
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.79687196,
+          "topicality": 4.7745703e-05
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6934182,
+          "topicality": 0.038604364
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5660403,
+          "topicality": 0.0005807396
+        },
+        {
+          "mid": "/m/019brn",
+          "description": "Dreadlocks",
+          "score": 0.520581,
+          "topicality": 0.0015058267
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.50605386,
+          "topicality": 0.0007249213
+        }
+      ]
+    }
+  ]
+}

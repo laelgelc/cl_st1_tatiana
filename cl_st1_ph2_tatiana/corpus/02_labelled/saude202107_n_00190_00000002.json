@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.961645,
+          "topicality": 0.0010196633
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8978659,
+          "topicality": 0.00026689516
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.86600274,
+          "topicality": 0.00087855087
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.83143723,
+          "topicality": 0.00028961996
+        }
+      ]
+    }
+  ]
+}

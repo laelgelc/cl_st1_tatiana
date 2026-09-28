@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.90957046,
+          "topicality": 2.7605764e-05
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.906183,
+          "topicality": 0.0046731113
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8262831,
+          "topicality": 0.00070770417
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.749749,
+          "topicality": 0.0028581475
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6893739,
+          "topicality": 0.00045511144
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.5558339,
+          "topicality": 0.027082771
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5294565,
+          "topicality": 0.003949989
+        }
+      ]
+    }
+  ]
+}

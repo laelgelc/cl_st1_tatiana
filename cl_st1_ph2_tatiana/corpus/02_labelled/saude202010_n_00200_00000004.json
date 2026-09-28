@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.95274156,
+          "topicality": 0.020990271
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94475335,
+          "topicality": 4.1243682e-05
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8802942,
+          "topicality": 0.008139017
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7547581,
+          "topicality": 0.0067258943
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.5240775,
+          "topicality": 6.137601e-05
+        }
+      ]
+    }
+  ]
+}

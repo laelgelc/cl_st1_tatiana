@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449296,
+          "topicality": 0.0029744452
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8969736,
+          "topicality": 0.0026461538
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6860591,
+          "topicality": 0.155646
+        },
+        {
+          "mid": "/m/03qc9zr",
+          "description": "Screaming",
+          "score": 0.6651425,
+          "topicality": 0.045122717
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6449881,
+          "topicality": 0.0024273794
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.6066226,
+          "topicality": 0.51370496
+        },
+        {
+          "mid": "/m/02xrl",
+          "description": "Fear",
+          "score": 0.5239056,
+          "topicality": 0.019039573
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.5158333,
+          "topicality": 0.008024489
+        }
+      ]
+    }
+  ]
+}

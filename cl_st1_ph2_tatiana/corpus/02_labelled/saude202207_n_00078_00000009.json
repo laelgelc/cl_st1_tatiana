@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.865856,
+          "topicality": 0.0016412211
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.85700196,
+          "topicality": 0.027556885
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7964483,
+          "topicality": 0.6882008
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.77078414,
+          "topicality": 0.002324108
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7579166,
+          "topicality": 0.12078247
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6167492,
+          "topicality": 0.053068876
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5971665,
+          "topicality": 0.0023576927
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.52086294,
+          "topicality": 0.010764596
+        }
+      ]
+    }
+  ]
+}

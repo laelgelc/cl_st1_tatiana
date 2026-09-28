@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6531681,
+          "topicality": 0.04778109
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.6400745,
+          "topicality": 0.04264806
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.62540364,
+          "topicality": 0.00014048589
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5207588,
+          "topicality": 0.012012945
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.51579654,
+          "topicality": 0.0054398985
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.50152034,
+          "topicality": 0.33882794
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5002645,
+          "topicality": 0.005129247
+        }
+      ]
+    }
+  ]
+}

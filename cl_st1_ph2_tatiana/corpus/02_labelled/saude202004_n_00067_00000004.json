@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02q2kc3",
+          "description": "Car door",
+          "score": 0.7582377,
+          "topicality": 0.009342285
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.72479206,
+          "topicality": 0.001022908
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.65826786,
+          "topicality": 0.002112882
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.65732527,
+          "topicality": 0.028416289
+        }
+      ]
+    }
+  ]
+}

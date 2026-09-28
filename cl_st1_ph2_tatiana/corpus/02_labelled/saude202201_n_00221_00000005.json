@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07r04",
+          "description": "Truck",
+          "score": 0.70676124,
+          "topicality": 0.0007633566
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.5837449,
+          "topicality": 2.5724923e-05
+        },
+        {
+          "mid": "/m/02607v9",
+          "description": "Transport hub",
+          "score": 0.5491672,
+          "topicality": 0.0028256043
+        },
+        {
+          "mid": "/m/020dwk",
+          "description": "Passenger ship",
+          "score": 0.5046308,
+          "topicality": 0.054936856
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8565583,
+          "topicality": 0.005537414
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.83919066,
+          "topicality": 0.06432252
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8267202,
+          "topicality": 2.8592314e-05
+        },
+        {
+          "mid": "/m/0bt_c3",
+          "description": "Book",
+          "score": 0.70770246,
+          "topicality": 0.17315257
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.61435306,
+          "topicality": 0.0008337572
+        }
+      ]
+    }
+  ]
+}

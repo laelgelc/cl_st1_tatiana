@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94472855,
+          "topicality": 0.0018885181
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.74847686,
+          "topicality": 0.0045806863
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.73927206,
+          "topicality": 0.0002592193
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.63585,
+          "topicality": 0.03187147
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.5456383,
+          "topicality": 0.048360337
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.5403096,
+          "topicality": 0.013946619
+        }
+      ]
+    }
+  ]
+}

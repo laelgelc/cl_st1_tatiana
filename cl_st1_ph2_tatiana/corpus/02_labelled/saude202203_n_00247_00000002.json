@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01t751",
+          "description": "Pregnancy test",
+          "score": 0.9654339,
+          "topicality": 0.98212475
+        },
+        {
+          "mid": "/m/02x8n4r",
+          "description": "Fertility monitor",
+          "score": 0.7716874,
+          "topicality": 0.010359039
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.76131994,
+          "topicality": 0.01632705
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.7602189,
+          "topicality": 0.003277174
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.52223885,
+          "topicality": 0.0030212705
+        }
+      ]
+    }
+  ]
+}

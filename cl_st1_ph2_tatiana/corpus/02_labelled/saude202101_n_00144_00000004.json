@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04scj",
+          "description": "Meat",
+          "score": 0.867845,
+          "topicality": 0.40183842
+        },
+        {
+          "mid": "/m/02hccx",
+          "description": "Butcher",
+          "score": 0.8283795,
+          "topicality": 0.09418747
+        },
+        {
+          "mid": "/m/0ckdlq",
+          "description": "Animal product",
+          "score": 0.74644613,
+          "topicality": 0.023408402
+        },
+        {
+          "mid": "/m/05v1q7",
+          "description": "Red meat",
+          "score": 0.70788634,
+          "topicality": 0.049689196
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.6827129,
+          "topicality": 0.06966296
+        },
+        {
+          "mid": "/m/0971v",
+          "description": "Beef",
+          "score": 0.6797009,
+          "topicality": 0.049923137
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.66440946,
+          "topicality": 0.0141038885
+        },
+        {
+          "mid": "/m/02vjn0",
+          "description": "Food processing",
+          "score": 0.60774744,
+          "topicality": 0.100057535
+        },
+        {
+          "mid": "/m/019t6d",
+          "description": "Animal fat",
+          "score": 0.5631206,
+          "topicality": 0.0062792604
+        },
+        {
+          "mid": "/m/0dy48d",
+          "description": "Meat cutter",
+          "score": 0.5444923,
+          "topicality": 0.011273083
+        }
+      ]
+    }
+  ]
+}

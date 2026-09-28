@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.841914,
+          "topicality": 0.054356765
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.74475867,
+          "topicality": 0.0015503567
+        },
+        {
+          "mid": "/m/0w7s",
+          "description": "Aerospace Engineering",
+          "score": 0.72012615,
+          "topicality": 0.002014093
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.64923286,
+          "topicality": 0.094692804
+        },
+        {
+          "mid": "/m/0vg8",
+          "description": "Airline",
+          "score": 0.52315354,
+          "topicality": 0.026276872
+        },
+        {
+          "mid": "/m/0fzyg",
+          "description": "Aviation",
+          "score": 0.513168,
+          "topicality": 0.017946977
+        }
+      ]
+    }
+  ]
+}

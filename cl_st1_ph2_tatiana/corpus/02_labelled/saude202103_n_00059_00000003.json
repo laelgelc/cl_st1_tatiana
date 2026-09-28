@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6302568,
+          "topicality": 0.00560415
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.61885166,
+          "topicality": 0.007695941
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.6031703,
+          "topicality": 0.0032325136
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.593108,
+          "topicality": 0.0008952385
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5664399,
+          "topicality": 0.08299762
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.5148397,
+          "topicality": 0.016278546
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.51445335,
+          "topicality": 0.0033347537
+        }
+      ]
+    }
+  ]
+}

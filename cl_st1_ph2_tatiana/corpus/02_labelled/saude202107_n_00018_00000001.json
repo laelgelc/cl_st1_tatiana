@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.975498,
+          "topicality": 0.112063214
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9752523,
+          "topicality": 0.007926809
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9248159,
+          "topicality": 0.010486042
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.9168254,
+          "topicality": 0.018250128
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.9039577,
+          "topicality": 0.034001958
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8539279,
+          "topicality": 0.003699436
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.85322106,
+          "topicality": 0.0072580185
+        },
+        {
+          "mid": "/m/0687y",
+          "description": "Prayer",
+          "score": 0.68191147,
+          "topicality": 0.0028598015
+        },
+        {
+          "mid": "/m/06x0q",
+          "description": "Sign language",
+          "score": 0.68126094,
+          "topicality": 0.07236758
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.587828,
+          "topicality": 0.020619784
+        }
+      ]
+    }
+  ]
+}

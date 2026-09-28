@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.90930974,
+          "topicality": 0.0065102545
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7842649,
+          "topicality": 0.0021251782
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.74981815,
+          "topicality": 0.0015858201
+        },
+        {
+          "mid": "/m/073g6",
+          "description": "Stethoscope",
+          "score": 0.73946655,
+          "topicality": 0.1067271
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6630186,
+          "topicality": 0.010663202
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.64684427,
+          "topicality": 0.0022920119
+        }
+      ]
+    }
+  ]
+}

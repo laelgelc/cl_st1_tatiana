@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.69056004,
+          "topicality": 7.161713e-05
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.573404,
+          "topicality": 0.0005298598
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5656624,
+          "topicality": 0.029516097
+        }
+      ]
+    }
+  ]
+}

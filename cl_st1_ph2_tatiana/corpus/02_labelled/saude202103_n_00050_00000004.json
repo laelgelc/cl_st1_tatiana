@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.83037746,
+          "topicality": 0.00033134845
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.80227673,
+          "topicality": 0.0003163126
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7794986,
+          "topicality": 0.0001912762
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6979882,
+          "topicality": 0.000594244
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.67798966,
+          "topicality": 0.024030607
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.67317283,
+          "topicality": 0.0021836748
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.64755046,
+          "topicality": 0.034875434
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5996402,
+          "topicality": 0.03512294
+        }
+      ]
+    }
+  ]
+}

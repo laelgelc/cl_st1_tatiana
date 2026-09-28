@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.77873546,
+          "topicality": 0.25010735
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7043024,
+          "topicality": 0.0154122375
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5993625,
+          "topicality": 0.0018483832
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.5544309,
+          "topicality": 0.05470631
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5038592,
+          "topicality": 0.00037964433
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9111247,
+          "topicality": 0.0032442724
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8964446,
+          "topicality": 0.0008105413
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.8948111,
+          "topicality": 0.00082605606
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.87952524,
+          "topicality": 0.00021003983
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.8147097,
+          "topicality": 0.00022668387
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8029739,
+          "topicality": 0.0012236107
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7355505,
+          "topicality": 0.0155603085
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.59718215,
+          "topicality": 0.022113774
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.58896244,
+          "topicality": 0.0076438407
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.53745484,
+          "topicality": 0.00037442756
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5290056,
+          "topicality": 0.00973534
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94452703,
+          "topicality": 0.0003022855
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.8838431,
+          "topicality": 0.014239443
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.87898856,
+          "topicality": 0.0060972995
+        },
+        {
+          "mid": "/m/02pd__z",
+          "description": "Long hair",
+          "score": 0.7527294,
+          "topicality": 0.0002040369
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.7105251,
+          "topicality": 0.0005297492
+        },
+        {
+          "mid": "/m/09spj9",
+          "description": "Layered hair",
+          "score": 0.6651287,
+          "topicality": 0.0005813939
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.63979316,
+          "topicality": 0.0023534035
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.59835386,
+          "topicality": 0.055574823
+        },
+        {
+          "mid": "/m/026mhtg",
+          "description": "Step cutting",
+          "score": 0.59409446,
+          "topicality": 9.083174e-05
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5425648,
+          "topicality": 0.0016947616
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.5280462,
+          "topicality": 7.007502e-05
+        }
+      ]
+    }
+  ]
+}

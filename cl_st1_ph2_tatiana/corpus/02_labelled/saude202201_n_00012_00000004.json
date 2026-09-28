@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494444,
+          "topicality": 0.0013623933
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9104457,
+          "topicality": 0.0021975883
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.8713987,
+          "topicality": 0.09958861
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.70879656,
+          "topicality": 0.008757691
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.59256226,
+          "topicality": 0.006835779
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5820242,
+          "topicality": 0.0009242351
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5034291,
+          "topicality": 0.00019844815
+        }
+      ]
+    }
+  ]
+}

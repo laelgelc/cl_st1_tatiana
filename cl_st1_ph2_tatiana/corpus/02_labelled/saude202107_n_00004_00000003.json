@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06gfj",
+          "description": "Road",
+          "score": 0.93838036,
+          "topicality": 0.18904585
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.91606295,
+          "topicality": 0.14041412
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.89988095,
+          "topicality": 0.1301521
+        },
+        {
+          "mid": "/m/033j3c",
+          "description": "Lane",
+          "score": 0.8660616,
+          "topicality": 0.10557501
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.86338353,
+          "topicality": 0.022890806
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7797029,
+          "topicality": 0.012546657
+        },
+        {
+          "mid": "/m/0btp2",
+          "description": "Traffic",
+          "score": 0.7530065,
+          "topicality": 0.112301245
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.7263244,
+          "topicality": 0.013872432
+        },
+        {
+          "mid": "/m/0dnhy",
+          "description": "Sidewalk",
+          "score": 0.7084613,
+          "topicality": 0.03455198
+        },
+        {
+          "mid": "/m/0cz_0",
+          "description": "Highway",
+          "score": 0.7054533,
+          "topicality": 0.00991094
+        },
+        {
+          "mid": "/m/014xcs",
+          "description": "Pedestrian crossing",
+          "score": 0.68064255,
+          "topicality": 0.0831703
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.67309016,
+          "topicality": 0.004970214
+        },
+        {
+          "mid": "/m/01mqdt",
+          "description": "Traffic sign",
+          "score": 0.6600869,
+          "topicality": 0.01899615
+        },
+        {
+          "mid": "/m/014v7p",
+          "description": "Zebra crossing",
+          "score": 0.60258955,
+          "topicality": 0.03274354
+        },
+        {
+          "mid": "/m/02mgm6",
+          "description": "Shoulder",
+          "score": 0.55566335,
+          "topicality": 0.0053994735
+        },
+        {
+          "mid": "/m/0335j",
+          "description": "Controlled-access highway",
+          "score": 0.54586846,
+          "topicality": 0.0028657746
+        },
+        {
+          "mid": "/m/014mpm",
+          "description": "Intersection",
+          "score": 0.5119992,
+          "topicality": 0.017959133
+        }
+      ]
+    }
+  ]
+}

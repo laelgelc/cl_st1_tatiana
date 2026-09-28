@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7538987,
+          "topicality": 0.027421705
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.6339474,
+          "topicality": 0.007107721
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5700768,
+          "topicality": 0.05118982
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5686192,
+          "topicality": 0.0033392226
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.559257,
+          "topicality": 0.0009198958
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5524489,
+          "topicality": 0.005213943
+        },
+        {
+          "mid": "/m/07tf8",
+          "description": "University",
+          "score": 0.531476,
+          "topicality": 0.11961694
+        }
+      ]
+    }
+  ]
+}

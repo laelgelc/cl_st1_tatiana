@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.9594358,
+          "topicality": 0.0009253928
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.88705957,
+          "topicality": 0.014536254
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8707495,
+          "topicality": 0.00046462368
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.8263613,
+          "topicality": 0.0047415663
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8041214,
+          "topicality": 0.020896476
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6928519,
+          "topicality": 0.038554255
+        }
+      ]
+    }
+  ]
+}

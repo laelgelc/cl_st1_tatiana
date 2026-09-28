@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8063292,
+          "topicality": 0.0007280638
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6774915,
+          "topicality": 0.0012785221
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.5769532,
+          "topicality": 0.0008472625
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.55321026,
+          "topicality": 0.0030311726
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.5122547,
+          "topicality": 0.0016075233
+        }
+      ]
+    }
+  ]
+}

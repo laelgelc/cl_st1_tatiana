@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.8763321,
+          "topicality": 0.00035865107
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6893541,
+          "topicality": 0.043639332
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.65038544,
+          "topicality": 0.0020833907
+        },
+        {
+          "mid": "/m/01wk9c",
+          "description": "Emblem",
+          "score": 0.6325423,
+          "topicality": 0.0023385768
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.59884614,
+          "topicality": 0.041948326
+        }
+      ]
+    }
+  ]
+}

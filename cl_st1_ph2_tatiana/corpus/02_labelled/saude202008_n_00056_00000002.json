@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "Clothing",
+          "score": 0.9938227,
+          "topicality": 0.007395969
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8208097,
+          "topicality": 0.060618777
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8150852,
+          "topicality": 0.1421127
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.76430696,
+          "topicality": 0.0062233163
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.74353,
+          "topicality": 0.0008682386
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7421669,
+          "topicality": 0.08713165
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6684334,
+          "topicality": 0.16945226
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.58951664,
+          "topicality": 0.0005327156
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5410036,
+          "topicality": 0.015060161
+        }
+      ]
+    }
+  ]
+}

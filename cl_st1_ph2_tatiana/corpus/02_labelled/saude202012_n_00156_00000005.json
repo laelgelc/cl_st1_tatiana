@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.91824245,
+          "topicality": 0.1572228
+        },
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.7613051,
+          "topicality": 0.071527265
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7295517,
+          "topicality": 0.01645009
+        },
+        {
+          "mid": "/m/0hhdb",
+          "description": "Shopping",
+          "score": 0.5542073,
+          "topicality": 0.32654873
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.9808407,
+          "topicality": 0.3821461
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9715068,
+          "topicality": 0.039102152
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.969743,
+          "topicality": 0.21273464
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.923927,
+          "topicality": 0.12170532
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8988557,
+          "topicality": 0.012327445
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8360582,
+          "topicality": 0.0054654186
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7339641,
+          "topicality": 0.0015246258
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.64500153,
+          "topicality": 0.0012633812
+        },
+        {
+          "mid": "/m/02m1vq",
+          "description": "Personal grooming",
+          "score": 0.5765461,
+          "topicality": 0.003942374
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.55099875,
+          "topicality": 0.040592168
+        },
+        {
+          "mid": "/m/0h8nm6p",
+          "description": "Nail Care",
+          "score": 0.5346692,
+          "topicality": 0.0052408115
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.5232859,
+          "topicality": 0.00612548
+        },
+        {
+          "mid": "/m/0dzb2",
+          "description": "Vein",
+          "score": 0.50639135,
+          "topicality": 0.12790105
+        }
+      ]
+    }
+  ]
+}

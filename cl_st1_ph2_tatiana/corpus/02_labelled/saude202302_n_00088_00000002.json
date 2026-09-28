@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06g3fd",
+          "description": "Tissue paper",
+          "score": 0.64678776,
+          "topicality": 0.037538398
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.6295272,
+          "topicality": 0.00093155645
+        },
+        {
+          "mid": "/m/026lrs",
+          "description": "Napkin",
+          "score": 0.56633353,
+          "topicality": 0.017381333
+        },
+        {
+          "mid": "/m/089sv1",
+          "description": "Facial tissue",
+          "score": 0.50301105,
+          "topicality": 0.021019986
+        }
+      ]
+    }
+  ]
+}

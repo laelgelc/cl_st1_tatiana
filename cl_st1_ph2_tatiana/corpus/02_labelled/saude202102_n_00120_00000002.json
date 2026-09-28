@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9204789,
+          "topicality": 0.0024142163
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.89474136,
+          "topicality": 0.575904
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6885013,
+          "topicality": 8.981711e-05
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.685053,
+          "topicality": 0.009435242
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.67265606,
+          "topicality": 0.0003800684
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6526329,
+          "topicality": 0.0016348294
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53984,
+          "topicality": 0.016805798
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.52332044,
+          "topicality": 0.009509648
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.5151211,
+          "topicality": 2.5710528e-05
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.50171024,
+          "topicality": 0.019619016
+        }
+      ]
+    }
+  ]
+}

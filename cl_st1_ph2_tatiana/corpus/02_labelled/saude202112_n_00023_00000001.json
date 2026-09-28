@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.90072626,
+          "topicality": 0.0034228873
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7520364,
+          "topicality": 0.0072016474
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.62619275,
+          "topicality": 0.002684961
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.568388,
+          "topicality": 0.003928472
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5045597,
+          "topicality": 0.008978805
+        }
+      ]
+    }
+  ]
+}

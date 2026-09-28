@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.90414286,
+          "topicality": 0.00849978
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.72482276,
+          "topicality": 0.07675857
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.71368545,
+          "topicality": 0.029580908
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.64745545,
+          "topicality": 0.0970892
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.606076,
+          "topicality": 0.024078444
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5495974,
+          "topicality": 0.06421871
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5137328,
+          "topicality": 0.012892226
+        },
+        {
+          "mid": "/m/014cnc",
+          "description": "Student",
+          "score": 0.5079244,
+          "topicality": 0.008456324
+        }
+      ]
+    }
+  ]
+}

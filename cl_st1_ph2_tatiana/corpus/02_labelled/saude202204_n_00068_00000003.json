@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kyr8",
+          "description": "Darkness",
+          "score": 0.82107484,
+          "topicality": 0.195265
+        },
+        {
+          "mid": "/m/01ft8k",
+          "description": "Shadow",
+          "score": 0.6423449,
+          "topicality": 0.04760161
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.6125857,
+          "topicality": 0.09331867
+        },
+        {
+          "mid": "/m/0b0lbv",
+          "description": "Backlighting",
+          "score": 0.5297217,
+          "topicality": 0.0139430445
+        }
+      ]
+    }
+  ]
+}

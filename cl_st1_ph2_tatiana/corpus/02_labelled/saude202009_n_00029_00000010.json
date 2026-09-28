@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09dv7",
+          "description": "Soil",
+          "score": 0.8534133,
+          "topicality": 0.08282478
+        },
+        {
+          "mid": "/m/07sn5gn",
+          "description": "geological phenomenon",
+          "score": 0.80273485,
+          "topicality": 0.00022997065
+        },
+        {
+          "mid": "/m/012ww9",
+          "description": "Archaeological site",
+          "score": 0.7685942,
+          "topicality": 0.5080334
+        },
+        {
+          "mid": "/m/03d1rd",
+          "description": "Ruins",
+          "score": 0.5673881,
+          "topicality": 0.06918164
+        },
+        {
+          "mid": "/m/01qr50",
+          "description": "Mud",
+          "score": 0.5664366,
+          "topicality": 0.07529693
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9175461,
+          "topicality": 0.0013049303
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8511795,
+          "topicality": 0.0015680209
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.843097,
+          "topicality": 0.0077290027
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7951672,
+          "topicality": 0.00198556
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.76674527,
+          "topicality": 0.001978786
+        },
+        {
+          "mid": "/m/02vxn",
+          "description": "Film",
+          "score": 0.63712984,
+          "topicality": 0.056580503
+        },
+        {
+          "mid": "/m/0d1pc",
+          "description": "Model",
+          "score": 0.5071801,
+          "topicality": 0.006420217
+        }
+      ]
+    }
+  ]
+}

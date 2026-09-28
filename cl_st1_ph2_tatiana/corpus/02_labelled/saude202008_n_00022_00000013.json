@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449452,
+          "topicality": 0.027056966
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9340392,
+          "topicality": 0.03433263
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.79990846,
+          "topicality": 0.41821653
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.63366205,
+          "topicality": 0.0014707397
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.55512214,
+          "topicality": 0.046068918
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.53099614,
+          "topicality": 0.017328555
+        }
+      ]
+    }
+  ]
+}

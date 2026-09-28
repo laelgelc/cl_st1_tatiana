@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.9256438,
+          "topicality": 0.015386681
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.7547157,
+          "topicality": 0.037328053
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.71951663,
+          "topicality": 0.013212323
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.6676072,
+          "topicality": 0.021310251
+        }
+      ]
+    }
+  ]
+}

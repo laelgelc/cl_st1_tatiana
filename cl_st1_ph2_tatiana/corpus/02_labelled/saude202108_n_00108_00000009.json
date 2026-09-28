@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7727304,
+          "topicality": 0.003934208
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.76660955,
+          "topicality": 0.10223801
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6515478,
+          "topicality": 0.047800507
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.64403886,
+          "topicality": 0.08569022
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6306469,
+          "topicality": 0.0042162687
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.62033236,
+          "topicality": 0.001458063
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.5995733,
+          "topicality": 0.03158935
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58445495,
+          "topicality": 0.015151563
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.5415489,
+          "topicality": 0.0073145833
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.52626014,
+          "topicality": 0.019200742
+        }
+      ]
+    }
+  ]
+}

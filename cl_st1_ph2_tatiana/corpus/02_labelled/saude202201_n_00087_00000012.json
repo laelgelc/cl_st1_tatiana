@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.88842773,
+          "topicality": 0.03608707
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8022049,
+          "topicality": 0.0021075278
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.7809952,
+          "topicality": 0.0331594
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.74300736,
+          "topicality": 0.0004765202
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.70829165,
+          "topicality": 0.0002551718
+        },
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.6963066,
+          "topicality": 0.011444083
+        },
+        {
+          "mid": "/m/020fsy",
+          "description": "Portable communications device",
+          "score": 0.56949896,
+          "topicality": 9.768475e-05
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.56600076,
+          "topicality": 8.072755e-06
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5247862,
+          "topicality": 0.00022943625
+        }
+      ]
+    }
+  ]
+}

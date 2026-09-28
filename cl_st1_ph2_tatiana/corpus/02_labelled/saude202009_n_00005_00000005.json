@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.8856863,
+          "topicality": 0.07924267
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8564252,
+          "topicality": 0.0025674314
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.73594016,
+          "topicality": 0.2540565
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.6603328,
+          "topicality": 0.043221664
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6565859,
+          "topicality": 0.08810911
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.6311315,
+          "topicality": 0.08851067
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6286588,
+          "topicality": 0.0021547077
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.6233535,
+          "topicality": 0.005721923
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.615051,
+          "topicality": 0.09155009
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53981686,
+          "topicality": 0.019744994
+        }
+      ]
+    }
+  ]
+}

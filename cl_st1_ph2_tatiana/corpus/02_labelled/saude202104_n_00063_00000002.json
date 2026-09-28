@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.79750776,
+          "topicality": 0.000529016
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7443832,
+          "topicality": 0.0018096529
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.743386,
+          "topicality": 0.06275495
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.69270885,
+          "topicality": 0.09992861
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5607154,
+          "topicality": 0.016755901
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5270355,
+          "topicality": 0.025759108
+        }
+      ]
+    }
+  ]
+}

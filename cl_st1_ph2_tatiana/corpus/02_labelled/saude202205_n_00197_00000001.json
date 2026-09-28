@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8022644,
+          "topicality": 0.0010452291
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7906922,
+          "topicality": 0.46131438
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.61215854,
+          "topicality": 0.03736663
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5808575,
+          "topicality": 0.0813692
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.53393966,
+          "topicality": 0.1337505
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.94635683,
+          "topicality": 0.6624972
+        },
+        {
+          "mid": "/m/01yttv",
+          "description": "Audio equipment",
+          "score": 0.9353373,
+          "topicality": 5.2195824e-06
+        },
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.9149387,
+          "topicality": 6.56327e-06
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9039026,
+          "topicality": 0.0011813549
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.88681483,
+          "topicality": 1.5227318e-05
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.8748146,
+          "topicality": 0.0005738138
+        },
+        {
+          "mid": "/m/02jf2p",
+          "description": "Public address system",
+          "score": 0.8396522,
+          "topicality": 1.6556133e-06
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.83552486,
+          "topicality": 0.03251717
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.81315243,
+          "topicality": 0.00031152
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.76488507,
+          "topicality": 0.00012582897
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7266704,
+          "topicality": 0.15882199
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.6431773,
+          "topicality": 0.15680756
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.58366084,
+          "topicality": 0.008749031
+        }
+      ]
+    }
+  ]
+}

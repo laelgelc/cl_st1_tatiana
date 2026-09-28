@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6485865,
+          "topicality": 0.050068725
+        },
+        {
+          "mid": "/m/0c_16",
+          "description": "Blood vessel",
+          "score": 0.6011453,
+          "topicality": 0.3455427
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.5853487,
+          "topicality": 0.03612186
+        },
+        {
+          "mid": "/m/03gg9",
+          "description": "Human anatomy",
+          "score": 0.5824834,
+          "topicality": 0.011857386
+        },
+        {
+          "mid": "/m/05crz",
+          "description": "Nerve",
+          "score": 0.5470689,
+          "topicality": 0.11079446
+        }
+      ]
+    }
+  ]
+}

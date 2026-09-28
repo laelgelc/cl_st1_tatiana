@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bt9lr",
+          "description": "Dog",
+          "score": 0.9952043,
+          "topicality": 0.8128574
+        },
+        {
+          "mid": "/m/01lrl",
+          "description": "Carnivores",
+          "score": 0.9271225,
+          "topicality": 0.010528239
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.9103735,
+          "topicality": 0.018279498
+        },
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.8620407,
+          "topicality": 0.00064253015
+        },
+        {
+          "mid": "/m/023kp2",
+          "description": "Paw",
+          "score": 0.8308419,
+          "topicality": 0.5649377
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8304055,
+          "topicality": 0.006351884
+        },
+        {
+          "mid": "/m/01z5f",
+          "description": "Canidae",
+          "score": 0.7603689,
+          "topicality": 0.099354
+        },
+        {
+          "mid": "/m/0d7s3w",
+          "description": "Puppy",
+          "score": 0.67579275,
+          "topicality": 0.1530405
+        },
+        {
+          "mid": "/m/0cnmr",
+          "description": "Fur",
+          "score": 0.62046665,
+          "topicality": 0.0007081104
+        },
+        {
+          "mid": "/m/01l7qd",
+          "description": "Whiskers",
+          "score": 0.5016745,
+          "topicality": 0.00079194934
+        }
+      ]
+    }
+  ]
+}

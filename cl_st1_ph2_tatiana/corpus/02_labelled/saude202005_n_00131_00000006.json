@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/081pkj",
+          "description": "Event",
+          "score": 0.9312079,
+          "topicality": 0.0016467937
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.9091433,
+          "topicality": 0.37377143
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.8883962,
+          "topicality": 0.090541944
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.7032519,
+          "topicality": 0.0045218607
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.6995876,
+          "topicality": 0.009399882
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.55538213,
+          "topicality": 0.061266933
+        }
+      ]
+    }
+  ]
+}

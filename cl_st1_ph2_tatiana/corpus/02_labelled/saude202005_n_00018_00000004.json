@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03thgk",
+          "description": "Silhouette",
+          "score": 0.8880048,
+          "topicality": 0.18338521
+        },
+        {
+          "mid": "/m/0b0lbv",
+          "description": "Backlighting",
+          "score": 0.8205079,
+          "topicality": 0.071808204
+        },
+        {
+          "mid": "/m/01g6gs",
+          "description": "Black and white",
+          "score": 0.790263,
+          "topicality": 0.020014046
+        },
+        {
+          "mid": "/m/01ft8k",
+          "description": "Shadow",
+          "score": 0.51162,
+          "topicality": 0.04830823
+        }
+      ]
+    }
+  ]
+}

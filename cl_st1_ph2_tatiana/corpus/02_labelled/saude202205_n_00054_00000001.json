@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9567207,
+          "topicality": 0.060140472
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94440544,
+          "topicality": 0.00016174307
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.79285127,
+          "topicality": 0.009569825
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.791256,
+          "topicality": 0.043144125
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.71917635,
+          "topicality": 0.01479966
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.70481974,
+          "topicality": 0.0091682505
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.6314064,
+          "topicality": 0.019526115
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.61510634,
+          "topicality": 0.010349326
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5445668,
+          "topicality": 0.02232071
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.5036302,
+          "topicality": 0.010703295
+        }
+      ]
+    }
+  ]
+}

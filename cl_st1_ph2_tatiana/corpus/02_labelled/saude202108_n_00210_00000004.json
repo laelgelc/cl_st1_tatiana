@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9279875,
+          "topicality": 0.008168503
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.8387885,
+          "topicality": 0.0035387701
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.68627197,
+          "topicality": 0.00557508
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.59936816,
+          "topicality": 0.003315648
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5861363,
+          "topicality": 0.00011984758
+        },
+        {
+          "mid": "/m/05b1rx",
+          "description": "Online advertising",
+          "score": 0.55989426,
+          "topicality": 0.0016270945
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5566274,
+          "topicality": 0.0028250692
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.54323477,
+          "topicality": 0.0015852987
+        }
+      ]
+    }
+  ]
+}

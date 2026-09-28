@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99436045,
+          "topicality": 0.06295449
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9721353,
+          "topicality": 0.17168441
+        },
+        {
+          "mid": "/m/081pkj",
+          "description": "Event",
+          "score": 0.93524176,
+          "topicality": 0.004636011
+        },
+        {
+          "mid": "/m/013x8v",
+          "description": "Fan",
+          "score": 0.91353697,
+          "topicality": 0.009374069
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.90873843,
+          "topicality": 0.0051489794
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.89577585,
+          "topicality": 0.007305966
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.73384434,
+          "topicality": 0.002890391
+        },
+        {
+          "mid": "/m/0hr5k",
+          "description": "Festival",
+          "score": 0.7295386,
+          "topicality": 0.014692371
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.6260304,
+          "topicality": 0.3123698
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.5445327,
+          "topicality": 0.013705956
+        },
+        {
+          "mid": "/m/0hnnb",
+          "description": "Umbrella",
+          "score": 0.5424797,
+          "topicality": 0.012624627
+        }
+      ]
+    }
+  ]
+}

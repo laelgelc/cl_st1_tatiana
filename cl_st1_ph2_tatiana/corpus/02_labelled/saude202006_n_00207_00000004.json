@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94442487,
+          "topicality": 0.00043926833
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9203327,
+          "topicality": 0.014671821
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.91609627,
+          "topicality": 0.018360497
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7768203,
+          "topicality": 0.014696535
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.72348815,
+          "topicality": 0.027180107
+        }
+      ]
+    }
+  ]
+}

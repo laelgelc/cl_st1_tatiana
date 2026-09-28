@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8530033,
+          "topicality": 0.0016966286
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.83364207,
+          "topicality": 0.0033486309
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.8064155,
+          "topicality": 0.00046186804
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73991317,
+          "topicality": 0.0016201673
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.66539395,
+          "topicality": 0.00013844394
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.60415775,
+          "topicality": 0.007922381
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.60057527,
+          "topicality": 0.0013558158
+        }
+      ]
+    }
+  ]
+}

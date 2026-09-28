@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8643972,
+          "topicality": 0.005890342
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8231648,
+          "topicality": 0.0023348774
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7356383,
+          "topicality": 0.0009007969
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.72561485,
+          "topicality": 0.029669266
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7144062,
+          "topicality": 0.0055316766
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5656103,
+          "topicality": 0.015133741
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5495031,
+          "topicality": 0.010930674
+        },
+        {
+          "mid": "/m/06_kbr",
+          "description": "Hip",
+          "score": 0.5260671,
+          "topicality": 0.00086807355
+        }
+      ]
+    }
+  ]
+}

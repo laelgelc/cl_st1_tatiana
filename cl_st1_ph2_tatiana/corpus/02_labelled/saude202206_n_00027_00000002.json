@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8091134,
+          "topicality": 0.0054769227
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.7557099,
+          "topicality": 0.0014234566
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.73145705,
+          "topicality": 0.0014149417
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7184791,
+          "topicality": 0.038429406
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.63122445,
+          "topicality": 0.0031590187
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.63055164,
+          "topicality": 0.0136347255
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.541416,
+          "topicality": 0.0037601765
+        }
+      ]
+    }
+  ]
+}

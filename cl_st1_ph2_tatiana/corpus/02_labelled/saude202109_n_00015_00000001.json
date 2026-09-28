@@ -1,0 +1,43 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wzbmj",
+          "description": "Standing",
+          "score": 0.9371448
+        },
+        {
+          "mid": "/m/01c34b",
+          "description": "Flooring",
+          "score": 0.91097814,
+          "topicality": 0.00076013757
+        },
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.89762336,
+          "topicality": 0.0018418531
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.68834007,
+          "topicality": 0.0106850015
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6329875,
+          "topicality": 0.00012825013
+        },
+        {
+          "mid": "/m/03cvmmd",
+          "description": "Suit trousers",
+          "score": 0.52746457,
+          "topicality": 2.1132159e-05
+        }
+      ]
+    }
+  ]
+}

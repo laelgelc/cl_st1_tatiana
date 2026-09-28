@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02csf",
+          "description": "Drawing",
+          "score": 0.9452721,
+          "topicality": 0.14174248
+        },
+        {
+          "mid": "/m/01kr8f",
+          "description": "Illustration",
+          "score": 0.8851652,
+          "topicality": 0.206935
+        },
+        {
+          "mid": "/m/0p9xx",
+          "description": "Visual arts",
+          "score": 0.8494043,
+          "topicality": 0.0038449867
+        },
+        {
+          "mid": "/m/07glzq",
+          "description": "Sketch",
+          "score": 0.83060366,
+          "topicality": 0.09344908
+        },
+        {
+          "mid": "/m/0919rx",
+          "description": "Line art",
+          "score": 0.72718906,
+          "topicality": 0.006942551
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.5614895,
+          "topicality": 0.00063170056
+        }
+      ]
+    }
+  ]
+}

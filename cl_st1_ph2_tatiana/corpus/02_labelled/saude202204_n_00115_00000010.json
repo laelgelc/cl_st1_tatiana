@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/022ch",
+          "description": "Cross",
+          "score": 0.9608016,
+          "topicality": 0.4736743
+        },
+        {
+          "mid": "/m/01vw0_",
+          "description": "Grave",
+          "score": 0.9602225,
+          "topicality": 0.36748376
+        },
+        {
+          "mid": "/m/0h36z",
+          "description": "Cemetery",
+          "score": 0.9323903,
+          "topicality": 0.7182443
+        },
+        {
+          "mid": "/m/02vk6x",
+          "description": "Headstone",
+          "score": 0.8979726,
+          "topicality": 0.10184164
+        },
+        {
+          "mid": "/m/018ssc",
+          "description": "Groundcover",
+          "score": 0.86026555,
+          "topicality": 9.498979e-05
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.82783705,
+          "topicality": 0.013949064
+        },
+        {
+          "mid": "/m/02q3d5",
+          "description": "Memorial",
+          "score": 0.7683293,
+          "topicality": 0.010045195
+        },
+        {
+          "mid": "/m/0h8p5l_",
+          "description": "Religious Item",
+          "score": 0.7420026,
+          "topicality": 0.00012131261
+        }
+      ]
+    }
+  ]
+}

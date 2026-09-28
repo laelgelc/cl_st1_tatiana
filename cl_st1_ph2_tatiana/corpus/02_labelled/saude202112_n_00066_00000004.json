@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.99571854,
+          "topicality": 0.0023771478
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.987666,
+          "topicality": 0.018248798
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9858227,
+          "topicality": 0.0010272419
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9813987,
+          "topicality": 0.0006770895
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8852134,
+          "topicality": 0.0012968773
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8318274,
+          "topicality": 0.061179675
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.81078786,
+          "topicality": 0.00025977445
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7651635,
+          "topicality": 0.0005258082
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.7646169,
+          "topicality": 0.0002608745
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7363521,
+          "topicality": 0.00064450223
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.714662,
+          "topicality": 0.0018460375
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.67372745,
+          "topicality": 0.014377288
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.663945,
+          "topicality": 0.045761093
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.65606815,
+          "topicality": 0.0058738245
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.6554353,
+          "topicality": 0.00085398904
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5332888,
+          "topicality": 0.0014022879
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.9616286,
+          "topicality": 0.3647875
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.9519938,
+          "topicality": 0.19330937
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.8623075,
+          "topicality": 0.787149
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.6595114,
+          "topicality": 0.02854631
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.60316443,
+          "topicality": 0.00013623861
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5858257,
+          "topicality": 2.168974e-05
+        }
+      ]
+    }
+  ]
+}

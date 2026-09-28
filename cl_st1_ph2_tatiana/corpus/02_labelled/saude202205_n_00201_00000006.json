@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8692118,
+          "topicality": 0.63336957
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.86837035,
+          "topicality": 0.41065794
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.86741894,
+          "topicality": 0.14905389
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8581172,
+          "topicality": 0.0023925607
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8351923,
+          "topicality": 0.0029746515
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.7621574,
+          "topicality": 0.25283423
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.7515539,
+          "topicality": 0.0014141988
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.69343907,
+          "topicality": 0.011763236
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.6896153,
+          "topicality": 0.0070378273
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5334855,
+          "topicality": 0.13423625
+        }
+      ]
+    }
+  ]
+}

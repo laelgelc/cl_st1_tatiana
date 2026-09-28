@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90777254,
+          "topicality": 0.00015080995
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.8686796,
+          "topicality": 0.028204944
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.83518666,
+          "topicality": 0.004025557
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.7477549,
+          "topicality": 0.011305407
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.69859886,
+          "topicality": 0.07750781
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6984541,
+          "topicality": 0.0032836597
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.67714614,
+          "topicality": 0.028249081
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.62122667,
+          "topicality": 0.0029769307
+        },
+        {
+          "mid": "/m/06q83",
+          "description": "Software engineering",
+          "score": 0.61403114,
+          "topicality": 0.008937175
+        },
+        {
+          "mid": "/m/02_784",
+          "description": "Display advertising",
+          "score": 0.54275596,
+          "topicality": 0.0010810138
+        }
+      ]
+    }
+  ]
+}

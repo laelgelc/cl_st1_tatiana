@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.9590685,
+          "topicality": 0.024405245
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.9500004,
+          "topicality": 0.90396523
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.9256385,
+          "topicality": 0.0238512
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.86531705,
+          "topicality": 0.0006036942
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.82884747,
+          "topicality": 0.027353724
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.81845903,
+          "topicality": 0.0014125466
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.7795584,
+          "topicality": 6.9468886e-05
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5701664,
+          "topicality": 0.005624381
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.52158,
+          "topicality": 0.0027177483
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5092537,
+          "topicality": 0.021046957
+        }
+      ]
+    }
+  ]
+}

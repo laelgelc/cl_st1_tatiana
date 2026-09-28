@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.9770452,
+          "topicality": 0.034182888
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.7947967,
+          "topicality": 0.012441159
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5764051,
+          "topicality": 0.028942548
+        }
+      ]
+    }
+  ]
+}

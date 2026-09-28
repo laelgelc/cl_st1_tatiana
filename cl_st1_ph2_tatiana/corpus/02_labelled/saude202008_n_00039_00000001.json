@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8846947,
+          "topicality": 0.014557755
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.72245634,
+          "topicality": 0.04216834
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.61043054,
+          "topicality": 0.004888359
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.51097745,
+          "topicality": 0.00388989
+        }
+      ]
+    }
+  ]
+}

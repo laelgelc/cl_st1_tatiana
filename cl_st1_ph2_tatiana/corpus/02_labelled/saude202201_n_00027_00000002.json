@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.86230063,
+          "topicality": 0.013654188
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8457306,
+          "topicality": 0.0009933686
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.74245846,
+          "topicality": 0.041540574
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6506363,
+          "topicality": 0.0155717805
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.5931003,
+          "topicality": 0.021668848
+        }
+      ]
+    }
+  ]
+}
