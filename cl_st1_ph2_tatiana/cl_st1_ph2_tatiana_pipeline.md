@@ -250,6 +250,43 @@ bash run_python_ec2.sh \
     --output-dir corpus/02_labelled
 ```
 
+### File-based retry
+
+```shell
+python detect_labels.py \
+  --input-dir corpus/deduplicated_2 \
+  --output-dir corpus/02_labelled \
+  --retry-file corpus/02_labelled/saude202003_n_00026_00000004.json \
+  --retry-file corpus/02_labelled/saude202003_n_00027_00000004.json \
+  --force
+```
+
+Note: In retry mode, treat `--force` as effectively implied, because the point is to overwrite the existing empty/failed JSON outputs. The code does that by bypassing the normal “skip existing output” filter when retrying from `label_empty.tsv`.
+
+### List-based retry
+
+#### Specific files retry
+
+```shell
+python detect_labels.py \
+  --input-dir corpus/deduplicated_2 \
+  --output-dir corpus/02_labelled \
+  --retry-empty-tsv corpus/label_empty.tsv \
+  --retry-file saude202003_n_00026_00000004 \
+  --retry-file saude202003_n_00027_00000004 \
+  --force
+```
+
+#### Full retry
+
+```shell
+python detect_labels.py \
+  --input-dir corpus/deduplicated_2 \
+  --output-dir corpus/02_labelled \
+  --retry-empty-tsv corpus/label_empty.tsv \
+  --force
+```
+
 ## 3. Extract key lemmas by group
 
 ```shell
