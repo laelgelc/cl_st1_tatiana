@@ -293,7 +293,7 @@ python detect_labels.py \
   --force
 ```
 
-The retry resulted in the same empty JSON outputs as can be seen below. Therefore
+The retry resulted in the same empty JSON outputs as can be seen below. Therefore, they will be automatically removed from the statistical analysis (SAS) as `lines that are all zeros`.
 
 ```shell
 ubuntu@ip-172-31-5-110:~/cl_st1_tatiana/cl_st1_ph2_tatiana$ python detect_labels.py \
