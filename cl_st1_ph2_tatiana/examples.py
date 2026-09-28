@@ -16,7 +16,7 @@ Each example shows:
 Requires:
 
 - SAS output:
-    sas/output_cl_st1_ph1_tatiana/cl_st1_ph1_tatiana_scores_only.tsv
+    sas/output_cl_st1_ph2_tatiana/cl_st1_ph2_tatiana_scores_only.tsv
       (must contain columns: filename, fac1, fac2, ...)
 
 - Factor primary-label files:
@@ -62,7 +62,7 @@ FACTOR_FOLDER = Path("factors")
 
 # Where SAS scores_only output is
 SCORES_FILE = Path(
-    "sas/output_cl_st1_ph1_tatiana/cl_st1_ph1_tatiana_scores_only.tsv"
+    "sas/output_cl_st1_ph2_tatiana/cl_st1_ph2_tatiana_scores_only.tsv"
 )
 
 # Optional mapping from scores IDs (e.g. t000018) to label filenames
