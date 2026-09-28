@@ -456,11 +456,6 @@ Output: `examples/score_details.txt`
 
 ## 13. Generate plaintext example extracts
 
-The `examples_txt.py` programme was affected by a bug that has been fixed as reported in:
-
-- [examples_txt_bug_report.md](https://github.com/laelgelc/cl_st1_tatiana/blob/main/cl_st1_ph2_tatiana/examples_txt_bug_report.md); or
-- `examples_txt_bug_report.md`
-
 ```shell
 python examples_txt.py
 ```
