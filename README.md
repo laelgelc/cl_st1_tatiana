@@ -67,10 +67,9 @@ See `cl_st1_ph2_tatiana/cl_st1_ph2_tatiana_pipeline.md` for the detailed Phase 2
 - Generated paired verbal/visual loading charts for each canonical dimension in:
   - `corpus/figures/cca_dimension_loadings/`
 - Interpreted the first five canonical dimensions as cross-modal discursive patterns linking verbal MDA dimensions with visual MDA dimensions:
+  - Please refer to [cca_interpretation.md](https://github.com/laelgelc/cl_st1_tatiana/blob/main/cl_st1_ph3_tatiana/cca_interpretation.md) or `cl_st1_ph3_tatiana/cca_interpretation.md`
   - Canonical dimension 1 captures an opposition between a `ver1`/`ver4` verbal profile aligned with `vis4` imagery and a `ver2` verbal profile aligned with `vis2` imagery.
   - Canonical dimension 2 links a combined `ver1`/`ver2` verbal profile to a coherent visual pattern centred on `vis7`, with secondary contributions from `vis6` and `vis2`.
   - Canonical dimension 3 associates a `ver4`-centred verbal profile with `vis2`/`vis7`/`vis5` imagery, in contrast to a visually distinct `vis6` pole.
   - Canonical dimension 4 contrasts a `ver4` verbal orientation associated with `vis3`/`vis5`/`vis2` imagery against a `ver3`/`ver5` verbal orientation associated with the opposite `vis7` pole.
   - Canonical dimension 5 captures a focused `ver6` verbal profile associated with `vis2` imagery and opposed to a visual cluster marked by `vis5`, `vis1`, and `vis3`.
-
-Please refer to []() or `cl_st1_ph3_tatiana/cca_interpretation.md`
