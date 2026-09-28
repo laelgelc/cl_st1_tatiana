@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.954024,
+          "topicality": 0.007958305
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.9424786,
+          "topicality": 0.010063296
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.89312136,
+          "topicality": 0.0073722084
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.73130053,
+          "topicality": 0.00045985228
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.59711164,
+          "topicality": 0.0144742895
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.56816125,
+          "topicality": 0.055928264
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.53478295,
+          "topicality": 0.1070501
+        }
+      ]
+    }
+  ]
+}

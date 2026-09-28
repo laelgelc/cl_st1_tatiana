@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9376136,
+          "topicality": 0.0071559227
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9354965,
+          "topicality": 0.00069343776
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8935042,
+          "topicality": 0.025531825
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.8551306,
+          "topicality": 0.00052817963
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.8032475,
+          "topicality": 0.13254374
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.77516824,
+          "topicality": 0.052794293
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.7657425,
+          "topicality": 0.00014687347
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.7653462,
+          "topicality": 0.010969891
+        },
+        {
+          "mid": "/m/04n4dpy",
+          "description": "Scientific instrument",
+          "score": 0.6798196,
+          "topicality": 0.0013931917
+        },
+        {
+          "mid": "/m/087krf",
+          "description": "Research institute",
+          "score": 0.66660386,
+          "topicality": 0.0017446177
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.58867913,
+          "topicality": 0.07618201
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5459557,
+          "topicality": 0.00941826
+        }
+      ]
+    }
+  ]
+}

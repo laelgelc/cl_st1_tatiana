@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ffjr",
+          "description": "Personal protective equipment",
+          "score": 0.9203648,
+          "topicality": 0.020825647
+        },
+        {
+          "mid": "/m/0zvk5",
+          "description": "Helmet",
+          "score": 0.83651537,
+          "topicality": 0.00080917706
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.658154,
+          "topicality": 0.0054977746
+        },
+        {
+          "mid": "/m/0gty6zf",
+          "description": "Law enforcement",
+          "score": 0.62350017,
+          "topicality": 0.0046576285
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.56414324,
+          "topicality": 0.00014245523
+        }
+      ]
+    }
+  ]
+}

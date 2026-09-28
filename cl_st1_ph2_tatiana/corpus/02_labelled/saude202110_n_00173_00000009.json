@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.86147255,
+          "topicality": 0.0009900758
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.78688806,
+          "topicality": 0.0107088955
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7610294,
+          "topicality": 0.001346906
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.74873996,
+          "topicality": 0.003528706
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.73652893,
+          "topicality": 0.0008714503
+        }
+      ]
+    }
+  ]
+}

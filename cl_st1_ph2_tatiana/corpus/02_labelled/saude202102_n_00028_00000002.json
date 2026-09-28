@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.9672131,
+          "topicality": 0.00038012143
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9615048,
+          "topicality": 0.013554164
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90948355,
+          "topicality": 0.00017032001
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6952455,
+          "topicality": 0.021607516
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.63789624,
+          "topicality": 0.022066437
+        }
+      ]
+    }
+  ]
+}

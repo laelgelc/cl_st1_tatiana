@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.80345416,
+          "topicality": 0.013039683
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.69851226,
+          "topicality": 0.09325989
+        },
+        {
+          "mid": "/m/01kv7h",
+          "description": "Midnight",
+          "score": 0.669589,
+          "topicality": 0.0010004748
+        },
+        {
+          "mid": "/m/02l7rx",
+          "description": "Convention center",
+          "score": 0.52380645,
+          "topicality": 0.21864435
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.522573,
+          "topicality": 0.054427862
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.79076505,
+          "topicality": 0.0031423636
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7814649,
+          "topicality": 0.030445773
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.60088897,
+          "topicality": 0.017090308
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5312684,
+          "topicality": 0.000985343
+        }
+      ]
+    }
+  ]
+}

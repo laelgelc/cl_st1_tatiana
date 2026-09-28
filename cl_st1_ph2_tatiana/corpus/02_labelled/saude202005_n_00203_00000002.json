@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7748581,
+          "topicality": 0.03692071
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.6101195,
+          "topicality": 0.0017758406
+        },
+        {
+          "mid": "/m/0d5gx",
+          "description": "Castle",
+          "score": 0.56306124,
+          "topicality": 0.0010108199
+        },
+        {
+          "mid": "/m/02pvbb",
+          "description": "Mansion",
+          "score": 0.55572313,
+          "topicality": 0.0047074943
+        },
+        {
+          "mid": "/m/05zp8",
+          "description": "Palace",
+          "score": 0.5180755,
+          "topicality": 0.009090358
+        }
+      ]
+    }
+  ]
+}

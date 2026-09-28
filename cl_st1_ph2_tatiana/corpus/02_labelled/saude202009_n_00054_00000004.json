@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.89478534,
+          "topicality": 0.0077161375
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.73584574,
+          "topicality": 0.0007951689
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.71982753,
+          "topicality": 0.0005201766
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6228559,
+          "topicality": 0.011846908
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5994311,
+          "topicality": 0.013628416
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.52417487,
+          "topicality": 0.081169866
+        }
+      ]
+    }
+  ]
+}

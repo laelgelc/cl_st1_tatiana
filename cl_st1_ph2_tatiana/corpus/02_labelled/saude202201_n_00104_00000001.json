@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8924903,
+          "topicality": 0.014400496
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7449104,
+          "topicality": 0.017665768
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.6177991,
+          "topicality": 0.0025383611
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.5655036,
+          "topicality": 0.0033738888
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01443y",
+          "description": "Headgear",
+          "score": 0.95458406,
+          "topicality": 0.033071026
+        },
+        {
+          "mid": "/m/07djv",
+          "description": "Tradition",
+          "score": 0.82595885,
+          "topicality": 0.025140166
+        },
+        {
+          "mid": "/m/02fbqn",
+          "description": "Headpiece",
+          "score": 0.762739,
+          "topicality": 0.001174251
+        },
+        {
+          "mid": "/m/0cbtm",
+          "description": "Tribe",
+          "score": 0.7602704,
+          "topicality": 0.31014505
+        },
+        {
+          "mid": "/m/09hljw",
+          "description": "Tribal chief",
+          "score": 0.60694194,
+          "topicality": 0.38805225
+        },
+        {
+          "mid": "/m/0dfgf",
+          "description": "Feather",
+          "score": 0.586874,
+          "topicality": 0.009922622
+        }
+      ]
+    }
+  ]
+}

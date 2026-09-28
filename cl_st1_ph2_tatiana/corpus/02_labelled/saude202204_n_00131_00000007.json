@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.78604895,
+          "topicality": 0.0066738958
+        },
+        {
+          "mid": "/m/02ywd",
+          "description": "Fuel",
+          "score": 0.74494797,
+          "topicality": 0.5258073
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.737059,
+          "topicality": 0.008361231
+        },
+        {
+          "mid": "/m/0gm3m",
+          "description": "Filling station",
+          "score": 0.678731,
+          "topicality": 0.5640512
+        },
+        {
+          "mid": "/m/05wy2",
+          "description": "Gasoline",
+          "score": 0.6120706,
+          "topicality": 0.61567205
+        },
+        {
+          "mid": "/m/08p43d",
+          "description": "Fuel dispenser",
+          "score": 0.59062856,
+          "topicality": 0.15630032
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.57744575,
+          "topicality": 0.030977147
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5482555,
+          "topicality": 0.0005083613
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5237097,
+          "topicality": 0.00011767154
+        }
+      ]
+    }
+  ]
+}

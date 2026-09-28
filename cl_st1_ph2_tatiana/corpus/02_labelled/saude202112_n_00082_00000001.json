@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.7729708,
+          "topicality": 0.0984701
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.7608547,
+          "topicality": 0.01436667
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7585661,
+          "topicality": 0.008383229
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.73521954,
+          "topicality": 0.008926741
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7306848,
+          "topicality": 0.00069911743
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.69440407,
+          "topicality": 0.073569685
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.68538135,
+          "topicality": 0.003081174
+        },
+        {
+          "mid": "/m/0q593",
+          "description": "Dietary supplement",
+          "score": 0.6518288,
+          "topicality": 0.63994396
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.6334585,
+          "topicality": 0.0071853683
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.5867377,
+          "topicality": 0.0018761056
+        },
+        {
+          "mid": "/m/04jng2",
+          "description": "Nutraceutical",
+          "score": 0.5348154,
+          "topicality": 0.09004366
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.52393615,
+          "topicality": 0.004129063
+        }
+      ]
+    }
+  ]
+}

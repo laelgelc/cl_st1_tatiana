@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.80924064,
+          "topicality": 0.18993734
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7838816,
+          "topicality": 0.32752794
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7829123,
+          "topicality": 0.12542394
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.781946,
+          "topicality": 0.0015188712
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7265875,
+          "topicality": 0.029187575
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.63947934,
+          "topicality": 0.06110295
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6387758,
+          "topicality": 0.0011610053
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.61118025,
+          "topicality": 0.18177103
+        },
+        {
+          "mid": "/m/0268t21",
+          "description": "Car seat",
+          "score": 0.58569145,
+          "topicality": 0.00020655537
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.77066624,
+          "topicality": 0.0010370895
+        },
+        {
+          "mid": "/m/01h8n0",
+          "description": "Conversation",
+          "score": 0.73822147,
+          "topicality": 0.012171688
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.6753362,
+          "topicality": 0.00037557134
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.5771779,
+          "topicality": 0.0008555745
+        }
+      ]
+    }
+  ]
+}

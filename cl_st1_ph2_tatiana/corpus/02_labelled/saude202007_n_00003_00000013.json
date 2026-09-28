@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8252186,
+          "topicality": 0.035448786
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.8062116,
+          "topicality": 0.051319867
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7902853,
+          "topicality": 0.004836099
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.76488423,
+          "topicality": 0.0029936635
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5656237,
+          "topicality": 0.00014080765
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.52081776,
+          "topicality": 0.0002668715
+        },
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.50956285,
+          "topicality": 0.019730983
+        }
+      ]
+    }
+  ]
+}

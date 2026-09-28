@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02pd__z",
+          "description": "Long hair",
+          "score": 0.7540628,
+          "topicality": 0.005925595
+        },
+        {
+          "mid": "/m/02hqr87",
+          "description": "Fashion Model",
+          "score": 0.6816515,
+          "topicality": 0.0015271454
+        },
+        {
+          "mid": "/m/0d1pc",
+          "description": "Model",
+          "score": 0.6492477,
+          "topicality": 0.05305764
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.61351454,
+          "topicality": 0.00039181576
+        },
+        {
+          "mid": "/m/02tx1k",
+          "description": "CG artwork",
+          "score": 0.5830896,
+          "topicality": 0.0002538043
+        },
+        {
+          "mid": "/m/09jdg9",
+          "description": "Latex clothing",
+          "score": 0.5616884,
+          "topicality": 0.07407549
+        }
+      ]
+    }
+  ]
+}

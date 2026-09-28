@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8967186,
+          "topicality": 0.031370606
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.80252934,
+          "topicality": 0.013862955
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.74337184,
+          "topicality": 0.00084697024
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5804586,
+          "topicality": 0.0003333353
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5613114,
+          "topicality": 0.011887746
+        }
+      ]
+    }
+  ]
+}

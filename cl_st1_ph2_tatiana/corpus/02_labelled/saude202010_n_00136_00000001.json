@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.9707205,
+          "topicality": 0.0113261
+        },
+        {
+          "mid": "/m/022ch",
+          "description": "Cross",
+          "score": 0.77157366,
+          "topicality": 0.011519707
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.65443164,
+          "topicality": 0.07182194
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6092942,
+          "topicality": 0.0021686335
+        }
+      ]
+    }
+  ]
+}

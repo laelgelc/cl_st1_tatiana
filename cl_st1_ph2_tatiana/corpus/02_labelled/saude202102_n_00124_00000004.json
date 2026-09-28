@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.96848655,
+          "topicality": 0.0034515052
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9623758,
+          "topicality": 0.008111272
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449494,
+          "topicality": 0.033727217
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7806977,
+          "topicality": 0.012419086
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.7260731,
+          "topicality": 0.0014971142
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.6180161,
+          "topicality": 0.040425837
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5254102,
+          "topicality": 0.005255282
+        }
+      ]
+    }
+  ]
+}

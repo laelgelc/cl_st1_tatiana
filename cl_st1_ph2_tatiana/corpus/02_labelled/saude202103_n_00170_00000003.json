@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7836802,
+          "topicality": 0.002756729
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6221348,
+          "topicality": 0.002579387
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.5964741,
+          "topicality": 0.002832708
+        },
+        {
+          "mid": "/m/01lynh",
+          "description": "Stairs",
+          "score": 0.5651992,
+          "topicality": 0.003693395
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5070735,
+          "topicality": 0.0065308237
+        }
+      ]
+    }
+  ]
+}

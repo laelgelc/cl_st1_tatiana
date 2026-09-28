@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9363821,
+          "topicality": 0.004226384
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7902511,
+          "topicality": 0.0012282244
+        },
+        {
+          "mid": "/m/0230w",
+          "description": "Crochet",
+          "score": 0.60322684,
+          "topicality": 0.0034863385
+        },
+        {
+          "mid": "/m/01mrgs",
+          "description": "Craft",
+          "score": 0.58243436,
+          "topicality": 0.0028673285
+        }
+      ]
+    }
+  ]
+}

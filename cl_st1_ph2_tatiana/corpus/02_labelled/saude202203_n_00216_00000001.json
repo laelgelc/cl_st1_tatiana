@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9521842,
+          "topicality": 0.08265448
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90693694,
+          "topicality": 0.0056703747
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8669495,
+          "topicality": 0.0042230766
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.7465745,
+          "topicality": 0.80701673
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.7242485,
+          "topicality": 0.070760705
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7217956,
+          "topicality": 0.01548555
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.66708344,
+          "topicality": 0.0017075668
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.66334635,
+          "topicality": 0.05160049
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.6127038,
+          "topicality": 0.0206881
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.5157829,
+          "topicality": 0.022842739
+        }
+      ]
+    }
+  ]
+}

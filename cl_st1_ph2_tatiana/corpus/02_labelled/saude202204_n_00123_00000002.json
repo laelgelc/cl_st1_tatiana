@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.9812051,
+          "topicality": 0.13231443
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.9746449,
+          "topicality": 0.12948681
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9735739,
+          "topicality": 0.048957746
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449413,
+          "topicality": 0.027288364
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8816496,
+          "topicality": 0.04358854
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.87987196,
+          "topicality": 0.010004261
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8322438,
+          "topicality": 0.012803046
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.7296787,
+          "topicality": 0.07960085
+        },
+        {
+          "mid": "/m/0687y",
+          "description": "Prayer",
+          "score": 0.66354764,
+          "topicality": 0.0053720297
+        }
+      ]
+    }
+  ]
+}

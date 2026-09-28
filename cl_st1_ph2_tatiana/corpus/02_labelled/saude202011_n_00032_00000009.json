@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9193605,
+          "topicality": 0.020270523
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.758488,
+          "topicality": 0.038371112
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.67069566,
+          "topicality": 0.24346872
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6574323,
+          "topicality": 0.0138170235
+        },
+        {
+          "mid": "/m/05b1rx",
+          "description": "Online advertising",
+          "score": 0.65173644,
+          "topicality": 0.065138735
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.58933926,
+          "topicality": 0.017616192
+        }
+      ]
+    }
+  ]
+}

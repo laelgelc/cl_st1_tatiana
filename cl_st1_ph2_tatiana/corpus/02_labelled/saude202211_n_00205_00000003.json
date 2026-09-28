@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9480852,
+          "topicality": 0.0030220207
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.8287527,
+          "topicality": 0.0021057196
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7864825,
+          "topicality": 0.0010577075
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5435113,
+          "topicality": 0.086365476
+        },
+        {
+          "mid": "/m/02pkr5",
+          "description": "Plumbing fixture",
+          "score": 0.50410587,
+          "topicality": 0.010236661
+        }
+      ]
+    }
+  ]
+}

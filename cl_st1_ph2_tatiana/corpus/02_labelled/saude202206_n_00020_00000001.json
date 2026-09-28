@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6872936,
+          "topicality": 0.0016888445
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.55330235,
+          "topicality": 6.7742476e-05
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.50978625,
+          "topicality": 0.004601774
+        }
+      ]
+    }
+  ]
+}

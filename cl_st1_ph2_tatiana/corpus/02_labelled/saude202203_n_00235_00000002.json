@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99427277,
+          "topicality": 0.030931134
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.92719096,
+          "topicality": 0.009527191
+        },
+        {
+          "mid": "/m/0fly7",
+          "description": "Jeans",
+          "score": 0.9248304,
+          "topicality": 0.0028120945
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.8660196,
+          "topicality": 0.014134826
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7678674,
+          "topicality": 0.0045752143
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.7383251,
+          "topicality": 0.00020104172
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.69593096,
+          "topicality": 0.008635153
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.51354843,
+          "topicality": 0.00043973234
+        }
+      ]
+    }
+  ]
+}

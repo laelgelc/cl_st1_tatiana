@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6873278,
+          "topicality": 0.008586219
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6847104,
+          "topicality": 9.315774e-05
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6637501,
+          "topicality": 0.0066513387
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.65628535,
+          "topicality": 0.022900874
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6300807,
+          "topicality": 0.0019329856
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.62251496,
+          "topicality": 0.043774955
+        },
+        {
+          "mid": "/m/03nwjn",
+          "description": "Mohawk hairstyle",
+          "score": 0.59775764,
+          "topicality": 0.06260987
+        },
+        {
+          "mid": "/m/032rtm",
+          "description": "High and tight",
+          "score": 0.5670191,
+          "topicality": 0.000849928
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5308915,
+          "topicality": 0.01920299
+        },
+        {
+          "mid": "/m/03gj44",
+          "description": "Crew cut",
+          "score": 0.5152458,
+          "topicality": 0.009975405
+        }
+      ]
+    }
+  ]
+}

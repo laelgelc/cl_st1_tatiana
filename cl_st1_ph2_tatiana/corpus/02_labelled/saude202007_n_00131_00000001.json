@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.91577065,
+          "topicality": 0.0545813
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.83189505,
+          "topicality": 0.01069375
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7086837,
+          "topicality": 0.012898871
+        },
+        {
+          "mid": "/m/0bg2p",
+          "description": "Security",
+          "score": 0.664825,
+          "topicality": 0.062221672
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.6400442,
+          "topicality": 0.003799286
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5908995,
+          "topicality": 0.0021017357
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.52125597,
+          "topicality": 0.002125083
+        }
+      ]
+    }
+  ]
+}

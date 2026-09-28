@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.8840219,
+          "topicality": 0.0088985115
+        },
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.8752033,
+          "topicality": 0.0011746433
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.7309726,
+          "topicality": 0.0014405182
+        },
+        {
+          "mid": "/m/0fq22vb",
+          "description": "Exhibition",
+          "score": 0.719559,
+          "topicality": 0.0051648207
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.70122105,
+          "topicality": 0.0034597008
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.6479337,
+          "topicality": 0.0019126787
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6006754,
+          "topicality": 0.009332864
+        }
+      ]
+    }
+  ]
+}

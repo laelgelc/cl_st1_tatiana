@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01yttv",
+          "description": "Audio equipment",
+          "score": 0.9290023,
+          "topicality": 0.0001067744
+        },
+        {
+          "mid": "/m/01b7fy",
+          "description": "Headphones",
+          "score": 0.8916598,
+          "topicality": 0.08402123
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.84378505,
+          "topicality": 0.00022328898
+        },
+        {
+          "mid": "/m/03mb156",
+          "description": "Headset",
+          "score": 0.66449076,
+          "topicality": 0.0081444625
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5652403,
+          "topicality": 0.0056978664
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.501951,
+          "topicality": 0.019551788
+        }
+      ]
+    }
+  ]
+}

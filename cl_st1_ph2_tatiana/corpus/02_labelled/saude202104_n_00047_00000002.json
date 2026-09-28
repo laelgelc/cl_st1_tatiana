@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.86971027,
+          "topicality": 0.020887228
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.86958337,
+          "topicality": 0.018904049
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.84848845,
+          "topicality": 0.014708988
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.64041895,
+          "topicality": 0.0052274377
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.63086504,
+          "topicality": 0.0011743007
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.5619352,
+          "topicality": 0.002520555
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5278117,
+          "topicality": 0.02087679
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5096316,
+          "topicality": 0.046516024
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5074388,
+          "topicality": 0.010434056
+        }
+      ]
+    }
+  ]
+}

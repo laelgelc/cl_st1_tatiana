@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449443,
+          "topicality": 0.00070781686
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9180344,
+          "topicality": 0.00034930848
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9138017,
+          "topicality": 0.0048369775
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.8780325,
+          "topicality": 0.0038250617
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.81532604,
+          "topicality": 0.000698846
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.6400415,
+          "topicality": 0.005294202
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.57463646,
+          "topicality": 2.3082965e-05
+        },
+        {
+          "mid": "/m/0pbql",
+          "description": "Supervillain",
+          "score": 0.5381436,
+          "topicality": 0.031231735
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.5052131,
+          "topicality": 0.002892921
+        }
+      ]
+    }
+  ]
+}

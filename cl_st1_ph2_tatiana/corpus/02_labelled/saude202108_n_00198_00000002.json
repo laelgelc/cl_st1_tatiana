@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7559718,
+          "topicality": 0.0016891091
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.6225693,
+          "topicality": 0.08178866
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6043418,
+          "topicality": 0.011446873
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.5570006,
+          "topicality": 0.021390842
+        }
+      ]
+    }
+  ]
+}

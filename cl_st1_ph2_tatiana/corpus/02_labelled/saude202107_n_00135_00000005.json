@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8578893,
+          "topicality": 0.005059986
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8125265,
+          "topicality": 0.1534865
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.57467693,
+          "topicality": 0.0034989116
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.57357836,
+          "topicality": 0.00079608057
+        }
+      ]
+    }
+  ]
+}

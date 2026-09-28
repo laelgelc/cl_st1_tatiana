@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03vt0",
+          "description": "Insect",
+          "score": 0.95679796,
+          "topicality": 0.2597001
+        },
+        {
+          "mid": "/m/09f96",
+          "description": "Mosquito",
+          "score": 0.89055145,
+          "topicality": 0.96749526
+        },
+        {
+          "mid": "/m/0zkm",
+          "description": "Arthropod",
+          "score": 0.85208404,
+          "topicality": 0.005779958
+        },
+        {
+          "mid": "/m/01dqkc",
+          "description": "Pest",
+          "score": 0.8044659,
+          "topicality": 0.06421155
+        },
+        {
+          "mid": "/m/0fbf1m",
+          "description": "Terrestrial animal",
+          "score": 0.7938473,
+          "topicality": 0.00010259117
+        },
+        {
+          "mid": "/m/03rbf6",
+          "description": "Macro photography",
+          "score": 0.6421541,
+          "topicality": 0.009285447
+        },
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.62082285,
+          "topicality": 0.06113152
+        },
+        {
+          "mid": "/m/0h2mp",
+          "description": "Fly",
+          "score": 0.50346005,
+          "topicality": 0.07465512
+        }
+      ]
+    }
+  ]
+}

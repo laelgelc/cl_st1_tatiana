@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.7529452,
+          "topicality": 0.005763029
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7500155,
+          "topicality": 0.0040758555
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.66504174,
+          "topicality": 0.000542107
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.6460667,
+          "topicality": 0.31822598
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.60079306,
+          "topicality": 0.035861626
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.50137246,
+          "topicality": 0.12914707
+        }
+      ]
+    }
+  ]
+}

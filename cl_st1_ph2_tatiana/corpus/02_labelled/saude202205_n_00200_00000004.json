@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.827395,
+          "topicality": 0.26700148
+        },
+        {
+          "mid": "/m/0dzdr",
+          "description": "Thorax",
+          "score": 0.78670305,
+          "topicality": 0.012939496
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.65725833,
+          "topicality": 0.025122182
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.59770966,
+          "topicality": 0.026717963
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.58922833,
+          "topicality": 0.16519448
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5748399,
+          "topicality": 0.009803491
+        },
+        {
+          "mid": "/m/09x8z",
+          "description": "Stomach",
+          "score": 0.56890357,
+          "topicality": 0.17653438
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.53405225,
+          "topicality": 0.0038420912
+        }
+      ]
+    }
+  ]
+}

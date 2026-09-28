@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.985572,
+          "topicality": 0.006099034
+        },
+        {
+          "mid": "/m/02cqfm",
+          "description": "Close-up",
+          "score": 0.83149624,
+          "topicality": 0.050912432
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.830563,
+          "topicality": 0.018544951
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7906099,
+          "topicality": 0.023804797
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.7353661,
+          "topicality": 0.014369654
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.71349573,
+          "topicality": 0.04606861
+        }
+      ]
+    }
+  ]
+}

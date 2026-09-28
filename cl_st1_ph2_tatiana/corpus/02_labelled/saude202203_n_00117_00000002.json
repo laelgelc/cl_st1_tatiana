@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9493765,
+          "topicality": 0.13409062
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90495944,
+          "topicality": 0.00049977296
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8383153,
+          "topicality": 0.010335791
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.67844695,
+          "topicality": 0.009287715
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.5791073,
+          "topicality": 0.00844854
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.55159944,
+          "topicality": 0.007676578
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5432106,
+          "topicality": 0.00074800756
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g5v",
+          "description": "Blue",
+          "score": 0.9890427,
+          "topicality": 0.0005877334
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.97706103,
+          "topicality": 0.013505078
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.9599483,
+          "topicality": 0.2567721
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.945261,
+          "topicality": 0.008053067
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9222036,
+          "topicality": 0.00563255
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.84835887,
+          "topicality": 0.9149137
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.8436373,
+          "topicality": 0.047390442
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.81530356,
+          "topicality": 0.021464523
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.7103796,
+          "topicality": 8.094842e-06
+        },
+        {
+          "mid": "/m/01r9v",
+          "description": "Computer program",
+          "score": 0.6124909,
+          "topicality": 0.034050304
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.58543926,
+          "topicality": 0.0011734109
+        },
+        {
+          "mid": "/m/01zrkr",
+          "description": "Icon",
+          "score": 0.5210992,
+          "topicality": 0.00055753085
+        },
+        {
+          "mid": "/m/06q83",
+          "description": "Software engineering",
+          "score": 0.5205973,
+          "topicality": 0.006711988
+        }
+      ]
+    }
+  ]
+}

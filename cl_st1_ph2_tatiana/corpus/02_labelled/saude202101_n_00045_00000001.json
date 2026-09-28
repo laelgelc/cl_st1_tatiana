@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.8982225,
+          "topicality": 0.00010643436
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.88369095,
+          "topicality": 0.0033786185
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.8817785,
+          "topicality": 0.0007701187
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.85714364,
+          "topicality": 0.013395861
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8431167,
+          "topicality": 0.003941284
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.67368454,
+          "topicality": 0.0017975111
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.63336265,
+          "topicality": 0.10310398
+        }
+      ]
+    }
+  ]
+}

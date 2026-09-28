@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447815,
+          "topicality": 0.0012223722
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.90331244,
+          "topicality": 0.022577262
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.8661116,
+          "topicality": 0.0080380915
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.82497305,
+          "topicality": 0.008490474
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.55103654,
+          "topicality": 0.0015761715
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.50017285,
+          "topicality": 0.00018183334
+        }
+      ]
+    }
+  ]
+}

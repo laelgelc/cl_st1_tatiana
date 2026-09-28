@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07djv",
+          "description": "Tradition",
+          "score": 0.6945549,
+          "topicality": 0.014384791
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.6321575,
+          "topicality": 0.01745096
+        },
+        {
+          "mid": "/m/022ch",
+          "description": "Cross",
+          "score": 0.59320897,
+          "topicality": 0.0121202925
+        },
+        {
+          "mid": "/m/02_g0",
+          "description": "Funeral",
+          "score": 0.5775479,
+          "topicality": 0.15122598
+        }
+      ]
+    }
+  ]
+}

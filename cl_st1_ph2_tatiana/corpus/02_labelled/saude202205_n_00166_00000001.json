@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7831129,
+          "topicality": 0.23636927
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7405136,
+          "topicality": 0.0015483286
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.70162207,
+          "topicality": 0.015853588
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6595677,
+          "topicality": 0.0010456333
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.62150025,
+          "topicality": 0.00018311862
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.585879,
+          "topicality": 0.018775964
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5761203,
+          "topicality": 0.087132625
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.565719,
+          "topicality": 0.023683049
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.50542754,
+          "topicality": 0.012933754
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.5041299,
+          "topicality": 0.0008117909
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5020394,
+          "topicality": 0.0024772505
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.50033385,
+          "topicality": 6.268597e-06
+        }
+      ]
+    }
+  ]
+}

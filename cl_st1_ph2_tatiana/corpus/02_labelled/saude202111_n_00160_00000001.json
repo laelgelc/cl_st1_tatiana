@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9574713,
+          "topicality": 0.0051694387
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.94610476,
+          "topicality": 0.114663616
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9436887,
+          "topicality": 0.041617494
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9406488,
+          "topicality": 0.21298113
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9242409,
+          "topicality": 0.0021099872
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.9176849,
+          "topicality": 0.1911206
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.8401373,
+          "topicality": 0.005260183
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6523361,
+          "topicality": 0.012871704
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.63843256,
+          "topicality": 0.0546047
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.6274525,
+          "topicality": 0.013153348
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6248922,
+          "topicality": 0.007398507
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.61615545,
+          "topicality": 9.069966e-05
+        },
+        {
+          "mid": "/m/0bmz2",
+          "description": "Electrical cable",
+          "score": 0.6139046,
+          "topicality": 6.803476e-05
+        },
+        {
+          "mid": "/m/083kv",
+          "description": "Wire",
+          "score": 0.602909,
+          "topicality": 7.5783755e-05
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5744165,
+          "topicality": 9.769267e-05
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54677844,
+          "topicality": 0.027533865
+        },
+        {
+          "mid": "/m/046glt",
+          "description": "Electrical wiring",
+          "score": 0.50600106,
+          "topicality": 0.00015020664
+        }
+      ]
+    }
+  ]
+}

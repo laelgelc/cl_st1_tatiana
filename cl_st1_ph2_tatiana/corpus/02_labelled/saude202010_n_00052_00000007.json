@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9423077,
+          "topicality": 0.08682952
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.93207073,
+          "topicality": 0.4606216
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9240907,
+          "topicality": 0.0017975786
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.9218239,
+          "topicality": 0.019720748
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.91994476,
+          "topicality": 0.3802285
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8560913,
+          "topicality": 0.050735425
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.8378357,
+          "topicality": 0.038886417
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8249234,
+          "topicality": 0.003052383
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.79790837,
+          "topicality": 0.003177692
+        },
+        {
+          "mid": "/m/03ssj5",
+          "description": "Bed",
+          "score": 0.72539216,
+          "topicality": 0.033341598
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.5938829,
+          "topicality": 0.0030801492
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.55590105,
+          "topicality": 0.02896184
+        },
+        {
+          "mid": "/m/027n7v",
+          "description": "Nursing home",
+          "score": 0.5495263,
+          "topicality": 0.047592558
+        },
+        {
+          "mid": "/m/06dc32",
+          "description": "Hospital gown",
+          "score": 0.5425109,
+          "topicality": 0.005256159
+        }
+      ]
+    }
+  ]
+}

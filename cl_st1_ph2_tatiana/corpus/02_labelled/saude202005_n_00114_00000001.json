@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7372742,
+          "topicality": 0.012787242
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.595523,
+          "topicality": 0.21063006
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.56071055,
+          "topicality": 0.0006307548
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5021217,
+          "topicality": 0.0036173004
+        }
+      ]
+    }
+  ]
+}

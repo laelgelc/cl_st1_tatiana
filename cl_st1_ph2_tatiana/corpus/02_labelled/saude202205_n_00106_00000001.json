@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.9943454,
+          "topicality": 0.05432377
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.8855662,
+          "topicality": 0.07512976
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.83958316,
+          "topicality": 0.015425206
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.73939383,
+          "topicality": 0.00078030565
+        },
+        {
+          "mid": "/m/027qw1p",
+          "description": "Feathered hair",
+          "score": 0.5430426,
+          "topicality": 4.29553e-05
+        }
+      ]
+    }
+  ]
+}

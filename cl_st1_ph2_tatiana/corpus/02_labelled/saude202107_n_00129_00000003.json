@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8009804,
+          "topicality": 0.00058360194
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.76462704,
+          "topicality": 0.062033232
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7223334,
+          "topicality": 0.3477996
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.6649406,
+          "topicality": 0.12834816
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6635886,
+          "topicality": 0.0041708504
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.62798816,
+          "topicality": 0.06874865
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6233304,
+          "topicality": 0.0031324401
+        },
+        {
+          "mid": "/m/027xyl",
+          "description": "Baseball cap",
+          "score": 0.5682865,
+          "topicality": 0.0001997432
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5164778,
+          "topicality": 0.01995395
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.622324,
+          "topicality": 0.0015538427
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.60847163,
+          "topicality": 0.020565165
+        }
+      ]
+    }
+  ]
+}

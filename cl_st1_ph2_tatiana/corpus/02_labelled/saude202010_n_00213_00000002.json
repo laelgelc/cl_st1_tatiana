@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7579818,
+          "topicality": 0.010829995
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.71277124,
+          "topicality": 0.13527583
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.61652195,
+          "topicality": 0.01447401
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5595253,
+          "topicality": 5.6667526e-05
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.54189515,
+          "topicality": 0.39096454
+        }
+      ]
+    }
+  ]
+}

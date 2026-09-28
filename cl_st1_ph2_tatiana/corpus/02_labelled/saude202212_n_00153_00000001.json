@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0d4vn",
+          "description": "Hall",
+          "score": 0.7528904,
+          "topicality": 0.00010457401
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.74928206,
+          "topicality": 0.009899611
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.74493366,
+          "topicality": 0.44204733
+        },
+        {
+          "mid": "/m/033lpr",
+          "description": "Audience",
+          "score": 0.7104248,
+          "topicality": 0.0069135367
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.6861491,
+          "topicality": 0.024495695
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.68276083,
+          "topicality": 0.009496361
+        },
+        {
+          "mid": "/m/0632_",
+          "description": "Parliament",
+          "score": 0.649032,
+          "topicality": 0.6492225
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.6249082,
+          "topicality": 0.03289024
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.5889356,
+          "topicality": 7.583817e-07
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5053708,
+          "topicality": 0.002671849
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.70623183,
+          "topicality": 0.08176558
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6877162,
+          "topicality": 0.0018881508
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5029095,
+          "topicality": 0.019763146
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.74552375,
+          "topicality": 0.009291582
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6384057,
+          "topicality": 0.014603904
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.627567,
+          "topicality": 0.00048337952
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.586996,
+          "topicality": 0.02031934
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5246479,
+          "topicality": 0.0098019345
+        }
+      ]
+    }
+  ]
+}

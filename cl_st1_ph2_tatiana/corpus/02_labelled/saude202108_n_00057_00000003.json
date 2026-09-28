@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9763484,
+          "topicality": 0.028876673
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97493154,
+          "topicality": 0.12101907
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.93957645,
+          "topicality": 0.014021315
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9289847,
+          "topicality": 0.022994673
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.88954985,
+          "topicality": 0.00817974
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.79877245,
+          "topicality": 0.003295113
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.71512634,
+          "topicality": 0.00014116241
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.7143899,
+          "topicality": 0.0030093812
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.649167,
+          "topicality": 0.00012453574
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5776513,
+          "topicality": 0.0027387422
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.5628164,
+          "topicality": 0.062314987
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.55773526,
+          "topicality": 0.008808225
+        },
+        {
+          "mid": "/m/0dzb2",
+          "description": "Vein",
+          "score": 0.5372169,
+          "topicality": 0.06258354
+        }
+      ]
+    }
+  ]
+}

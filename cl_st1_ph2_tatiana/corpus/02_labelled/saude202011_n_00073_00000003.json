@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95266783,
+          "topicality": 0.010976313
+        },
+        {
+          "mid": "/m/04k94",
+          "description": "Liquid",
+          "score": 0.91821295,
+          "topicality": 0.0100420695
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8912287,
+          "topicality": 0.00089465006
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8504087,
+          "topicality": 0.004008507
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7472432,
+          "topicality": 0.039926894
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.69366956,
+          "topicality": 0.021540785
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.6230197,
+          "topicality": 0.00016268394
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.59557825,
+          "topicality": 0.0075729107
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5711131,
+          "topicality": 0.031434074
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.5648003,
+          "topicality": 0.14216647
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.5606323,
+          "topicality": 0.14834112
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.5114828,
+          "topicality": 0.002639022
+        }
+      ]
+    }
+  ]
+}

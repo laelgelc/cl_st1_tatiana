@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8600891,
+          "topicality": 0.046150398
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.6871396,
+          "topicality": 0.00035948792
+        },
+        {
+          "mid": "/m/06ycgh",
+          "description": "Projection screen",
+          "score": 0.66855955,
+          "topicality": 0.00021679648
+        },
+        {
+          "mid": "/m/02y3rj",
+          "description": "Presentation",
+          "score": 0.6266911,
+          "topicality": 0.0054218336
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.62402546,
+          "topicality": 0.06119187
+        },
+        {
+          "mid": "/m/07bx10",
+          "description": "Academic conference",
+          "score": 0.61353433,
+          "topicality": 0.04646996
+        },
+        {
+          "mid": "/m/03233l",
+          "description": "Seminar",
+          "score": 0.57864696,
+          "topicality": 0.012374152
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5669994,
+          "topicality": 0.0050267796
+        },
+        {
+          "mid": "/m/09cynt",
+          "description": "Convention",
+          "score": 0.5567631,
+          "topicality": 0.071931645
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5324811,
+          "topicality": 0.08253095
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.51367086,
+          "topicality": 0.00018455493
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.51090795,
+          "topicality": 0.011793568
+        }
+      ]
+    }
+  ]
+}

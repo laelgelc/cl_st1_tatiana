@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04_x4",
+          "description": "Money",
+          "score": 0.9861675,
+          "topicality": 0.65026903
+        },
+        {
+          "mid": "/m/0fd6q",
+          "description": "Cash",
+          "score": 0.9829529,
+          "topicality": 0.60357547
+        },
+        {
+          "mid": "/m/01q7l",
+          "description": "Currency",
+          "score": 0.9816902,
+          "topicality": 0.34317148
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.979273,
+          "topicality": 0.0027687678
+        },
+        {
+          "mid": "/m/01dl3j",
+          "description": "Banknote",
+          "score": 0.96990675,
+          "topicality": 0.09902446
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.95998067,
+          "topicality": 0.00036879448
+        },
+        {
+          "mid": "/m/0h8n2s1",
+          "description": "Money Handling",
+          "score": 0.9303479,
+          "topicality": 0.048937164
+        },
+        {
+          "mid": "/m/0285v",
+          "description": "Dollar",
+          "score": 0.9198724,
+          "topicality": 0.45138443
+        },
+        {
+          "mid": "/m/0hbm6",
+          "description": "Saving",
+          "score": 0.9193533,
+          "topicality": 0.14323683
+        },
+        {
+          "mid": "/m/04n7kjv",
+          "description": "Money changer",
+          "score": 0.7142935,
+          "topicality": 0.17135932
+        }
+      ]
+    }
+  ]
+}

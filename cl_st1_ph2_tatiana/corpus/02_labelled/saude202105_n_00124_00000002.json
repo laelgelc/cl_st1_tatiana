@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9954828,
+          "topicality": 0.000993574
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9876292,
+          "topicality": 0.021699935
+        },
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.9854882,
+          "topicality": 0.0059834574
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9854357,
+          "topicality": 6.918593e-05
+        },
+        {
+          "mid": "/m/0k0pj",
+          "description": "Nose",
+          "score": 0.97504145,
+          "topicality": 0.013750913
+        },
+        {
+          "mid": "/m/014sv8",
+          "description": "Eye",
+          "score": 0.95353657,
+          "topicality": 0.024639433
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9445687,
+          "topicality": 0.0019775152
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.91460633,
+          "topicality": 0.0048977737
+        },
+        {
+          "mid": "/m/039xj_",
+          "description": "Ear",
+          "score": 0.9137582,
+          "topicality": 0.009119458
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.6975958,
+          "topicality": 0.009192197
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6572458,
+          "topicality": 0.000116141535
+        },
+        {
+          "mid": "/m/018rtl",
+          "description": "Optometry",
+          "score": 0.55778885,
+          "topicality": 0.0023645803
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54325217,
+          "topicality": 0.027122037
+        },
+        {
+          "mid": "/m/04n4x",
+          "description": "Lens",
+          "score": 0.51845396,
+          "topicality": 0.00019083316
+        }
+      ]
+    }
+  ]
+}

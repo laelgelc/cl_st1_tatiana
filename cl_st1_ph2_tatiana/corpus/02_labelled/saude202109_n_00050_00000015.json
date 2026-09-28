@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6560871,
+          "topicality": 0.0020701333
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.64314365,
+          "topicality": 0.039761458
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.55831206,
+          "topicality": 0.016173173
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54797524,
+          "topicality": 0.009746826
+        }
+      ]
+    }
+  ]
+}

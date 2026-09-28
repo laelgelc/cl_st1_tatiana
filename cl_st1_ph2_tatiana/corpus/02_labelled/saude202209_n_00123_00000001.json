@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.85040283,
+          "topicality": 0.015607697
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.7033854,
+          "topicality": 0.00095937896
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.5815961,
+          "topicality": 0.06639627
+        },
+        {
+          "mid": "/m/02k88w",
+          "description": "Rebellion",
+          "score": 0.5753998,
+          "topicality": 0.07412127
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.51781964,
+          "topicality": 0.00501094
+        }
+      ]
+    }
+  ]
+}

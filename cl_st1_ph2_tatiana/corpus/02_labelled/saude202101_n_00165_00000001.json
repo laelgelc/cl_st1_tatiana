@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7503448,
+          "topicality": 0.0010811005
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6511439,
+          "topicality": 0.02764235
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5515737,
+          "topicality": 0.0007110686
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.54521745,
+          "topicality": 0.0035467765
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.51463455,
+          "topicality": 0.01621007
+        }
+      ]
+    }
+  ]
+}

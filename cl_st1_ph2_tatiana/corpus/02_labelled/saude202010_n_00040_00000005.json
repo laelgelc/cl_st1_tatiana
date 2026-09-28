@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5898973,
+          "topicality": 0.0070399228
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.55166847,
+          "topicality": 0.005706415
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5497013,
+          "topicality": 0.00046324683
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.54264724,
+          "topicality": 0.02631356
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.51728046,
+          "topicality": 0.0049638418
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.51502335,
+          "topicality": 0.0008604681
+        }
+      ]
+    }
+  ]
+}

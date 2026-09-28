@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01q_cy",
+          "description": "Globe",
+          "score": 0.9678456,
+          "topicality": 0.77365464
+        },
+        {
+          "mid": "/m/02j71",
+          "description": "Earth",
+          "score": 0.9677505,
+          "topicality": 0.68766904
+        },
+        {
+          "mid": "/m/06y47",
+          "description": "Sphere",
+          "score": 0.91857153,
+          "topicality": 0.03939398
+        },
+        {
+          "mid": "/m/04_tb",
+          "description": "Map",
+          "score": 0.88403475,
+          "topicality": 0.1597415
+        },
+        {
+          "mid": "/m/05qc_",
+          "description": "Planet",
+          "score": 0.86773396,
+          "topicality": 0.17139858
+        },
+        {
+          "mid": "/m/0crnf",
+          "description": "Atlas",
+          "score": 0.80495226,
+          "topicality": 0.025362773
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.63440037,
+          "topicality": 0.032224104
+        },
+        {
+          "mid": "/m/01d9ll",
+          "description": "Astronomical object",
+          "score": 0.6108305,
+          "topicality": 0.0073741106
+        }
+      ]
+    }
+  ]
+}

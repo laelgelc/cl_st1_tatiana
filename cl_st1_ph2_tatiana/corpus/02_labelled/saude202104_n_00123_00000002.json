@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97581273,
+          "topicality": 0.020916168
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.79940754,
+          "topicality": 0.02000579
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.785588,
+          "topicality": 0.0023280438
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.61819816,
+          "topicality": 0.027245855
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.56705457,
+          "topicality": 0.017851776
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.5560182,
+          "topicality": 0.001406612
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.54886687,
+          "topicality": 0.02321547
+        }
+      ]
+    }
+  ]
+}

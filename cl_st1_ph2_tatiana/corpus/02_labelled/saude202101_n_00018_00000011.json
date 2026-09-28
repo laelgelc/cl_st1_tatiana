@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.89708734,
+          "topicality": 0.5620077
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.87799096,
+          "topicality": 0.36230287
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.85943204,
+          "topicality": 0.04099764
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.848951,
+          "topicality": 0.0033322694
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.7823162,
+          "topicality": 0.0052246954
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.74862003,
+          "topicality": 0.009884413
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7318785,
+          "topicality": 0.1347907
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.71250105,
+          "topicality": 0.0038000548
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.6715315,
+          "topicality": 0.058791347
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.6666093,
+          "topicality": 6.413182e-05
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6635067,
+          "topicality": 0.0031149737
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.60166734,
+          "topicality": 0.008317243
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5918312,
+          "topicality": 0.055834655
+        }
+      ]
+    }
+  ]
+}

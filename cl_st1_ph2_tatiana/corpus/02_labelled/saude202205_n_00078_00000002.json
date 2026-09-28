@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr8f",
+          "description": "Illustration",
+          "score": 0.77382976,
+          "topicality": 0.07767693
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6268239,
+          "topicality": 0.010293822
+        },
+        {
+          "mid": "/m/034srq",
+          "description": "Wind wave",
+          "score": 0.59215784,
+          "topicality": 0.04638539
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.53329486,
+          "topicality": 0.0018005115
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5196353,
+          "topicality": 0.0020805562
+        }
+      ]
+    }
+  ]
+}

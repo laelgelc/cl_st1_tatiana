@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.91993123,
+          "topicality": 0.01252599
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.8783992,
+          "topicality": 0.00037287627
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.78706455,
+          "topicality": 0.08796174
+        },
+        {
+          "mid": "/m/02k88w",
+          "description": "Rebellion",
+          "score": 0.6834443,
+          "topicality": 0.14320804
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.66115296,
+          "topicality": 0.123692214
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.65880185,
+          "topicality": 0.0014183633
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.6171616,
+          "topicality": 0.00021389425
+        }
+      ]
+    }
+  ]
+}

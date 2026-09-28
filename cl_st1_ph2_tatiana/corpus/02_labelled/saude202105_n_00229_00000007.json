@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01c34b",
+          "description": "Flooring",
+          "score": 0.9610293,
+          "topicality": 0.0005617444
+        },
+        {
+          "mid": "/m/0l7_8",
+          "description": "Floor",
+          "score": 0.94916517,
+          "topicality": 0.0020301845
+        },
+        {
+          "mid": "/m/03gfsp",
+          "description": "Ceiling",
+          "score": 0.87156355,
+          "topicality": 0.00071369857
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.6532068,
+          "topicality": 0.009561593
+        }
+      ]
+    }
+  ]
+}

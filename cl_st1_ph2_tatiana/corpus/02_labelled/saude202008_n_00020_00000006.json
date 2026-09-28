@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.9724472,
+          "topicality": 0.0019625365
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9631877,
+          "topicality": 0.007779541
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.93195647,
+          "topicality": 0.3322478
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8917352,
+          "topicality": 0.0011482751
+        },
+        {
+          "mid": "/m/09x8z",
+          "description": "Stomach",
+          "score": 0.8840175,
+          "topicality": 0.39104354
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.88164836,
+          "topicality": 0.0016422563
+        },
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.87670565,
+          "topicality": 0.0006152985
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.8095,
+          "topicality": 0.0008478516
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7815696,
+          "topicality": 0.006218586
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.7717492,
+          "topicality": 0.0029755414
+        },
+        {
+          "mid": "/m/0dzdr",
+          "description": "Thorax",
+          "score": 0.74296534,
+          "topicality": 0.00171175
+        },
+        {
+          "mid": "/m/06_kbr",
+          "description": "Hip",
+          "score": 0.7143756,
+          "topicality": 0.00047019208
+        },
+        {
+          "mid": "/m/01hnnm",
+          "description": "Navel",
+          "score": 0.71218634,
+          "topicality": 0.010832539
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.67668635,
+          "topicality": 0.0043004234
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.5713967,
+          "topicality": 0.003200207
+        }
+      ]
+    }
+  ]
+}

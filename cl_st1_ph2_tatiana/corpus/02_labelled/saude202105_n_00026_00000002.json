@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03vtbc",
+          "description": "Silver",
+          "score": 0.7214669,
+          "topicality": 0.0051778546
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6842116,
+          "topicality": 0.022005307
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.6246833,
+          "topicality": 0.00989029
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.559761,
+          "topicality": 0.004922769
+        }
+      ]
+    }
+  ]
+}

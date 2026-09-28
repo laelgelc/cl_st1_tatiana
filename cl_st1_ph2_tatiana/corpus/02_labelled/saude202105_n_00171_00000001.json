@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.94881284,
+          "topicality": 0.043993063
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.90574497,
+          "topicality": 0.00825169
+        },
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.74321043,
+          "topicality": 0.13056584
+        },
+        {
+          "mid": "/m/03yhk",
+          "description": "Ink",
+          "score": 0.53100485,
+          "topicality": 0.00039977123
+        }
+      ]
+    }
+  ]
+}

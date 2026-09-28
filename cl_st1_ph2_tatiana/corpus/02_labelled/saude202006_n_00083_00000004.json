@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99435335,
+          "topicality": 0.010995327
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.93301886,
+          "topicality": 0.12782714
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.9312557,
+          "topicality": 0.050702434
+        },
+        {
+          "mid": "/m/01lqfm",
+          "description": "Public space",
+          "score": 0.91926587,
+          "topicality": 0.0147729935
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.68380857,
+          "topicality": 0.0181792
+        }
+      ]
+    }
+  ]
+}

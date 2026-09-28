@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds4x",
+          "description": "Hairstyle",
+          "score": 0.96977943,
+          "topicality": 0.061820384
+        },
+        {
+          "mid": "/m/0919rx",
+          "description": "Line art",
+          "score": 0.8148288,
+          "topicality": 0.0054509956
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.6148288,
+          "topicality": 0.017256314
+        },
+        {
+          "mid": "/m/026c0s8",
+          "description": "Fashion illustration",
+          "score": 0.5715294,
+          "topicality": 0.01885006
+        },
+        {
+          "mid": "/m/07glzq",
+          "description": "Sketch",
+          "score": 0.56223583,
+          "topicality": 0.021533515
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.5034839,
+          "topicality": 0.005638336
+        }
+      ]
+    }
+  ]
+}

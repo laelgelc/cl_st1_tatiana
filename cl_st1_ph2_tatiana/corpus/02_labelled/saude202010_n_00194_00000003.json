@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.85544145,
+          "topicality": 0.0031942525
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.6502001,
+          "topicality": 8.2022125e-06
+        },
+        {
+          "mid": "/m/05trrf",
+          "description": "Hazmat suit",
+          "score": 0.6307605,
+          "topicality": 0.33449686
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.5721657,
+          "topicality": 0.033530913
+        },
+        {
+          "mid": "/m/02p0y0y",
+          "description": "Hazard",
+          "score": 0.5102238,
+          "topicality": 0.07888334
+        }
+      ]
+    }
+  ]
+}

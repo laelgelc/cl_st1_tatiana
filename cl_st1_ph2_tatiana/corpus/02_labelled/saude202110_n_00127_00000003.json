@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qsj",
+          "description": "Primate",
+          "score": 0.96238536,
+          "topicality": 0.1074009
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449066,
+          "topicality": 0.0036735735
+        },
+        {
+          "mid": "/m/05m4m",
+          "description": "Orangutan",
+          "score": 0.88126546,
+          "topicality": 0.75482273
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.8267492,
+          "topicality": 0.00069828506
+        },
+        {
+          "mid": "/m/0cnmr",
+          "description": "Fur",
+          "score": 0.6297383,
+          "topicality": 0.00015827116
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.57658434,
+          "topicality": 0.0089821275
+        },
+        {
+          "mid": "/m/0267y",
+          "description": "Chimpanzee",
+          "score": 0.5212345,
+          "topicality": 0.17251778
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.5006924,
+          "topicality": 0.0005117321
+        }
+      ]
+    }
+  ]
+}

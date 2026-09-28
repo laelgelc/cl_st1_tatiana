@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.97754276,
+          "topicality": 0.0019330996
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8326004,
+          "topicality": 0.00875041
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.82328606,
+          "topicality": 0.02780303
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7356981,
+          "topicality": 0.007875596
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.57348883,
+          "topicality": 0.5030633
+        }
+      ]
+    }
+  ]
+}

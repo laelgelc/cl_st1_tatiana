@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/039jq",
+          "description": "Glass",
+          "score": 0.8366492,
+          "topicality": 0.0026922014
+        },
+        {
+          "mid": "/m/02l215",
+          "description": "Reflection",
+          "score": 0.66432184,
+          "topicality": 0.0021941278
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.58254457,
+          "topicality": 0.0055448757
+        },
+        {
+          "mid": "/m/01z8xy",
+          "description": "Transparency",
+          "score": 0.52884054,
+          "topicality": 3.2228985e-05
+        }
+      ]
+    }
+  ]
+}

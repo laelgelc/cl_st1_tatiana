@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7962192,
+          "topicality": 0.029670872
+        },
+        {
+          "mid": "/m/06xzh",
+          "description": "Sleep",
+          "score": 0.6625061,
+          "topicality": 0.0561698
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.64403474,
+          "topicality": 0.0070112
+        },
+        {
+          "mid": "/m/05c1ypb",
+          "description": "Nap",
+          "score": 0.63249093,
+          "topicality": 0.001775309
+        },
+        {
+          "mid": "/m/0jnvp",
+          "description": "Infant",
+          "score": 0.62513936,
+          "topicality": 0.24899694
+        },
+        {
+          "mid": "/m/0lbzq",
+          "description": "Birth",
+          "score": 0.5376875,
+          "topicality": 0.46317637
+        },
+        {
+          "mid": "/m/0lc0w",
+          "description": "Childbirth",
+          "score": 0.5028246,
+          "topicality": 0.7237376
+        }
+      ]
+    }
+  ]
+}

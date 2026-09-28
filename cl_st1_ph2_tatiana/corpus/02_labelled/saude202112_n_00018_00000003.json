@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8684428,
+          "topicality": 0.0010363221
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.82074183,
+          "topicality": 0.097016096
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7900557,
+          "topicality": 0.35031593
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.719305,
+          "topicality": 0.38000435
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.65923685,
+          "topicality": 0.00027558638
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.6371401,
+          "topicality": 0.017231703
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6237704,
+          "topicality": 0.0012205761
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5993049,
+          "topicality": 0.006844687
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.57382053,
+          "topicality": 0.27465743
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.57055223,
+          "topicality": 0.015149676
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.5061832,
+          "topicality": 0.000755027
+        }
+      ]
+    }
+  ]
+}

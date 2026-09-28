@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.7772076,
+          "topicality": 0.009127712
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.65873504,
+          "topicality": 0.004313906
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.6504153,
+          "topicality": 0.008113459
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.5965564,
+          "topicality": 0.013714242
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5153282,
+          "topicality": 9.092058e-05
+        }
+      ]
+    }
+  ]
+}

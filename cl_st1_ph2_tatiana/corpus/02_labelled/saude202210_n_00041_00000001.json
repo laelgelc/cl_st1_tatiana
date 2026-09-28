@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.8829251,
+          "topicality": 0.0047943913
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.8504006,
+          "topicality": 0.13458373
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.796565,
+          "topicality": 0.009802487
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7895276,
+          "topicality": 0.019096
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.7649473,
+          "topicality": 0.04803751
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.72065896,
+          "topicality": 0.008298083
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.66665256,
+          "topicality": 0.02625175
+        },
+        {
+          "mid": "/m/02079p",
+          "description": "Speaker",
+          "score": 0.6266017,
+          "topicality": 0.08900981
+        },
+        {
+          "mid": "/m/01s8fx",
+          "description": "News conference",
+          "score": 0.58088255,
+          "topicality": 0.02354622
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5374826,
+          "topicality": 0.007670939
+        }
+      ]
+    }
+  ]
+}

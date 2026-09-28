@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.8248501,
+          "topicality": 0.005225384
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.65642864,
+          "topicality": 0.0057597742
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.6520885,
+          "topicality": 0.013714016
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.62362003,
+          "topicality": 0.015066952
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.60613775,
+          "topicality": 0.010470838
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.53731704,
+          "topicality": 0.17428435
+        },
+        {
+          "mid": "/m/0h8ntf7",
+          "description": "Household Cleaning Supply",
+          "score": 0.52921945,
+          "topicality": 0.00015235519
+        },
+        {
+          "mid": "/m/0h8nt1x",
+          "description": "Household Supply",
+          "score": 0.51194197,
+          "topicality": 0.0013162749
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.51107675,
+          "topicality": 0.008285665
+        }
+      ]
+    }
+  ]
+}

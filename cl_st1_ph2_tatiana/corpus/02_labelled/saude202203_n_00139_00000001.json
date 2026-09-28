@@ -1,0 +1,110 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.927439,
+          "topicality": 0.0043685664
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9056681,
+          "topicality": 0.022991585
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.9045873,
+          "topicality": 0.021272933
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.90205705,
+          "topicality": 0.15258497
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8860706,
+          "topicality": 0.27118212
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.8559863,
+          "topicality": 0.045241185
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.81578755,
+          "topicality": 0.1940985
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8060253,
+          "topicality": 0.0015710384
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7393516,
+          "topicality": 0.019556737
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.7318871,
+          "topicality": 0.003606326
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6781226,
+          "topicality": 0.0006078561
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.60538405,
+          "topicality": 0.09068109
+        },
+        {
+          "mid": "/j/6xxc88",
+          "description": "Hospital bed",
+          "score": 0.5606225,
+          "topicality": 0.00093250757
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.5140781,
+          "topicality": 0.031072224
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.50749034,
+          "topicality": 0.005355764
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.5057656,
+          "topicality": 0.06836756
+        },
+        {
+          "mid": "/m/0lc0w",
+          "description": "Childbirth",
+          "score": 0.50290513,
+          "topicality": 0.077247895
+        }
+      ]
+    }
+  ]
+}

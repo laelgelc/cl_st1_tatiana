@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02nfxt",
+          "description": "Residential area",
+          "score": 0.93155384,
+          "topicality": 0.047729768
+        },
+        {
+          "mid": "/m/01nblt",
+          "description": "Apartment",
+          "score": 0.9009701,
+          "topicality": 0.06705231
+        },
+        {
+          "mid": "/m/0fpdgl",
+          "description": "Human settlement",
+          "score": 0.8852828,
+          "topicality": 0.0033028976
+        },
+        {
+          "mid": "/m/0d9wj",
+          "description": "Urban design",
+          "score": 0.8729151,
+          "topicality": 0.0021466953
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.85305214,
+          "topicality": 0.065456934
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.8376054,
+          "topicality": 0.12673688
+        },
+        {
+          "mid": "/m/0c1vxg",
+          "description": "Mixed-use",
+          "score": 0.7999386,
+          "topicality": 0.004605976
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.75087535,
+          "topicality": 0.033227656
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.69879746,
+          "topicality": 0.0018532556
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.61601156,
+          "topicality": 0.032346576
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.54479635,
+          "topicality": 0.006443435
+        },
+        {
+          "mid": "/m/03pty",
+          "description": "Hotel",
+          "score": 0.54134125,
+          "topicality": 0.026654553
+        }
+      ]
+    }
+  ]
+}

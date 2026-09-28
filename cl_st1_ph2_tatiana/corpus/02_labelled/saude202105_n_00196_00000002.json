@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.7699177,
+          "topicality": 0.020382142
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.7397596,
+          "topicality": 0.017859047
+        },
+        {
+          "mid": "/m/02_41",
+          "description": "Fire",
+          "score": 0.6752985,
+          "topicality": 0.11399679
+        },
+        {
+          "mid": "/m/01f415",
+          "description": "Flame",
+          "score": 0.58376426,
+          "topicality": 0.0022867783
+        },
+        {
+          "mid": "/m/01kq3f",
+          "description": "Blue-collar worker",
+          "score": 0.54679775,
+          "topicality": 0.00595808
+        }
+      ]
+    }
+  ]
+}

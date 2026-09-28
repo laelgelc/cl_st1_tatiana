@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j61q",
+          "description": "Tent",
+          "score": 0.9808212,
+          "topicality": 0.81784415
+        },
+        {
+          "mid": "/m/01h6d4",
+          "description": "Camping",
+          "score": 0.9569475,
+          "topicality": 0.2556819
+        },
+        {
+          "mid": "/m/02w3fc",
+          "description": "Tarpaulin",
+          "score": 0.88830423,
+          "topicality": 0.21589684
+        },
+        {
+          "mid": "/m/0b03ql",
+          "description": "Canopy",
+          "score": 0.83852065,
+          "topicality": 0.032364406
+        },
+        {
+          "mid": "/m/0hndl",
+          "description": "Shade",
+          "score": 0.718923,
+          "topicality": 0.0019924594
+        },
+        {
+          "mid": "/m/0268lbt",
+          "description": "Hiking equipment",
+          "score": 0.6424044,
+          "topicality": 0.0052316445
+        },
+        {
+          "mid": "/m/0lf45",
+          "description": "Camp",
+          "score": 0.6260014,
+          "topicality": 0.14804177
+        }
+      ]
+    }
+  ]
+}

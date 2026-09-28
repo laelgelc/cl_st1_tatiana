@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9075224,
+          "topicality": 0.06271389
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7877794,
+          "topicality": 0.000825029
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7782543,
+          "topicality": 0.00016778735
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7702709,
+          "topicality": 0.00019709907
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7098684,
+          "topicality": 0.0012444454
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.6683951,
+          "topicality": 0.012468991
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.5759688,
+          "topicality": 0.2046709
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.5065875,
+          "topicality": 0.009803612
+        }
+      ]
+    }
+  ]
+}

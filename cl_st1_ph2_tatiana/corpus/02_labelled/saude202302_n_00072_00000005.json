@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7062235,
+          "topicality": 0.0023355184
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6866431,
+          "topicality": 0.004312092
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6432201,
+          "topicality": 0.0007547759
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.52309114,
+          "topicality": 0.0020861719
+        }
+      ]
+    }
+  ]
+}

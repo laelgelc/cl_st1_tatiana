@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8438049,
+          "topicality": 0.034574028
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6017982,
+          "topicality": 0.005128071
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5611769,
+          "topicality": 0.010966756
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.50411767,
+          "topicality": 0.0025799247
+        }
+      ]
+    }
+  ]
+}

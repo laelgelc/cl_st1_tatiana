@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.96457934,
+          "topicality": 0.006905622
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.88859665,
+          "topicality": 0.0015003684
+        },
+        {
+          "mid": "/m/06z37_",
+          "description": "Picture frame",
+          "score": 0.8437854,
+          "topicality": 0.002838005
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.84047467,
+          "topicality": 0.013170176
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.80354124,
+          "topicality": 0.0027377564
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.7429971,
+          "topicality": 0.0003769795
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.6134846,
+          "topicality": 0.00012384889
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.6084215,
+          "topicality": 2.6581749e-05
+        },
+        {
+          "mid": "/m/044_87",
+          "description": "Output device",
+          "score": 0.54402536,
+          "topicality": 2.6148296e-05
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.5371536,
+          "topicality": 0.0033569578
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8979113,
+          "topicality": 0.0011115785
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.79377747,
+          "topicality": 0.0018297549
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.7906601,
+          "topicality": 6.60623e-06
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7452989,
+          "topicality": 0.11906516
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6916145,
+          "topicality": 0.002444905
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.58058625,
+          "topicality": 0.33985296
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.54428834,
+          "topicality": 0.0028741953
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5319703,
+          "topicality": 0.13467915
+        }
+      ]
+    }
+  ]
+}

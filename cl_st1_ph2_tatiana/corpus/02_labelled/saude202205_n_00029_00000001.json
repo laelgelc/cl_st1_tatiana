@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01fklc",
+          "description": "Pink",
+          "score": 0.8885832,
+          "topicality": 0.002184534
+        },
+        {
+          "mid": "/m/09ggk",
+          "description": "Purple",
+          "score": 0.84120345,
+          "topicality": 0.0035680586
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6637624,
+          "topicality": 0.0024049135
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.64567447,
+          "topicality": 0.00653938
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5522667,
+          "topicality": 0.0016123559
+        }
+      ]
+    }
+  ]
+}

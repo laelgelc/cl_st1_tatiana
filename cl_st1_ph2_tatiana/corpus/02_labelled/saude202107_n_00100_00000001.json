@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7526072,
+          "topicality": 0.01731229
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7125911,
+          "topicality": 0.034555547
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.6259913,
+          "topicality": 0.0011634576
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.60895383,
+          "topicality": 0.00076769164
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.58514297,
+          "topicality": 0.0028250318
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.70961106,
+          "topicality": 0.082030594
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.65271395,
+          "topicality": 0.0055167493
+        },
+        {
+          "mid": "/m/048knlz",
+          "description": "Love",
+          "score": 0.5684607,
+          "topicality": 0.0031180182
+        },
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.56453174,
+          "topicality": 0.1845626
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5133175,
+          "topicality": 0.0027047517
+        },
+        {
+          "mid": "/m/07bg4p",
+          "description": "Heart",
+          "score": 0.5091376,
+          "topicality": 0.0020472405
+        }
+      ]
+    }
+  ]
+}

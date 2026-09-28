@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.88544655,
+          "topicality": 0.0230048
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.86961323,
+          "topicality": 0.7817294
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.81258905,
+          "topicality": 0.13115099
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.65665865,
+          "topicality": 0.016364226
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.64083993,
+          "topicality": 0.065206565
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.57962817,
+          "topicality": 0.029505875
+        }
+      ]
+    }
+  ]
+}

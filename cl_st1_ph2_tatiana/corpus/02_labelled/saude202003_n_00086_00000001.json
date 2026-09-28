@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94443667,
+          "topicality": 0.015985938
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.88360137,
+          "topicality": 0.00063878484
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8452913,
+          "topicality": 0.0022544418
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8009289,
+          "topicality": 0.0022199815
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7385069,
+          "topicality": 0.0036990247
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.68936867,
+          "topicality": 0.0046554827
+        },
+        {
+          "mid": "/m/03cvmmd",
+          "description": "Suit trousers",
+          "score": 0.63542247,
+          "topicality": 0.000104487386
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.56774825,
+          "topicality": 0.0063642277
+        },
+        {
+          "mid": "/m/0138tl",
+          "description": "Toy",
+          "score": 0.5463861,
+          "topicality": 0.00678793
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.8519606,
+          "topicality": 0.22326918
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.84909195,
+          "topicality": 0.08154639
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.8388289,
+          "topicality": 0.22117813
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.82559687,
+          "topicality": 0.0008259738
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8201324,
+          "topicality": 0.21558563
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8188183,
+          "topicality": 0.016442161
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.7902221,
+          "topicality": 0.14710486
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.72200495,
+          "topicality": 0.010677953
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.70900303,
+          "topicality": 0.0024798985
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.65681183,
+          "topicality": 0.031157045
+        }
+      ]
+    }
+  ]
+}

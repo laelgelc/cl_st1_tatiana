@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9925045,
+          "topicality": 0.00015973134
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9853288,
+          "topicality": 0.0051575177
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9789995,
+          "topicality": 0.00021609894
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.5736319,
+          "topicality": 0.010942375
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5567265,
+          "topicality": 0.001106236
+        }
+      ]
+    }
+  ]
+}

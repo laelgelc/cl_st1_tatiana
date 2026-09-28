@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/062581",
+          "description": "Sleeve",
+          "score": 0.984766,
+          "topicality": 0.00048214634
+        },
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.96902746,
+          "topicality": 0.033137266
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.96141535,
+          "topicality": 0.0051623494
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.90598774,
+          "topicality": 0.0053848973
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.83441645,
+          "topicality": 0.0046789013
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.79427296,
+          "topicality": 0.003533679
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7659319,
+          "topicality": 0.0080482615
+        }
+      ]
+    }
+  ]
+}

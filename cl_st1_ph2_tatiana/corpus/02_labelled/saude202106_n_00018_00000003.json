@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.8174883,
+          "topicality": 0.11274483
+        },
+        {
+          "mid": "/m/01y8r2",
+          "description": "Red flag",
+          "score": 0.7466851,
+          "topicality": 0.1281307
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.7324732,
+          "topicality": 0.00010647812
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.60633004,
+          "topicality": 0.005472094
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.575678,
+          "topicality": 0.00010179221
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.5752562,
+          "topicality": 6.559405e-05
+        }
+      ]
+    }
+  ]
+}

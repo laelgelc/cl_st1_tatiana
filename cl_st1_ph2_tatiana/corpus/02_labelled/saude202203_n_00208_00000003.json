@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.80760366,
+          "topicality": 0.00046855657
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.748139,
+          "topicality": 0.0014750614
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.5879833,
+          "topicality": 0.0022261317
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.57796305,
+          "topicality": 0.023140596
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5184757,
+          "topicality": 0.011339611
+        }
+      ]
+    }
+  ]
+}

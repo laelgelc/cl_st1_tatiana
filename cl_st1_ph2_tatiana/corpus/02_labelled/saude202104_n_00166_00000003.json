@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8383662,
+          "topicality": 0.023191089
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.75665694,
+          "topicality": 0.0016264291
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.6235599,
+          "topicality": 0.057760466
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.590519,
+          "topicality": 0.07104647
+        },
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.58563775,
+          "topicality": 0.45453534
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.54085934,
+          "topicality": 0.098086454
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.50359374,
+          "topicality": 0.00036596728
+        }
+      ]
+    }
+  ]
+}

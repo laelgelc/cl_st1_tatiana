@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02yfx",
+          "description": "Fluid",
+          "score": 0.95363575,
+          "topicality": 0.005682621
+        },
+        {
+          "mid": "/m/0h90w5d",
+          "description": "Art Paint",
+          "score": 0.82440495,
+          "topicality": 2.2558825e-05
+        },
+        {
+          "mid": "/m/018ktp",
+          "description": "Watercolor painting",
+          "score": 0.5907942,
+          "topicality": 0.00033476646
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.539938,
+          "topicality": 0.053903967
+        },
+        {
+          "mid": "/m/028qp",
+          "description": "Dye",
+          "score": 0.51318175,
+          "topicality": 0.0044241594
+        }
+      ]
+    }
+  ]
+}

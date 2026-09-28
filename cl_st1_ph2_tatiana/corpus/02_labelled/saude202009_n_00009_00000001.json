@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.9726338,
+          "topicality": 0.0011969832
+        },
+        {
+          "mid": "/m/0dzf4",
+          "description": "Arm",
+          "score": 0.9714761,
+          "topicality": 0.007665813
+        },
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.8517331,
+          "topicality": 0.0004104741
+        },
+        {
+          "mid": "/m/031vtq",
+          "description": "Torso",
+          "score": 0.7055512,
+          "topicality": 0.00022146135
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.6045895,
+          "topicality": 0.00024706864
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.6038688,
+          "topicality": 0.0010446705
+        },
+        {
+          "mid": "/m/03n0sf",
+          "description": "Afro",
+          "score": 0.57657725,
+          "topicality": 0.0054101516
+        }
+      ]
+    }
+  ]
+}

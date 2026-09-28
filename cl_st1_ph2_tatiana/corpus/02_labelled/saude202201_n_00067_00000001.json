@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.85996205,
+          "topicality": 0.0217209
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.76582235,
+          "topicality": 0.008750988
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.7128723,
+          "topicality": 0.0047279047
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.5675002,
+          "topicality": 0.02030469
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.5037072,
+          "topicality": 0.0016907325
+        }
+      ]
+    }
+  ]
+}

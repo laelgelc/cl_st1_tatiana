@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.92797834,
+          "topicality": 0.0067647905
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.84917223,
+          "topicality": 0.00082618
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.83793885,
+          "topicality": 0.0747427
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7613345,
+          "topicality": 0.1754089
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.6946288,
+          "topicality": 0.010424474
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.6845328,
+          "topicality": 0.086165294
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6237061,
+          "topicality": 0.003059564
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.62003773,
+          "topicality": 0.03334692
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.61126006,
+          "topicality": 0.16028334
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.55023265,
+          "topicality": 0.026946515
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5201561,
+          "topicality": 0.14268616
+        }
+      ]
+    }
+  ]
+}

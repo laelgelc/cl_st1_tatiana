@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99431294,
+          "topicality": 0.033894923
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.88180834,
+          "topicality": 0.0012271332
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.7783951,
+          "topicality": 0.2591611
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.77825135,
+          "topicality": 0.035811637
+        },
+        {
+          "mid": "/m/02k88w",
+          "description": "Rebellion",
+          "score": 0.5518625,
+          "topicality": 0.054949507
+        },
+        {
+          "mid": "/m/05bhnr",
+          "description": "Hoodie",
+          "score": 0.5448145,
+          "topicality": 0.00012584517
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.5400722,
+          "topicality": 0.030389842
+        }
+      ]
+    }
+  ]
+}

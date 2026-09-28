@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9501538,
+          "topicality": 0.018607661
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9167562,
+          "topicality": 0.0019993496
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7953675,
+          "topicality": 0.031012673
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.71806955,
+          "topicality": 0.003317842
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.67564225,
+          "topicality": 0.0030055614
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.56616175,
+          "topicality": 0.017808301
+        }
+      ]
+    }
+  ]
+}

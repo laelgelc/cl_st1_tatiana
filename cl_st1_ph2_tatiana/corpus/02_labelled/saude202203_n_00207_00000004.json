@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qsj",
+          "description": "Primate",
+          "score": 0.9897785,
+          "topicality": 0.32724836
+        },
+        {
+          "mid": "/m/09686",
+          "description": "Vertebrate",
+          "score": 0.9592243,
+          "topicality": 0.0008680442
+        },
+        {
+          "mid": "/m/0fbf1m",
+          "description": "Terrestrial animal",
+          "score": 0.8966368,
+          "topicality": 0.0025053245
+        },
+        {
+          "mid": "/m/018ssc",
+          "description": "Groundcover",
+          "score": 0.8571834,
+          "topicality": 1.7120401e-05
+        },
+        {
+          "mid": "/m/01280g",
+          "description": "Wildlife",
+          "score": 0.84405524,
+          "topicality": 0.012676444
+        },
+        {
+          "mid": "/m/089v3",
+          "description": "Zoo",
+          "score": 0.79895097,
+          "topicality": 0.505305
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.7445295,
+          "topicality": 0.0003022956
+        },
+        {
+          "mid": "/m/0cnmr",
+          "description": "Fur",
+          "score": 0.71859306,
+          "topicality": 0.00025841926
+        },
+        {
+          "mid": "/m/01y3fy",
+          "description": "Jungle",
+          "score": 0.67835575,
+          "topicality": 0.0046130563
+        }
+      ]
+    }
+  ]
+}

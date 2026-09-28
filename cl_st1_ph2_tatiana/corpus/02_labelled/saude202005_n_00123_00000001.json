@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037p5b",
+          "description": "Cheek",
+          "score": 0.98680496,
+          "topicality": 0.012444605
+        },
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.9864713,
+          "topicality": 0.11123642
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.95613784,
+          "topicality": 0.0043393024
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.9458385,
+          "topicality": 0.23339196
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449481,
+          "topicality": 0.035672273
+        },
+        {
+          "mid": "/m/0294jb",
+          "description": "Blond",
+          "score": 0.82306224,
+          "topicality": 0.0034329433
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.81974685,
+          "topicality": 0.17415681
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.77407753,
+          "topicality": 0.008655039
+        },
+        {
+          "mid": "/m/0bg_x1",
+          "description": "Worry",
+          "score": 0.53414875,
+          "topicality": 0.042186495
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/087gx",
+          "description": "X-ray",
+          "score": 0.882313,
+          "topicality": 0.16908824
+        },
+        {
+          "mid": "/m/0nqm4",
+          "description": "Radiography",
+          "score": 0.86027724,
+          "topicality": 0.20948012
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8360234,
+          "topicality": 0.0013079338
+        },
+        {
+          "mid": "/m/013x4m",
+          "description": "Radiology",
+          "score": 0.75871944,
+          "topicality": 0.15727156
+        },
+        {
+          "mid": "/m/01j3br",
+          "description": "Medical imaging",
+          "score": 0.63625807,
+          "topicality": 0.0074906317
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.59160596,
+          "topicality": 0.011159828
+        }
+      ]
+    }
+  ]
+}

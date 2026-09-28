@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.913608,
+          "topicality": 0.0008279382
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8996836,
+          "topicality": 0.027127523
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.8995836,
+          "topicality": 0.00015989559
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.8884985,
+          "topicality": 0.20486571
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.88416916,
+          "topicality": 0.09348774
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.8702653,
+          "topicality": 0.39363125
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.8674999,
+          "topicality": 0.17739742
+        },
+        {
+          "mid": "/m/01_p8q",
+          "description": "Rescue",
+          "score": 0.84132576,
+          "topicality": 0.040124215
+        },
+        {
+          "mid": "/m/0jzbb",
+          "description": "Paramedic",
+          "score": 0.8376303,
+          "topicality": 0.15167259
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7358274,
+          "topicality": 0.0023142828
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6607283,
+          "topicality": 0.0007133042
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.6534148,
+          "topicality": 0.021222549
+        },
+        {
+          "mid": "/m/0bh6t6c",
+          "description": "Rescuer",
+          "score": 0.60680217,
+          "topicality": 0.06598963
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.5191407,
+          "topicality": 2.8777287e-05
+        },
+        {
+          "mid": "/m/0305b",
+          "description": "First aid",
+          "score": 0.5015627,
+          "topicality": 0.06853931
+        }
+      ]
+    }
+  ]
+}

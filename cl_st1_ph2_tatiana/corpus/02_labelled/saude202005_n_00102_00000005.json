@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.77461314,
+          "topicality": 0.008298038
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7556765,
+          "topicality": 0.003383667
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.635024,
+          "topicality": 0.0027502973
+        },
+        {
+          "mid": "/m/014trl",
+          "description": "Cosmetics",
+          "score": 0.59670055,
+          "topicality": 0.026541527
+        },
+        {
+          "mid": "/m/02qp_b",
+          "description": "Makeover",
+          "score": 0.5827733,
+          "topicality": 0.00016383371
+        }
+      ]
+    }
+  ]
+}

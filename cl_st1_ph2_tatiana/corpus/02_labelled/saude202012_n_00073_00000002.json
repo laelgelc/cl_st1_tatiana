@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.95598537,
+          "topicality": 1.6829441e-05
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94490355,
+          "topicality": 1.7675058e-05
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.93861294,
+          "topicality": 0.0025781656
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.9244126,
+          "topicality": 0.0025605417
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.92001843,
+          "topicality": 0.008262159
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.91049635,
+          "topicality": 0.00054066244
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.8407863,
+          "topicality": 2.5463565e-05
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7919764,
+          "topicality": 0.0033573343
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.7737316,
+          "topicality": 0.0010037248
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.772544,
+          "topicality": 0.0048009157
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7393708,
+          "topicality": 0.014968206
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.59406126,
+          "topicality": 0.00017696802
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5788669,
+          "topicality": 0.00029996215
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.5291517,
+          "topicality": 0.020231226
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.5135377,
+          "topicality": 0.02595227
+        }
+      ]
+    }
+  ]
+}

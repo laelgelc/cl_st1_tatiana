@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.83050257,
+          "topicality": 0.2583752
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.70455784,
+          "topicality": 0.058857813
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.6977393,
+          "topicality": 0.0018775576
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.645136,
+          "topicality": 0.009556361
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.6407119,
+          "topicality": 0.0021981893
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.63941777,
+          "topicality": 0.014321103
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.61753756,
+          "topicality": 0.022026833
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.61621255,
+          "topicality": 0.002559363
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.6153933,
+          "topicality": 0.15342985
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.57021606,
+          "topicality": 0.011624119
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5375784,
+          "topicality": 0.11862714
+        }
+      ]
+    }
+  ]
+}

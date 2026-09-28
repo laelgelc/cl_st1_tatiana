@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083jv",
+          "description": "White",
+          "score": 0.96760803,
+          "topicality": 0.00044139623
+        },
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.94903,
+          "topicality": 0.004025865
+        },
+        {
+          "mid": "/m/02csf",
+          "description": "Drawing",
+          "score": 0.8168895,
+          "topicality": 0.11390017
+        },
+        {
+          "mid": "/m/0919rx",
+          "description": "Line art",
+          "score": 0.58169717,
+          "topicality": 0.0005164454
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.518631,
+          "topicality": 0.0019623784
+        }
+      ]
+    }
+  ]
+}

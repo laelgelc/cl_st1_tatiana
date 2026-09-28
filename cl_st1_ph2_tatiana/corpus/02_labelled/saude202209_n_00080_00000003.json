@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9667698,
+          "topicality": 0.016222047
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.9096245,
+          "topicality": 0.0037689824
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9029591,
+          "topicality": 0.0027291942
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.85865843,
+          "topicality": 0.005143713
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.833366,
+          "topicality": 0.00026382247
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.83063006,
+          "topicality": 0.060064938
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.7933848,
+          "topicality": 0.15796378
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7545066,
+          "topicality": 0.0016824431
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.6983907,
+          "topicality": 0.12382386
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.54982,
+          "topicality": 0.12961298
+        },
+        {
+          "mid": "/m/01bgsw",
+          "description": "Toddler",
+          "score": 0.5414627,
+          "topicality": 0.011881865
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.51908267,
+          "topicality": 0.014088072
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.50798094,
+          "topicality": 0.06363939
+        }
+      ]
+    }
+  ]
+}

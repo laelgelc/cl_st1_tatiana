@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.63573426,
+          "topicality": 0.036235314
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6014267,
+          "topicality": 0.0006018376
+        },
+        {
+          "mid": "/m/0dqb5",
+          "description": "Citrus",
+          "score": 0.5697497,
+          "topicality": 0.0007255619
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.569443,
+          "topicality": 0.0022215939
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.56792134,
+          "topicality": 0.00035565515
+        },
+        {
+          "mid": "/m/02xwb",
+          "description": "Fruit",
+          "score": 0.5538777,
+          "topicality": 0.001323761
+        }
+      ]
+    }
+  ]
+}

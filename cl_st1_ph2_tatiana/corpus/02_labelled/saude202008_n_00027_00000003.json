@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.74459195,
+          "topicality": 0.0005377624
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7236498,
+          "topicality": 0.00018050287
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.70912653,
+          "topicality": 0.0123110665
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7000623,
+          "topicality": 0.0029845648
+        },
+        {
+          "mid": "/m/0jzbb",
+          "description": "Paramedic",
+          "score": 0.66727275,
+          "topicality": 0.08169231
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6487092,
+          "topicality": 0.00021698383
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.54401004,
+          "topicality": 0.0789831
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.5318222,
+          "topicality": 0.033753674
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98096836,
+          "topicality": 0.002339548
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447002,
+          "topicality": 0.000105792526
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9297652,
+          "topicality": 0.003014277
+        },
+        {
+          "mid": "/m/03f52z",
+          "description": "Eyelash",
+          "score": 0.91287696,
+          "topicality": 0.00048805407
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.87856966,
+          "topicality": 0.0054881466
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.85883963,
+          "topicality": 0.0054741153
+        },
+        {
+          "mid": "/m/02ksmb",
+          "description": "Brown hair",
+          "score": 0.75683236,
+          "topicality": 1.3736409e-05
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.65697515,
+          "topicality": 0.0008579157
+        },
+        {
+          "mid": "/m/027qw1p",
+          "description": "Feathered hair",
+          "score": 0.6137294,
+          "topicality": 1.90164e-05
+        },
+        {
+          "mid": "/m/0mhy4",
+          "description": "Throat",
+          "score": 0.59949636,
+          "topicality": 0.008156015
+        },
+        {
+          "mid": "/m/028mzr",
+          "description": "Hair coloring",
+          "score": 0.5328989,
+          "topicality": 2.0043855e-05
+        },
+        {
+          "mid": "/m/026mhtg",
+          "description": "Step cutting",
+          "score": 0.529063,
+          "topicality": 1.3306083e-05
+        }
+      ]
+    }
+  ]
+}

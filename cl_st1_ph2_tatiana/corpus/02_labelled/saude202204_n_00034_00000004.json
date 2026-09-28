@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8399331,
+          "topicality": 0.0027499872
+        },
+        {
+          "mid": "/m/06q2q",
+          "description": "Scientist",
+          "score": 0.7872548,
+          "topicality": 0.17474557
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.78355277,
+          "topicality": 0.24754101
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.77907264,
+          "topicality": 0.06960596
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7418502,
+          "topicality": 0.090582
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.6754837,
+          "topicality": 0.09352812
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.65116537,
+          "topicality": 0.020592142
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6410834,
+          "topicality": 0.09804817
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.5780754,
+          "topicality": 0.14589101
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5391617,
+          "topicality": 0.18879734
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.52243876,
+          "topicality": 0.0038697384
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.52043265,
+          "topicality": 0.03988341
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.50116533,
+          "topicality": 0.0015651713
+        }
+      ]
+    }
+  ]
+}

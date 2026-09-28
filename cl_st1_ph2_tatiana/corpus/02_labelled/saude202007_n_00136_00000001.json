@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.82367927,
+          "topicality": 0.0006539148
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.7665095,
+          "topicality": 0.03956849
+        },
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.7349375,
+          "topicality": 0.16072674
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.72026384,
+          "topicality": 0.07550819
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.53525156,
+          "topicality": 0.0020374004
+        }
+      ]
+    }
+  ]
+}

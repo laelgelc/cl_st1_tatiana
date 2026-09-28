@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8761957,
+          "topicality": 0.010332587
+        },
+        {
+          "mid": "/m/02ky346",
+          "description": "Engineering",
+          "score": 0.7637545,
+          "topicality": 0.004466948
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.7573283,
+          "topicality": 0.04423871
+        },
+        {
+          "mid": "/m/020ys5",
+          "description": "Condominium",
+          "score": 0.6946389,
+          "topicality": 0.012977267
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.63385797,
+          "topicality": 0.004715638
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.62388307,
+          "topicality": 0.006023314
+        }
+      ]
+    }
+  ]
+}

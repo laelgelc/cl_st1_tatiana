@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9519063,
+          "topicality": 0.020391274
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94473207,
+          "topicality": 3.9520106e-05
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.874581,
+          "topicality": 0.007930937
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.75499034,
+          "topicality": 0.0068374746
+        },
+        {
+          "mid": "/m/07hsg5",
+          "description": "Hair care",
+          "score": 0.5180548,
+          "topicality": 5.8494516e-05
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.5030233,
+          "topicality": 3.9131923e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.85131925,
+          "topicality": 0.014859299
+        },
+        {
+          "mid": "/m/0dkw5",
+          "description": "Machine",
+          "score": 0.8458882,
+          "topicality": 0.20544606
+        },
+        {
+          "mid": "/m/0168g6",
+          "description": "Factory",
+          "score": 0.76332873,
+          "topicality": 0.21769617
+        },
+        {
+          "mid": "/m/0d99pf",
+          "description": "Control panel",
+          "score": 0.6861797,
+          "topicality": 0.0032264641
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.568219,
+          "topicality": 0.11610597
+        },
+        {
+          "mid": "/m/0dv34",
+          "description": "Baking",
+          "score": 0.52757794,
+          "topicality": 0.029630618
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5149765,
+          "topicality": 0.02736241
+        }
+      ]
+    }
+  ]
+}

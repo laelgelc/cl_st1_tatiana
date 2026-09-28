@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94472766,
+          "topicality": 0.0006815937
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.8393649,
+          "topicality": 0.009602143
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.81322944,
+          "topicality": 0.0017776386
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.7317038,
+          "topicality": 0.4630127
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.606306,
+          "topicality": 0.0018790924
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.54383945,
+          "topicality": 0.042886768
+        },
+        {
+          "mid": "/m/0b0fq",
+          "description": "Photomontage",
+          "score": 0.5284482,
+          "topicality": 0.000494058
+        }
+      ]
+    }
+  ]
+}

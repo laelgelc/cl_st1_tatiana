@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.9131866,
+          "topicality": 0.0060567157
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.877308,
+          "topicality": 0.0046139103
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.7993135,
+          "topicality": 0.022905082
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.64463127,
+          "topicality": 0.001595679
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.5728822,
+          "topicality": 0.00276057
+        }
+      ]
+    }
+  ]
+}

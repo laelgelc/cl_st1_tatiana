@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99426633,
+          "topicality": 0.019542769
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.5663199,
+          "topicality": 0.0005473928
+        },
+        {
+          "mid": "/m/012h24",
+          "description": "Comics",
+          "score": 0.5473167,
+          "topicality": 0.08694649
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.53778464,
+          "topicality": 0.00053635886
+        },
+        {
+          "mid": "/m/01vnb",
+          "description": "Comic book",
+          "score": 0.5168971,
+          "topicality": 0.0017073206
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.988792,
+          "topicality": 7.776684e-05
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.97817624,
+          "topicality": 0.0017330737
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.97544116,
+          "topicality": 8.229327e-05
+        },
+        {
+          "mid": "/m/0fc1fy",
+          "description": "Black hair",
+          "score": 0.92910516,
+          "topicality": 0.00010707438
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.77865237,
+          "topicality": 0.0029777728
+        }
+      ]
+    }
+  ]
+}

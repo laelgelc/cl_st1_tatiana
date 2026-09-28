@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.98800904,
+          "topicality": 0.00052336603
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.981628,
+          "topicality": 0.005683017
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9753976,
+          "topicality": 0.00045008797
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.615006,
+          "topicality": 0.009346485
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5545767,
+          "topicality": 0.13381603
+        }
+      ]
+    }
+  ]
+}

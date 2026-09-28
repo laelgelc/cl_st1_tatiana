@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9044043,
+          "topicality": 0.0010198791
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.882245,
+          "topicality": 0.12289507
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.840906,
+          "topicality": 0.009272481
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.61476773,
+          "topicality": 0.0021188087
+        },
+        {
+          "mid": "/m/01mf0",
+          "description": "Software",
+          "score": 0.57113516,
+          "topicality": 0.050179448
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5402064,
+          "topicality": 0.0027197767
+        }
+      ]
+    }
+  ]
+}

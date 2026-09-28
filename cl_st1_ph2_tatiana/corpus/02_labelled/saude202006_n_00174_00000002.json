@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.8516771,
+          "topicality": 0.19547495
+        },
+        {
+          "mid": "/m/0bt_c3",
+          "description": "Book",
+          "score": 0.8179901,
+          "topicality": 0.2824159
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7236438,
+          "topicality": 0.0022667171
+        },
+        {
+          "mid": "/m/09xbm8",
+          "description": "Book cover",
+          "score": 0.7111824,
+          "topicality": 0.022795051
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5467428,
+          "topicality": 0.032933503
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99428463,
+          "topicality": 0.016420614
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.95922464,
+          "topicality": 0.008237997
+        },
+        {
+          "mid": "/m/032tl",
+          "description": "Fashion",
+          "score": 0.94356096
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.9263259,
+          "topicality": 0.0052335653
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.8833265,
+          "topicality": 0.017723482
+        },
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.87447894,
+          "topicality": 0.009729743
+        },
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.8550642,
+          "topicality": 0.0004963169
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.83453846,
+          "topicality": 0.0052776765
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.65618515,
+          "topicality": 0.008025118
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.59681326,
+          "topicality": 0.020214532
+        }
+      ]
+    }
+  ]
+}

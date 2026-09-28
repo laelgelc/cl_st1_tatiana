@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0p9xx",
+          "description": "Visual arts",
+          "score": 0.85378146,
+          "topicality": 0.049300116
+        },
+        {
+          "mid": "/m/05y4t",
+          "description": "Paint",
+          "score": 0.8228926,
+          "topicality": 0.029620184
+        },
+        {
+          "mid": "/m/07vwy6",
+          "description": "Street art",
+          "score": 0.67834765,
+          "topicality": 0.4703091
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.67005897,
+          "topicality": 0.008389872
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "Modern art",
+          "score": 0.65910065,
+          "topicality": 0.008023527
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "Mural",
+          "score": 0.65562385,
+          "topicality": 0.18820605
+        },
+        {
+          "mid": "/m/034wh",
+          "description": "Graffiti",
+          "score": 0.65133625,
+          "topicality": 0.47193733
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.65055496,
+          "topicality": 0.011277582
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.6065003,
+          "topicality": 0.008006377
+        }
+      ]
+    }
+  ]
+}

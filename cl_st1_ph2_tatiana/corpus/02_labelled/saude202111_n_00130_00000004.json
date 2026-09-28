@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/095_n",
+          "description": "Heart",
+          "score": 0.62822044,
+          "topicality": 0.061529245
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6096972,
+          "topicality": 0.07889947
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5935615,
+          "topicality": 0.00064512977
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5828618,
+          "topicality": 0.0028199225
+        }
+      ]
+    }
+  ]
+}

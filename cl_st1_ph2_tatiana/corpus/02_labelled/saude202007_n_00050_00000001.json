@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9856952,
+          "topicality": 0.00015428744
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98404866,
+          "topicality": 0.0030291632
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.968667,
+          "topicality": 0.0017652792
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9544694,
+          "topicality": 0.00031215683
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.81817514,
+          "topicality": 0.0011996169
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7390534,
+          "topicality": 0.0010033915
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.727924,
+          "topicality": 0.00077529415
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6841959,
+          "topicality": 0.00055469916
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.5029098,
+          "topicality": 2.8802355e-05
+        }
+      ]
+    }
+  ]
+}

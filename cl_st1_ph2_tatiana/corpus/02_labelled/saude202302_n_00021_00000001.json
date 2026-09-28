@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.91507095,
+          "topicality": 0.00019933627
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8649536,
+          "topicality": 0.0010197461
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7799733,
+          "topicality": 0.0001228867
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.6272623,
+          "topicality": 0.0069753206
+        },
+        {
+          "mid": "/m/020fsy",
+          "description": "Portable communications device",
+          "score": 0.6221486,
+          "topicality": 0.0003620241
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.5608918,
+          "topicality": 0.0001585314
+        }
+      ]
+    }
+  ]
+}

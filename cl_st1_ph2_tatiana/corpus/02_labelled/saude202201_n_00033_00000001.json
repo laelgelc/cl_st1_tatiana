@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.9012417,
+          "topicality": 0.005314614
+        },
+        {
+          "mid": "/m/01xygc",
+          "description": "Coat",
+          "score": 0.87122685,
+          "topicality": 0.0025267447
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.85442793,
+          "topicality": 0.0012773628
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8404288,
+          "topicality": 0.008122543
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.80973077,
+          "topicality": 0.00035923833
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.68229437,
+          "topicality": 0.021288352
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.66770834,
+          "topicality": 0.003863375
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.6638028,
+          "topicality": 0.03702466
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.57273704,
+          "topicality": 0.001135822
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.5562606,
+          "topicality": 0.019927682
+        }
+      ]
+    }
+  ]
+}

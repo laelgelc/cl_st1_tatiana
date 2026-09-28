@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.79559886,
+          "topicality": 0.0031820189
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6793436,
+          "topicality": 0.006516005
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.60663944,
+          "topicality": 0.0008752296
+        }
+      ]
+    }
+  ]
+}

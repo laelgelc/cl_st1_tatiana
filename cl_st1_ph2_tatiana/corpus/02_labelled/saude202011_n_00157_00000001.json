@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j1x",
+          "description": "Undergarment",
+          "score": 0.66753125,
+          "topicality": 0.00025348488
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.637268,
+          "topicality": 0.45506555
+        },
+        {
+          "mid": "/m/06_kbr",
+          "description": "Hip",
+          "score": 0.6314428,
+          "topicality": 0.0007035279
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.55765796,
+          "topicality": 0.0031112803
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94491214,
+          "topicality": 0.0006404053
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.93345946,
+          "topicality": 0.01700811
+        },
+        {
+          "mid": "/m/0fc1fy",
+          "description": "Black hair",
+          "score": 0.92608213,
+          "topicality": 0.0023533495
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.89916766,
+          "topicality": 0.0049971794
+        },
+        {
+          "mid": "/m/01d74z",
+          "description": "Night",
+          "score": 0.8286585,
+          "topicality": 0.004004912
+        },
+        {
+          "mid": "/m/0ds99lh",
+          "description": "Fun",
+          "score": 0.78262085,
+          "topicality": 0.00051694
+        }
+      ]
+    }
+  ]
+}

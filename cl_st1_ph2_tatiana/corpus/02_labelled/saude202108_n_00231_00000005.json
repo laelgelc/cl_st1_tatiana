@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.83707577,
+          "topicality": 0.013682094
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.770173,
+          "topicality": 0.009427844
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7359747,
+          "topicality": 0.0006150936
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.6180276,
+          "topicality": 0.0013221231
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6148994,
+          "topicality": 0.00019437782
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6127025,
+          "topicality": 0.0056319037
+        },
+        {
+          "mid": "/m/028mzr",
+          "description": "Hair coloring",
+          "score": 0.5305092,
+          "topicality": 1.6210242e-05
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.50500095,
+          "topicality": 0.025055297
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.9320988,
+          "topicality": 0.0023655647
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.90818745,
+          "topicality": 0.0011797847
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.9066094,
+          "topicality": 0.0009168788
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.85312045,
+          "topicality": 2.4374885e-05
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.8160643,
+          "topicality": 0.05696048
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.76726687,
+          "topicality": 0.0003597845
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.76610625,
+          "topicality": 0.00048051498
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.7530006,
+          "topicality": 0.0070453826
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.74486125,
+          "topicality": 0.032308605
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6909901,
+          "topicality": 0.018697796
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.57243633,
+          "topicality": 0.0001480742
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5622627,
+          "topicality": 0.00069591205
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5230509,
+          "topicality": 0.048829403
+        },
+        {
+          "mid": "/m/0dl76",
+          "description": "Prince",
+          "score": 0.5214192,
+          "topicality": 0.003975377
+        }
+      ]
+    }
+  ]
+}

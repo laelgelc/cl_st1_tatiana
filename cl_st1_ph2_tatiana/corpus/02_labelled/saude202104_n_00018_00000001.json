@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.7354141,
+          "topicality": 0.4453533
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.7179239,
+          "topicality": 0.42285484
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6531581,
+          "topicality": 0.0039766617
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.576023,
+          "topicality": 0.057770897
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5498933,
+          "topicality": 0.17555992
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.54527694,
+          "topicality": 0.0021785572
+        }
+      ]
+    }
+  ]
+}

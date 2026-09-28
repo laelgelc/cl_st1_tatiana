@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01tq2l",
+          "description": "Cruise ship",
+          "score": 0.9684913,
+          "topicality": 0.7937946
+        },
+        {
+          "mid": "/m/020dwk",
+          "description": "Passenger ship",
+          "score": 0.93378747,
+          "topicality": 0.20676176
+        },
+        {
+          "mid": "/m/09_j3b",
+          "description": "Cruiseferry",
+          "score": 0.9037999,
+          "topicality": 0.014601688
+        },
+        {
+          "mid": "/m/0k5qm",
+          "description": "Naval architecture",
+          "score": 0.8506854,
+          "topicality": 0.006582968
+        },
+        {
+          "mid": "/m/01rzcn",
+          "description": "Watercraft",
+          "score": 0.84031695,
+          "topicality": 0.054099124
+        },
+        {
+          "mid": "/m/06q74",
+          "description": "Ship",
+          "score": 0.83684665,
+          "topicality": 0.41519752
+        },
+        {
+          "mid": "/m/01vbb5",
+          "description": "Ocean liner",
+          "score": 0.74733716,
+          "topicality": 0.18034588
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.73186535,
+          "topicality": 0.11405893
+        },
+        {
+          "mid": "/m/019jd",
+          "description": "Boat",
+          "score": 0.66809946,
+          "topicality": 0.20452331
+        }
+      ]
+    }
+  ]
+}

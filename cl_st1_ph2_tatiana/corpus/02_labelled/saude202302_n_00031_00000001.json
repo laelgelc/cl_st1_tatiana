@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/079bkr",
+          "description": "Mode of transport",
+          "score": 0.98447114,
+          "topicality": 0.013515666
+        },
+        {
+          "mid": "/m/07bsy",
+          "description": "Transport",
+          "score": 0.9792736,
+          "topicality": 0.30752397
+        },
+        {
+          "mid": "/m/01bjv",
+          "description": "Bus",
+          "score": 0.97294235,
+          "topicality": 0.64273345
+        },
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.97037363,
+          "topicality": 0.44346288
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.92521197,
+          "topicality": 0.17307155
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.8626704,
+          "topicality": 0.00011167748
+        },
+        {
+          "mid": "/m/02w11w8",
+          "description": "Tour bus service",
+          "score": 0.84291923,
+          "topicality": 0.0024778843
+        },
+        {
+          "mid": "/m/01lrnl",
+          "description": "Windshield",
+          "score": 0.7784832,
+          "topicality": 0.00016953079
+        },
+        {
+          "mid": "/m/014dsx",
+          "description": "Travel",
+          "score": 0.77685475,
+          "topicality": 0.017508376
+        },
+        {
+          "mid": "/m/0h8lk4b",
+          "description": "Automotive Mirror",
+          "score": 0.75377595,
+          "topicality": 0.00017020377
+        },
+        {
+          "mid": "/m/039jq",
+          "description": "Glass",
+          "score": 0.733421,
+          "topicality": 8.4937865e-06
+        },
+        {
+          "mid": "/m/02417f",
+          "description": "Windscreen wiper",
+          "score": 0.6776966,
+          "topicality": 1.468106e-05
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.6444606,
+          "topicality": 0.021406356
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.53811973,
+          "topicality": 0.0001191794
+        }
+      ]
+    }
+  ]
+}

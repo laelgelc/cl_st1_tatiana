@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04gvstg",
+          "description": "Tobacco products",
+          "score": 0.96825,
+          "topicality": 0.3377414
+        },
+        {
+          "mid": "/m/09k76",
+          "description": "Cigarette",
+          "score": 0.8926486,
+          "topicality": 0.79413146
+        },
+        {
+          "mid": "/m/07ly_",
+          "description": "Tobacco",
+          "score": 0.8414281,
+          "topicality": 0.63234496
+        },
+        {
+          "mid": "/m/04zjxcz",
+          "description": "Ash",
+          "score": 0.65713274,
+          "topicality": 0.00019684742
+        }
+      ]
+    }
+  ]
+}

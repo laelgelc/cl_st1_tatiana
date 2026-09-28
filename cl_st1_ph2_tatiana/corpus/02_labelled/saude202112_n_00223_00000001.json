@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9874393,
+          "topicality": 0.00017886942
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.98485917,
+          "topicality": 0.0019439341
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9737098,
+          "topicality": 0.00010378344
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.81098205,
+          "topicality": 0.0010291286
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6051226,
+          "topicality": 0.005607323
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5819775,
+          "topicality": 0.0014878246
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.52204347,
+          "topicality": 0.00047230936
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.51461536,
+          "topicality": 0.009547132
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.9646623,
+          "topicality": 0.015078873
+        },
+        {
+          "mid": "/m/05jnl",
+          "description": "Newspaper",
+          "score": 0.9237428,
+          "topicality": 0.37419897
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.91795397,
+          "topicality": 0.012345398
+        },
+        {
+          "mid": "/m/0122b5",
+          "description": "Newsprint",
+          "score": 0.8608223,
+          "topicality": 0.0004569042
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.80686736,
+          "topicality": 0.00027912518
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.5243407,
+          "topicality": 7.340314e-05
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.50895494,
+          "topicality": 0.0075130705
+        }
+      ]
+    }
+  ]
+}

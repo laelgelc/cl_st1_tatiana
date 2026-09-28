@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.93034536,
+          "topicality": 0.25213102
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9301644,
+          "topicality": 0.0022005732
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.9136536,
+          "topicality": 0.29865515
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.912843,
+          "topicality": 0.34806564
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.8996515,
+          "topicality": 0.0038145122
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.87062085,
+          "topicality": 0.028377073
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.83924735,
+          "topicality": 0.0055472595
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.7829272,
+          "topicality": 0.0063882736
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.7371423,
+          "topicality": 0.044493902
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.67277443,
+          "topicality": 0.00015724872
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.650393,
+          "topicality": 3.7092161e-06
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.62394273,
+          "topicality": 0.23770894
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.60656524,
+          "topicality": 0.012663176
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.59898293,
+          "topicality": 0.07896599
+        },
+        {
+          "mid": "/m/06dc32",
+          "description": "Hospital gown",
+          "score": 0.58232653,
+          "topicality": 0.00051063456
+        },
+        {
+          "mid": "/m/0221lk",
+          "description": "Operating theater",
+          "score": 0.5505571,
+          "topicality": 0.12448812
+        }
+      ]
+    }
+  ]
+}

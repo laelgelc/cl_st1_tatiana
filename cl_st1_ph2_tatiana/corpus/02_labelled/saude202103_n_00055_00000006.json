@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/038hg",
+          "description": "Green",
+          "score": 0.975239,
+          "topicality": 0.021139132
+        },
+        {
+          "mid": "/m/03120",
+          "description": "Flag",
+          "score": 0.9080437,
+          "topicality": 0.24557902
+        },
+        {
+          "mid": "/j/3gbwgn",
+          "description": "People in nature",
+          "score": 0.8319859,
+          "topicality": 0.0001516498
+        },
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.75765336,
+          "topicality": 0.0019615653
+        },
+        {
+          "mid": "/m/01zpz",
+          "description": "Crew",
+          "score": 0.5224015,
+          "topicality": 0.000998939
+        }
+      ]
+    }
+  ]
+}

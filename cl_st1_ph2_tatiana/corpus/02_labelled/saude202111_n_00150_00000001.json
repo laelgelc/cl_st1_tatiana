@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.94497716,
+          "topicality": 0.009675569
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.7141911,
+          "topicality": 0.0019761312
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "Winter",
+          "score": 0.6003813,
+          "topicality": 0.024958413
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.5134172,
+          "topicality": 0.0075555965
+        }
+      ]
+    }
+  ]
+}

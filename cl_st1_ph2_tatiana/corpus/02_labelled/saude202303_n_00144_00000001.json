@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.89701307,
+          "topicality": 0.030204248
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.7749011,
+          "topicality": 0.02250546
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.70041895,
+          "topicality": 0.8103558
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6662954,
+          "topicality": 0.0015305754
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.5684649,
+          "topicality": 0.0020246466
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.541164,
+          "topicality": 4.9631253e-05
+        }
+      ]
+    }
+  ]
+}

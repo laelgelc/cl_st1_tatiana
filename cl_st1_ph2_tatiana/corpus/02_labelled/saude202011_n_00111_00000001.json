@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494647,
+          "topicality": 0.007915251
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.84105754,
+          "topicality": 0.00097463233
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.79384476,
+          "topicality": 0.0034588638
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.74049765,
+          "topicality": 0.0005584274
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.71990323,
+          "topicality": 0.0008430358
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.69559807,
+          "topicality": 0.0015304346
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.69064105,
+          "topicality": 0.0026069018
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6844192,
+          "topicality": 0.043720767
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.6133199,
+          "topicality": 0.00014128549
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.5051184,
+          "topicality": 0.02225606
+        }
+      ]
+    }
+  ]
+}

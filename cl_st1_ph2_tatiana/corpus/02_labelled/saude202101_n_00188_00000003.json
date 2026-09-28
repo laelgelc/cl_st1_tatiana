@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98227197,
+          "topicality": 0.0030549087
+        },
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.98010355,
+          "topicality": 0.0029390412
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9530227,
+          "topicality": 0.003142271
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7642654,
+          "topicality": 0.0006775266
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.7551117,
+          "topicality": 0.015776563
+        }
+      ]
+    }
+  ]
+}

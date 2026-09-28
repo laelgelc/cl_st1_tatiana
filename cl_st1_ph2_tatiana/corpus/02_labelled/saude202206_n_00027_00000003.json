@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99432325,
+          "topicality": 0.036842413
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.79491,
+          "topicality": 0.017938877
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.72631645,
+          "topicality": 0.005683144
+        },
+        {
+          "mid": "/g/116c3n66l",
+          "description": "Public event",
+          "score": 0.71858543,
+          "topicality": 0.00038142555
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.701649,
+          "topicality": 0.012003157
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.65696,
+          "topicality": 0.007747863
+        },
+        {
+          "mid": "/m/01nd_n",
+          "description": "Protest",
+          "score": 0.5763455,
+          "topicality": 0.021338701
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.515374,
+          "topicality": 0.036923207
+        },
+        {
+          "mid": "/m/09kqc",
+          "description": "Humour",
+          "score": 0.51212466,
+          "topicality": 0.046772406
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8150712,
+          "topicality": 0.037750352
+        },
+        {
+          "mid": "/m/01g6gs",
+          "description": "Black and white",
+          "score": 0.7842892,
+          "topicality": 0.019841682
+        },
+        {
+          "mid": "/m/03thgk",
+          "description": "Silhouette",
+          "score": 0.69575834,
+          "topicality": 0.21843308
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.5673736,
+          "topicality": 0.0010547256
+        }
+      ]
+    }
+  ]
+}

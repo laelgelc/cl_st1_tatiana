@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8743317,
+          "topicality": 0.0040165987
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.7964937,
+          "topicality": 0.012674193
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7482967,
+          "topicality": 0.000522395
+        },
+        {
+          "mid": "/m/085n4",
+          "description": "Website",
+          "score": 0.6818493,
+          "topicality": 0.0021535743
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.50694084,
+          "topicality": 0.0067678313
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8072982,
+          "topicality": 0.16055472
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.78665966,
+          "topicality": 0.0035755832
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7847789,
+          "topicality": 0.0012595754
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.7188254,
+          "topicality": 0.5001576
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.65905946,
+          "topicality": 0.0034699219
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.557716,
+          "topicality": 0.0181041
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.5148243,
+          "topicality": 0.004576209
+        }
+      ]
+    }
+  ]
+}

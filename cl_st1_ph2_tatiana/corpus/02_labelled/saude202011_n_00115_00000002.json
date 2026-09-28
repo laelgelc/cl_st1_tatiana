@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9719704,
+          "topicality": 0.015537543
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.92441046,
+          "topicality": 0.032935303
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.875548,
+          "topicality": 0.0010476939
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.87093234,
+          "topicality": 0.017245201
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.8338119,
+          "topicality": 0.028585589
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.8324954,
+          "topicality": 0.0003214132
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.758916,
+          "topicality": 0.01102965
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6762295,
+          "topicality": 0.000183312
+        },
+        {
+          "mid": "/m/02p16m6",
+          "description": "Flesh",
+          "score": 0.6182965,
+          "topicality": 0.0024542608
+        },
+        {
+          "mid": "/m/0dzb2",
+          "description": "Vein",
+          "score": 0.5428567,
+          "topicality": 0.25024298
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5155745,
+          "topicality": 0.0045440053
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.51137453,
+          "topicality": 0.0013999975
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5051854,
+          "topicality": 0.040365323
+        }
+      ]
+    }
+  ]
+}

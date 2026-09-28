@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/013s93",
+          "description": "T-shirt",
+          "score": 0.9572608,
+          "topicality": 0.004113352
+        },
+        {
+          "mid": "/m/01n4qj",
+          "description": "Shirt",
+          "score": 0.95014745,
+          "topicality": 0.0046533374
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73415875,
+          "topicality": 0.000481579
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.6614374,
+          "topicality": 0.0013972163
+        },
+        {
+          "mid": "/m/017ftj",
+          "description": "Sunglasses",
+          "score": 0.6043882,
+          "topicality": 0.0006452917
+        },
+        {
+          "mid": "/m/03zyjs",
+          "description": "Polo shirt",
+          "score": 0.59323394,
+          "topicality": 0.00054112845
+        }
+      ]
+    }
+  ]
+}

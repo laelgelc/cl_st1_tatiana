@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.67831093,
+          "topicality": 0.16179346
+        },
+        {
+          "mid": "/m/0250x",
+          "description": "Costume",
+          "score": 0.6747426,
+          "topicality": 0.0063947593
+        },
+        {
+          "mid": "/m/0hjbz",
+          "description": "Drinking",
+          "score": 0.63922864,
+          "topicality": 0.053247955
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.623941,
+          "topicality": 0.003278654
+        },
+        {
+          "mid": "/m/06q40",
+          "description": "Smoke",
+          "score": 0.586323,
+          "topicality": 0.040158432
+        },
+        {
+          "mid": "/m/04dr76w",
+          "description": "Bottle",
+          "score": 0.5643836,
+          "topicality": 0.059454266
+        }
+      ]
+    }
+  ]
+}

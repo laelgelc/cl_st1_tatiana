@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04g3r",
+          "description": "Leisure",
+          "score": 0.7477917,
+          "topicality": 0.00058566866
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.73276174,
+          "topicality": 0.0004454518
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.59167147,
+          "topicality": 0.00026958447
+        },
+        {
+          "mid": "/m/019tzr",
+          "description": "Coffin",
+          "score": 0.5657736,
+          "topicality": 0.15992117
+        },
+        {
+          "mid": "/m/016c4t",
+          "description": "Ceremony",
+          "score": 0.53220344,
+          "topicality": 0.001427718
+        }
+      ]
+    }
+  ]
+}

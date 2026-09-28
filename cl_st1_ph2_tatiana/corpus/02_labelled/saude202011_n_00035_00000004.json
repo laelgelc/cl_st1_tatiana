@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.97840285,
+          "topicality": 0.0034338175
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9618882,
+          "topicality": 0.0045260573
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94493914,
+          "topicality": 0.000741588
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.5226093,
+          "topicality": 0.002805278
+        }
+      ]
+    }
+  ]
+}

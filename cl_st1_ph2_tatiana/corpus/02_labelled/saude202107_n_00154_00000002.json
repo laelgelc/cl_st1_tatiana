@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8336836,
+          "topicality": 0.0037456534
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6030611,
+          "topicality": 0.016136458
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5998214,
+          "topicality": 0.062922224
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.54328334,
+          "topicality": 0.12062355
+        }
+      ]
+    }
+  ]
+}

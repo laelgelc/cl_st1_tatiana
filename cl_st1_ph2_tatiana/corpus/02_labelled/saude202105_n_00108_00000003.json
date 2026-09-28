@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01x314",
+          "description": "Facade",
+          "score": 0.9451029,
+          "topicality": 0.018544702
+        },
+        {
+          "mid": "/m/04yhpc",
+          "description": "Molding",
+          "score": 0.7076894,
+          "topicality": 0.00020037805
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.6810652,
+          "topicality": 0.0053036045
+        },
+        {
+          "mid": "/m/01lynh",
+          "description": "Stairs",
+          "score": 0.64463377,
+          "topicality": 0.008481484
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98092365,
+          "topicality": 0.009459879
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8403206,
+          "topicality": 0.012744711
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7527362,
+          "topicality": 0.008856291
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.6994972,
+          "topicality": 0.0035868047
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6464833,
+          "topicality": 0.0074834605
+        }
+      ]
+    }
+  ]
+}

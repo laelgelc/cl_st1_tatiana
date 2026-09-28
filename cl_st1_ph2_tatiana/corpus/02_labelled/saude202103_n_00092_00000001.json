@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01rzcn",
+          "description": "Watercraft",
+          "score": 0.8809608,
+          "topicality": 0.03983167
+        },
+        {
+          "mid": "/m/019jd",
+          "description": "Boat",
+          "score": 0.7925594,
+          "topicality": 0.092254914
+        },
+        {
+          "mid": "/m/0k5qm",
+          "description": "Naval architecture",
+          "score": 0.7105951,
+          "topicality": 0.0034670378
+        },
+        {
+          "mid": "/m/06q74",
+          "description": "Ship",
+          "score": 0.5888685,
+          "topicality": 0.1933514
+        },
+        {
+          "mid": "/m/0bp3j53",
+          "description": "Boats and boating--Equipment and supplies",
+          "score": 0.5009829,
+          "topicality": 0.0006305501
+        }
+      ]
+    }
+  ]
+}

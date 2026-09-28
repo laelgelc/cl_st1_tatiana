@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.9291682,
+          "topicality": 0.003102801
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8935808,
+          "topicality": 0.0067645917
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.87539333,
+          "topicality": 0.24625884
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.86185545,
+          "topicality": 0.0006946597
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.8567853,
+          "topicality": 0.0067130853
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.83709455,
+          "topicality": 0.04579195
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8084309,
+          "topicality": 0.0004158608
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.80740196,
+          "topicality": 0.026619695
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.79132456,
+          "topicality": 0.03738078
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.74649644,
+          "topicality": 0.01133618
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.70899296,
+          "topicality": 0.0011441116
+        },
+        {
+          "mid": "/m/01hnnm",
+          "description": "Navel",
+          "score": 0.56075245,
+          "topicality": 0.009760088
+        }
+      ]
+    }
+  ]
+}

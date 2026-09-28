@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01lwf0",
+          "description": "Alley",
+          "score": 0.9325815,
+          "topicality": 0.23082967
+        },
+        {
+          "mid": "/m/01c8br",
+          "description": "Street",
+          "score": 0.90466964,
+          "topicality": 0.15475291
+        },
+        {
+          "mid": "/m/01mxf",
+          "description": "Concrete",
+          "score": 0.7373908,
+          "topicality": 0.00023371386
+        }
+      ]
+    }
+  ]
+}

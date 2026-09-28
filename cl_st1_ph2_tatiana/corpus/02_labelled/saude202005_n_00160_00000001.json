@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.97096294,
+          "topicality": 0.018179564
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94494826,
+          "topicality": 0.0028300732
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9082322,
+          "topicality": 0.0020409764
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.8848427,
+          "topicality": 0.004451654
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.8285084,
+          "topicality": 0.007692978
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8184545,
+          "topicality": 0.0014436388
+        },
+        {
+          "mid": "/m/025rxrz",
+          "description": "Internet meme",
+          "score": 0.7675297,
+          "topicality": 0.53532064
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.74409735,
+          "topicality": 0.0074890205
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.6110199,
+          "topicality": 0.05312928
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.52445537,
+          "topicality": 0.004980568
+        }
+      ]
+    }
+  ]
+}

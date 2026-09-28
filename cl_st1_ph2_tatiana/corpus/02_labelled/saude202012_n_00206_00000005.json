@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/083vt",
+          "description": "Wood",
+          "score": 0.9652438,
+          "topicality": 0.12096109
+        },
+        {
+          "mid": "/m/05t06b",
+          "description": "Wood stain",
+          "score": 0.86056036,
+          "topicality": 0.0045087645
+        },
+        {
+          "mid": "/m/020g49",
+          "description": "Hardwood",
+          "score": 0.79496175,
+          "topicality": 0.0031061026
+        },
+        {
+          "mid": "/m/0fq0fnf",
+          "description": "Plank",
+          "score": 0.70729446,
+          "topicality": 0.0034686953
+        },
+        {
+          "mid": "/m/01ffcg",
+          "description": "Varnish",
+          "score": 0.70409834,
+          "topicality": 0.006770265
+        }
+      ]
+    }
+  ]
+}

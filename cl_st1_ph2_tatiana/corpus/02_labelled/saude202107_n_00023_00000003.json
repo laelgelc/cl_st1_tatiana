@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bt9lr",
+          "description": "Dog",
+          "score": 0.8191034,
+          "topicality": 0.4702637
+        },
+        {
+          "mid": "/m/0h8ks17",
+          "description": "Pet Supply",
+          "score": 0.6655745,
+          "topicality": 0.0009939473
+        },
+        {
+          "mid": "/m/01z5f",
+          "description": "Canidae",
+          "score": 0.61735034,
+          "topicality": 0.033082437
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5856003,
+          "topicality": 0.004743943
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.54341096,
+          "topicality": 0.0009426744
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.53961533,
+          "topicality": 0.000772492
+        }
+      ]
+    }
+  ]
+}

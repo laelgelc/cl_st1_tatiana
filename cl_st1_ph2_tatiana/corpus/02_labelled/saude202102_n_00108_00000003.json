@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.888613,
+          "topicality": 0.028529197
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.88041496,
+          "topicality": 0.0038051647
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.87917477,
+          "topicality": 0.007584011
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8482174,
+          "topicality": 0.00063937803
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.77064425,
+          "topicality": 0.14903529
+        },
+        {
+          "mid": "/m/08y7p8",
+          "description": "Abdomen",
+          "score": 0.7292364,
+          "topicality": 0.021628156
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.7158605,
+          "topicality": 0.06976168
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.69675046,
+          "topicality": 0.12727046
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.6070914,
+          "topicality": 0.0112474635
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.51843274,
+          "topicality": 0.007006403
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5112644,
+          "topicality": 0.0014086382
+        }
+      ]
+    }
+  ]
+}

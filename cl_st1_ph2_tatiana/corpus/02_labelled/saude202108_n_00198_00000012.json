@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.86723226,
+          "topicality": 0.012249971
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.63751787,
+          "topicality": 0.0026588528
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5717105,
+          "topicality": 0.00038690455
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.51413614,
+          "topicality": 0.024142828
+        }
+      ]
+    }
+  ]
+}

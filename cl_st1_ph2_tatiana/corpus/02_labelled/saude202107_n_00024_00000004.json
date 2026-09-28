@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07sn5gn",
+          "description": "geological phenomenon",
+          "score": 0.9239227,
+          "topicality": 3.1380543e-05
+        },
+        {
+          "mid": "/m/08qrwn",
+          "description": "Rubble",
+          "score": 0.67649835,
+          "topicality": 0.0026293106
+        },
+        {
+          "mid": "/m/066xq",
+          "description": "Pollution",
+          "score": 0.6382062,
+          "topicality": 0.0016572099
+        },
+        {
+          "mid": "/m/02p0y0y",
+          "description": "Hazard",
+          "score": 0.6122837,
+          "topicality": 0.003630482
+        },
+        {
+          "mid": "/m/07nq4",
+          "description": "Tsunami",
+          "score": 0.5928308,
+          "topicality": 0.4433279
+        },
+        {
+          "mid": "/m/02r97",
+          "description": "Earthquake",
+          "score": 0.5791118,
+          "topicality": 0.12563471
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9496719,
+          "topicality": 0.09990259
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.899857,
+          "topicality": 0.00040155384
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.763035,
+          "topicality": 0.006765902
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.51492083,
+          "topicality": 0.00067122275
+        }
+      ]
+    }
+  ]
+}

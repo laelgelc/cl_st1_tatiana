@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.8869524,
+          "topicality": 0.00026748868
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8720129,
+          "topicality": 0.010009854
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8032504,
+          "topicality": 0.012478523
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.6895624,
+          "topicality": 0.0008659063
+        },
+        {
+          "mid": "/m/0c3m8g",
+          "description": "Hand dryer",
+          "score": 0.5758663,
+          "topicality": 0.060086224
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.53995913,
+          "topicality": 0.001151322
+        }
+      ]
+    }
+  ]
+}

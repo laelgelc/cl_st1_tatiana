@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8602172,
+          "topicality": 0.018297585
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.75223845,
+          "topicality": 0.017811803
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.6895509,
+          "topicality": 0.004642634
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.55984235,
+          "topicality": 0.20732608
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.97586167,
+          "topicality": 0.0007604154
+        },
+        {
+          "mid": "/m/04q347y",
+          "description": "Plot",
+          "score": 0.94234574,
+          "topicality": 0.19503358
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.9363547,
+          "topicality": 0.0008151713
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.92003787,
+          "topicality": 4.1386113e-05
+        },
+        {
+          "mid": "/m/02v0m2",
+          "description": "Diagram",
+          "score": 0.87616324,
+          "topicality": 0.0144528225
+        },
+        {
+          "mid": "/m/078hm",
+          "description": "Slope",
+          "score": 0.81036115,
+          "topicality": 0.01990469
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.67878,
+          "topicality": 0.009878157
+        }
+      ]
+    }
+  ]
+}

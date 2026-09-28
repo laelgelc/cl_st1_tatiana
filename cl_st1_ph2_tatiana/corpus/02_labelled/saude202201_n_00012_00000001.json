@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97504497,
+          "topicality": 0.00924687
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.8958966,
+          "topicality": 0.04322483
+        },
+        {
+          "mid": "/m/02cwm",
+          "description": "Design",
+          "score": 0.6680597,
+          "topicality": 0.010230048
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.66758966,
+          "topicality": 0.02557029
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.64239967,
+          "topicality": 0.016348654
+        }
+      ]
+    }
+  ]
+}

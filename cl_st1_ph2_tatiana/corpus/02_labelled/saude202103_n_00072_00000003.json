@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h44",
+          "description": "Bat",
+          "score": 0.9463149,
+          "topicality": 0.6473806
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.66958225,
+          "topicality": 0.00033718624
+        },
+        {
+          "mid": "/m/074xb4",
+          "description": "Common pipistrelle",
+          "score": 0.5457934,
+          "topicality": 0.23355983
+        },
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.5364006,
+          "topicality": 0.027292067
+        },
+        {
+          "mid": "/m/03vt0",
+          "description": "Insect",
+          "score": 0.5130989,
+          "topicality": 0.09043202
+        }
+      ]
+    }
+  ]
+}

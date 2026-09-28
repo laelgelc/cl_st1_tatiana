@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.93908256,
+          "topicality": 0.0027721468
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.927101,
+          "topicality": 0.0043477556
+        },
+        {
+          "mid": "/m/01vm1p",
+          "description": "Elbow",
+          "score": 0.8679932,
+          "topicality": 0.0022209228
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.84790725,
+          "topicality": 0.0023074965
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7666985,
+          "topicality": 0.029294297
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7317442,
+          "topicality": 0.0020959822
+        },
+        {
+          "mid": "/m/09jc2n",
+          "description": "Human back",
+          "score": 0.6992134,
+          "topicality": 0.000498362
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.69916266,
+          "topicality": 0.06522243
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.69421,
+          "topicality": 0.007256174
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.67956996,
+          "topicality": 0.02335692
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.612075,
+          "topicality": 0.0011016808
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.5634885,
+          "topicality": 0.007601796
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.5359961,
+          "topicality": 0.011791845
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.50016755,
+          "topicality": 0.017918989
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02q7ylj",
+          "description": "Daytime",
+          "score": 0.98148996,
+          "topicality": 0.0029668764
+        },
+        {
+          "mid": "/m/03nfmq",
+          "description": "Architecture",
+          "score": 0.9408152,
+          "topicality": 0.01182497
+        },
+        {
+          "mid": "/m/05_5t0l",
+          "description": "Landmark",
+          "score": 0.9157133,
+          "topicality": 0.008086584
+        },
+        {
+          "mid": "/m/0d9wj",
+          "description": "Urban design",
+          "score": 0.89338493,
+          "topicality": 0.00049707084
+        },
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.88224643,
+          "topicality": 0.0012039387
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8544905,
+          "topicality": 5.0336703e-06
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.8135096,
+          "topicality": 0.034573294
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.65014756,
+          "topicality": 0.007181604
+        },
+        {
+          "mid": "/g/11k2xz7mr",
+          "description": "Meteorological phenomenon",
+          "score": 0.6084893,
+          "topicality": 6.069282e-06
+        },
+        {
+          "mid": "/m/019cfy",
+          "description": "Stadium",
+          "score": 0.5614527,
+          "topicality": 0.09978626
+        }
+      ]
+    }
+  ]
+}

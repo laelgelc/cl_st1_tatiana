@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449139,
+          "topicality": 0.00018586617
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.8800114,
+          "topicality": 0.021877779
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8768602,
+          "topicality": 0.0042923084
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.7328468,
+          "topicality": 0.08153467
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6897408,
+          "topicality": 0.012819849
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6759016,
+          "topicality": 0.0004489606
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6393585,
+          "topicality": 0.043681625
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.53448826,
+          "topicality": 0.027515303
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.52606916,
+          "topicality": 0.00140662
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.52431947,
+          "topicality": 0.009499285
+        }
+      ]
+    }
+  ]
+}

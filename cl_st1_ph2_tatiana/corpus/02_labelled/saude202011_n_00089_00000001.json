@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7372411,
+          "topicality": 0.001188318
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.6990825,
+          "topicality": 0.013204038
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.6401869,
+          "topicality": 0.13719162
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.60126305,
+          "topicality": 1.2764993e-05
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.5485654,
+          "topicality": 0.1840934
+        }
+      ]
+    }
+  ]
+}

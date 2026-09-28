@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06pj2k",
+          "description": "Lips",
+          "score": 0.98478574,
+          "topicality": 0.0035897458
+        },
+        {
+          "mid": "/m/0dzd8",
+          "description": "Neck",
+          "score": 0.955657,
+          "topicality": 0.007069769
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.5217733,
+          "topicality": 0.00026783426
+        },
+        {
+          "mid": "/m/0chml9",
+          "description": "Portrait photography",
+          "score": 0.51729995,
+          "topicality": 0.0007877274
+        }
+      ]
+    }
+  ]
+}

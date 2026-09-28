@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/014qzr",
+          "description": "Composite material",
+          "score": 0.87685215,
+          "topicality": 0.00039289202
+        },
+        {
+          "mid": "/m/05hg54",
+          "description": "Commercial building",
+          "score": 0.8193792,
+          "topicality": 0.0019561776
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.80252624,
+          "topicality": 0.35004935
+        },
+        {
+          "mid": "/m/05czsy",
+          "description": "Official residence",
+          "score": 0.6688352,
+          "topicality": 0.078355335
+        },
+        {
+          "mid": "/m/0vlys",
+          "description": "High-rise building",
+          "score": 0.6079019,
+          "topicality": 0.010063277
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.60607296,
+          "topicality": 0.059055857
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.5633158,
+          "topicality": 0.0072328704
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.5390926,
+          "topicality": 0.0035687506
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.53644097,
+          "topicality": 4.9595863e-05
+        }
+      ]
+    }
+  ]
+}

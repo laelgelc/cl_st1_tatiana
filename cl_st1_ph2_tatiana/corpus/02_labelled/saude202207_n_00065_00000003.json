@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.8061086,
+          "topicality": 0.0031085836
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6348869,
+          "topicality": 0.0016716487
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5833563,
+          "topicality": 0.0032902756
+        },
+        {
+          "mid": "/m/0ytgt",
+          "description": "Child",
+          "score": 0.5552914,
+          "topicality": 0.020075558
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8493315,
+          "topicality": 0.021089671
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.78377336,
+          "topicality": 0.0007441231
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.65328103,
+          "topicality": 0.002644385
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.5890054,
+          "topicality": 0.00021339745
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5319522,
+          "topicality": 0.00021445769
+        }
+      ]
+    }
+  ]
+}

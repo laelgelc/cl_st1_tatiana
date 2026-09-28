@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01443y",
+          "description": "Headgear",
+          "score": 0.9453902,
+          "topicality": 0.002310047
+        },
+        {
+          "mid": "/m/0hgnxbq",
+          "description": "Active Shirt",
+          "score": 0.8926365,
+          "topicality": 0.00044671915
+        },
+        {
+          "mid": "/m/04_fs",
+          "description": "Muscle",
+          "score": 0.84154665,
+          "topicality": 0.0010691767
+        },
+        {
+          "mid": "/m/02d46y",
+          "description": "Cap",
+          "score": 0.8253315,
+          "topicality": 0.007246457
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.787666,
+          "topicality": 0.004695904
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6884183,
+          "topicality": 0.0076078423
+        }
+      ]
+    }
+  ]
+}

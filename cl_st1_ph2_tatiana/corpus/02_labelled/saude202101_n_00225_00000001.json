@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9238871,
+          "topicality": 0.111145206
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.7728833,
+          "topicality": 0.055855647
+        },
+        {
+          "mid": "/m/01knjb",
+          "description": "Billboard",
+          "score": 0.53658766,
+          "topicality": 0.18560617
+        }
+      ]
+    }
+  ]
+}

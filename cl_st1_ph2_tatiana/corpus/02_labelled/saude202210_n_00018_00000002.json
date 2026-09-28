@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "People",
+          "score": 0.99436116,
+          "topicality": 0.053115886
+        },
+        {
+          "mid": "/m/04hgtk",
+          "description": "Head",
+          "score": 0.98544776,
+          "topicality": 0.0027619975
+        },
+        {
+          "mid": "/m/08g_yr",
+          "description": "Temple",
+          "score": 0.9624292,
+          "topicality": 0.0015780908
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.73587835,
+          "topicality": 0.029164594
+        },
+        {
+          "mid": "/m/025dq0",
+          "description": "Sari",
+          "score": 0.60229063,
+          "topicality": 0.0069313617
+        },
+        {
+          "mid": "/m/080hkjn",
+          "description": "Handbag",
+          "score": 0.5834016,
+          "topicality": 6.461376e-05
+        }
+      ]
+    }
+  ]
+}

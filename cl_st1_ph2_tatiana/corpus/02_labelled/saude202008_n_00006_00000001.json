@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.74945813,
+          "topicality": 0.13332818
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.69838053,
+          "topicality": 0.05131224
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.59695214,
+          "topicality": 0.020947687
+        },
+        {
+          "mid": "/m/0qb7t",
+          "description": "Organization",
+          "score": 0.53047913,
+          "topicality": 0.014661775
+        }
+      ]
+    }
+  ]
+}

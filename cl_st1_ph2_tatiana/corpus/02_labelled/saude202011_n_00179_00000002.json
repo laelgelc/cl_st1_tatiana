@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.65093094,
+          "topicality": 0.0035545437
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6137842,
+          "topicality": 0.04516709
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5054427,
+          "topicality": 0.00082308566
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.500575,
+          "topicality": 0.0017588335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448165,
+          "topicality": 0.0003994027
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.7006102,
+          "topicality": 0.00068142905
+        },
+        {
+          "mid": "/m/0138tl",
+          "description": "Toy",
+          "score": 0.62583715,
+          "topicality": 0.020755947
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.57934356,
+          "topicality": 4.7138205e-05
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.51745975,
+          "topicality": 0.0015826406
+        }
+      ]
+    }
+  ]
+}

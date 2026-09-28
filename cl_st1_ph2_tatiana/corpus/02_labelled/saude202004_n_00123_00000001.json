@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0k65p",
+          "description": "Hand",
+          "score": 0.97114027,
+          "topicality": 0.012307002
+        },
+        {
+          "mid": "/m/09cx8",
+          "description": "Finger",
+          "score": 0.96494406,
+          "topicality": 0.00051484135
+        },
+        {
+          "mid": "/m/01j48b",
+          "description": "Wrist",
+          "score": 0.8903539,
+          "topicality": 0.00019844304
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.84223706,
+          "topicality": 0.00051062024
+        },
+        {
+          "mid": "/m/01bmhj",
+          "description": "Thumb",
+          "score": 0.83896416,
+          "topicality": 0.00056306546
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.6890534,
+          "topicality": 0.00012912862
+        },
+        {
+          "mid": "/m/05y4t",
+          "description": "Paint",
+          "score": 0.6287608,
+          "topicality": 0.03713565
+        }
+      ]
+    }
+  ]
+}

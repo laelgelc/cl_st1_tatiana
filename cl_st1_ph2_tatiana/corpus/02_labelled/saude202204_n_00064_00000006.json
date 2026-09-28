@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/079bkr",
+          "description": "Mode of transport",
+          "score": 0.98022974,
+          "topicality": 0.0010895871
+        },
+        {
+          "mid": "/m/012f08",
+          "description": "Motor vehicle",
+          "score": 0.9733492,
+          "topicality": 0.0011416521
+        },
+        {
+          "mid": "/m/03j1ly",
+          "description": "Emergency vehicle",
+          "score": 0.81838477,
+          "topicality": 0.006686889
+        },
+        {
+          "mid": "/m/0h2r6",
+          "description": "Van",
+          "score": 0.73966146,
+          "topicality": 0.0074230027
+        },
+        {
+          "mid": "/m/025rvy6",
+          "description": "Emergency",
+          "score": 0.7021195,
+          "topicality": 0.17666118
+        },
+        {
+          "mid": "/m/012n91",
+          "description": "Emergency service",
+          "score": 0.7013198,
+          "topicality": 0.016042171
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.5856247,
+          "topicality": 3.8816146e-05
+        },
+        {
+          "mid": "/m/02lbcq",
+          "description": "Stretcher",
+          "score": 0.58050704,
+          "topicality": 0.35754395
+        },
+        {
+          "mid": "/m/02pz5g2",
+          "description": "Light commercial vehicle",
+          "score": 0.5775625,
+          "topicality": 0.0009241325
+        },
+        {
+          "mid": "/m/0fkwjg",
+          "description": "Commercial vehicle",
+          "score": 0.5578811,
+          "topicality": 0.0005323938
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5422137,
+          "topicality": 0.04916288
+        }
+      ]
+    }
+  ]
+}

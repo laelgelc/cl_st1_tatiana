@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.8691488,
+          "topicality": 0.015273846
+        },
+        {
+          "mid": "/m/0641k",
+          "description": "Paper",
+          "score": 0.8413154,
+          "topicality": 0.0012097732
+        },
+        {
+          "mid": "/m/0h8p59j",
+          "description": "Paper Product",
+          "score": 0.81934196,
+          "topicality": 0.00022430364
+        },
+        {
+          "mid": "/m/015bv3",
+          "description": "Document",
+          "score": 0.7717954,
+          "topicality": 0.20973562
+        },
+        {
+          "mid": "/m/0gkxy13",
+          "description": "Handwriting",
+          "score": 0.6824472,
+          "topicality": 0.10063264
+        },
+        {
+          "mid": "/m/081rb",
+          "description": "Writing",
+          "score": 0.6177701,
+          "topicality": 0.007198302
+        },
+        {
+          "mid": "/m/03yhk",
+          "description": "Ink",
+          "score": 0.524648,
+          "topicality": 0.00086562574
+        }
+      ]
+    }
+  ]
+}

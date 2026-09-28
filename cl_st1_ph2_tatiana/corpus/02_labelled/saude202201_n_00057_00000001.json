@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449009,
+          "topicality": 0.00089168595
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.89853597,
+          "topicality": 0.010635376
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.8372467,
+          "topicality": 0.0022606573
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.74708575,
+          "topicality": 0.0031103308
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.6361344,
+          "topicality": 0.00061647303
+        }
+      ]
+    }
+  ]
+}

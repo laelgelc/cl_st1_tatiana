@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.6189927,
+          "topicality": 0.00028464218
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.59283394,
+          "topicality": 0.12217397
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.53773403,
+          "topicality": 0.40919408
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.5099425,
+          "topicality": 8.398299e-06
+        }
+      ]
+    }
+  ]
+}

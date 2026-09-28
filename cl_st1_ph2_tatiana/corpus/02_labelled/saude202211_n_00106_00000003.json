@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j_s4",
+          "description": "Metropolitan area",
+          "score": 0.87888926,
+          "topicality": 0.004235884
+        },
+        {
+          "mid": "/m/09cjl",
+          "description": "Airport",
+          "score": 0.7894169,
+          "topicality": 0.4787523
+        },
+        {
+          "mid": "/m/02607v9",
+          "description": "Transport hub",
+          "score": 0.7834947,
+          "topicality": 0.0031725136
+        },
+        {
+          "mid": "/m/0w7s",
+          "description": "Aerospace Engineering",
+          "score": 0.5881687,
+          "topicality": 0.005111739
+        },
+        {
+          "mid": "/m/019cfy",
+          "description": "Stadium",
+          "score": 0.5854218,
+          "topicality": 0.0024877393
+        },
+        {
+          "mid": "/m/026smn",
+          "description": "Airport terminal",
+          "score": 0.5356009,
+          "topicality": 0.20105158
+        }
+      ]
+    }
+  ]
+}

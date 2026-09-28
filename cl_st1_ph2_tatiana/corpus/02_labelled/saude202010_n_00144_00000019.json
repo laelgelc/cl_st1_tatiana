@@ -1,0 +1,302 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "Furniture",
+          "score": 0.99075377,
+          "topicality": 0.009715423
+        },
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9803121,
+          "topicality": 0.0015513574
+        },
+        {
+          "mid": "/m/0dzf4",
+          "description": "Arm",
+          "score": 0.9734963,
+          "topicality": 0.0013763757
+        },
+        {
+          "mid": "/m/01mzpv",
+          "description": "Chair",
+          "score": 0.9712587,
+          "topicality": 0.027981926
+        },
+        {
+          "mid": "/m/013s93",
+          "description": "T-shirt",
+          "score": 0.970869,
+          "topicality": 0.00937831
+        },
+        {
+          "mid": "/m/04bcr3",
+          "description": "Table",
+          "score": 0.970518,
+          "topicality": 0.06673443
+        },
+        {
+          "mid": "/m/01n4qj",
+          "description": "Shirt",
+          "score": 0.9646079,
+          "topicality": 0.008084055
+        },
+        {
+          "mid": "/m/01y9k5",
+          "description": "Desk",
+          "score": 0.96244025,
+          "topicality": 0.060471263
+        },
+        {
+          "mid": "/m/03qtgjk",
+          "description": "Office Equipment",
+          "score": 0.9343788,
+          "topicality": 0.0005933377
+        },
+        {
+          "mid": "/m/01m3v",
+          "description": "Computer",
+          "score": 0.9262092,
+          "topicality": 0.17038424
+        },
+        {
+          "mid": "/m/0fly7",
+          "description": "Jeans",
+          "score": 0.9106101,
+          "topicality": 0.005384948
+        },
+        {
+          "mid": "/m/0191f8",
+          "description": "Learning",
+          "score": 0.90784836,
+          "topicality": 0.037003234
+        },
+        {
+          "mid": "/m/044_87",
+          "description": "Output device",
+          "score": 0.9050148,
+          "topicality": 0.0004904278
+        },
+        {
+          "mid": "/m/015c4z",
+          "description": "Sitting",
+          "score": 0.9007424,
+          "topicality": 0.004335166
+        },
+        {
+          "mid": "/m/0643t",
+          "description": "Personal computer",
+          "score": 0.898572,
+          "topicality": 0.104075566
+        },
+        {
+          "mid": "/m/06h12k",
+          "description": "Sharing",
+          "score": 0.8796054,
+          "topicality": 0.013011577
+        },
+        {
+          "mid": "/m/07c1v",
+          "description": "Technology",
+          "score": 0.8766554,
+          "topicality": 0.01389048
+        },
+        {
+          "mid": "/m/06ht1",
+          "description": "Room",
+          "score": 0.86859787,
+          "topicality": 0.0015020815
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.85499686,
+          "topicality": 0.024350336
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.85474354,
+          "topicality": 0.0035140016
+        },
+        {
+          "mid": "/m/029bm2",
+          "description": "Computer desk",
+          "score": 0.82497716,
+          "topicality": 0.00017844475
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.824833,
+          "topicality": 0.00011345683
+        },
+        {
+          "mid": "/m/01mfj",
+          "description": "Computer hardware",
+          "score": 0.8236689,
+          "topicality": 0.00017918984
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.817327,
+          "topicality": 0.00022124164
+        },
+        {
+          "mid": "/m/0ggnq",
+          "description": "Peripheral",
+          "score": 0.8051637,
+          "topicality": 0.0017818906
+        },
+        {
+          "mid": "/m/01c648",
+          "description": "Laptop",
+          "score": 0.8013432,
+          "topicality": 0.08291225
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.77259934,
+          "topicality": 0.00028006165
+        },
+        {
+          "mid": "/m/06q83",
+          "description": "Software engineering",
+          "score": 0.76918644,
+          "topicality": 0.021088466
+        },
+        {
+          "mid": "/m/08q1xp",
+          "description": "Office chair",
+          "score": 0.7670337,
+          "topicality": 0.0011364185
+        },
+        {
+          "mid": "/m/01s560",
+          "description": "Collaboration",
+          "score": 0.7480161,
+          "topicality": 0.04323974
+        },
+        {
+          "mid": "/m/02dwgb",
+          "description": "Input device",
+          "score": 0.73900926,
+          "topicality": 0.0010358078
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.73239744,
+          "topicality": 0.00015959064
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.7272961,
+          "topicality": 0.0012441273
+        },
+        {
+          "mid": "/m/02jfc",
+          "description": "Education",
+          "score": 0.7272261,
+          "topicality": 0.046515543
+        },
+        {
+          "mid": "/m/075_ys",
+          "description": "Class",
+          "score": 0.70722014,
+          "topicality": 0.009392573
+        },
+        {
+          "mid": "/m/014jg3",
+          "description": "Training",
+          "score": 0.7025194,
+          "topicality": 0.050086226
+        },
+        {
+          "mid": "/m/01h6cb",
+          "description": "Meeting",
+          "score": 0.69975716,
+          "topicality": 0.032233767
+        },
+        {
+          "mid": "/m/04hyxm",
+          "description": "Classroom",
+          "score": 0.68690556,
+          "topicality": 0.010743216
+        },
+        {
+          "mid": "/m/01wymn",
+          "description": "Hearing",
+          "score": 0.6807579,
+          "topicality": 0.0014827328
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.6496121,
+          "topicality": 0.0013313433
+        },
+        {
+          "mid": "/m/01q2h",
+          "description": "Computer networking",
+          "score": 0.64536124,
+          "topicality": 0.0003967641
+        },
+        {
+          "mid": "/m/07hs4p",
+          "description": "Course",
+          "score": 0.6301663,
+          "topicality": 0.04456379
+        },
+        {
+          "mid": "/m/0dvvc",
+          "description": "Desktop computer",
+          "score": 0.58483756,
+          "topicality": 0.00031034704
+        },
+        {
+          "mid": "/m/014cnc",
+          "description": "Student",
+          "score": 0.57499903,
+          "topicality": 0.015501529
+        },
+        {
+          "mid": "/m/04_tv",
+          "description": "Management",
+          "score": 0.56885153,
+          "topicality": 0.013409378
+        },
+        {
+          "mid": "/m/01qwsw",
+          "description": "Flat-panel display",
+          "score": 0.56001526,
+          "topicality": 0.00011305961
+        },
+        {
+          "mid": "/m/02522",
+          "description": "Computer monitor",
+          "score": 0.55716145,
+          "topicality": 0.0036464965
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.53947854,
+          "topicality": 0.0038097084
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.5091435,
+          "topicality": 0.00015771798
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.8880684,
+          "topicality": 0.0049484265
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.8109536,
+          "topicality": 0.06001363
+        },
+        {
+          "mid": "/m/01cndb",
+          "description": "Stationery",
+          "score": 0.69619536,
+          "topicality": 0.019529823
+        },
+        {
+          "mid": "/m/0h8m01z",
+          "description": "Office Instrument",
+          "score": 0.68494767,
+          "topicality": 0.00049643934
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5520739,
+          "topicality": 0.029968556
+        },
+        {
+          "mid": "/m/02fbz6",
+          "description": "Marker pen",
+          "score": 0.54232323,
+          "topicality": 0.10194732
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.52567774,
+          "topicality": 0.0007910775
+        }
+      ]
+    }
+  ]
+}

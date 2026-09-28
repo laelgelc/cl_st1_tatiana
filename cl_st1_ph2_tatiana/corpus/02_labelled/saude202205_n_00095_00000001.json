@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9449137,
+          "topicality": 0.0021091972
+        },
+        {
+          "mid": "/m/0294jb",
+          "description": "Blond",
+          "score": 0.8869011,
+          "topicality": 0.0011620113
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.8348769,
+          "topicality": 0.027687738
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.64382315,
+          "topicality": 0.0055980296
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.6403455,
+          "topicality": 0.0035004013
+        },
+        {
+          "mid": "/m/0f2f9",
+          "description": "Television show",
+          "score": 0.6014906,
+          "topicality": 0.11910288
+        },
+        {
+          "mid": "/m/0vpsd3h",
+          "description": "Television presenter",
+          "score": 0.5010944,
+          "topicality": 0.20188975
+        }
+      ]
+    }
+  ]
+}

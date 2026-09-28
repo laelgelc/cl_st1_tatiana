@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05zdp",
+          "description": "Public transport",
+          "score": 0.9078944,
+          "topicality": 0.055771172
+        },
+        {
+          "mid": "/m/07jdr",
+          "description": "Train",
+          "score": 0.8744354,
+          "topicality": 0.27209568
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.8738752,
+          "topicality": 0.11413107
+        },
+        {
+          "mid": "/m/0195fx",
+          "description": "Rapid transit",
+          "score": 0.8383227,
+          "topicality": 0.27765197
+        },
+        {
+          "mid": "/m/026lc7w",
+          "description": "Workwear",
+          "score": 0.82441115,
+          "topicality": 0.0040363017
+        },
+        {
+          "mid": "/m/025s53m",
+          "description": "Rolling stock",
+          "score": 0.7749726,
+          "topicality": 0.0030570999
+        },
+        {
+          "mid": "/m/06d_3",
+          "description": "Rail transport",
+          "score": 0.7041937,
+          "topicality": 0.06673253
+        },
+        {
+          "mid": "/m/01cx7t",
+          "description": "High-visibility clothing",
+          "score": 0.6765281,
+          "topicality": 0.00026378504
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.61849236,
+          "topicality": 0.0052752243
+        },
+        {
+          "mid": "/m/0467y7",
+          "description": "Passenger car",
+          "score": 0.5986868,
+          "topicality": 0.0015351417
+        },
+        {
+          "mid": "/m/01g50p",
+          "description": "Railroad car",
+          "score": 0.5601324,
+          "topicality": 0.021139547
+        },
+        {
+          "mid": "/m/01p3xl",
+          "description": "Metro station",
+          "score": 0.5013478,
+          "topicality": 0.020218465
+        }
+      ]
+    }
+  ]
+}

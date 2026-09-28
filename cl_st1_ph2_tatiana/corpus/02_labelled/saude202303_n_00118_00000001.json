@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.7449892,
+          "topicality": 0.0024378395
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.72131246,
+          "topicality": 0.10871242
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.656642,
+          "topicality": 0.061976027
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.62108433,
+          "topicality": 0.0014669723
+        }
+      ]
+    }
+  ]
+}

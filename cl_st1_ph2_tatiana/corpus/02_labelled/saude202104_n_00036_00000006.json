@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.9884887,
+          "topicality": 0.00046785892
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9751602,
+          "topicality": 0.0044682655
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.97019845,
+          "topicality": 0.00019233894
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.73141533,
+          "topicality": 0.06950156
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.50015444,
+          "topicality": 0.002184457
+        }
+      ]
+    }
+  ]
+}

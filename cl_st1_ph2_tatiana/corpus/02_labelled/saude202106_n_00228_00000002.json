@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7422182,
+          "topicality": 0.0018213214
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6924309,
+          "topicality": 0.0032427618
+        },
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.66371566,
+          "topicality": 0.21344316
+        },
+        {
+          "mid": "/m/03bxgrp",
+          "description": "Company",
+          "score": 0.54778916,
+          "topicality": 0.04341864
+        }
+      ]
+    }
+  ]
+}

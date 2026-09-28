@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0bs7_0t",
+          "description": "Electronic device",
+          "score": 0.9062707,
+          "topicality": 0.0001789844
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.9016441,
+          "topicality": 0.035066403
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.86228615,
+          "topicality": 0.0008997772
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.80867064,
+          "topicality": 0.0020351496
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.69532055,
+          "topicality": 0.028303737
+        },
+        {
+          "mid": "/m/0glmwd6",
+          "description": "Communication Device",
+          "score": 0.6791156,
+          "topicality": 1.4578681e-05
+        },
+        {
+          "mid": "/m/020fsy",
+          "description": "Portable communications device",
+          "score": 0.67357486,
+          "topicality": 0.00018586598
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.6631107,
+          "topicality": 0.00042674542
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.6323418,
+          "topicality": 0.010258505
+        },
+        {
+          "mid": "/m/0bhmh",
+          "description": "Telephony",
+          "score": 0.57076216,
+          "topicality": 0.0057055685
+        },
+        {
+          "mid": "/m/030swj",
+          "description": "Mobile device",
+          "score": 0.55653256,
+          "topicality": 0.001974617
+        },
+        {
+          "mid": "/m/0191_7",
+          "description": "Retail",
+          "score": 0.55043006,
+          "topicality": 0.006987949
+        }
+      ]
+    }
+  ]
+}

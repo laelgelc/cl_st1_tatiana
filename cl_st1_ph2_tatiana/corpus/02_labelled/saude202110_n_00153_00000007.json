@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.9451765,
+          "topicality": 0.03670929
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9447801,
+          "topicality": 4.3054017e-05
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8067877,
+          "topicality": 0.0038237022
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.74530834,
+          "topicality": 0.0037380315
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.71315634,
+          "topicality": 0.039790936
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.6624858,
+          "topicality": 0.017704468
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6406357,
+          "topicality": 0.009026168
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.9738199,
+          "topicality": 0.0012734598
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8461466,
+          "topicality": 0.0011655953
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.6632347,
+          "topicality": 0.0058754142
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6613692,
+          "topicality": 0.00059894077
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.51811033,
+          "topicality": 0.0038601202
+        }
+      ]
+    }
+  ]
+}

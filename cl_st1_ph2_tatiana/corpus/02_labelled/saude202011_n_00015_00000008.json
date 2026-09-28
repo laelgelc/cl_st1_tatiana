@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07mhn",
+          "description": "Trousers",
+          "score": 0.96050537,
+          "topicality": 0.0058424356
+        },
+        {
+          "mid": "/m/031974",
+          "description": "Waist",
+          "score": 0.84506536,
+          "topicality": 1.6440517e-05
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.6989315,
+          "topicality": 0.0925728
+        },
+        {
+          "mid": "/m/03cvmmd",
+          "description": "Suit trousers",
+          "score": 0.52367496,
+          "topicality": 3.0278026e-05
+        }
+      ]
+    }
+  ]
+}

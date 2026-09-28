@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.72040087,
+          "topicality": 0.0002765149
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.64075494,
+          "topicality": 0.0006141678
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6194127,
+          "topicality": 9.3504495e-05
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.58299965,
+          "topicality": 0.011311549
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5687497,
+          "topicality": 0.14753215
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.5330235,
+          "topicality": 0.015699914
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5177267,
+          "topicality": 0.0025009399
+        }
+      ]
+    }
+  ]
+}

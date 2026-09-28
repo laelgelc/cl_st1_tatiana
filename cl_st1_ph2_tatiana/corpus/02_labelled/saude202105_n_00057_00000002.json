@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/022ch",
+          "description": "Cross",
+          "score": 0.62691617,
+          "topicality": 0.045288663
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.626763,
+          "topicality": 0.0012188292
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5770173,
+          "topicality": 1.3293185e-05
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.50515723,
+          "topicality": 0.0046948567
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.86749834,
+          "topicality": 0.7920892
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.825159,
+          "topicality": 0.0004517418
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8220374,
+          "topicality": 0.04607925
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.5794339,
+          "topicality": 0.0075580208
+        }
+      ]
+    }
+  ]
+}

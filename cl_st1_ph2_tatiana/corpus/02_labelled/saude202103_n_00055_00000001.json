@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01h44",
+          "description": "Bat",
+          "score": 0.9202922,
+          "topicality": 0.61321175
+        },
+        {
+          "mid": "/m/03vt0",
+          "description": "Insect",
+          "score": 0.73837507,
+          "topicality": 0.04242151
+        },
+        {
+          "mid": "/m/01dqkc",
+          "description": "Pest",
+          "score": 0.57588625,
+          "topicality": 0.025961313
+        },
+        {
+          "mid": "/m/074xb4",
+          "description": "Common pipistrelle",
+          "score": 0.56196856,
+          "topicality": 0.10639246
+        },
+        {
+          "mid": "/m/0b_l7",
+          "description": "Parasitism",
+          "score": 0.5139026,
+          "topicality": 0.015920557
+        },
+        {
+          "mid": "/m/02_xh7",
+          "description": "Tricolored bat",
+          "score": 0.5017269,
+          "topicality": 0.015456724
+        }
+      ]
+    }
+  ]
+}

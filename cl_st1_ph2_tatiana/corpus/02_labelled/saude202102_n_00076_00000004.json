@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.73374647,
+          "topicality": 0.10238718
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.71037877,
+          "topicality": 0.0032045692
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.6878672,
+          "topicality": 0.05657698
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.65856814,
+          "topicality": 0.025623249
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.653579,
+          "topicality": 0.0006329199
+        },
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.5702563,
+          "topicality": 0.1760489
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.53069896,
+          "topicality": 0.024396706
+        },
+        {
+          "mid": "/m/09bkb",
+          "description": "Solvent in chemical reactions",
+          "score": 0.50967026,
+          "topicality": 0.0007455629
+        }
+      ]
+    }
+  ]
+}

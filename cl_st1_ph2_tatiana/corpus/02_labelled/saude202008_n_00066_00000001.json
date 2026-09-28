@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03bt1gh",
+          "description": "Game",
+          "score": 0.766017,
+          "topicality": 0.057905786
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.7115194,
+          "topicality": 0.005282501
+        },
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.5688136,
+          "topicality": 0.005686815
+        },
+        {
+          "mid": "/m/0541p",
+          "description": "Multimedia",
+          "score": 0.5487412,
+          "topicality": 0.0012040007
+        },
+        {
+          "mid": "/m/02mrp",
+          "description": "Electronics",
+          "score": 0.5051949,
+          "topicality": 0.007391307
+        }
+      ]
+    }
+  ]
+}

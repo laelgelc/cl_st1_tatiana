@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.98448473,
+          "topicality": 0.0001706723
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.9629894,
+          "topicality": 0.00022836358
+        },
+        {
+          "mid": "/m/023j4r",
+          "description": "Nail",
+          "score": 0.63214415,
+          "topicality": 0.0039165607
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.5359221,
+          "topicality": 0.0005070928
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07_gml",
+          "description": "Working animal",
+          "score": 0.8824017,
+          "topicality": 0.0064892457
+        },
+        {
+          "mid": "/m/0464z4",
+          "description": "Pack animal",
+          "score": 0.84291863,
+          "topicality": 0.033909988
+        },
+        {
+          "mid": "/m/01kr8f",
+          "description": "Illustration",
+          "score": 0.76063573,
+          "topicality": 0.06024949
+        },
+        {
+          "mid": "/m/05mqq3",
+          "description": "Snout",
+          "score": 0.75933397,
+          "topicality": 0.0049481075
+        },
+        {
+          "mid": "/m/03k3r",
+          "description": "Horse",
+          "score": 0.69557357,
+          "topicality": 0.24451938
+        },
+        {
+          "mid": "/m/0ch8v",
+          "description": "Livestock",
+          "score": 0.64152116,
+          "topicality": 0.0023153082
+        }
+      ]
+    }
+  ]
+}

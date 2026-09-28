@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/017r8p",
+          "description": "Pedestrian",
+          "score": 0.88316244,
+          "topicality": 0.034068424
+        },
+        {
+          "mid": "/m/032b3c",
+          "description": "Jacket",
+          "score": 0.8769987,
+          "topicality": 0.0011456034
+        },
+        {
+          "mid": "/m/03qtwd",
+          "description": "Crowd",
+          "score": 0.7589115,
+          "topicality": 0.015051591
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.55386895,
+          "topicality": 0.00071035844
+        },
+        {
+          "mid": "/m/083mg",
+          "description": "Walking",
+          "score": 0.53400016,
+          "topicality": 0.0021052829
+        }
+      ]
+    }
+  ]
+}

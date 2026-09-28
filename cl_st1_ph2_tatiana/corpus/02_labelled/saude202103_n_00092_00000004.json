@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.96900386,
+          "topicality": 0.013331863
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.91879356,
+          "topicality": 0.00073468644
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.82103086,
+          "topicality": 0.04687975
+        },
+        {
+          "mid": "/m/05fwb",
+          "description": "Number",
+          "score": 0.7877898,
+          "topicality": 0.0061009005
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.752471,
+          "topicality": 0.003813423
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.71976507,
+          "topicality": 0.005520016
+        },
+        {
+          "mid": "/m/06zsq",
+          "description": "Sign",
+          "score": 0.6750726,
+          "topicality": 0.0008581622
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.62704295,
+          "topicality": 0.077417746
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.5087307,
+          "topicality": 0.036665108
+        }
+      ]
+    }
+  ]
+}

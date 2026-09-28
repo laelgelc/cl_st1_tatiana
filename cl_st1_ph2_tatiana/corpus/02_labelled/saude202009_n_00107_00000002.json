@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.9885646,
+          "topicality": 0.0010366141
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9857922,
+          "topicality": 0.001064568
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.9834437,
+          "topicality": 0.0020561153
+        },
+        {
+          "mid": "/m/06z04",
+          "description": "Skin",
+          "score": 0.9804941,
+          "topicality": 0.0016714776
+        },
+        {
+          "mid": "/m/02_x63",
+          "description": "Wrinkle",
+          "score": 0.85953164,
+          "topicality": 0.014010409
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.7498344,
+          "topicality": 0.007951998
+        },
+        {
+          "mid": "/m/01r546",
+          "description": "Earring",
+          "score": 0.6368408,
+          "topicality": 0.000100036916
+        }
+      ]
+    }
+  ]
+}

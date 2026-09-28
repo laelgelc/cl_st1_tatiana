@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.84250414,
+          "topicality": 0.0009844772
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7471491,
+          "topicality": 0.030943535
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.70362926,
+          "topicality": 0.13786823
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.652913,
+          "topicality": 0.3784789
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.6330598,
+          "topicality": 0.0006818773
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5903321,
+          "topicality": 0.0041359183
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.5686577,
+          "topicality": 0.10404435
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.5673015,
+          "topicality": 0.018110014
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.54009515,
+          "topicality": 0.011623823
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.500772,
+          "topicality": 0.06610569
+        }
+      ]
+    }
+  ]
+}

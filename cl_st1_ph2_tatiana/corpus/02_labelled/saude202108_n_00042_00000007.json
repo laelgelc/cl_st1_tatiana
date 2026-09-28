@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.98293746,
+          "topicality": 0.001361088
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.92361885,
+          "topicality": 0.00028664246
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.8991336,
+          "topicality": 0.0070926743
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.89316916,
+          "topicality": 2.5248431e-05
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8453351,
+          "topicality": 0.00019254448
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.7441669,
+          "topicality": 0.00083468127
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.6832624,
+          "topicality": 0.003091409
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.56305975,
+          "topicality": 0.0009320461
+        }
+      ]
+    }
+  ]
+}

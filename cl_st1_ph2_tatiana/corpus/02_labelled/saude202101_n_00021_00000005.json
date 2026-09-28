@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07s6nbt",
+          "description": "Text",
+          "score": 0.9600257,
+          "topicality": 0.00613287
+        },
+        {
+          "mid": "/m/03gq5hm",
+          "description": "Font",
+          "score": 0.9118457,
+          "topicality": 0.0007127175
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.87934864,
+          "topicality": 0.07046277
+        },
+        {
+          "mid": "/m/04_tb",
+          "description": "Map",
+          "score": 0.66552484,
+          "topicality": 0.16274445
+        },
+        {
+          "mid": "/m/086nh",
+          "description": "Web page",
+          "score": 0.61216533,
+          "topicality": 0.4879504
+        }
+      ]
+    }
+  ]
+}

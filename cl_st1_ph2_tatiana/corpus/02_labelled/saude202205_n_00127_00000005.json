@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.85377526,
+          "topicality": 0.0006798506
+        },
+        {
+          "mid": "/m/0n5v01m",
+          "description": "Bag",
+          "score": 0.8262804,
+          "topicality": 0.00051760965
+        },
+        {
+          "mid": "/m/0cb0xm",
+          "description": "Passenger",
+          "score": 0.8066212,
+          "topicality": 0.38960135
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.5768024,
+          "topicality": 0.006335557
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.55457824,
+          "topicality": 0.0003753763
+        },
+        {
+          "mid": "/m/03w7y7",
+          "description": "Baggage",
+          "score": 0.55383074,
+          "topicality": 0.013344839
+        }
+      ]
+    }
+  ]
+}

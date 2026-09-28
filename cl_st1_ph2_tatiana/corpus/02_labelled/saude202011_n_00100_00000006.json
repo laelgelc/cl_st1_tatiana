@@ -1,0 +1,86 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.89596575,
+          "topicality": 0.003065488
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.8386495,
+          "topicality": 0.061493643
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.8171753,
+          "topicality": 0.00029769578
+        },
+        {
+          "mid": "/m/01vfk5",
+          "description": "Hypodermic needle",
+          "score": 0.7444552,
+          "topicality": 0.16081068
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.6826026,
+          "topicality": 0.12174586
+        },
+        {
+          "mid": "/m/0hgr9by",
+          "description": "Safety Glove",
+          "score": 0.659538,
+          "topicality": 1.7286578e-05
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.63869804,
+          "topicality": 0.0014153906
+        },
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.61255586,
+          "topicality": 1.2945611e-05
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.57548106,
+          "topicality": 0.11020171
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.5588615,
+          "topicality": 0.008300475
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.5415705,
+          "topicality": 0.003384922
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5388926,
+          "topicality": 0.023871012
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.53099984,
+          "topicality": 0.12656121
+        }
+      ]
+    }
+  ]
+}

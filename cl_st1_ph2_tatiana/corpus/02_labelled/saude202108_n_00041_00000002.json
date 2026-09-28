@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.9491202,
+          "topicality": 0.004398343
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9410328,
+          "topicality": 0.10011783
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.93878704,
+          "topicality": 0.19075549
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.93316257,
+          "topicality": 0.11292609
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.9200855,
+          "topicality": 0.20674624
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.90695876,
+          "topicality": 0.03247267
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.8864683,
+          "topicality": 0.015082707
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.86396074,
+          "topicality": 0.0022509296
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.83365875,
+          "topicality": 0.12888013
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.8006898,
+          "topicality": 0.18379387
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.7871843,
+          "topicality": 0.009395489
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7533208,
+          "topicality": 0.038422406
+        },
+        {
+          "mid": "/m/0fczf",
+          "description": "Nurse",
+          "score": 0.6447015,
+          "topicality": 0.036454447
+        },
+        {
+          "mid": "/m/06dc32",
+          "description": "Hospital gown",
+          "score": 0.6395253,
+          "topicality": 0.0030384804
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.55029833,
+          "topicality": 0.0011293654
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.5374195,
+          "topicality": 0.0039480743
+        }
+      ]
+    }
+  ]
+}

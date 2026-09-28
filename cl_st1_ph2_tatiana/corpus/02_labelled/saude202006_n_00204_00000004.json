@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.9306852,
+          "topicality": 0.0027457357
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.8999645,
+          "topicality": 0.0073222695
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.85630673,
+          "topicality": 0.006046206
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.7291464,
+          "topicality": 0.0017371546
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.59462476,
+          "topicality": 0.0014317725
+        }
+      ]
+    }
+  ]
+}

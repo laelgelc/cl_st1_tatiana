@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.6957732,
+          "topicality": 0.106938995
+        },
+        {
+          "mid": "/m/0p57p",
+          "description": "Recipe",
+          "score": 0.68271005,
+          "topicality": 0.26942524
+        },
+        {
+          "mid": "/m/0270h",
+          "description": "Dessert",
+          "score": 0.5534215,
+          "topicality": 0.08899485
+        }
+      ]
+    }
+  ]
+}

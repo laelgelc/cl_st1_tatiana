@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.89353734,
+          "topicality": 0.0015233945
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.89192367,
+          "topicality": 0.11868973
+        },
+        {
+          "mid": "/m/026w9v9",
+          "description": "Medical procedure",
+          "score": 0.8516006,
+          "topicality": 0.023649208
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.84618574,
+          "topicality": 0.044042304
+        },
+        {
+          "mid": "/m/028hfb",
+          "description": "Patient",
+          "score": 0.82409376,
+          "topicality": 0.19296841
+        },
+        {
+          "mid": "/m/0hpnr",
+          "description": "Hospital",
+          "score": 0.79633904,
+          "topicality": 0.071703695
+        },
+        {
+          "mid": "/m/02y_93f",
+          "description": "Surgeon",
+          "score": 0.7637339,
+          "topicality": 0.043618973
+        },
+        {
+          "mid": "/m/03fk5c",
+          "description": "Clinic",
+          "score": 0.7514738,
+          "topicality": 0.07277732
+        },
+        {
+          "mid": "/m/0174n1",
+          "description": "Glove",
+          "score": 0.75035447,
+          "topicality": 0.003229424
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.7207319,
+          "topicality": 0.17642745
+        },
+        {
+          "mid": "/m/01xgg_",
+          "description": "Medical equipment",
+          "score": 0.69331956,
+          "topicality": 0.00049204484
+        },
+        {
+          "mid": "/m/06yrfc",
+          "description": "Medical assistant",
+          "score": 0.6535677,
+          "topicality": 0.0072433148
+        },
+        {
+          "mid": "/m/03yx9r",
+          "description": "Medical glove",
+          "score": 0.65006167,
+          "topicality": 0.0129586635
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.6012315,
+          "topicality": 0.041663025
+        },
+        {
+          "mid": "/m/02h661t",
+          "description": "Dentist",
+          "score": 0.59622025,
+          "topicality": 0.19206333
+        },
+        {
+          "mid": "/m/0846kq",
+          "description": "Scrubs",
+          "score": 0.57654124,
+          "topicality": 0.0017739204
+        }
+      ]
+    }
+  ]
+}

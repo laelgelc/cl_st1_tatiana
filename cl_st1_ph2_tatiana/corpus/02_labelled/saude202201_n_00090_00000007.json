@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/037rzs",
+          "description": "Headquarters",
+          "score": 0.6240248,
+          "topicality": 0.13687359
+        },
+        {
+          "mid": "/m/01_x9",
+          "description": "Campus",
+          "score": 0.5066558,
+          "topicality": 0.1598675
+        },
+        {
+          "mid": "/m/0cdl1",
+          "description": "Palm trees",
+          "score": 0.50609267,
+          "topicality": 0.0007897873
+        },
+        {
+          "mid": "/m/03c8phm",
+          "description": "Corporate headquarters",
+          "score": 0.5040174,
+          "topicality": 0.020242685
+        }
+      ]
+    }
+  ]
+}

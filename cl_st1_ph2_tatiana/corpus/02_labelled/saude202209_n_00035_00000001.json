@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f9swq",
+          "description": "Chin",
+          "score": 0.9885354,
+          "topicality": 0.0033341376
+        },
+        {
+          "mid": "/m/0ds5b",
+          "description": "Facial hair",
+          "score": 0.986219,
+          "topicality": 0.005120788
+        },
+        {
+          "mid": "/m/027n3_",
+          "description": "Eyebrow",
+          "score": 0.9854927,
+          "topicality": 0.001939347
+        },
+        {
+          "mid": "/m/015h_t",
+          "description": "Beard",
+          "score": 0.97382176,
+          "topicality": 0.009145636
+        },
+        {
+          "mid": "/m/01k9lj",
+          "description": "Jaw",
+          "score": 0.9636377,
+          "topicality": 0.0028037648
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "Moustache",
+          "score": 0.9582888,
+          "topicality": 0.0016239032
+        },
+        {
+          "mid": "/m/091410",
+          "description": "Collar",
+          "score": 0.94606537,
+          "topicality": 8.1844504e-05
+        },
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.9448952,
+          "topicality": 0.0002851319
+        },
+        {
+          "mid": "/m/0cnxs6x",
+          "description": "Tooth",
+          "score": 0.9163777,
+          "topicality": 0.0014195625
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8353892,
+          "topicality": 3.379696e-05
+        },
+        {
+          "mid": "/m/0sgh53y",
+          "description": "Selfie",
+          "score": 0.7842008,
+          "topicality": 0.0022371116
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.69127434,
+          "topicality": 0.00023206824
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.6363649,
+          "topicality": 0.0017215208
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.60548156,
+          "topicality": 0.1856215
+        },
+        {
+          "mid": "/m/07fhr3",
+          "description": "White coat",
+          "score": 0.53854716,
+          "topicality": 0.011358794
+        },
+        {
+          "mid": "/j/9_bhpn",
+          "description": "No expression",
+          "score": 0.5077528,
+          "topicality": 0.00012914365
+        }
+      ]
+    }
+  ]
+}

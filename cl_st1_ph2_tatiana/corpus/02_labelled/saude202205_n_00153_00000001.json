@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.79313195,
+          "topicality": 0.0011544911
+        },
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.77070856,
+          "topicality": 0.017001877
+        },
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.763616,
+          "topicality": 0.012511802
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.75027925,
+          "topicality": 0.0010522407
+        },
+        {
+          "mid": "/m/01h1dd",
+          "description": "Publication",
+          "score": 0.7404965,
+          "topicality": 0.005228018
+        },
+        {
+          "mid": "/m/01zbnw",
+          "description": "Screenshot",
+          "score": 0.62946236,
+          "topicality": 0.009827721
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.5869512,
+          "topicality": 0.0013492721
+        }
+      ]
+    }
+  ]
+}

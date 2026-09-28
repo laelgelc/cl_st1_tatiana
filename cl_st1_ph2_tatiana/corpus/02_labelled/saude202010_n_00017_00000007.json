@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.63392913,
+          "topicality": 0.00038392938
+        },
+        {
+          "mid": "/m/0hcr",
+          "description": "Animation",
+          "score": 0.6104728,
+          "topicality": 0.00015957255
+        },
+        {
+          "mid": "/m/095bb",
+          "description": "Animated cartoon",
+          "score": 0.58144075,
+          "topicality": 0.00030616307
+        },
+        {
+          "mid": "/m/02xlf",
+          "description": "Fiction",
+          "score": 0.50288033,
+          "topicality": 0.00016608406
+        }
+      ]
+    }
+  ]
+}

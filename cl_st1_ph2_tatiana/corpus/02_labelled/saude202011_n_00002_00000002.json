@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05jhg",
+          "description": "News",
+          "score": 0.84142715,
+          "topicality": 0.015162496
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.6685813,
+          "topicality": 0.0010461773
+        },
+        {
+          "mid": "/m/036nz",
+          "description": "Government",
+          "score": 0.6282191,
+          "topicality": 0.012101747
+        }
+      ]
+    }
+  ]
+}

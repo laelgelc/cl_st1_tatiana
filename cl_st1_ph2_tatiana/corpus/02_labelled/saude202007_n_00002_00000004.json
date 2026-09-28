@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07vwy6",
+          "description": "Street art",
+          "score": 0.8476001,
+          "topicality": 0.53384656
+        },
+        {
+          "mid": "/m/034wh",
+          "description": "Graffiti",
+          "score": 0.8088134,
+          "topicality": 0.36763197
+        },
+        {
+          "mid": "/m/01mxf",
+          "description": "Concrete",
+          "score": 0.75741553,
+          "topicality": 0.0020546012
+        },
+        {
+          "mid": "/m/05y4t",
+          "description": "Paint",
+          "score": 0.7519256,
+          "topicality": 0.0074583134
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "Mural",
+          "score": 0.7315341,
+          "topicality": 0.08452241
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5739942,
+          "topicality": 0.0031249523
+        }
+      ]
+    }
+  ]
+}

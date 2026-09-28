@@ -1,0 +1,104 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0j272k5",
+          "description": "Eyewear",
+          "score": 0.99555594,
+          "topicality": 0.0016006695
+        },
+        {
+          "mid": "/m/0jyfg",
+          "description": "Glasses",
+          "score": 0.987541,
+          "topicality": 0.019978525
+        },
+        {
+          "mid": "/m/0h8jxfl",
+          "description": "Vision Care",
+          "score": 0.98559046,
+          "topicality": 0.000686853
+        },
+        {
+          "mid": "/m/025kyy",
+          "description": "Forehead",
+          "score": 0.982101,
+          "topicality": 0.00031882795
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "Formal wear",
+          "score": 0.9492865,
+          "topicality": 2.2829021e-05
+        },
+        {
+          "mid": "/m/04xz_5",
+          "description": "Blazer",
+          "score": 0.9195245,
+          "topicality": 0.00010788671
+        },
+        {
+          "mid": "/m/01xyhv",
+          "description": "Suit",
+          "score": 0.910738,
+          "topicality": 0.00826835
+        },
+        {
+          "mid": "/m/01kq3x",
+          "description": "White-collar worker",
+          "score": 0.9096542,
+          "topicality": 0.00093154225
+        },
+        {
+          "mid": "/m/01rkbr",
+          "description": "Necktie",
+          "score": 0.8687115,
+          "topicality": 0.003798867
+        },
+        {
+          "mid": "/m/0hg7b",
+          "description": "Microphone",
+          "score": 0.85939157,
+          "topicality": 0.0109483795
+        },
+        {
+          "mid": "/m/01xr66",
+          "description": "Spokesperson",
+          "score": 0.848568,
+          "topicality": 0.014709804
+        },
+        {
+          "mid": "/m/06hwcd",
+          "description": "Dress shirt",
+          "score": 0.8382605,
+          "topicality": 5.2192805e-05
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.77355003,
+          "topicality": 0.0015528434
+        },
+        {
+          "mid": "/m/04115t2",
+          "description": "Job",
+          "score": 0.71363324,
+          "topicality": 0.0013007039
+        },
+        {
+          "mid": "/m/035y33",
+          "description": "Official",
+          "score": 0.67827183,
+          "topicality": 0.0034919125
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.6615955,
+          "topicality": 0.024378484
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.90967476,
+          "topicality": 0.7914915
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.8543032,
+          "topicality": 0.25758988
+        },
+        {
+          "mid": "/m/02qz80",
+          "description": "Packaging and labeling",
+          "score": 0.8381055,
+          "topicality": 0.0094241835
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.7425854,
+          "topicality": 0.18485954
+        },
+        {
+          "mid": "/m/05z87",
+          "description": "Plastic",
+          "score": 0.73931026,
+          "topicality": 0.0026074986
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7304614,
+          "topicality": 0.03301425
+        },
+        {
+          "mid": "/m/01rfps",
+          "description": "Pharmacy",
+          "score": 0.70733225,
+          "topicality": 0.4172183
+        },
+        {
+          "mid": "/m/02rdsp",
+          "description": "Office supplies",
+          "score": 0.69069415,
+          "topicality": 0.0011941456
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.64511675,
+          "topicality": 0.00025721235
+        },
+        {
+          "mid": "/m/02w3_ws",
+          "description": "Personal care",
+          "score": 0.63239425,
+          "topicality": 0.0012879327
+        },
+        {
+          "mid": "/m/05c0n6k",
+          "description": "Label",
+          "score": 0.6080629,
+          "topicality": 0.0024330586
+        },
+        {
+          "mid": "/m/033rv2",
+          "description": "Cardboard Packaging",
+          "score": 0.54141545,
+          "topicality": 6.8224865e-05
+        },
+        {
+          "mid": "/m/01cndb",
+          "description": "Stationery",
+          "score": 0.5395589,
+          "topicality": 0.0034179916
+        },
+        {
+          "mid": "/m/025dyy",
+          "description": "Box",
+          "score": 0.5067764,
+          "topicality": 0.021695051
+        }
+      ]
+    }
+  ]
+}

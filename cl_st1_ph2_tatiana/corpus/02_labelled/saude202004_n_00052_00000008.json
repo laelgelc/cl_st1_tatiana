@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01j04m",
+          "description": "Thigh",
+          "score": 0.8935873,
+          "topicality": 0.0071041817
+        },
+        {
+          "mid": "/m/019swr",
+          "description": "Knee",
+          "score": 0.89152175,
+          "topicality": 0.009370229
+        },
+        {
+          "mid": "/m/0715t2",
+          "description": "Calf",
+          "score": 0.85775423,
+          "topicality": 0.005509527
+        },
+        {
+          "mid": "/m/019w6h",
+          "description": "Exercise",
+          "score": 0.83756906,
+          "topicality": 0.19840707
+        },
+        {
+          "mid": "/m/027x7n",
+          "description": "Physical fitness",
+          "score": 0.76671416,
+          "topicality": 0.067851216
+        },
+        {
+          "mid": "/m/01xlvy",
+          "description": "Ankle",
+          "score": 0.58327436,
+          "topicality": 0.0036710806
+        },
+        {
+          "mid": "/m/03gs8b2",
+          "description": "Balance",
+          "score": 0.568363,
+          "topicality": 0.016941102
+        },
+        {
+          "mid": "/m/06h7j",
+          "description": "Running",
+          "score": 0.538863,
+          "topicality": 0.15209877
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02h7lkt",
+          "description": "Fictional character",
+          "score": 0.6412121,
+          "topicality": 0.00087363896
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.5896718,
+          "topicality": 0.0075544813
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.58924043,
+          "topicality": 0.005971838
+        },
+        {
+          "mid": "/m/0ql23",
+          "description": "Pollinator",
+          "score": 0.54580516,
+          "topicality": 0.005138499
+        }
+      ]
+    }
+  ]
+}

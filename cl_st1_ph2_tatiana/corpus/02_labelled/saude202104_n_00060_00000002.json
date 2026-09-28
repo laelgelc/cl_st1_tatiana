@@ -1,0 +1,74 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/015p6",
+          "description": "Bird",
+          "score": 0.94297314,
+          "topicality": 0.18207286
+        },
+        {
+          "mid": "/m/01dy62",
+          "description": "Phasianidae",
+          "score": 0.9155608,
+          "topicality": 0.0010463186
+        },
+        {
+          "mid": "/m/09b5t",
+          "description": "Chicken",
+          "score": 0.9073725,
+          "topicality": 0.54764646
+        },
+        {
+          "mid": "/m/01295w",
+          "description": "Landfowl",
+          "score": 0.90341115,
+          "topicality": 0.023783926
+        },
+        {
+          "mid": "/m/01c4rd",
+          "description": "Beak",
+          "score": 0.8886434,
+          "topicality": 0.018598014
+        },
+        {
+          "mid": "/m/06mfp",
+          "description": "Rooster",
+          "score": 0.7655132,
+          "topicality": 0.4142105
+        },
+        {
+          "mid": "/m/025rv6n",
+          "description": "Fowl",
+          "score": 0.7291022,
+          "topicality": 0.07101966
+        },
+        {
+          "mid": "/m/0dfgf",
+          "description": "Feather",
+          "score": 0.7259822,
+          "topicality": 0.0006523173
+        },
+        {
+          "mid": "/m/025ryqs",
+          "description": "Comb",
+          "score": 0.71455795,
+          "topicality": 0.055681664
+        },
+        {
+          "mid": "/m/0ch8v",
+          "description": "Livestock",
+          "score": 0.63081306,
+          "topicality": 0.008984767
+        },
+        {
+          "mid": "/m/05s0c",
+          "description": "Poultry",
+          "score": 0.6225479,
+          "topicality": 0.09021143
+        }
+      ]
+    }
+  ]
+}

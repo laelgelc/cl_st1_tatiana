@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.8703371,
+          "topicality": 0.047746293
+        },
+        {
+          "mid": "/m/0dwx7",
+          "description": "Logo",
+          "score": 0.85424906,
+          "topicality": 0.0025971513
+        },
+        {
+          "mid": "/m/0hf58v5",
+          "description": "Luggage & bags",
+          "score": 0.838911,
+          "topicality": 0.00087841565
+        },
+        {
+          "mid": "/m/0m9cj",
+          "description": "Banner",
+          "score": 0.64744663,
+          "topicality": 0.0028396226
+        },
+        {
+          "mid": "/m/01940j",
+          "description": "Backpack",
+          "score": 0.6208401,
+          "topicality": 0.00045531578
+        },
+        {
+          "mid": "/m/020s4p",
+          "description": "Cleanliness",
+          "score": 0.59395045,
+          "topicality": 0.0020587088
+        },
+        {
+          "mid": "/m/01j0mk",
+          "description": "Customer",
+          "score": 0.55512863,
+          "topicality": 0.019078229
+        }
+      ]
+    }
+  ]
+}

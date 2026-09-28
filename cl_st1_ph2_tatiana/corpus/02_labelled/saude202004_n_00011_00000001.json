@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/03_5sv",
+          "description": "Laboratory equipment",
+          "score": 0.9062442,
+          "topicality": 0.0039521772
+        },
+        {
+          "mid": "/m/0qlzq",
+          "description": "Test tube",
+          "score": 0.90562344,
+          "topicality": 0.64067996
+        },
+        {
+          "mid": "/m/01lj9",
+          "description": "Chemistry",
+          "score": 0.8277296,
+          "topicality": 0.12195044
+        },
+        {
+          "mid": "/m/017clw",
+          "description": "Laboratory",
+          "score": 0.8237091,
+          "topicality": 0.34220085
+        },
+        {
+          "mid": "/m/06mq7",
+          "description": "Science",
+          "score": 0.5899327,
+          "topicality": 0.1633061
+        },
+        {
+          "mid": "/m/073l3",
+          "description": "Solution",
+          "score": 0.5421479,
+          "topicality": 0.05189205
+        },
+        {
+          "mid": "/m/06cs1",
+          "description": "Research",
+          "score": 0.5222347,
+          "topicality": 0.07701075
+        }
+      ]
+    }
+  ]
+}

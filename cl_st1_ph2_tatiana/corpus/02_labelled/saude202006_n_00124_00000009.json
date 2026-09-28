@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01n5jq",
+          "description": "Poster",
+          "score": 0.73422474,
+          "topicality": 0.020808738
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.7308938,
+          "topicality": 0.0057056467
+        },
+        {
+          "mid": "/m/0b75wg4",
+          "description": "Photo caption",
+          "score": 0.59058034,
+          "topicality": 0.0033296389
+        },
+        {
+          "mid": "/m/03gkl",
+          "description": "Holiday",
+          "score": 0.5648611,
+          "topicality": 0.028314156
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.52652955,
+          "topicality": 0.0002456258
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01k74n",
+          "description": "Facial expression",
+          "score": 0.94492203,
+          "topicality": 0.00044923564
+        },
+        {
+          "mid": "/m/016pp7",
+          "description": "Happiness",
+          "score": 0.9428343,
+          "topicality": 0.008859006
+        },
+        {
+          "mid": "/m/019nj4",
+          "description": "Smile",
+          "score": 0.89128584,
+          "topicality": 0.0060774363
+        },
+        {
+          "mid": "/m/0244x1",
+          "description": "Gesture",
+          "score": 0.8260963,
+          "topicality": 0.0069290414
+        },
+        {
+          "mid": "/j/4kr7kk",
+          "description": "Pleased",
+          "score": 0.71068084,
+          "topicality": 0.0003280043
+        },
+        {
+          "mid": "/m/09x0r",
+          "description": "Speech",
+          "score": 0.66245025,
+          "topicality": 0.15374364
+        },
+        {
+          "mid": "/m/01j3sz",
+          "description": "Laughter",
+          "score": 0.59468603,
+          "topicality": 0.008977137
+        },
+        {
+          "mid": "/m/012t_z",
+          "description": "Businessperson",
+          "score": 0.55302674,
+          "topicality": 0.0010761991
+        }
+      ]
+    }
+  ]
+}

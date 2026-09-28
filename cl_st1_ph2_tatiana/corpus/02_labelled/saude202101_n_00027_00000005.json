@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/029zz6",
+          "description": "Display device",
+          "score": 0.77459127,
+          "topicality": 0.025908098
+        },
+        {
+          "mid": "/m/02mf1n",
+          "description": "Gadget",
+          "score": 0.7026991,
+          "topicality": 0.017170291
+        },
+        {
+          "mid": "/m/0gjkl",
+          "description": "Watch",
+          "score": 0.66393137,
+          "topicality": 0.013696271
+        },
+        {
+          "mid": "/m/030swj",
+          "description": "Mobile device",
+          "score": 0.61820006,
+          "topicality": 0.006281066
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.5956749,
+          "topicality": 0.0019155863
+        },
+        {
+          "mid": "/m/050k8",
+          "description": "Mobile phone",
+          "score": 0.53200024,
+          "topicality": 0.011243218
+        }
+      ]
+    }
+  ]
+}

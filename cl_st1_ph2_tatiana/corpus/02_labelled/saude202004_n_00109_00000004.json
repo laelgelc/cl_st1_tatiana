@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.7870018,
+          "topicality": 0.00059311575
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.7350098,
+          "topicality": 0.025037969
+        },
+        {
+          "mid": "/m/0fsbk0",
+          "description": "Health Professional",
+          "score": 0.675944,
+          "topicality": 0.24888077
+        },
+        {
+          "mid": "/m/011s0",
+          "description": "Advertising",
+          "score": 0.6413955,
+          "topicality": 0.0028680686
+        },
+        {
+          "mid": "/m/01kr41",
+          "description": "Mask",
+          "score": 0.60177386,
+          "topicality": 0.0846821
+        },
+        {
+          "mid": "/m/05t4q",
+          "description": "Physician",
+          "score": 0.5653544,
+          "topicality": 0.046571996
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/018l35",
+          "description": "Pharmaceutical drug",
+          "score": 0.9671241,
+          "topicality": 0.4691803
+        },
+        {
+          "mid": "/m/04sh3",
+          "description": "Medicine",
+          "score": 0.958511,
+          "topicality": 0.09112566
+        },
+        {
+          "mid": "/m/02r537t",
+          "description": "Pill",
+          "score": 0.95277834,
+          "topicality": 0.008202542
+        },
+        {
+          "mid": "/m/01_7r6",
+          "description": "Prescription drug",
+          "score": 0.9252426,
+          "topicality": 0.08544164
+        },
+        {
+          "mid": "/m/01mw2x",
+          "description": "Health Care",
+          "score": 0.9118452,
+          "topicality": 0.0124511
+        },
+        {
+          "mid": "/m/02xht4g",
+          "description": "Medical",
+          "score": 0.90537465,
+          "topicality": 0.0007681205
+        },
+        {
+          "mid": "/m/0y09",
+          "description": "Analgesic",
+          "score": 0.7871905,
+          "topicality": 0.29427835
+        },
+        {
+          "mid": "/m/0hk26",
+          "description": "Stimulant",
+          "score": 0.6743046,
+          "topicality": 0.09468041
+        },
+        {
+          "mid": "/m/0q593",
+          "description": "Dietary supplement",
+          "score": 0.65186375,
+          "topicality": 0.045080867
+        },
+        {
+          "mid": "/m/04jng2",
+          "description": "Nutraceutical",
+          "score": 0.54783535,
+          "topicality": 0.0038073868
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06fvc",
+          "description": "Red",
+          "score": 0.97581595,
+          "topicality": 0.01756228
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "Symbol",
+          "score": 0.6567713,
+          "topicality": 0.0038143673
+        },
+        {
+          "mid": "/m/021sdg",
+          "description": "Graphics",
+          "score": 0.6172548,
+          "topicality": 0.007231854
+        },
+        {
+          "mid": "/m/03c31",
+          "description": "Graphic design",
+          "score": 0.5360019,
+          "topicality": 0.0077296207
+        }
+      ]
+    }
+  ]
+}
