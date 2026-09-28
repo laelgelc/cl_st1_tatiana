@@ -103,7 +103,7 @@ Optional Arguments
   Path to the `.env` file used to set environment variables such as
   `GOOGLE_APPLICATION_CREDENTIALS` and `GOOGLE_CLOUD_PROJECT`.
 
-* ``--max-results N`` (default: 50)
+* ``--max-results N`` (default: 150)
 
   Maximum number of labels requested per image for LABEL_DETECTION.
 
