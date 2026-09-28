@@ -43,6 +43,7 @@ See `cl_st1_ph2_tatiana/cl_st1_ph2_tatiana_pipeline.md` for the detailed Phase 2
 
 ## Phase 3 - Canonical Correlation Analysis
 
+- Please refer to the [cl_st1_ph3_tatiana.ipynb](https://github.com/laelgelc/cl_st1_tatiana/blob/main/cl_st1_ph3_tatiana/cl_st1_ph3_tatiana.ipynb) Jupyter Notebook
 - Prepared the tweet verbal and visual subcorpora for Canonical Correlation Analysis (CCA).
 - Loaded verbal factor scores from the verbal MDA output and renamed the verbal dimensions from `fac<n>` to `ver<n>`.
 - Loaded tweet metadata from `corpus/tweets.ndjson` and mapped verbal score rows to their corresponding image identifiers.
