@@ -368,168 +368,23 @@ nothing to commit, working tree clean
 ubuntu@ip-172-31-5-110:~/cl_st1_tatiana/cl_st1_ph2_tatiana$ 
 ```
 
-## 3. Extract key lemmas by group
+## 3. Extract label types
 
 ```shell
-python keylemmas.py \
-  --input corpus/07_tagged \
-  --output corpus/08_keylemmas \
-  --cutoff 3
+python label_types.py \
+    --input-dir corpus/02_labelled \
+    --output-dir corpus/03_label_types
 ```
 
-Output: `corpus/08_keylemmas/<group>.tsv`
-
-## 4. Select a stratified keyword set
+## 4. Extract top labels
 
 ```shell
-python select_kws_stratified.py \
-    --input corpus/08_keylemmas \
-    --output corpus/09_kw_selected \
-    --per-group 45 \
-    --max-total 20000
+python top_labels.py \
+    --input-dir corpus/03_label_types \
+    --output-dir corpus/04_top_labels
 ```
 
-Output: `corpus/09_kw_selected/keywords.txt
-
-Deprecated run
-
-```shell
-=== Stratum Keyword Quotas ===
-ac                     → 45 keywords max
-al                     → 45 keywords max
-am                     → 45 keywords max
-ap                     → 45 keywords max
-ba                     → 45 keywords max
-ce                     → 45 keywords max
-df                     → 45 keywords max
-es                     → 45 keywords max
-go                     → 45 keywords max
-ma                     → 45 keywords max
-mg                     → 45 keywords max
-ms                     → 45 keywords max
-mt                     → 45 keywords max
-pa                     → 45 keywords max
-pb                     → 45 keywords max
-pe                     → 45 keywords max
-pi                     → 45 keywords max
-pr                     → 45 keywords max
-rj                     → 45 keywords max
-rn                     → 45 keywords max
-ro                     → 45 keywords max
-rr                     → 45 keywords max
-rs                     → 45 keywords max
-sc                     → 45 keywords max
-se                     → 45 keywords max
-sp                     → 45 keywords max
-to                     → 45 keywords max
-==============================
-
-ac                     → selected 45/45 from 246 available POSKW lemmas
-al                     → selected 45/45 from 89 available POSKW lemmas
-am                     → selected 45/45 from 170 available POSKW lemmas
-ap                     → selected 43/45 from 43 available POSKW lemmas
-ba                     → selected 45/45 from 355 available POSKW lemmas
-ce                     → selected 45/45 from 366 available POSKW lemmas
-df                     → selected 45/45 from 120 available POSKW lemmas
-es                     → selected 45/45 from 124 available POSKW lemmas
-go                     → selected 45/45 from 364 available POSKW lemmas
-ma                     → selected 45/45 from 244 available POSKW lemmas
-mg                     → selected 30/45 from 30 available POSKW lemmas
-ms                     → selected 45/45 from 147 available POSKW lemmas
-mt                     → selected 45/45 from 252 available POSKW lemmas
-pa                     → selected 45/45 from 678 available POSKW lemmas
-pb                     → selected 45/45 from 140 available POSKW lemmas
-pe                     → selected 45/45 from 68 available POSKW lemmas
-pi                     → selected 45/45 from 189 available POSKW lemmas
-pr                     → selected 45/45 from 853 available POSKW lemmas
-rj                     → selected 45/45 from 121 available POSKW lemmas
-rn                     → selected 45/45 from 74 available POSKW lemmas
-ro                     → selected 45/45 from 110 available POSKW lemmas
-rr                     → selected 45/45 from 65 available POSKW lemmas
-rs                     → selected 45/45 from 91 available POSKW lemmas
-sc                     → selected 45/45 from 1147 available POSKW lemmas
-se                     → selected 45/45 from 159 available POSKW lemmas
-sp                     → selected 45/45 from 98 available POSKW lemmas
-to                     → selected 45/45 from 102 available POSKW lemmas
-
-Total consolidated keywords before de-duplication: 1198
-Unique keywords after de-duplication: 1061
-Duplicates removed: 137
-
-Final unique keywords written to: corpus/09_kw_selected/keywords.txt
-Final unique keyword count: 1061
-```
-
-Current run
-
-```shell
-=== Stratum Keyword Quotas ===
-ac                     → 45 keywords max
-al                     → 45 keywords max
-am                     → 45 keywords max
-ap                     → 45 keywords max
-ba                     → 45 keywords max
-ce                     → 45 keywords max
-df                     → 45 keywords max
-es                     → 45 keywords max
-go                     → 45 keywords max
-ma                     → 45 keywords max
-mg                     → 45 keywords max
-ms                     → 45 keywords max
-mt                     → 45 keywords max
-pa                     → 45 keywords max
-pb                     → 45 keywords max
-pe                     → 45 keywords max
-pi                     → 45 keywords max
-pr                     → 45 keywords max
-rj                     → 45 keywords max
-rn                     → 45 keywords max
-ro                     → 45 keywords max
-rr                     → 45 keywords max
-rs                     → 45 keywords max
-sc                     → 45 keywords max
-se                     → 45 keywords max
-sp                     → 45 keywords max
-to                     → 45 keywords max
-==============================
-
-ac                     → selected 45/45 from 226 available POSKW lemmas
-al                     → selected 45/45 from 75 available POSKW lemmas
-am                     → selected 45/45 from 147 available POSKW lemmas
-ap                     → selected 33/45 from 33 available POSKW lemmas
-ba                     → selected 45/45 from 294 available POSKW lemmas
-ce                     → selected 45/45 from 329 available POSKW lemmas
-df                     → selected 45/45 from 93 available POSKW lemmas
-es                     → selected 45/45 from 107 available POSKW lemmas
-go                     → selected 45/45 from 324 available POSKW lemmas
-ma                     → selected 45/45 from 215 available POSKW lemmas
-mg                     → selected 22/45 from 22 available POSKW lemmas
-ms                     → selected 45/45 from 122 available POSKW lemmas
-mt                     → selected 45/45 from 215 available POSKW lemmas
-pa                     → selected 45/45 from 605 available POSKW lemmas
-pb                     → selected 45/45 from 116 available POSKW lemmas
-pe                     → selected 45/45 from 52 available POSKW lemmas
-pi                     → selected 45/45 from 157 available POSKW lemmas
-pr                     → selected 45/45 from 781 available POSKW lemmas
-rj                     → selected 45/45 from 106 available POSKW lemmas
-rn                     → selected 45/45 from 64 available POSKW lemmas
-ro                     → selected 45/45 from 102 available POSKW lemmas
-rr                     → selected 45/45 from 53 available POSKW lemmas
-rs                     → selected 45/45 from 76 available POSKW lemmas
-sc                     → selected 45/45 from 1088 available POSKW lemmas
-se                     → selected 45/45 from 130 available POSKW lemmas
-sp                     → selected 45/45 from 91 available POSKW lemmas
-to                     → selected 45/45 from 94 available POSKW lemmas
-
-Total consolidated keywords before de-duplication: 1180
-Unique keywords after de-duplication: 1037
-Duplicates removed: 143
-
-Final unique keywords written to: corpus/09_kw_selected/keywords.txt
-Final unique keyword count: 1037
-```
-
-## 5. Build binary keyword columns
+## 5. Build binary top labels columns
 
 ```shell
 rm -rf columns columns_clean
@@ -543,7 +398,7 @@ Outputs:
 - `columns/`
 - `columns_clean/`
 - `file_ids.txt`
-- `index_keywords.txt`
+- `index_top_labels.txt`
 
 ## 6. Merge columns into the SAS counts matrix
 
@@ -583,31 +438,7 @@ python corpus_size.py
 
 Output: `corpus_size/corpus_size.tsv`
 
-## 11. Generate LaTeX/TikZ boxplots
-
-```shell
-cd latex_boxplots
-```
-
-```shell
-python latex_boxplots.py
-```
-
-Output: `latex_boxplots/slides/`
-
-```shell
-cd ..
-```
-
-## 12. Generate LaTeX ANOVA table
-
-```shell
-python latex_anova_table.py
-```
-
-Output: `latex_tables/anova_state.tex`
-
-## 13. Generate LaTeX example extracts
+## 11. Generate LaTeX example extracts
 
 ```shell
 python examples.py
@@ -615,7 +446,7 @@ python examples.py
 
 Output: `examples/`
 
-## 14. Generate score-details report
+## 12. Generate score-details report
 
 ```shell
 python score_details.py
@@ -623,7 +454,7 @@ python score_details.py
 
 Output: `examples/score_details.txt`
 
-## 15. Generate plaintext example extracts
+## 13. Generate plaintext example extracts
 
 The `examples_txt.py` programme was affected by a bug that has been fixed as reported in:
 
@@ -635,22 +466,3 @@ python examples_txt.py
 ```
 
 Output: `examples_txt/`
-
-## 16. Build interpretation prompts
-
-```shell
-python interpretation_prompts.py
-```
-
-Output: `interpretation/input/`
-
-## 17. Submit interpretation prompts to GPT
-
-```shell
-python generate_interpretation_gpt.py \
-    --input interpretation/input \
-    --output interpretation/output \
-    --model gpt-6-sol \
-    --workers 4
-```
-Output: `interpretation/output/`
