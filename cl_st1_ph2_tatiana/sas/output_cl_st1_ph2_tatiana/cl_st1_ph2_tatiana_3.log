@@ -1,0 +1,30 @@
+ 
+ 1          OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 68         
+ 69         %include "/home/&sasusername/&myfolder/label_format.sas";
+ WARNING: Apparent symbolic reference _BRAKE_LIGHT not resolved.
+ WARNING: Apparent symbolic reference _TODDLER_CLOTHING not resolved.
+ WARNING: Apparent symbolic reference _OPTICS not resolved.
+ WARNING: Apparent symbolic reference _BAGS not resolved.
+ NOTE: Format $LEXLABELS has been output.
+ 
+ NOTE: PROCEDURE FORMAT used (Total process time):
+       real time           0.00 seconds
+       user cpu time       0.01 seconds
+       system cpu time     0.00 seconds
+       memory              517.12k
+       OS Memory           28324.00k
+       Timestamp           28/09/2026 03:29:46 PM
+       Step Count                        304  Switch Count  0
+       Page Faults                       0
+       Page Reclaims                     14
+       Page Swaps                        0
+       Voluntary Context Switches        0
+       Involuntary Context Switches      0
+       Block Input Operations            0
+       Block Output Operations           152
+       
+ 
+ 1075       
+ 1076       OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 1086       

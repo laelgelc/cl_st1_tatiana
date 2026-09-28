@@ -1,0 +1,57 @@
+ 
+ 1          OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 68         
+ 69         OPTIONS VALIDVARNAME=ANY;
+ 70         proc corr data = &project outplc = polychor polychoric noprint;
+ 71           var &names ;
+ 72         run;
+ 
+ WARNING: The algorithm for polychoric correlation between v000136 and v000107 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000158 and v000114 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000366 and v000009 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000383 and v000136 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000494 and v000015 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000519 and v000363 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000525 and v000119 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000550 and v000049 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000568 and v000413 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000588 and v000340 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000594 and v000385 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000605 and v000495 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000608 and v000158 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000671 and v000608 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000681 and v000214 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000700 and v000279 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000754 and v000173 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000755 and v000172 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000771 and v000185 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000787 and v000158 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000834 and v000572 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000858 and v000761 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000915 and v000479 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000920 and v000483 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000970 and v000721 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000971 and v000158 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000979 and v000107 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000979 and v000383 did not converge.
+ NOTE: The data set WORK.POLYCHOR has 1003 observations and 1002 variables.
+ NOTE: PROCEDURE CORR used (Total process time):
+       real time           4:45.35
+       user cpu time       4:42.77
+       system cpu time     0.41 seconds
+       memory              547670.87k
+       OS Memory           667288.00k
+       Timestamp           28/09/2026 03:21:51 PM
+       Step Count                        88  Switch Count  5
+       Page Faults                       0
+       Page Reclaims                     158670
+       Page Swaps                        0
+       Voluntary Context Switches        34
+       Involuntary Context Switches      1025
+       Block Input Operations            0
+       Block Output Operations           16480
+       
+ 
+ 73         
+ 74         OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 84         
