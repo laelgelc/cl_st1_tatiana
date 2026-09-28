@@ -1,0 +1,8 @@
+FACTOR: f4_pos (POS Dim 4)
+SCORE:  32.0000
+TEXT ID: t003565
+
+LABELS:
+**medical_glove**, **medical**, **fluid**, **safety_glove**, **finger**, **personal_protective_equipment**, **health_care**, **glove**, **medical_procedure**, **health_professional**, **medical_equipment**, **surgeon**, **scientist**, **medical_assistant**, **thumb**, **clinic**, **laboratory_equipment**, **research**, **physician**, **nail**, **surgical_instrument**, **hospital**, **scrubs**, **workwear**, **white_coat**, **laboratory**, **plastic**, **science**, **research_institute**, **chemist**, **patient**, **dentist**
+
+[label file: corpus/03_label_types/saude202012_n_00073_00000001.txt]

@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -4.0000
+TEXT ID: t003089
+
+LABELS:
+**emergency_vehicle**, **ambulance**, **emergency_service**, **van**, **emergency**, **paramedic**, **light_commercial_vehicle**, health_care, medical, compact_van, american_red_cross, **commercial_vehicle**, **law_enforcement**, medical_equipment, **truck**, cleanliness, **security**, **workwear**
+
+[label file: corpus/03_label_types/saude202011_n_00092_00000006.txt]

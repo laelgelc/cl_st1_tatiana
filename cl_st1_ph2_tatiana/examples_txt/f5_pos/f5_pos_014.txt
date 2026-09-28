@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  19.0000
+TEXT ID: t003310
+
+LABELS:
+**daytime**, **city**, **urban_area**, **metropolitan_area**, **landmark**, **public_space**, **high-rise_building**, **urban_design**, **tower**, **commercial_building**, **metropolis**, **headquarters**, **skyscraper**, **cityscape**, **condominium**, sports_venue, **corporate_headquarters**, **skyline**, bird's-eye_view, **town_square**
+
+[label file: corpus/03_label_types/saude202011_n_00149_00000003.txt]

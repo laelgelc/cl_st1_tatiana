@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  17.0000
+TEXT ID: t009256
+
+LABELS:
+**urban_area**, **city**, **street**, **neighbourhood**, **town**, **pedestrian**, **metropolitan_area**, **public_space**, **metropolis**, **mixed-use**, **market**, **commercial_building**, **bazaar**, **alley**, travel, advertising, **walking**, **shopping**, **retail**, **high-rise_building**, billboard, **skyscraper**
+
+[label file: corpus/03_label_types/saude202203_n_00192_00000003.txt]

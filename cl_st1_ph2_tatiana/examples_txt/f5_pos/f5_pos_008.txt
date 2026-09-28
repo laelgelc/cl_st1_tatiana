@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  21.0000
+TEXT ID: t000627
+
+LABELS:
+**daytime**, **city**, **urban_area**, **alley**, **road**, **neighbourhood**, **street**, **metropolitan_area**, **pedestrian**, **public_space**, **composite_material**, **metropolis**, **concrete**, **high-rise_building**, **sidewalk**, grey, **commercial_building**, **condominium**, **skyscraper**, **walking**, **shadow**, **walkway**, **symmetry**
+
+[label file: corpus/03_label_types/saude202004_n_00216_00000001.txt]

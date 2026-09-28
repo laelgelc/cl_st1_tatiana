@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -7.0000
+TEXT ID: t004464
+
+LABELS:
+**land_vehicle**, **mode_of_transport**, **vehicle**, wheel, tire, **transport**, **motor_vehicle**, footwear, trousers, motorcycle, **road**, scooter, street, **black**, jacket, **pedestrian**, **automotive_wheel_system**, **helmet**, motorcycle_helmet, moped, **traffic**, sidewalk, **travel**, motorcycling, **rolling**, spoke, zebra_crossing, **pedestrian_crossing**
+
+[label file: corpus/03_label_types/saude202102_n_00118_00000003.txt]

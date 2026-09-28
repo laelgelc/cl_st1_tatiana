@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -4.0000
+TEXT ID: t007944
+
+LABELS:
+**emergency**, **emergency_vehicle**, **emergency_service**, **workwear**, **paramedic**, stretcher, rescuer, **van**, **ambulance**, **law_enforcement**, **high-visibility_clothing**, **security**, rescue, cleanliness, **light_commercial_vehicle**, medical_equipment, health_care
+
+[label file: corpus/03_label_types/saude202111_n_00182_00000006.txt]

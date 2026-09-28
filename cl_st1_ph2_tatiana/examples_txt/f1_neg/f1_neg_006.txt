@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -6.0000
+TEXT ID: t005062
+
+LABELS:
+**mode_of_transport**, **transport**, **motor_vehicle**, **commercial_vehicle**, **public_transport**, bus, **emergency_service**, **emergency_vehicle**, **van**, **ambulance**, tour_bus_service, minibus
+
+[label file: corpus/03_label_types/saude202104_n_00119_00000002.txt]

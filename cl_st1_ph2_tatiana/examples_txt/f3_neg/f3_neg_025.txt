@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -5.0000
+TEXT ID: t004271
+
+LABELS:
+town, automotive_parking_light, **human_settlement**, **commercial_building**, **family_car**, **sport_utility_vehicle**, **luxury_vehicle**, automotive_tail_&_brake_light, **parking**, vehicle_registration_plate, compact_mpv, compact_sport_utility_vehicle, full-size_car, **mid-size_car**, hatchback, **subcompact_car**, mini_sport_utility_vehicle, **headquarters**, **automotive_side-view_mirror**, **compact_car**, crossover, **city_car**, palm_trees, hot_hatch, parking_lot, automotive_side_marker_light, **corporate_headquarters**, **executive_car**, hardtop, minivan, inn
+
+[label file: corpus/03_label_types/saude202102_n_00033_00000001.txt]

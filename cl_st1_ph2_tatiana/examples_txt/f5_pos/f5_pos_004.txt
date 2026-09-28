@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  26.0000
+TEXT ID: t000465
+
+LABELS:
+**road**, **building**, **road_surface**, **city**, **urban_area**, **street**, **metropolitan_area**, **thoroughfare**, **asphalt**, **public_space**, **pedestrian**, **lighting**, **sidewalk**, **lane**, signaling_device, **metropolis**, **pedestrian_crossing**, **zebra_crossing**, traffic_light, **high-rise_building**, **commercial_building**, **skyscraper**, **street_light**, travel, **condominium**, **walking**, **traffic**, **evening**, **intersection**, **cityscape**
+
+[label file: corpus/03_label_types/saude202004_n_00140_00000003.txt]

@@ -1,0 +1,8 @@
+FACTOR: f6_neg (NEG Dim 6)
+SCORE:  -6.0000
+TEXT ID: t002157
+
+LABELS:
+cruise_ship, passenger_ship, **cruiseferry**, **naval_architecture**, **watercraft**, **ship**, **ocean_liner**, travel, **boat**
+
+[label file: corpus/03_label_types/saude202009_n_00013_00000001.txt]

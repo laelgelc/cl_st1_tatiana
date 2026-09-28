@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -5.0000
+TEXT ID: t001630
+
+LABELS:
+**workwear**, **emergency_vehicle**, **ambulance**, **emergency**, **van**, **emergency_service**, **commercial_vehicle**, **paramedic**, **light_commercial_vehicle**, cleanliness, **hazmat_suit**, **high-visibility_clothing**
+
+[label file: corpus/03_label_types/saude202007_n_00070_00000005.txt]

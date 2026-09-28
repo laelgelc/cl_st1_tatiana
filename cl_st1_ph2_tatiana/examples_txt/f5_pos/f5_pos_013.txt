@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  19.0000
+TEXT ID: t000405
+
+LABELS:
+**road_surface**, **road**, **street**, **city**, **urban_area**, **public_space**, **pedestrian**, **thoroughfare**, **metropolitan_area**, **dome**, **asphalt**, **lane**, travel, **street_light**, **metropolis**, **walking**, **sidewalk**, **winter**, **pedestrian_crossing**, **town_square**, **zebra_crossing**, **traffic**, plaza
+
+[label file: corpus/03_label_types/saude202004_n_00111_00000001.txt]

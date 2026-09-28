@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -3.0000
+TEXT ID: t007251
+
+LABELS:
+**emergency**, **emergency_service**, **emergency_vehicle**, **paramedic**, night, **ambulance**, rescue, **commercial_vehicle**, rescuer, **workwear**
+
+[label file: corpus/03_label_types/saude202110_n_00051_00000004.txt]

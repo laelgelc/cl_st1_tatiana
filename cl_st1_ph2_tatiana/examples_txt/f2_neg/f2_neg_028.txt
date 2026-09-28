@@ -1,0 +1,8 @@
+FACTOR: f2_neg (NEG Dim 2)
+SCORE:  -3.0000
+TEXT ID: t002525
+
+LABELS:
+**airport**, **transport_hub**, **airport_apron**, **aircraft**, **airline**, **airport_terminal**, **runway**, **air_travel**, **fixed-wing_aircraft**, **aerospace_manufacturer**, **aerospace_engineering**, **narrow-body_aircraft**
+
+[label file: corpus/03_label_types/saude202010_n_00015_00000014.txt]

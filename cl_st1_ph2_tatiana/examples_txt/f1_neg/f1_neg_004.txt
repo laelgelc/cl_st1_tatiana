@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -6.0000
+TEXT ID: t003890
+
+LABELS:
+**vehicle**, **transport**, **aircraft**, **ambulance**, **aviation**, **emergency_vehicle**, **van**, **aerospace_engineering**, **air_travel**, **emergency_service**, compact_van, **commercial_vehicle**, **emergency**, **light_commercial_vehicle**, **fixed-wing_aircraft**, **paramedic**
+
+[label file: corpus/03_label_types/saude202101_n_00024_00000002.txt]

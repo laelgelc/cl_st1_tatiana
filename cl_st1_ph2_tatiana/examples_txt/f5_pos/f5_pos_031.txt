@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  16.0000
+TEXT ID: t008800
+
+LABELS:
+**building**, **city**, **apartment**, **residential_area**, **condominium**, **commercial_building**, **human_settlement**, **urban_design**, **mixed-use**, **engineering**, **high-rise_building**, **palm_trees**, **hotel**, balcony, **headquarters**, **eco_hotel**, **corporate_headquarters**, **campus**
+
+[label file: corpus/03_label_types/saude202202_n_00031_00000006.txt]

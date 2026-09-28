@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  14.0000
+TEXT ID: t005705
+
+LABELS:
+**city**, **commercial_building**, **metropolitan_area**, **human_settlement**, **composite_material**, **urban_design**, **apartment**, **mixed-use**, **condominium**, **engineering**, **headquarters**, **shade**, **palm_trees**, **corporate_headquarters**, **campus**
+
+[label file: corpus/03_label_types/saude202106_n_00100_00000003.txt]

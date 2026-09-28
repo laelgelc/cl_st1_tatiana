@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  21.0000
+TEXT ID: t000881
+
+LABELS:
+mode_of_transport, **building**, **urban_area**, **city**, **metropolitan_area**, **high-rise_building**, **public_space**, **skyscraper**, **metropolis**, **pedestrian**, **bicycle**, **condominium**, **bus**, **bicycle_wheel**, **commercial_building**, **bicycle_tire**, **thoroughfare**, **bicycle_frame**, **mixed-use**, **bicycles--equipment_and_supplies**, **lane**, public_transport, travel, **bicycle_handlebar**, **cityscape**, **tour_bus_service**, **cycling**, **walking**, **hybrid_bicycle**, road_bicycle, **traffic**, **bicycle_fork**
+
+[label file: corpus/03_label_types/saude202005_n_00206_00000001.txt]

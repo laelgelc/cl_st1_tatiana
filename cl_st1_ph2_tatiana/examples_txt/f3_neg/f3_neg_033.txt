@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -4.0000
+TEXT ID: t002772
+
+LABELS:
+**car_door**, **windshield**, driving, **car_seat**, **security**, steering_wheel, **law_enforcement**
+
+[label file: corpus/03_label_types/saude202010_n_00190_00000003.txt]

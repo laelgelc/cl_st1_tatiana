@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -3.0000
+TEXT ID: t004650
+
+LABELS:
+**transport**, **public_transport**, bus, **passenger**, **commercial_vehicle**, tour_bus_service, **travel**, rapid_transit
+
+[label file: corpus/03_label_types/saude202103_n_00053_00000003.txt]

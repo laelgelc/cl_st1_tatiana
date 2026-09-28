@@ -1,0 +1,8 @@
+FACTOR: f6_neg (NEG Dim 6)
+SCORE:  -13.0000
+TEXT ID: t006377
+
+LABELS:
+transport, **boat**, fluid, **watercraft**, **liquid**, **cargo_ship**, **ship**, **bulk_carrier**, **freight_transport**, **naval_architecture**, handymax, **tanker**, **panamax**, ore-bulk-oil_carrier, **oil_tanker**, cargo, **port**, floating_production_storage_and_offloading, **container_ship**, **motor_ship**, **water_transportation**, crane
+
+[label file: corpus/03_label_types/saude202108_n_00019_00000001.txt]

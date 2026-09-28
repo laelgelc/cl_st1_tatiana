@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -12.0000
+TEXT ID: t002547
+
+LABELS:
+**land_vehicle**, **vehicle**, **mode_of_transport**, **motor_vehicle**, **transport**, **automotive_exterior**, **emergency_vehicle**, **van**, **commercial_vehicle**, **light_commercial_vehicle**, **automotive_side-view_mirror**, **emergency_service**, ambulance, **truck**, **windshield**, **law_enforcement**, automotive_tail_&_brake_light, **compact_van**, **emergency**, **security**, minibus, **sport_utility_vehicle**
+
+[label file: corpus/03_label_types/saude202010_n_00022_00000001.txt]

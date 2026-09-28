@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -3.0000
+TEXT ID: t007474
+
+LABELS:
+**emergency_service**, **emergency_vehicle**, **workwear**, **high-visibility_clothing**, **van**, **emergency**, **truck**, **ambulance**, cleanliness, **law_enforcement**
+
+[label file: corpus/03_label_types/saude202110_n_00182_00000003.txt]

@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  18.0000
+TEXT ID: t003897
+
+LABELS:
+**building**, **urban_area**, **city**, **metropolitan_area**, **high-rise_building**, **skyscraper**, **street**, **public_space**, **pedestrian**, **metropolis**, **commercial_building**, **condominium**, **tower**, **mixed-use**, **sidewalk**, **cityscape**, travel, **walking**, **haze**, **skyline**
+
+[label file: corpus/03_label_types/saude202101_n_00026_00000005.txt]

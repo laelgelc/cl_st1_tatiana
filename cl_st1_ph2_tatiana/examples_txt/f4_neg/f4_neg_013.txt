@@ -1,0 +1,8 @@
+FACTOR: f4_neg (NEG Dim 4)
+SCORE:  -1.0000
+TEXT ID: t000676
+
+LABELS:
+eyewear, goggles, sunglasses, **logo**, poster, graphic_design, graphics, moustache
+
+[label file: corpus/03_label_types/saude202005_n_00058_00000003.txt]

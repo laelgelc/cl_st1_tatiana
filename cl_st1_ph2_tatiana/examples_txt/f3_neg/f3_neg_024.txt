@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -5.0000
+TEXT ID: t000696
+
+LABELS:
+automotive_tire, **automotive_wheel_system**, toy, fender, tread, **car_door**, driving, **bumper**, model_car, **hubcap**, play_vehicle, tire_care, child, **sport_utility_vehicle**, off-road_vehicle, **electric_vehicle**, synthetic_rubber
+
+[label file: corpus/03_label_types/saude202005_n_00072_00000003.txt]

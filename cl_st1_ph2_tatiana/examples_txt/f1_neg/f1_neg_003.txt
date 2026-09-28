@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -7.0000
+TEXT ID: t003882
+
+LABELS:
+bus, **land_vehicle**, **vehicle**, **mode_of_transport**, **transport**, **public_transport**, tour_bus_service, **motor_vehicle**, urban_area, **commercial_vehicle**, metropolitan_area, automotive_mirror, automotive_parking_light, windshield, metropolis, windscreen_wiper, **travel**, public_utility, automotive_side-view_mirror, **rolling**, rear-view_mirror, automotive_fog_light, advertising, airport_bus, **transport_hub**, headlamp, **traffic**, **passenger**
+
+[label file: corpus/03_label_types/saude202101_n_00022_00000001.txt]

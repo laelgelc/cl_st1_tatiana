@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -4.0000
+TEXT ID: t005623
+
+LABELS:
+**car_door**, **windshield**, **automotive_mirror**, **car_seat**, driving, steering_wheel, **rear-view_mirror**, **windscreen_wiper**
+
+[label file: corpus/03_label_types/saude202106_n_00048_00000001.txt]

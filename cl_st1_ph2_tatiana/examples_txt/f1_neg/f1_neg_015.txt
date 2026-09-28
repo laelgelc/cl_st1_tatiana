@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -4.0000
+TEXT ID: t009484
+
+LABELS:
+**mode_of_transport**, **motor_vehicle**, **emergency_vehicle**, **van**, **emergency**, **emergency_service**, medical, stretcher, **light_commercial_vehicle**, **commercial_vehicle**, patient
+
+[label file: corpus/03_label_types/saude202204_n_00064_00000006.txt]

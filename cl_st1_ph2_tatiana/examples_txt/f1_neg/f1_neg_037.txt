@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -3.0000
+TEXT ID: t008956
+
+LABELS:
+**emergency**, **workwear**, **emergency_service**, **high-visibility_clothing**, **emergency_vehicle**, cleanliness, rescuer, rescue, stretcher, **ambulance**
+
+[label file: corpus/03_label_types/saude202202_n_00109_00000001.txt]

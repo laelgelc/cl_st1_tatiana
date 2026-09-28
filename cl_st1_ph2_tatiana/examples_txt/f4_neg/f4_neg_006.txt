@@ -1,0 +1,8 @@
+FACTOR: f4_neg (NEG Dim 4)
+SCORE:  -1.0000
+TEXT ID: t000893
+
+LABELS:
+eyewear, glasses, vision_care, shirt, **audio_equipment**, **electronic_device**, **spokesperson**, **microphone**, dress_shirt, **speech**, public_address_system, **logo**, job, lectern, podium, **speaker**, wrinkle, watch
+
+[label file: corpus/03_label_types/saude202005_n_00223_00000003.txt]

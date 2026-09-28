@@ -1,0 +1,8 @@
+FACTOR: f2_neg (NEG Dim 2)
+SCORE:  -3.0000
+TEXT ID: t010603
+
+LABELS:
+**passenger**, luggage_&_bags, **crowd**, **baggage**, **airport**, **backpack**, **cleanliness**, **airport_terminal**, **transport_hub**
+
+[label file: corpus/03_label_types/saude202208_n_00181_00000001.txt]

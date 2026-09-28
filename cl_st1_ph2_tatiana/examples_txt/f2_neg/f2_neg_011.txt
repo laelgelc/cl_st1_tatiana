@@ -1,0 +1,8 @@
+FACTOR: f2_neg (NEG Dim 2)
+SCORE:  -4.0000
+TEXT ID: t007249
+
+LABELS:
+**passenger**, **ceiling**, luggage_&_bags, **travel**, **baggage**, display_device, **customer**, **bag**, **cleanliness**, hand_luggage, suitcase, **airport**, **airport_terminal**
+
+[label file: corpus/03_label_types/saude202110_n_00050_00000007.txt]

@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -5.0000
+TEXT ID: t004776
+
+LABELS:
+communication_device, steering_wheel, **electronic_device**, gadget, mobile_phone, display_device, driving, portable_communications_device, **technology**, mobile_device, telephony, **car_door**, multimedia, **windshield**, **automotive_mirror**, **car_seat**, **rear-view_mirror**, smartphone, telephone, mirror, vehicle_audio, chevrolet, general_motors, **automotive_side-view_mirror**, electronics, speedometer, **electric_vehicle**, trip_computer
+
+[label file: corpus/03_label_types/saude202103_n_00108_00000004.txt]

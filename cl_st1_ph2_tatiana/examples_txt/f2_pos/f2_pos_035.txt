@@ -1,0 +1,8 @@
+FACTOR: f2_pos (POS Dim 2)
+SCORE:  19.0000
+TEXT ID: t011006
+
+LABELS:
+**facial_hair**, **chin**, **head**, **eyebrow**, **beard**, **forehead**, **face**, **nose**, **moustache**, **jaw**, **mouth**, **collar**, **eye**, **facial_expression**, **tooth**, **dress_shirt**, **eyelash**, **selfie**, **necktie**, **pleased**, **happiness**, **wrinkle**, **no_expression**
+
+[label file: corpus/03_label_types/saude202210_n_00141_00000006.txt]

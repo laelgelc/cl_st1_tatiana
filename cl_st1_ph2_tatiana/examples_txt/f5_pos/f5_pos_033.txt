@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  15.0000
+TEXT ID: t002199
+
+LABELS:
+**urban_area**, **metropolitan_area**, **pedestrian**, **street_light**, **lane**, **thoroughfare**, **high-rise_building**, **family_car**, travel, **condominium**, **palm_trees**, **van**, **luxury_vehicle**, truck, **sidewalk**, **traffic**, **walking**, **skyscraper**, **california_palm**, **sport_utility_vehicle**
+
+[label file: corpus/03_label_types/saude202009_n_00030_00000010.txt]

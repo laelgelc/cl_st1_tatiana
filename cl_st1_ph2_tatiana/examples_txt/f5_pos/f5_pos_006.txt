@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  24.0000
+TEXT ID: t007321
+
+LABELS:
+**daytime**, **building**, **alley**, **urban_area**, **road**, **road_surface**, **city**, **street**, **neighbourhood**, **town**, **architecture**, **metropolitan_area**, **sidewalk**, **metropolis**, **composite_material**, **thoroughfare**, **morning**, **pedestrian**, **concrete**, **mixed-use**, **commercial_building**, cobblestone, **walking**, **walkway**, **evening**, **shadow**
+
+[label file: corpus/03_label_types/saude202110_n_00123_00000004.txt]

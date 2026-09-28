@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -7.0000
+TEXT ID: t007379
+
+LABELS:
+**motor_vehicle**, **emergency_vehicle**, ambulance, **van**, **emergency**, **emergency_service**, paramedic, **light_commercial_vehicle**, **compact_van**, rescuer, rescue, **commercial_vehicle**, **truck**, **workwear**, health_care, **law_enforcement**, american_red_cross, **security**, minivan, **high-visibility_clothing**
+
+[label file: corpus/03_label_types/saude202110_n_00146_00000002.txt]

@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -4.0000
+TEXT ID: t011510
+
+LABELS:
+**mode_of_transport**, **transport**, **bus**, **public_transport**, passenger, **commercial_vehicle**, **tour_bus_service**, **windshield**, travel, **automotive_mirror**, **glass**, **windscreen_wiper**, rapid_transit, **cleanliness**
+
+[label file: corpus/03_label_types/saude202302_n_00031_00000001.txt]

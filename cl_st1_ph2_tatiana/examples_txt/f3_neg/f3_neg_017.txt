@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -6.0000
+TEXT ID: t002028
+
+LABELS:
+automotive_tire, **automotive_wheel_system**, **luxury_vehicle**, fender, tread, **bumper**, **hubcap**, spoke, **car_door**, synthetic_rubber, tire_care, **personal_luxury_car**, **automotive_care**, **sport_utility_vehicle**, automotive_tail_&_brake_light, **executive_car**
+
+[label file: corpus/03_label_types/saude202008_n_00047_00000005.txt]

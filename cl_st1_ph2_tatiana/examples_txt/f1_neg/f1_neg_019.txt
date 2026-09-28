@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -4.0000
+TEXT ID: t004197
+
+LABELS:
+**motor_vehicle**, **emergency_vehicle**, **ambulance**, **emergency_service**, **van**, **commercial_vehicle**, **emergency**, logo, **paramedic**, **light_commercial_vehicle**, **workwear**, compact_van, **security**
+
+[label file: corpus/03_label_types/saude202101_n_00222_00000003.txt]

@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -12.0000
+TEXT ID: t001571
+
+LABELS:
+**land_vehicle**, **vehicle**, **car**, **motor_vehicle**, **automotive_exterior**, automotive_parking_light, **automotive_mirror**, **family_car**, **luxury_vehicle**, **rear-view_mirror**, **automotive_side-view_mirror**, automotive_tail_&_brake_light, **bumper**, **car_door**, **parking**, **sport_utility_vehicle**, **city_car**, **mid-size_car**, **traffic**, **personal_luxury_car**, hood, kit_car, **van**
+
+[label file: corpus/03_label_types/saude202007_n_00048_00000005.txt]

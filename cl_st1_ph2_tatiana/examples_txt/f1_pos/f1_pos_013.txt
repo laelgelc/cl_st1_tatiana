@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  30.0000
+TEXT ID: t006421
+
+LABELS:
+**furniture**, **electronic_device**, **table**, **desk**, **chair**, **suit**, outerwear, **office_equipment**, **interior_design**, **meeting**, **conference_room_table**, **computer**, **coat**, **technology**, **laptop**, **white-collar_worker**, **office_chair**, **communication_device**, **collaboration**, **engineering**, **conference_hall**, **hall**, **management**, **job**, **personal_computer**, **office_instrument**, **display_device**, **hearing**, official, **businessperson**, **output_device**, **peripheral**, **multimedia**, **computer_desk**, **organization**, **computer_hardware**, **varnish**, **office_supplies**, **company**, government, **input_device**
+
+[label file: corpus/03_label_types/saude202108_n_00042_00000006.txt]

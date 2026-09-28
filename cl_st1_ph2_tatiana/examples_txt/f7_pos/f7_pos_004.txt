@@ -1,0 +1,8 @@
+FACTOR: f7_pos (POS Dim 7)
+SCORE:  30.0000
+TEXT ID: t008306
+
+LABELS:
+**clothing**, **eyewear**, **glasses**, **head**, **audio_equipment**, **electronic_device**, **vision_care**, **forehead**, **face**, **nose**, **suit**, **microphone**, **spokesperson**, **necktie**, **outerwear**, **furniture**, **formal_wear**, **blazer**, **coat**, **white-collar_worker**, **public_address_system**, **dress_shirt**, **speech**, **official**, **job**, **speaker**, **businessperson**, **flag**, **government**, **hearing**, **management**, **organization**, **government_agency**, **podium**, **desk**, **news_conference**, output_device
+
+[label file: corpus/03_label_types/saude202112_n_00204_00000001.txt]

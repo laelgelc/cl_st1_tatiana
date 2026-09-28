@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  16.0000
+TEXT ID: t000010
+
+LABELS:
+**building**, **city**, window, **public_space**, **urban_area**, **town**, **neighbourhood**, **facade**, **street**, **town_square**, **urban_design**, **human_settlement**, **apartment**, **mixed-use**, **condominium**, **metropolis**, plaza, **parking**, **palm_trees**
+
+[label file: corpus/03_label_types/saude202003_n_00004_00000002.txt]

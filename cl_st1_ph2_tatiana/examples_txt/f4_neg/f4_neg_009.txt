@@ -1,0 +1,8 @@
+FACTOR: f4_neg (NEG Dim 4)
+SCORE:  -1.0000
+TEXT ID: t000917
+
+LABELS:
+forehead, glasses, nose, outerwear, **suit**, formal_wear, collar, **coat**, **blazer**, **necktie**, **white-collar_worker**, dress_shirt, **spokesperson**, **microphone**, **logo**, official, **businessperson**, job, wrinkle, organization, collaboration, management, **speech**, **flag**, **news_conference**, **meeting**, government_agency, company
+
+[label file: corpus/03_label_types/saude202005_n_00239_00000002.txt]

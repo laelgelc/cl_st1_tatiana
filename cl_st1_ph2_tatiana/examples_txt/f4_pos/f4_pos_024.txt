@@ -1,0 +1,8 @@
+FACTOR: f4_pos (POS Dim 4)
+SCORE:  29.0000
+TEXT ID: t001621
+
+LABELS:
+**medical_glove**, **laboratory**, **white_coat**, **scientist**, **fluid**, **chemist**, **laboratory_equipment**, **safety_glove**, **glove**, **research**, **researcher**, **medical**, **chemistry**, **chemical_engineer**, **research_institute**, **health_care**, **medical_equipment**, **test_tube**, **workwear**, **health_professional**, **medical_assistant**, **medical_procedure**, **scientific_instrument**, **plastic**, **science**, **physician**, **cleanliness**, **solution**, **solvent_in_chemical_reactions**, **medicine**
+
+[label file: corpus/03_label_types/saude202007_n_00068_00000001.txt]

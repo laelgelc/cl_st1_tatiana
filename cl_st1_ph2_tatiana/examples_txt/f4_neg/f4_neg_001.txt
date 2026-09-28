@@ -1,0 +1,8 @@
+FACTOR: f4_neg (NEG Dim 4)
+SCORE:  -1.0000
+TEXT ID: t000830
+
+LABELS:
+retail, advertising, **logo**, display_window, shopping_mall, outlet_store, market, boutique
+
+[label file: corpus/03_label_types/saude202005_n_00138_00000003.txt]

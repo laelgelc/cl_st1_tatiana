@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  16.0000
+TEXT ID: t011836
+
+LABELS:
+**daytime**, **footwear**, **road_surface**, flooring, **street**, **road**, leg, **urban_area**, **public_space**, **pedestrian**, **city**, **neighbourhood**, **town**, **sidewalk**, cobblestone, floor, **alley**, **concrete**, **walking**, travel, **metropolis**, **walkway**, **vacation**, flagstone, cleanliness, **shopping**, umbrella
+
+[label file: corpus/03_label_types/saude202303_n_00156_00000010.txt]

@@ -1,0 +1,8 @@
+FACTOR: f1_pos (POS Dim 1)
+SCORE:  32.0000
+TEXT ID: t004111
+
+LABELS:
+**electronic_device**, **display_device**, **computer**, **furniture**, **communication_device**, **peripheral**, **flat-panel_display**, **technology**, **led-backlit_lcd**, **output_device**, **office_equipment**, **suit**, **personal_computer**, **gadget**, **coat**, **computer_monitor**, **microphone**, **white-collar_worker**, **multimedia**, **electronics**, **job**, **desk**, **broadcasting**, **television_set**, **computer_hardware**, **television**, **lcd_television**, **laptop**, **desktop_computer**, necktie, **hearing**, official, **television_show**, spokesperson, **chair**, **collaboration**, **software_engineering**, **computer_desk**, **businessperson**, **cable_television**, **home_appliance**
+
+[label file: corpus/03_label_types/saude202101_n_00171_00000001.txt]

@@ -1,0 +1,8 @@
+FACTOR: f5_neg (NEG Dim 5)
+SCORE:  -25.0000
+TEXT ID: t003615
+
+LABELS:
+**aircraft**, vehicle, **fixed-wing_aircraft**, **air_travel**, mode_of_transport, transport, **airliner**, **airport**, **airline**, **aviation**, **wing**, **aerospace_manufacturer**, **aerospace_engineering**, **aircraft_engine**, **runway**, **airport_apron**, **narrow-body_aircraft**, **jet_aircraft**, **machine**, **wide-body_aircraft**, **turbine**, **flap**, **jet_engine**, travel, **monoplane**, **twinjet**, **airbus**, **fin**, **boeing**, **freight_transport**, **general_aviation**, **landing**
+
+[label file: corpus/03_label_types/saude202012_n_00112_00000001.txt]

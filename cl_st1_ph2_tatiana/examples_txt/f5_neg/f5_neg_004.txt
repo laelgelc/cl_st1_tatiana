@@ -1,0 +1,8 @@
+FACTOR: f5_neg (NEG Dim 5)
+SCORE:  -25.0000
+TEXT ID: t005942
+
+LABELS:
+mode_of_transport, **fixed-wing_aircraft**, **air_travel**, **aircraft**, **airport**, **airliner**, **aviation**, **airline**, **airport_apron**, **narrow-body_aircraft**, **passenger**, **aerospace_engineering**, **aircraft_engine**, **jet_aircraft**, **aerospace_manufacturer**, **twinjet**, **jet_engine**, **runway**, public_transport, **wide-body_aircraft**, travel, **flap**, **airbus**, **boeing**, **general_aviation**, boeing_737, **turbine**, **fin**, **boarding**, **monoplane**, **high-visibility_clothing**, **workwear**, **freight_transport**, **landing**
+
+[label file: corpus/03_label_types/saude202107_n_00044_00000001.txt]

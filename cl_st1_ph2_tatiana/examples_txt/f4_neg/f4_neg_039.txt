@@ -1,0 +1,8 @@
+FACTOR: f4_neg (NEG Dim 4)
+SCORE:  -1.0000
+TEXT ID: t011282
+
+LABELS:
+eyewear, chin, glasses, forehead, vision_care, **audio_equipment**, nose, **electronic_device**, **microphone**, **suit**, **necktie**, **spokesperson**, outerwear, formal_wear, **blazer**, **coat**, **white-collar_worker**, dress_shirt, public_address_system, **speech**, official, **logo**, **businessperson**, job, **speaker**, **output_device**, management, **news_conference**, organization, government_agency, hearing, company, **flag**
+
+[label file: corpus/03_label_types/saude202212_n_00180_00000002.txt]

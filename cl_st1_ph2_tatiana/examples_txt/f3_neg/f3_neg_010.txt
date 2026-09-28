@@ -1,0 +1,8 @@
+FACTOR: f3_neg (NEG Dim 3)
+SCORE:  -8.0000
+TEXT ID: t010006
+
+LABELS:
+**motor_vehicle**, **automotive_exterior**, **van**, **emergency_vehicle**, **emergency_service**, pedestrian, ambulance, **compact_van**, **light_commercial_vehicle**, **emergency**, automotive_tail_&_brake_light, **car_door**, minivan, **law_enforcement**
+
+[label file: corpus/03_label_types/saude202205_n_00179_00000007.txt]

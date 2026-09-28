@@ -1,0 +1,8 @@
+FACTOR: f1_neg (NEG Dim 1)
+SCORE:  -3.0000
+TEXT ID: t009887
+
+LABELS:
+train, head, **mode_of_transport**, **transport**, rolling_stock, **public_transport**, **passenger**, passenger_car, **temple**, rail_transport, **standing**, train_station, rapid_transit, railroad_car, **pedestrian**, metro_station, **transport_hub**, ceiling, **travel**, electricity, cleanliness, **boarding**, electric_vehicle
+
+[label file: corpus/03_label_types/saude202205_n_00129_00000008.txt]

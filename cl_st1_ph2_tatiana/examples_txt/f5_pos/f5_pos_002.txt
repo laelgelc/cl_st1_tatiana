@@ -1,0 +1,8 @@
+FACTOR: f5_pos (POS Dim 5)
+SCORE:  28.0000
+TEXT ID: t000937
+
+LABELS:
+**building**, **urban_area**, **road**, **city**, transport, **metropolitan_area**, **street**, **thoroughfare**, **high-rise_building**, **metropolis**, **lane**, **commercial_building**, **urban_design**, **asphalt**, **skyscraper**, **intersection**, **highway**, public_transport, **condominium**, **mixed-use**, **traffic**, **cityscape**, controlled-access_highway, **sidewalk**, public_utility, road_junction, **headquarters**, **pedestrian_crossing**, **street_light**, **zebra_crossing**, **tour_bus_service**, **aerial_photography**, **bus**, **corporate_headquarters**, truck, **shoulder**
+
+[label file: corpus/03_label_types/saude202006_n_00007_00000004.txt]

@@ -1,0 +1,8 @@
+FACTOR: f2_neg (NEG Dim 2)
+SCORE:  -4.0000
+TEXT ID: t010616
+
+LABELS:
+luggage_&_bags, **baggage**, suitcase, **passenger**, **bag**, **airport**, hand_luggage, **travel**, **transport_hub**, **airport_terminal**, **backpack**, check-in
+
+[label file: corpus/03_label_types/saude202208_n_00185_00000009.txt]
